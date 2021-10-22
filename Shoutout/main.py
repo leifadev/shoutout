@@ -1,10 +1,6 @@
-import random
-import tkinter as tk
-from tkinter import ttk
-from tkinter import *
-import tkinter.font as tkFont
 import platform as platform
-import datetime
+from Cocoa import *
+from Foundation import *
 
 """
 Features:
@@ -32,3 +28,7 @@ class Window:
         self.definition = ""
         self.launchWord = False
         self.OS = platform.uname()
+
+
+Make Landing Page!
+# https://carrd.co/build#landing
