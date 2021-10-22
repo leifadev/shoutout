@@ -8,12 +8,14 @@ Features:
  - Multi-language support
  - Settings
  - Themes
- - Notifications
+ - Notifications (daemon)
  - Background running
  - Customizable intervals
     - Change words per day
     - Change notification delay
- - Big logo of flag in the middle of the app
+    - Change complexity
+ - Simple UI
+ - Landing page website (carrd.co)
 """
 
 
