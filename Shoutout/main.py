@@ -17,7 +17,7 @@ Features:
 """
 
 
-class Window:
+class NSWindow:
     def __init__(self):
         self.date = ""
         self.timezone = ""
@@ -28,6 +28,10 @@ class Window:
         self.definition = ""
         self.launchWord = False
         self.OS = platform.uname()
+
+
+
+
 
 
 Make Landing Page!

@@ -8,6 +8,8 @@
 
 /* Begin PBXFileReference section */
 		293705FD2722412400AFAB17 /* shoutout_main.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = shoutout_main.xib; sourceTree = "<group>"; };
+		2998FDE62723290300AE0664 /* shoutout */ = {isa = PBXFileReference; lastKnownFileType = folder; name = shoutout; path = ..; sourceTree = "<group>"; };
+		29A18C8D272314A500F368D1 /* main.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = main.py; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -15,6 +17,8 @@
 			isa = PBXGroup;
 			children = (
 				293705FD2722412400AFAB17 /* shoutout_main.xib */,
+				29A18C8D272314A500F368D1 /* main.py */,
+				2998FDE62723290300AE0664 /* shoutout */,
 			);
 			sourceTree = "<group>";
 		};
