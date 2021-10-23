@@ -9,17 +9,16 @@ Features:
  - Settings
  - Themes
  - Notifications (daemon)
- - Background running
  - Customizable intervals
     - Change words per day
     - Change notification delay
     - Change complexity
  - Simple UI
- - Landing page website (carrd.co)
+ - Landing page website (carrd.co) 
 """
 
 
-class NSWindow:
+class mainWindow(NSWindowController):
     def __init__(self):
         self.date = ""
         self.timezone = ""
@@ -30,7 +29,6 @@ class NSWindow:
         self.definition = ""
         self.launchWord = False
         self.OS = platform.uname()
-
 
 
 
