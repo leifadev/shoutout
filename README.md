@@ -1,15 +1,15 @@
 # Shoutout!
 An app for the word of the day, but in any language
 
-<img src="https://github.com/leifadev/shoutout/blob/main/images/shoutout_logo.png" height="250" width="300"/>
+<img src="https://github.com/leifadev/shoutout/blob/main/images/shoutout_logo.png" height="290" width="280"/>
 
 **You can now put a spin on how you learn a new language!**
 
 Made with Python using the Apple SDKs Foundation and Cocoa through PyObjC, this dominately macOS supportive app will help you learn knowledge everyday! 
 
+---
 
-
-Developer Agenda:
+**Developer Agenda**
  - Timezones
  - Multi-language support
  - Settings
