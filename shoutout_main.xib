@@ -541,7 +541,7 @@
                     </menu>
                 </menuItem>
             </items>
-            <point key="canvasLocation" x="58" y="-72"/>
+            <point key="canvasLocation" x="10" y="-152"/>
         </menu>
         <window title="Shoutout" allowsToolTipsWhenApplicationIsInactive="NO" autorecalculatesKeyViewLoop="NO" releasedWhenClosed="NO" animationBehavior="default" id="F0z-JX-Cv5">
             <windowStyleMask key="styleMask" titled="YES" closable="YES" miniaturizable="YES"/>
@@ -580,7 +580,7 @@
                     </button>
                 </subviews>
             </view>
-            <point key="canvasLocation" x="96" y="226.5"/>
+            <point key="canvasLocation" x="48" y="165"/>
         </window>
     </objects>
     <resources>
