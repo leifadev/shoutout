@@ -11,9 +11,9 @@
         <customObject id="YLy-65-1bz" customClass="NSFontManager"/>
         <menu title="Main Menu" systemMenu="main" id="AYu-sK-qS6">
             <items>
-                <menuItem title="Shoutout" id="1Xt-HY-uBw">
+                <menuItem title="Shoutout!" id="1Xt-HY-uBw">
                     <modifierMask key="keyEquivalentModifierMask"/>
-                    <menu key="submenu" title="Shoutout" systemMenu="apple" id="uQy-DD-JDr">
+                    <menu key="submenu" title="Shoutout!" systemMenu="apple" id="uQy-DD-JDr">
                         <items>
                             <menuItem title="About" id="5kV-Vb-QxS">
                                 <modifierMask key="keyEquivalentModifierMask"/>
@@ -59,7 +59,7 @@
                     <modifierMask key="keyEquivalentModifierMask"/>
                     <menu key="submenu" title="File" id="bib-Uj-vzu">
                         <items>
-                            <menuItem title="Upload Custom…" enabled="NO" keyEquivalent="u" id="IAo-SY-fd9">
+                            <menuItem title="Upload Language…" enabled="NO" keyEquivalent="u" id="IAo-SY-fd9">
                                 <connections>
                                     <action selector="openDocument:" target="-1" id="bVn-NM-KNZ"/>
                                 </connections>
@@ -71,7 +71,7 @@
                                 </connections>
                             </menuItem>
                             <menuItem isSeparatorItem="YES" id="aJh-i4-bef"/>
-                            <menuItem title="Dummy" enabled="NO" id="aTl-1u-JFS">
+                            <menuItem title="Dummy" id="aTl-1u-JFS">
                                 <modifierMask key="keyEquivalentModifierMask"/>
                                 <connections>
                                     <action selector="print:" target="-1" id="qaZ-4w-aoO"/>
@@ -328,12 +328,6 @@
                                     <action selector="performMiniaturize:" target="-1" id="VwT-WD-YPe"/>
                                 </connections>
                             </menuItem>
-                            <menuItem title="Zoom" id="R4o-n2-Eq4">
-                                <modifierMask key="keyEquivalentModifierMask"/>
-                                <connections>
-                                    <action selector="performZoom:" target="-1" id="DIl-cC-cCs"/>
-                                </connections>
-                            </menuItem>
                             <menuItem isSeparatorItem="YES" id="eu3-7i-yIM"/>
                             <menuItem title="Bring All to Front" id="LE2-aR-0XJ">
                                 <modifierMask key="keyEquivalentModifierMask"/>
@@ -357,7 +351,7 @@
                     </menu>
                 </menuItem>
             </items>
-            <point key="canvasLocation" x="-6" y="-131"/>
+            <point key="canvasLocation" x="-10" y="-98"/>
         </menu>
         <window title="Shoutout!" allowsToolTipsWhenApplicationIsInactive="NO" autorecalculatesKeyViewLoop="NO" releasedWhenClosed="NO" animationBehavior="default" id="F0z-JX-Cv5">
             <windowStyleMask key="styleMask" titled="YES" closable="YES" miniaturizable="YES"/>
@@ -387,17 +381,17 @@
                         <imageCell key="cell" refusesFirstResponder="YES" alignment="left" animates="YES" imageScaling="proportionallyDown" image="NSGoLeftTemplate" id="eFl-U7-M4O"/>
                     </imageView>
                     <button fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="7hG-eL-IIV">
-                        <rect key="frame" x="124" y="225" width="227" height="137"/>
+                        <rect key="frame" x="124" y="227" width="227" height="133"/>
                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
                         <buttonCell key="cell" type="square" bezelStyle="shadowlessSquare" image="french_flag" imagePosition="above" alignment="center" imageScaling="proportionallyUpOrDown" inset="2" id="cNP-t2-5Cn">
                             <behavior key="behavior" pushIn="YES" lightByBackground="YES" lightByGray="YES"/>
-                            <font key="font" metaFont="system" size="12"/>
+                            <font key="font" metaFont="cellTitle"/>
                         </buttonCell>
                         <color key="contentTintColor" name="controlColor" catalog="System" colorSpace="catalog"/>
                     </button>
                 </subviews>
             </view>
-            <point key="canvasLocation" x="47" y="161.5"/>
+            <point key="canvasLocation" x="47" y="190.5"/>
         </window>
     </objects>
     <resources>
