@@ -1,8 +1,8 @@
 import platform as platform
-from Cocoa import Cocoa
-from Foundation import Cocoa
+from Cocoa import *
+from Foundation import *
+#import wiktionaryparser
 import getpass
-import random
 
 """
 Features:
@@ -20,14 +20,18 @@ Features:
  
  
  ## Version naming:
-Beta:
+Betas:
  - beta~v0.0.1
  - beta~v0.0.2
  Beta releases dont have any rhyme or reason for there increments in numbers. However, 
  
-Release:
- -
-
+Releases:
+ First major release should be
+ - v1.0.0
+ - v1.1.0
+ - v1.2.0
+ - v2.0.0
+and so on in this pattern :)
 
 """
 
@@ -51,8 +55,6 @@ class mainWindow(NSWindowController):
         
         
 }
-
-    self.definitionFull["word"] = "spicey"
 
     def __init__(self):
         self.keys = {} # api keys
