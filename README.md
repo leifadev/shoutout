@@ -22,3 +22,30 @@ Made with Python using the Apple SDKs Foundation and Cocoa through PyObjC, this 
  - Simple UI
  - Landing website page
 
+
+Features:
+- Timezones
+- Multi-language support
+- Settings
+- Themes
+- Notifications (daemon)
+- Customizable intervals
+   - Change words per day
+   - Change notification delay
+   - Change complexity
+- Simple UI
+- Landing page website (carrd.co)
+
+## Version naming
+Betas:
+- beta~v0.0.1
+- beta~v0.0.2
+  Beta releases dont have any rhyme or reason for there increments in numbers. However,
+
+Releases:
+First major release should be
+- v1.0.0
+- v1.1.0
+- v1.2.0
+- v2.0.0
+  and so on in this pattern :)
