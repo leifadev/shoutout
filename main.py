@@ -2,7 +2,6 @@ import platform as platform
 import getpass
 
 import Cocoa
-from Cocoa import *
 import Foundation
 from AppKit import *
 
@@ -20,6 +19,7 @@ class mainWindow(Cocoa.NSWindowController):
         self.launchWord = False
         self.backendDir = f'/Users/{getpass.getuser()}/Library/Application Support/'
         self.settingDir = f'/Users/{getpass.getuser()}/Library/Application Support/Shoutout'
+        self.count
 
         self.definitionFull = {
 
@@ -54,7 +54,7 @@ if __name__ == "__main__":
     app = Cocoa.NSApplication.sharedApplication()
 
     # Initiate the contrller with a XIB
-    viewController = mainWindow.alloc().initWithWindowNibName_("shoutout_main")
+    viewController = mainWindow.alloc().initWithWindowNibName_("Shoutout!")
 
     # Show the window
     viewController.showWindow_(viewController)

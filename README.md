@@ -7,34 +7,34 @@ An app for the word of the day, but in any language
 
 Made with Python using the Apple SDKs Foundation and Cocoa through PyObjC, this dominately macOS supportive app will help you learn knowledge everyday! 
 
----
-
-**Developer Agenda**
- - Timezones
- - Multi-language support
- - Settings
- - Multi-Theme
- - Notifications (daemon)
- - Customizable intervals
-    - Change words per day
-    - Change notification delay
-    - Change complexity
- - Simple UI
- - Landing website page
-
-
-Features:
+### Features
 - Timezones
 - Multi-language support
 - Settings
 - Themes
 - Notifications (daemon)
 - Customizable intervals
-   - Change words per day
-   - Change notification delay
-   - Change complexity
+    - Change words per day
+    - Change notification delay
+    - Change complexity
 - Simple UI
 - Landing page website (carrd.co)
+
+
+
+### Portfolio
+
+Docs:
+https://pyobjc.readthedocs.io/en/latest/core/intro.html
+
+Articles:
+https://dawes.wordpress.com/2017/08/17/python-with-a-cocoa-gui-on-macos/
+
+
+Threads:
+https://www.reddit.com/r/learnprogramming/comments/sawxsu/what_is_a_viewcontroller_windowcontroller_macos/
+
+
 
 ## Version naming
 Betas:
