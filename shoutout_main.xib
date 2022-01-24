@@ -9,7 +9,7 @@
         <customObject id="-1" userLabel="First Responder" customClass="FirstResponder"/>
         <customObject id="-3" userLabel="Application" customClass="NSObject"/>
         <customObject id="YLy-65-1bz" customClass="NSFontManager"/>
-        <menu title="Main Menu" systemMenu="main" id="AYu-sK-qS6">
+        <menu title="Main Window" systemMenu="main" id="AYu-sK-qS6">
             <items>
                 <menuItem title="Shoutout!" id="1Xt-HY-uBw">
                     <modifierMask key="keyEquivalentModifierMask"/>
@@ -196,100 +196,6 @@
                                     </items>
                                 </menu>
                             </menuItem>
-                            <menuItem title="Substitutions" id="9ic-FL-obx">
-                                <modifierMask key="keyEquivalentModifierMask"/>
-                                <menu key="submenu" title="Substitutions" id="FeM-D8-WVr">
-                                    <items>
-                                        <menuItem title="Show Substitutions" id="z6F-FW-3nz">
-                                            <modifierMask key="keyEquivalentModifierMask"/>
-                                            <connections>
-                                                <action selector="orderFrontSubstitutionsPanel:" target="-1" id="oku-mr-iSq"/>
-                                            </connections>
-                                        </menuItem>
-                                        <menuItem isSeparatorItem="YES" id="gPx-C9-uUO"/>
-                                        <menuItem title="Smart Copy/Paste" id="9yt-4B-nSM">
-                                            <modifierMask key="keyEquivalentModifierMask"/>
-                                            <connections>
-                                                <action selector="toggleSmartInsertDelete:" target="-1" id="3IJ-Se-DZD"/>
-                                            </connections>
-                                        </menuItem>
-                                        <menuItem title="Smart Quotes" id="hQb-2v-fYv">
-                                            <modifierMask key="keyEquivalentModifierMask"/>
-                                            <connections>
-                                                <action selector="toggleAutomaticQuoteSubstitution:" target="-1" id="ptq-xd-QOA"/>
-                                            </connections>
-                                        </menuItem>
-                                        <menuItem title="Smart Dashes" id="rgM-f4-ycn">
-                                            <modifierMask key="keyEquivalentModifierMask"/>
-                                            <connections>
-                                                <action selector="toggleAutomaticDashSubstitution:" target="-1" id="oCt-pO-9gS"/>
-                                            </connections>
-                                        </menuItem>
-                                        <menuItem title="Smart Links" id="cwL-P1-jid">
-                                            <modifierMask key="keyEquivalentModifierMask"/>
-                                            <connections>
-                                                <action selector="toggleAutomaticLinkDetection:" target="-1" id="Gip-E3-Fov"/>
-                                            </connections>
-                                        </menuItem>
-                                        <menuItem title="Data Detectors" id="tRr-pd-1PS">
-                                            <modifierMask key="keyEquivalentModifierMask"/>
-                                            <connections>
-                                                <action selector="toggleAutomaticDataDetection:" target="-1" id="R1I-Nq-Kbl"/>
-                                            </connections>
-                                        </menuItem>
-                                        <menuItem title="Text Replacement" id="HFQ-gK-NFA">
-                                            <modifierMask key="keyEquivalentModifierMask"/>
-                                            <connections>
-                                                <action selector="toggleAutomaticTextReplacement:" target="-1" id="DvP-Fe-Py6"/>
-                                            </connections>
-                                        </menuItem>
-                                    </items>
-                                </menu>
-                            </menuItem>
-                            <menuItem title="Transformations" id="2oI-Rn-ZJC">
-                                <modifierMask key="keyEquivalentModifierMask"/>
-                                <menu key="submenu" title="Transformations" id="c8a-y6-VQd">
-                                    <items>
-                                        <menuItem title="Make Upper Case" id="vmV-6d-7jI">
-                                            <modifierMask key="keyEquivalentModifierMask"/>
-                                            <connections>
-                                                <action selector="uppercaseWord:" target="-1" id="sPh-Tk-edu"/>
-                                            </connections>
-                                        </menuItem>
-                                        <menuItem title="Make Lower Case" id="d9M-CD-aMd">
-                                            <modifierMask key="keyEquivalentModifierMask"/>
-                                            <connections>
-                                                <action selector="lowercaseWord:" target="-1" id="iUZ-b5-hil"/>
-                                            </connections>
-                                        </menuItem>
-                                        <menuItem title="Capitalize" id="UEZ-Bs-lqG">
-                                            <modifierMask key="keyEquivalentModifierMask"/>
-                                            <connections>
-                                                <action selector="capitalizeWord:" target="-1" id="26H-TL-nsh"/>
-                                            </connections>
-                                        </menuItem>
-                                    </items>
-                                </menu>
-                            </menuItem>
-                            <menuItem title="Speech" id="xrE-MZ-jX0">
-                                <modifierMask key="keyEquivalentModifierMask"/>
-                                <menu key="submenu" title="Speech" id="3rS-ZA-NoH">
-                                    <items>
-                                        <menuItem title="Start Speaking" id="Ynk-f8-cLZ">
-                                            <modifierMask key="keyEquivalentModifierMask"/>
-                                            <connections>
-                                                <action selector="startSpeaking:" target="-1" id="654-Ng-kyl"/>
-                                            </connections>
-                                        </menuItem>
-                                        <menuItem title="Stop Speaking" id="Oyz-dy-DGm">
-                                            <modifierMask key="keyEquivalentModifierMask"/>
-                                            <connections>
-                                                <action selector="stopSpeaking:" target="-1" id="dX8-6p-jy9"/>
-                                            </connections>
-                                        </menuItem>
-                                    </items>
-                                </menu>
-                            </menuItem>
                         </items>
                     </menu>
                 </menuItem>
@@ -383,7 +289,7 @@
                     <button fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="7hG-eL-IIV">
                         <rect key="frame" x="124" y="227" width="227" height="133"/>
                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
-                        <buttonCell key="cell" type="square" bezelStyle="shadowlessSquare" image="french_flag" imagePosition="above" alignment="center" imageScaling="proportionallyUpOrDown" inset="2" id="cNP-t2-5Cn">
+                        <buttonCell key="cell" type="square" bezelStyle="shadowlessSquare" image="german_flag" imagePosition="above" alignment="center" imageScaling="proportionallyUpOrDown" inset="2" id="cNP-t2-5Cn">
                             <behavior key="behavior" pushIn="YES" lightByBackground="YES" lightByGray="YES"/>
                             <font key="font" metaFont="cellTitle"/>
                         </buttonCell>
@@ -397,6 +303,6 @@
     <resources>
         <image name="NSGoForwardTemplate" width="9" height="12"/>
         <image name="NSGoLeftTemplate" width="9" height="12"/>
-        <image name="french_flag" width="160" height="160"/>
+        <image name="german_flag" width="160" height="160"/>
     </resources>
 </document>

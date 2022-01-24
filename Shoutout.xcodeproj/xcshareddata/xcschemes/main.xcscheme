@@ -28,7 +28,7 @@
       allowLocationSimulation = "YES">
       <PathRunnable
          runnableDebuggingMode = "0"
-         FilePath = "/usr/bin/python3">
+         FilePath = "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.8/Resources/Python.app/Contents/MacOS/Python">
       </PathRunnable>
       <CommandLineArguments>
          <CommandLineArgument
