@@ -1,15 +1,14 @@
 import platform as platform
 import getpass, os, time
 
-
-from Cocoa import *
+import Cocoa
 from Foundation import *
-from Cocoa import NSWorkspace
 from AppKit import *
 
 
-class mainWindow(NSWindowController):
-    link = objc.IBOutlet()
+
+class mainWindow(Cocoa.NSWindowController):
+
     inc = objc.IBOutlet()
 
     def __init__(self):
@@ -24,24 +23,26 @@ class mainWindow(NSWindowController):
         self.backendDir = f'/Users/{getpass.getuser()}/Library/Application Support/'
         self.settingDir = f'/Users/{getpass.getuser()}/Library/Application Support/shoutout'
         self.count = 0
-        self.gitUrl = ("https://github.com/leifadev/sheath")
+        self.gitUrl = ("https://github.com/leifadev/shoutout")
         self.definitionFull = {
             "word": "",
             "definition": "",
             "phoentics": "",
             "pronounceAudio": ""
         }
+        self.languages = [] # available languages to choose from!
 
 
-    def windowDidLoad(self): # calling windowDidLoad from Cocoa!
-        NSWindowController.windowDidLoad(self)
+    def windowDidLoad(self):
+        Cocoa.NSWindowController.windowDidLoad(self)
 
 
     @objc.IBAction
-    def helplink_(self, sender):
+    def helplink_(self, url):
         print("Help URL Launched!")
+        self.gitUrl = ("https://github.com/leifadev/shoutout")
         x = NSURL.alloc().initWithString_(self.gitUrl)
-        NSWorkspace.alloc().init().openURL_(x)
+        NSWorkspace.alloc().openURL_(x)
 
 
     @objc.IBAction
@@ -74,7 +75,7 @@ class mainWindow(NSWindowController):
 # Loop it and stuff
 
 if __name__ == "__main__":
-    app = NSApplication.sharedApplication()
+    app = Cocoa.NSApplication.sharedApplication()
 
     # Initiate the contrller with a XIB
     viewController = mainWindow.alloc().initWithWindowNibName_("shoutout_main")
