@@ -2,7 +2,7 @@ import platform as platform
 import getpass, os, time
 
 import Cocoa
-from Foundation import *
+import Foundation
 from AppKit import *
 
 
@@ -21,7 +21,7 @@ class mainWindow(Cocoa.NSWindowController):
         self.version = "beta~v0.0.1"
         self.launchWord = False
         self.backendDir = f'/Users/{getpass.getuser()}/Library/Application Support/'
-        self.settingDir = f'/Users/{getpass.getuser()}/Library/Application Support/shoutout'
+        self.settingDir = f'/Users/{getpass.getuser()}/Library/Application Support/shoutout/'
         self.count = 0
         self.gitUrl = ("https://github.com/leifadev/shoutout")
         self.definitionFull = {
@@ -40,7 +40,7 @@ class mainWindow(Cocoa.NSWindowController):
     @objc.IBAction
     def helplink_(self, url):
         print("Help URL Launched!")
-        self.gitUrl = ("https://github.com/leifadev/shoutout")
+        self.gitUrl = ("https://github.com/leifadev/shoutout/wiki")
         x = NSURL.alloc().initWithString_(self.gitUrl)
         NSWorkspace.alloc().openURL_(x)
 
