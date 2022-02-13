@@ -29,7 +29,7 @@ https://pyobjc.readthedocs.io/en/latest/core/intro.html
 
 Articles:
 https://dawes.wordpress.com/2017/08/17/python-with-a-cocoa-gui-on-macos/
-
+https://dpbl.wordpress.com/2017/02/12/a-tutorial-on-python-daemon/#tut
 
 Threads:
 https://www.reddit.com/r/learnprogramming/comments/sawxsu/what_is_a_viewcontroller_windowcontroller_macos/
