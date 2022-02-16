@@ -12,7 +12,7 @@ Made with Python using the Apple SDKs Foundation and Cocoa through PyObjC, this 
 - Multi-language support
 - Settings
 - Themes
-- Notifications (daemon)
+- Notifications (launchd daemon)
 - Customizable intervals
     - Change words per day
     - Change notification delay
@@ -26,6 +26,7 @@ Made with Python using the Apple SDKs Foundation and Cocoa through PyObjC, this 
 
 Docs:
 https://pyobjc.readthedocs.io/en/latest/core/intro.html
+https://developer.apple.com/library/archive/documentation/MacOSX/Conceptual/BPSystemStartup/Chapters/CreatingLaunchdJobs.html#//apple_ref/doc/uid/10000172i-SW7-BCIEDDBJ
 
 Articles:
 https://dawes.wordpress.com/2017/08/17/python-with-a-cocoa-gui-on-macos/

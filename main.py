@@ -1,9 +1,11 @@
 import platform as platform
-import getpass, os, time
+from ruamel import yaml
+import getpass, os, time, logging as log
 
-import Cocoa
-import Foundation
-from AppKit import *
+import Cocoa, Foundation
+from AppKit import NSApp
+import objc
+
 
 
 
@@ -14,8 +16,6 @@ class mainWindow(Cocoa.NSWindowController):
     def __init__(self):
         self.keys = {} # api keys
         self.OS = platform.uname()
-        self.date = ""
-        self.timezone = time.tzname[0]
         self.theme = "dark"
         self.lang = "english"
         self.version = "beta~v0.0.1"
@@ -24,13 +24,46 @@ class mainWindow(Cocoa.NSWindowController):
         self.settingDir = f'/Users/{getpass.getuser()}/Library/Application Support/shoutout/'
         self.count = 0
         self.gitUrl = ("https://github.com/leifadev/shoutout")
+        self.languages = ["english", "spanish", "russian", ] # available languages to choose from!
         self.definitionFull = {
             "word": "",
             "definition": "",
             "phoentics": "",
             "pronounceAudio": ""
         }
-        self.languages = [] # available languages to choose from!
+
+        self.configPayload = {
+                'Options': {
+                    'defaultDir': 1,
+                    'errorChoice': 1,
+                    'changedDefaultDir': 1,
+                    'internet': False
+                }
+            }
+
+
+
+    def startUpTasks(self):
+        if not os.path.isfile(self.fileLoc):
+            path = os.path.join(self.fileLoc)
+            os.makedirs(self.settingDir, exist_ok=True)
+            print("Folder generated...")
+        if not os.path.isfile(self.ymldir) or os.path.getsize(self.ymldir) == 0:
+            print("Creating the settings.yml,\nThis is NOT a restored version of a previously deleted one!")
+            os.chdir(self.fileLoc)
+            print(os.getcwd())
+            f = open("settings.yml","w+")
+            yaml.dump(self.payload, f, Dumper=yaml.RoundTripDumper)
+            print("if statement passes")
+            f.close()
+        # makes a copy of the newest yml/settings structure
+        os.chdir(self.fileLoc)
+        cache = open(self.cachedir, "w+")
+        yaml.dump(self.payload, cache, Dumper=yaml.RoundTripDumper)
+        cache.close()
+        print("Cache updated!")
+
+
 
 
     def windowDidLoad(self):
@@ -41,8 +74,8 @@ class mainWindow(Cocoa.NSWindowController):
     def helplink_(self, url):
         print("Help URL Launched!")
         self.gitUrl = ("https://github.com/leifadev/shoutout/wiki")
-        x = NSURL.alloc().initWithString_(self.gitUrl)
-        NSWorkspace.alloc().openURL_(x)
+        x = Cocoa.NSURL.alloc().initWithString_(self.gitUrl)
+        Cocoa.NSWorkspace.alloc().openURL_(x)
 
 
     @objc.IBAction
@@ -68,6 +101,22 @@ class mainWindow(Cocoa.NSWindowController):
             os.mkdir(self.settingDir) # make folder because im a god
         else:
             print("Config folder is completed!")
+
+
+
+class appTasks(Foundation.NSNotification):
+
+    def __init__(self):
+        self.date = ""
+        self.timezone = time.tzname[0]
+        self.clockOff = False # Value determines if the clock/schedule for sending notifications is disabled
+
+
+    def sendNotif(self):
+        # Find out class methods who send notifications, and other related data objects
+
+
+        log.info("Notification method has been called!")
 
 
 

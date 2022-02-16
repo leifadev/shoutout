@@ -8,7 +8,7 @@ Usage:
 from setuptools import setup
 
 APP = ['main.py']
-DATA_FILES = ['shoutout_main.xib']
+DATA_FILES = ['shoutout_main.xib', 'daemon.py']
 OPTIONS = {'argv_emulation': True, 'iconfile':'images/shoutout_logo.icns',
            'plist': {
                'PyRuntimeLocations': [
