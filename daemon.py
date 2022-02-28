@@ -19,7 +19,6 @@ import logging, os, sys, time, getpass, json
 # Try to make config now
 try:
     os.mkdir(f"/Users/{getpass.getuser()}/Library/Application Support/shoutout/")
-
 except FileExistsError as e:
     logging.info(f"Config already created!")
 except PermissionError as p:
@@ -33,6 +32,7 @@ class Daemon():
     def __init__(self):
         self.pidfile_path =  '/tmp/shoutout.pid'
         self.configPath = f"/Users/{getpass.getuser()}/Library/Application Support/shoutout/"
+        self.daemonPath = f""
         self.pidfile_timeout = 5
         self.pidfile=lockfile.FileLock('/var/run/shoutout.pid')
         self.onlineNTP = True
@@ -43,7 +43,6 @@ class Daemon():
         logging.info("Initiated variables! :D")
         f = open(self.configPath + "daemonlogs.log", "w")
         f.close()
-
 
     def fetchtime(self):
         self.time = ""
@@ -64,8 +63,11 @@ class Daemon():
 
 
     def clock(self):
+        print("wer")
         with open(self.configPath + "scheduleconfig.json", mode="w") as config:
             c = json.load(config)
+            for i in c:
+                print(i)
 
 
     def shutoff(self, error):
@@ -84,8 +86,7 @@ class Daemon():
 if __name__ == "__main__":
     umask = os.umask(0o013)  # Allowed Permissions rwxrw-r-- #
     os.umask(umask)
-    while True:
-        Daemon().fetchtime() # Run daemon class, does clock timing, signals, config, variables
+    Daemon()  # Run daemon class, does clock timing, signals, config, variables
 
 """Documentation"""
 # https://developer.apple.com/library/archive/documentation/MacOSX/Conceptual/BPSystemStartup/Chapters/CreatingLaunchdJobs.html#//apple_ref/doc/uid/10000172i-SW7-BCIEDDBJ
