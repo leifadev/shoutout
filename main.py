@@ -2,10 +2,9 @@ import platform as platform
 from ruamel import yaml
 import getpass, os, time, logging as log
 
-import Cocoa, Foundation
+import Cocoa, Foundation, objc
 from AppKit import NSApp
-import objc
-
+from lang_manager import Manager as lmanager # provides
 
 
 
