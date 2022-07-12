@@ -3,7 +3,7 @@ import platform as platform
 # from ruamel import yaml
 import getpass, os, time, logging as log
 
-import Cocoa, objc
+import Cocoa, objc, Foundation
 from AppKit import NSApp
 
 
@@ -65,7 +65,7 @@ class mainWindow(Cocoa.NSWindowController):
     def windowDidLoad(self):
         Cocoa.NSWindowController.windowDidLoad(self)
 
-
+    import Foundation
     def userNotificationCenter_shouldPresentNotification_(self, center, noti):
         return True
 
