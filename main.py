@@ -1,16 +1,16 @@
+import logging
 import platform as platform
-from ruamel import yaml
+# from ruamel import yaml
 import getpass, os, time, logging as log
 
-import Cocoa, Foundation, objc
+import Cocoa, objc
 from AppKit import NSApp
-from lang_manager import Manager as lmanager # provides
-
 
 
 class mainWindow(Cocoa.NSWindowController):
 
     inc = objc.IBOutlet()
+
 
     def __init__(self):
         self.keys = {} # api keys
@@ -41,40 +41,53 @@ class mainWindow(Cocoa.NSWindowController):
             }
 
 
-
-    def startUpTasks(self):
-        if not os.path.isfile(self.fileLoc):
-            path = os.path.join(self.fileLoc)
-            os.makedirs(self.settingDir, exist_ok=True)
-            print("Folder generated...")
-        if not os.path.isfile(self.ymldir) or os.path.getsize(self.ymldir) == 0:
-            print("Creating the settings.yml,\nThis is NOT a restored version of a previously deleted one!")
-            os.chdir(self.fileLoc)
-            print(os.getcwd())
-            f = open("settings.yml","w+")
-            yaml.dump(self.payload, f, Dumper=yaml.RoundTripDumper)
-            print("if statement passes")
-            f.close()
-        # makes a copy of the newest yml/settings structure
-        os.chdir(self.fileLoc)
-        cache = open(self.cachedir, "w+")
-        yaml.dump(self.payload, cache, Dumper=yaml.RoundTripDumper)
-        cache.close()
-        print("Cache updated!")
-
-
+    # def startUpTasks(self):
+    #     if not os.path.isfile(self.fileLoc):
+    #         path = os.path.join(self.fileLoc)
+    #         os.makedirs(self.settingDir, exist_ok=True)
+    #         print("Folder generated...")
+    #     if not os.path.isfile(self.ymldir) or os.path.getsize(self.ymldir) == 0:
+    #         print("Creating the settings.yml,\nThis is NOT a restored version of a previously deleted one!")
+    #         os.chdir(self.fileLoc)
+    #         print(os.getcwd())
+    #         f = open("settings.yml", "w+")
+    #         yaml.dump(self.payload, f, Dumper=yaml.RoundTripDumper)
+    #         print("if statement passes")
+    #         f.close()
+    #     # makes a copy of the newest yml/settings structure
+    #     os.chdir(self.fileLoc)
+    #     cache = open(self.cachedir, "w+")
+    #     yaml.dump(self.payload, cache, Dumper=yaml.RoundTripDumper)
+    #     cache.close()
+    #     print("Cache updated!")
 
 
     def windowDidLoad(self):
         Cocoa.NSWindowController.windowDidLoad(self)
 
 
+    def userNotificationCenter_shouldPresentNotification_(self, center, noti):
+        return True
+
     @objc.IBAction
-    def helplink_(self, url):
-        print("Help URL Launched!")
-        self.gitUrl = ("https://github.com/leifadev/shoutout/wiki")
-        x = Cocoa.NSURL.alloc().initWithString_(self.gitUrl)
-        Cocoa.NSWorkspace.alloc().openURL_(x)
+    def sendNotif_(self, sender):
+        # Find out class methods who send notifications, and other related data objects
+        # Use UNUserNotificationCenter in the future for 11.0+ compatibility!
+        print("NOTI!")
+
+        noti = Cocoa.NSUserNotification.alloc().init()
+        noti.setTitle_("title")
+        noti.setSubtitle_("subtitle")
+        noti.setInformativeText_("text")
+
+        # Cocoa.NSUserNotificationCenter.defaultUserNotificationCenter().setDelegate_()
+        # Cocoa.NSUserNotificationCenter.defaultUserNotificationCenter().scheduleNotification_(noti)
+
+        nc = Cocoa.NSUserNotificationCenter.defaultUserNotificationCenter()
+        nc.deliverNotification_(noti)
+
+        log.info("Notification method has been called!")
+        log.info()
 
 
     @objc.IBAction
@@ -102,8 +115,8 @@ class mainWindow(Cocoa.NSWindowController):
             print("Config folder is completed!")
 
 
-
-class appTasks(Foundation.NSNotification):
+class appTasks(Cocoa.NSUserNotification):
+    # noinspection NSUserNotification
 
     def __init__(self):
         self.date = ""
@@ -111,12 +124,22 @@ class appTasks(Foundation.NSNotification):
         self.clockOff = False # Value determines if the clock/schedule for sending notifications is disabled
 
 
-    def sendNotif(self):
-        # Find out class methods who send notifications, and other related data objects
 
+    def sendNotif_sender_(self, title, sender):
+        # Find out class methods who send notifications, and other related data objects
+        # Use UNUserNotificationCenter in the future for 11.0+ compatibility!
+        print("NOTI!")
+
+        noti = Cocoa.NSUserNotification.alloc().init()
+        noti.setTitle_(title)
+        noti.setSubtitle_("subtitle")
+        noti.setInformativeText_("text")
+
+        nc = Cocoa.NSUserNotificationCenter.defaultUserNotificationCenter()
+        nc.deliverNotification_(noti)
 
         log.info("Notification method has been called!")
-
+        log.info()
 
 
 
@@ -125,7 +148,7 @@ class appTasks(Foundation.NSNotification):
 if __name__ == "__main__":
     app = Cocoa.NSApplication.sharedApplication()
 
-    # Initiate the contrller with a XIB
+    # Initiate the controller with a XIB
     viewController = mainWindow.alloc().initWithWindowNibName_("shoutout_main")
 
     # Show the window

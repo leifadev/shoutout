@@ -8,11 +8,12 @@ Usage:
 from setuptools import setup
 
 APP = ['main.py']
-DATA_FILES = ['shoutout_main.xib', 'daemon.py']
-OPTIONS = {'argv_emulation': True, 'iconfile':'images/shoutout_logo.icns',
+DATA_FILES = ['shoutout_main.xib', 'daemon.py', 'lang_manager.py']
+OPTIONS = {'iconfile':'images/shoutout_logo.icns',
            'plist': {
                'PyRuntimeLocations': [
                 '/Library/Frameworks/Python.framework/Versions/3.9/bin/python3'
+                ''
                ]
            }}
 
