@@ -81,6 +81,5 @@ if __name__ == "__main__":
     notificationScheduler = NotificationScheduler()
     notificationScheduler.addNotificationRequest("Shoutout!", "You have a word of the day to check!")
 
-
 # Time Interval Class
 # https://developer.apple.com/documentation/usernotifications/untimeintervalnotificationtrigger?language=objc
