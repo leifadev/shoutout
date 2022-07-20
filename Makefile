@@ -27,8 +27,11 @@ upgrade:
 	@echo Updating all modules!
 	@echo "\n\nInstalling pip-upgrade\n"
 	@${PIP} install pip-upgrade
-	@pip freeze >> requirements.txt
+	@${PIP} freeze >> requirements.txt
 	@pip-upgrade requirements.txt --skip-virtualenv-check
+
+	# Install PyObj-C if not installed for first time
+	@${PIP} install -U pyobjc
 	@echo "\n Done!\n"
 
 run:
