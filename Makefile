@@ -13,11 +13,10 @@ VERSION = v1.0
 .DEFAULT_GOAL = help
 .PHONY: help setup clean build
 
-
 help:
 	@echo "\n---------------HELP-----------------\n"
 	@echo "make help - display this message"
-	@echo "make upgrade - update repository"
+	@echo "make upgrade - updates repository modules"
 	@echo "make run - run the binary in your compiled .app quickly!"
 	@echo "make clean - clean up files"
 	@echo "make build - builds the repo into .app dist"
