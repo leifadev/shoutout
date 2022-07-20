@@ -28,7 +28,7 @@ upgrade:
 	@echo "\n\nInstalling pip-upgrade\n"
 	@${PIP} install pip-upgrade
 	@pip freeze >> requirements.txt
-	@pip-upgrade requirements.txt
+	@pip-upgrade requirements.txt --skip-virtualenv-check
 	@echo "\n Done!\n"
 
 run:
