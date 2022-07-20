@@ -23,17 +23,7 @@ Made with Python using the Apple SDKs Foundation and Cocoa through PyObjC, this 
 
 
 ### Portfolio
-
-Docs:
-https://pyobjc.readthedocs.io/en/latest/core/intro.html
-https://developer.apple.com/library/archive/documentation/MacOSX/Conceptual/BPSystemStartup/Chapters/CreatingLaunchdJobs.html#//apple_ref/doc/uid/10000172i-SW7-BCIEDDBJ
-
-Articles:
-https://dawes.wordpress.com/2017/08/17/python-with-a-cocoa-gui-on-macos/
-https://dpbl.wordpress.com/2017/02/12/a-tutorial-on-python-daemon/#tut
-
-Threads:
-https://www.reddit.com/r/learnprogramming/comments/sawxsu/what_is_a_viewcontroller_windowcontroller_macos/
+See all my sources for my app I used to make it and learn to make it!
 
 
 
