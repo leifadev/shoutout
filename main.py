@@ -3,9 +3,9 @@ import platform as platform
 # from ruamel import yaml
 import getpass, os, time, logging as log
 
-import Cocoa, objc, Foundation
+import Cocoa, objc
 from AppKit import NSApp
-
+import notifications
 
 class mainWindow(Cocoa.NSWindowController):
 
@@ -23,7 +23,7 @@ class mainWindow(Cocoa.NSWindowController):
         self.settingDir = f'/Users/{getpass.getuser()}/Library/Application Support/shoutout/'
         self.count = 0
         self.gitUrl = ("https://github.com/leifadev/shoutout")
-        self.languages = ["english", "spanish", "russian", ] # available languages to choose from!
+        self.languages = ["english", "spanish", "russian"] # available languages to choose from!
         self.definitionFull = {
             "word": "",
             "definition": "",
@@ -65,9 +65,17 @@ class mainWindow(Cocoa.NSWindowController):
     def windowDidLoad(self):
         Cocoa.NSWindowController.windowDidLoad(self)
 
-    import Foundation
-    def userNotificationCenter_shouldPresentNotification_(self, center, noti):
+    def userNotificationCenter_shouldPresentNotification_(
+            self, center, noti):
+        print("Got userNotificationCenter:shouldPresentNotification:")
         return True
+
+    @objc.IBAction
+    def helplink_(self, sender):
+        print("Help URL Launched!")
+        self.gitUrl = ("https://github.com/leifadev/shoutout/wiki")
+        x = Cocoa.NSURL.alloc().initWithString_(self.gitUrl)
+        Cocoa.NSWorkspace.alloc().openURL_(x)
 
     @objc.IBAction
     def sendNotif_(self, sender):

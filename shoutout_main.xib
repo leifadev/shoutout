@@ -250,14 +250,14 @@
                     </menu>
                 </menuItem>
             </items>
-            <point key="canvasLocation" x="52" y="-86"/>
+            <point key="canvasLocation" x="46" y="-87"/>
         </menu>
         <window title="Shoutout!" allowsToolTipsWhenApplicationIsInactive="NO" autorecalculatesKeyViewLoop="NO" releasedWhenClosed="NO" animationBehavior="default" id="F0z-JX-Cv5">
             <windowStyleMask key="styleMask" titled="YES" closable="YES" miniaturizable="YES"/>
             <windowPositionMask key="initialPositionMask" leftStrut="YES" rightStrut="YES" topStrut="YES" bottomStrut="YES"/>
             <rect key="contentRect" x="196" y="240" width="474" height="429"/>
             <rect key="screenRect" x="0.0" y="0.0" width="1440" height="877"/>
-            <view key="contentView" wantsLayer="YES" id="se5-gp-TjO">
+            <view key="contentView" wantsLayer="YES" appearanceType="darkAqua" id="se5-gp-TjO">
                 <rect key="frame" x="0.0" y="0.0" width="474" height="429"/>
                 <autoresizingMask key="autoresizingMask"/>
                 <subviews>
@@ -269,7 +269,7 @@
                             <font key="font" metaFont="system"/>
                         </buttonCell>
                         <connections>
-                            <action selector="helplink:" target="-2" id="8Qn-PD-Ipt"/>
+                            <action selector="helplink:" target="-2" id="N5A-qa-E89"/>
                         </connections>
                     </button>
                     <imageView fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="Avw-vF-6zj">
@@ -294,6 +294,97 @@
                 </subviews>
             </view>
             <point key="canvasLocation" x="102" y="199.5"/>
+        </window>
+        <window title="Preferences" allowsToolTipsWhenApplicationIsInactive="NO" autorecalculatesKeyViewLoop="NO" hidesOnDeactivate="YES" releasedWhenClosed="NO" frameAutosaveName="" animationBehavior="default" id="bLc-xO-i5D" customClass="NSPanel">
+            <windowStyleMask key="styleMask" titled="YES" closable="YES" miniaturizable="YES" utility="YES"/>
+            <windowPositionMask key="initialPositionMask" leftStrut="YES" rightStrut="YES" topStrut="YES" bottomStrut="YES"/>
+            <rect key="contentRect" x="139" y="81" width="311" height="352"/>
+            <rect key="screenRect" x="0.0" y="0.0" width="1440" height="877"/>
+            <view key="contentView" id="mOj-kf-Rvc">
+                <rect key="frame" x="0.0" y="0.0" width="311" height="352"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <button verticalHuggingPriority="750" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="Bbc-nI-8Dm">
+                        <rect key="frame" x="9" y="6" width="81" height="32"/>
+                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
+                        <buttonCell key="cell" type="push" title="Github" bezelStyle="rounded" alignment="center" borderStyle="border" imageScaling="proportionallyDown" inset="2" id="z7x-i0-nef">
+                            <behavior key="behavior" pushIn="YES" lightByBackground="YES" lightByGray="YES"/>
+                            <font key="font" metaFont="system"/>
+                        </buttonCell>
+                    </button>
+                    <levelIndicator verticalHuggingPriority="750" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="xPn-Z1-8ZN">
+                        <rect key="frame" x="107" y="272" width="96" height="18"/>
+                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
+                        <levelIndicatorCell key="cell" alignment="left" doubleValue="2" maxValue="3" id="VSH-IT-zNZ"/>
+                    </levelIndicator>
+                    <textField horizontalHuggingPriority="251" verticalHuggingPriority="750" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="bON-v2-rr8">
+                        <rect key="frame" x="117" y="298" width="76" height="16"/>
+                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
+                        <textFieldCell key="cell" lineBreakMode="clipping" alignment="center" title="Complexity" id="0Zu-mC-gfz">
+                            <font key="font" metaFont="system"/>
+                            <color key="textColor" name="labelColor" catalog="System" colorSpace="catalog"/>
+                            <color key="backgroundColor" name="textBackgroundColor" catalog="System" colorSpace="catalog"/>
+                        </textFieldCell>
+                    </textField>
+                    <button verticalHuggingPriority="750" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="66I-1S-9MQ">
+                        <rect key="frame" x="101" y="207" width="53" height="18"/>
+                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
+                        <buttonCell key="cell" type="radio" title="Light" bezelStyle="regularSquare" imagePosition="left" alignment="left" inset="2" id="X2K-9w-0u1">
+                            <behavior key="behavior" changeContents="YES" doesNotDimImage="YES" lightByContents="YES"/>
+                            <font key="font" metaFont="system"/>
+                        </buttonCell>
+                    </button>
+                    <textField horizontalHuggingPriority="251" verticalHuggingPriority="750" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="vFd-Kg-4Cr">
+                        <rect key="frame" x="130" y="229" width="50" height="16"/>
+                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
+                        <textFieldCell key="cell" lineBreakMode="clipping" alignment="center" title="Theme" id="YiC-pc-c0e">
+                            <font key="font" metaFont="system"/>
+                            <color key="textColor" name="labelColor" catalog="System" colorSpace="catalog"/>
+                            <color key="backgroundColor" name="textBackgroundColor" catalog="System" colorSpace="catalog"/>
+                        </textFieldCell>
+                    </textField>
+                    <button verticalHuggingPriority="750" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="YM5-Ap-Z5U">
+                        <rect key="frame" x="159" y="207" width="51" height="18"/>
+                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
+                        <buttonCell key="cell" type="radio" title="Dark" bezelStyle="regularSquare" imagePosition="left" alignment="left" inset="2" id="WjE-to-JrT">
+                            <behavior key="behavior" changeContents="YES" doesNotDimImage="YES" lightByContents="YES"/>
+                            <font key="font" metaFont="system"/>
+                        </buttonCell>
+                    </button>
+                    <button verticalHuggingPriority="750" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="vUj-d4-ywo">
+                        <rect key="frame" x="106" y="100" width="99" height="18"/>
+                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
+                        <buttonCell key="cell" type="check" title="Online Mode" bezelStyle="regularSquare" imagePosition="left" enabled="NO" inset="2" id="eU8-ri-dOa">
+                            <behavior key="behavior" changeContents="YES" doesNotDimImage="YES" lightByContents="YES"/>
+                            <font key="font" metaFont="system"/>
+                        </buttonCell>
+                    </button>
+                    <comboBox verticalHuggingPriority="750" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="NF0-As-1Mf">
+                        <rect key="frame" x="108" y="136" width="99" height="25"/>
+                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
+                        <comboBoxCell key="cell" scrollable="YES" lineBreakMode="clipping" selectable="YES" editable="YES" sendsActionOnEndEditing="YES" borderStyle="bezel" placeholderString="Languages" drawsBackground="YES" completes="NO" numberOfVisibleItems="5" id="TbS-fv-Hgz">
+                            <font key="font" metaFont="system"/>
+                            <color key="textColor" name="controlTextColor" catalog="System" colorSpace="catalog"/>
+                            <color key="backgroundColor" name="textBackgroundColor" catalog="System" colorSpace="catalog"/>
+                            <objectValues>
+                                <string>Polish</string>
+                                <string>Manderin</string>
+                                <string>Chinese</string>
+                            </objectValues>
+                        </comboBoxCell>
+                    </comboBox>
+                    <textField horizontalHuggingPriority="251" verticalHuggingPriority="750" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="dVq-V9-GC6">
+                        <rect key="frame" x="101" y="167" width="109" height="16"/>
+                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
+                        <textFieldCell key="cell" lineBreakMode="clipping" alignment="center" title="More Languages" id="fGE-C7-i41">
+                            <font key="font" metaFont="system"/>
+                            <color key="textColor" name="labelColor" catalog="System" colorSpace="catalog"/>
+                            <color key="backgroundColor" name="textBackgroundColor" catalog="System" colorSpace="catalog"/>
+                        </textFieldCell>
+                    </textField>
+                </subviews>
+            </view>
+            <point key="canvasLocation" x="552" y="161"/>
         </window>
     </objects>
     <resources>

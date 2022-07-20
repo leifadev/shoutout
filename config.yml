@@ -2,7 +2,6 @@
 
 - Main:
     darkMode: true
-    onlinentp: true
     selectedlang: "" # current language selected
     complexity: "wildcard" # simple, basic, complex, wildcard
     apionline: false # option for turning on full API access, not using language caches

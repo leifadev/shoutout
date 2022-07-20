@@ -15,18 +15,22 @@ VERSION = v1.0
 
 
 help:
-	@echo "\n---------------HELP-----------------"
+	@echo "\n---------------HELP-----------------\n"
 	@echo "make help - display this message"
-	@echo "make setup - setup and update the repo"
+	@echo "make upgrade - update repository"
 	@echo "make run - run the binary in your compiled .app quickly!"
 	@echo "make clean - clean up files"
 	@echo "make build - builds the repo into .app dist"
-	@echo "-------------------------------------"
+	@echo "\n-------------------------------------\n"
 	@echo "\nCoded by leifadev\nhttps://github.com/leifadev/shoutout\n"
 
-setup:
-	@echo "Option not supported yet"
-
+upgrade:
+	@echo Updating all modules!
+	@echo "\n\nInstalling pip-upgrade\n"
+	@${PIP} install pip-upgrade
+	@pip freeze >> requirements.txt
+	@pip-upgrade requirements.txt
+	@echo "\n Done!\n"
 
 run:
 	@echo Running the apps python binary!
