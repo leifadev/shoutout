@@ -31,6 +31,7 @@ upgrade:
 	@pip-upgrade requirements.txt --skip-virtualenv-check
 
 	# Install PyObj-C if not installed for first time
+	@echo "\n\n**Installing/Updating PyObj-C!**\n\n"
 	@${PIP} install -U pyobjc
 	@echo "\n Done!\n"
 
