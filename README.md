@@ -9,7 +9,7 @@ Made with Python using the Apple SDKs Foundation and Cocoa through PyObjC, this 
 
 ### Features
 - Timezones
-- Multi-language support
+- Multi-language support (12+ Languages)
 - Settings
 - Themes
 - Notifications (launchd daemon)
@@ -21,10 +21,8 @@ Made with Python using the Apple SDKs Foundation and Cocoa through PyObjC, this 
 - Landing page website (carrd.co)
 
 
-
 ### Portfolio
 See all my sources for my app I used to make it and learn to make it!
-
 
 
 ## Version naming
@@ -39,6 +37,4 @@ First major release should be
 - v1.1.0
 - v1.2.0
 - v2.0.0
-  and so on in this pattern :)
 
-wdjqnbfej
