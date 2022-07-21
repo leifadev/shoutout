@@ -3,8 +3,6 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-.dev_file_storage
-
 # C extensions
 *.so
 
@@ -65,7 +63,8 @@ instance/
 .webassets-cache
 
 # Other
-playground/
+.playground/
+.dev_file_storage
 
 # Scrapy stuff:
 .scrapy
