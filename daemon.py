@@ -86,7 +86,7 @@ class Daemon():
 if __name__ == "__main__":
     umask = os.umask(0o013)  # Allowed Permissions rwxrw-r-- #
     os.umask(umask)
-    Daemon()  # Run daemon class, does clock timing, signals, config, variables
+    Daemon()  # Run daemon class, which does clock timing, signals, config, variables
 
 """Documentation"""
 # https://developer.apple.com/library/archive/documentation/MacOSX/Conceptual/BPSystemStartup/Chapters/CreatingLaunchdJobs.html#//apple_ref/doc/uid/10000172i-SW7-BCIEDDBJ
