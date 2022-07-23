@@ -1,0 +1,19 @@
+{
+  "days": {
+    "monday": null,
+    "tuesday": null,
+    "wednesday": null,
+    "thursday": null,
+    "friday": null,
+    "saturday": null,
+    "sunday": null
+  },
+
+  "times": {
+    "alert1": "",
+    "alert2": "",
+    "alert3:": "",
+    "alert4": ""
+  }
+
+}
