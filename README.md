@@ -1,7 +1,7 @@
 # Shoutout!
 An app for the word of the day, but in any language
 
-<img src="https://github.com/leifadev/shoutout/blob/main/images/shoutout_logo.png" height="290" width="280"/>
+<img src="https://github.com/leifadev/shoutout/blob/main/resources/images/shoutout_logo.png" height="290" width="280"/>
 
 **You can now put a spin on how you learn a new language!**
 
