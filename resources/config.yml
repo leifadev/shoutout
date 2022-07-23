@@ -5,3 +5,4 @@
     selectedlang: "english" # current language selected
     complexity: "wildcard" # simple, basic, complex, wildcard
     apionline: false # option for turning on full API access, not using language caches
+    configversion: "1-beta" # Simple increment of 1, 2, 3, if in beta use "beta-" before
