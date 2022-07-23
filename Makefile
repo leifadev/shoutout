@@ -4,14 +4,14 @@ PYTHON = python3
 PIP = pip3
 
 PROJECT_DIR = /
-PROJECT_MAIN = main.py # change if needed
-MAIN_FILENAME = main
+PROJECT_MAIN = WindowController.py # change if needed
+MAIN_FILENAME = WindowController
 VERSION = v1.0
 
 # made by leifadev on github
 
 .DEFAULT_GOAL = help
-.PHONY: help setup clean build
+.PHONY: help upgrade clean build
 
 help:
 	@echo "\n---------------HELP-----------------\n"
