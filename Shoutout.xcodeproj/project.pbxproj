@@ -8,12 +8,14 @@
 
 /* Begin PBXFileReference section */
 		2908ACB12724A8FB00C5E913 /*  */ = {isa = PBXFileReference; lastKnownFileType = folder; name = ""; sourceTree = "<group>"; };
+		296A8B5C288DE1B70015C499 /* shoutout_main.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = shoutout_main.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
 		2985C3042724A80F001CFE7D = {
 			isa = PBXGroup;
 			children = (
+				296A8B5C288DE1B70015C499 /* shoutout_main.xib */,
 				2908ACB12724A8FB00C5E913 /*  */,
 			);
 			sourceTree = "<group>";
