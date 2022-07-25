@@ -1,18 +1,28 @@
-
+# App Delegate
+# Manages events and stuff that happens to the windows
 
 # Objective-C
 import Cocoa, objc
-import AppKit
+from WindowController import mainWindow
+from AppKit import *
 
-# App Delegate
-# Manages events and stuff that happens to the windows
 
 class AppDelegate(Cocoa.NSObject):
     """
     App delegate for Shoutout!
     """
 
-    myWindowController = objc.ivar()
+    def __init__(self):
+        self.app = Cocoa.NSApplication.sharedApplication()
+        # Initiate the controller with a XIB
+        viewController = mainWindow.alloc().initWithWindowNibName_("shoutout_main")
+        viewController.showWindow_(viewController)
 
-    def applicationDidFinishLaunching_(self, notification):
+        # Bring app to top
+        NSApp.activateIgnoringOtherApps_(True)
+
+    def applicationShouldHandleReopen_hasVisibleWindows_(self, theApplication, flag):
+        print("werty")
+
+    def applicationDidFinishLaunching(self, aNotification):
         print("Finished loading!")
