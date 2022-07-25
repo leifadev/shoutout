@@ -23,7 +23,6 @@ class mainWindow(Cocoa.NSWindowController):
             "pronounceAudio": ""
         }
 
-
     def windowDidLoad(self):
         Cocoa.NSWindowController.windowDidLoad(self)
 
@@ -52,10 +51,9 @@ class mainWindow(Cocoa.NSWindowController):
         self.outlet.setStringValue_(self.count)
 
     @objc.IBAction
-    def showAWindow_(self, sender):
-        print("Showing preferences!")
-        viewControllerPref = prefWindow.alloc().initWithWindowNibName_("shoutout_preferences")
-        viewControllerPref.showWindow_(viewControllerPref)
+    def showPref_(self, sender):
+        rwc = prefWindow.alloc().initWithWindowNibName_(u"shoutout_preferences")
+        rwc.showWindow_(rwc)
 
 
 class prefWindow(Cocoa.NSWindowController):
@@ -80,21 +78,17 @@ class prefWindow(Cocoa.NSWindowController):
 
 # Starting window!
 
-if __name__ == "__main__":
-    app = Cocoa.NSApplication.sharedApplication()
+# if __name__ == "__main__":
+#
+#     # Initiate the controller with a XIB
+#     viewController = mainWindow.alloc().initWithWindowNibName_("shoutout_main")
+#
+#     # Show the window
+#     viewController.showWindow_(viewController)
+#
+#     # Bring app to top
+#     NSApp.activateIgnoringOtherApps_(True)
+#
+#     from PyObjCTools import AppHelper
+#     AppHelper.runEventLoop()
 
-    # Initiate the controller with a XIB
-    viewController = mainWindow.alloc().initWithWindowNibName_("shoutout_main")
-
-    # Show the window
-    viewController.showWindow_(viewController)
-
-    # Bring app to top
-    NSApp.activateIgnoringOtherApps_(True)
-
-    from PyObjCTools import AppHelper
-    AppHelper.runEventLoop()
-
-
-# Make Landing Page!
-# https://carrd.co/build#landing
