@@ -5,15 +5,15 @@
     "wednesday": null,
     "thursday": null,
     "friday": null,
-    "saturday": null,
+    "saturday": true,
     "sunday": null
   },
 
   "times": {
-    "alert1": "",
-    "alert2": "",
-    "alert3:": "",
-    "alert4": ""
+    "alert1": null,
+    "alert2": null,
+    "alert3:": null,
+    "alert4": null
   }
 
 }
