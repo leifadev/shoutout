@@ -13,10 +13,14 @@
 	<key>StandardErrorPath</key>
 	<string>/dev/null</string>
 	<key>StandardOutPath</key>
-	<string>/dev/null</string>
+	<string>~/Library/Application Support/shoutout/daemon_log.log</string>
 	<key>StartCalendarInterval</key>
 	<dict>
 		<key>Minute</key>
+		<integer>0</integer>
+		<key>Hour</key>
+		<integer>1</integer>
+		<key>Day</key>
 		<integer>0</integer>
 	</dict>
 </dict>
