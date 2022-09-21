@@ -2,54 +2,47 @@
 
 """
 Tasks:
-- initiate stdin, stdout, and sterr stream inputs constantly
-- have constant daemon clock that logs every minutes as a value
-- requires main.py class methods for sending notifications, sound, etc.
-- has ability too modify values stored in config.yml for frequency, etc.
-- logs any errors handled, or crashes (unhandled errors)
-- inherits Cocoa, Foundation, or python modules for fetching time zones
-- all daemon tasks and semantics are handled with some documentation for clearance
+- Output logging to .log stdout
+- Sends notifications, sound, etc.
+- Pulls from scheduleconfig.json file
+- Inherits Cocoa, Foundation, or python modules for fetching time zones, etc.
+- All daemon tasks and semantics are handled with some documentation for clearance
 """
-# self.working_directory = "/private/etc/shoutout", plist file does this
 
-import lockfile, ntplib, arrow
+import lockfile, ntplib, getpass, wget
 import logging, os, sys, time, getpass, json
 
 # Objective-C
 import Foundation as fd
 
-# Try to make config now
-try:
-    os.mkdir(f"/Users/{getpass.getuser()}/Library/Application Support/shoutout/")
-except FileExistsError as e:
-    logging.info(f"Config already created!")
-except PermissionError as p:
-    logging.error(
-        f"We don't have permission! This means our daemon (python 3.6+ script) doesn't have correct permissions\nto create the config folder in /etc/!\nOUTPUT: {p}")
 
-
-class Daemon():
+class Daemon:
     logging.info("Starting up daemon class...")
 
     def __init__(self):
-        self.hourly = None
+        self.hourly = bool
         self.pidfile_path = '/tmp/shoutout.pid'
         self.configPath = f"/Users/{getpass.getuser()}/Library/Application Support/shoutout/"
-        self.daemonPath = f""
-        self.pidfile_timeout = 5
+        self.daemonPath = f"/Users/{getpass.getuser()}/Library/LaunchAgents/"
         self.pidfile = lockfile.FileLock('/var/run/shoutout.pid')
         self.time = ""
+        self.resourcesURL = \
+            "https://raw.githubusercontent.com/leifadev/shoutout/main/resources/"  # Link to current config
+
         self.weekday_dict = {
             6: "sunday", 0: "monday", 1: "tuesday",
             2: "wednesday", 3: "thursday", 4: "friday",
-            5: "saturday"}
+            5: "saturday"
+        }
+
         self.timepools = {
             "NTP Project": "2.pool.ntp.org",
             "Apple": "time.apple.com",
         }
 
+
         # Create log file!
-        if os.path.isfile(self.configPath + "daempnlogs.log"):
+        if os.path.isfile(self.configPath + "daemonlogs.log"):
             try:
                 f = open(self.configPath + "daemonlogs.log", "w")
                 f.close()
@@ -57,6 +50,10 @@ class Daemon():
                 pass
         else:
             logging.info("daemonlogs.log is already created, skipping instruction")
+
+    # Make pid file functional
+    def pid(self):
+        pass
 
     def fetchtime(self):
         """
@@ -69,6 +66,7 @@ class Daemon():
         :return: String UTC timestamp
         """
         import datetime
+
         try:
             # ntpdata = ntplib.NTPClient()
             # from datetime import datetime
@@ -88,7 +86,6 @@ class Daemon():
             self.time = datetime.datetime.today()
             return self.time
 
-
     def clock(self):
         """
         When used detects the date and time and returns true for
@@ -96,16 +93,32 @@ class Daemon():
 
         :return: True or False
         """
-        project_dir = "resources/scheduleconfig.json"
-        with open(project_dir, mode="r") as config:
-            data = json.loads(config.read())
+        # Download schedule config file if not present
+        if not os.path.isfile(self.configPath + "scheduleconfig.json"):
+            wget.download(self.resourcesURL + 'scheduleconfig.json', self.configPath + "scheduleconfig.json")
+
+        project_dir = "resources/scheduleconfig.json"  # for testing
+        with open(self.configPath + "scheduleconfig.json", mode="r") as config:
+            try:
+                data = json.loads(config.read())
+            except json.decoder.JSONDecodeError as e:
+                from tasks import backendTasks
+                task = backendTasks()
+                task.otherConfigFiles()
+                logging.warning(f"Schedule config file is probably corrupted... "
+                                f"Created a new one, error is below hopefully with the index where JSON failed\n{e}")
+                data = json.loads(config.read())
+
+            # Get two dictionaries for alerts and days into two variables
             days_active = data["days"]
-            alert_dates = data["alerts"]
+            alert_dates = data["times"]
 
             # Check if there is any hourly requirements
             if int or str or list or dict or \
                     tuple or float in list(alert_dates.values()):
                 self.hourly = True
+            else:
+                self.hourly = False
 
             # Fetch UTC time in date format into date and time
             self.time = str(self.fetchtime())
@@ -126,9 +139,9 @@ class Daemon():
             # Loop for checking for all day values in config
             for key, value in days_active.items():
                 # https://pythontic.com/datetime/date/weekday
-                weekday = self.weekday_dict[utc_weekday] # Index weekday int from datetime to string
-                if key == weekday and value: # If config day (key) is what the day is today,
-                                             # check if it's true (if needs notification)
+                weekday = self.weekday_dict[utc_weekday]  # Index weekday int from datetime to string
+                if key == weekday and value:  # If config day (key) is what the day is today,
+                    # check if it's true (if needs notification)
                     logging.info(f"Today is {weekday}, checking for hours!")
                     print("Day is active!")
 
@@ -142,6 +155,7 @@ class Daemon():
                     else:
                         return True
 
+    # Some operating functions for the daemon
     @staticmethod
     async def shutdown(error="No error specified"):
         if error is not None and str:
@@ -150,7 +164,6 @@ class Daemon():
         else:
             logging.error("Invalid invoke of shutdown method!\nMust be string arg")
             await sys.exit(128)
-
 
     @staticmethod
     async def sleep(duration: int, msg="Sleeping..."):
@@ -164,7 +177,7 @@ class Daemon():
         """
         # Sleep daemon, (print statement for pure sys.stdout)
         print(f"Message to sleep: {msg}")
-        await time.sleep(duration)
+        time.sleep(duration)
 
 
 """
@@ -181,6 +194,7 @@ user level instead but yeah.
 """
 
 if __name__ == "__main__":
+    # Set umask for UNIX perms
     umask = os.umask(0o013)  # Allowed Permissions rwxrw-r--
     os.umask(umask)
     daemon = Daemon()
@@ -188,6 +202,7 @@ if __name__ == "__main__":
     # When script is run checks if config is true then sends notification
     if daemon.clock():
         from notifications import NotificationScheduler
+
         nc = NotificationScheduler()
         nc.sendNotificationRequest("Shoutout!", f"Subtitle",
                                    f"You have a word of the day to check!")
@@ -195,15 +210,18 @@ if __name__ == "__main__":
         Cocoa.NSRunLoop.currentRunLoop()
 
 """
-FILES
-     ~/Library/LaunchAgents         Per-user agents provided by the user. <-- Using this one
-     /Library/LaunchAgents          Per-user agents provided by the administrator.
-     /Library/LaunchDaemons         System-wide daemons provided by the administrator.
 
-     /System/Library/LaunchAgents   Per-user agents provided by Apple.
-     /System/Library/LaunchDaemons  System-wide daemons provided by Apple.
-"""
+Launch Agent/Daemon Directories MacOS
 
-"""Documentation"""
+ ~/Library/LaunchAgents     --> Per-user agents provided by the user. <-- Using this one
+ /Library/LaunchAgents          Per-user agents provided by the administrator.
+ /Library/LaunchDaemons         System-wide daemons provided by the administrator.
+
+ /System/Library/LaunchAgents   Per-user agents provided by Apple.
+ /System/Library/LaunchDaemons  System-wide daemons provided by Apple.
+
+Daemon Setup Methods 
 # https://developer.apple.com/library/archive/documentation/MacOSX/Conceptual/BPSystemStartup/Chapters/CreatingLaunchdJobs.html#//apple_ref/doc/uid/10000172i-SW7-BCIEDDBJ
-# https://dpbl.wordpress.com/2017/02/12/a-tutorial-on-python-daemon/#tut
+# https://dpbl.wordpress.com/2017/02/12/a-tutorial-on-python-daemon/#tut # No longer using this method
+
+"""
