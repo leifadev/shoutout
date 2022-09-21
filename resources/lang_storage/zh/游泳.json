@@ -1,0 +1,18 @@
+{
+  "游泳": {
+    "word": "游泳",
+    "partOfSpeech": "Verb",
+    "language": "Chinese",
+    "definitions": {
+      "definition": "to swim",
+      "parsedExamples": [
+        {
+          "example": "禁止游泳。&nbsp; ―&nbsp; Jìnzhǐ yóuyǒng.&nbsp; ―&nbsp; No swimming."
+        }
+      ],
+      "examples": [
+        "禁止游泳。&nbsp; ―&nbsp; Jìnzhǐ yóuyǒng.&nbsp; ―&nbsp; No swimming."
+      ]
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "참다": {
+    "word": "참다",
+    "partOfSpeech": "Verb",
+    "language": "Korean",
+    "definitions": {
+      "definition": "to bear; to endure",
+      "parsedExamples": [
+        {
+          "example": "더 이상 참을 수가 없어요.",
+          "transliteration": "Deo isang chameul su-ga eopseoyo.",
+          "translation": "I can't stand it any longer."
+        }
+      ],
+      "examples": [
+        "더 이상 참을 수가 없어요."
+      ]
+    }
+  }
+}

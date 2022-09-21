@@ -1,0 +1,22 @@
+{
+  "alleviate": {
+    "word": "alleviate",
+    "partOfSpeech": "Verb",
+    "language": "English",
+    "definitions": {
+      "definition": "To reduce or lessen the severity of a pain or difficulty .",
+      "parsedExamples": [
+        {
+          "example": "Alcohol is often a cheap tool to alleviate the stress of a hard day."
+        },
+        {
+          "example": "alleviate his pain"
+        }
+      ],
+      "examples": [
+        "Alcohol is often a cheap tool to alleviate the stress of a hard day.",
+        "alleviate his pain"
+      ]
+    }
+  }
+}

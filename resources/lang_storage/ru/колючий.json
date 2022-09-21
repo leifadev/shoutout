@@ -1,0 +1,20 @@
+{
+  "колючий": {
+    "word": "колючий",
+    "partOfSpeech": "Adjective",
+    "language": "Russian",
+    "definitions": {
+      "definition": "thorny, spiny, prickly",
+      "parsedExamples": [
+        {
+          "example": "колю́чая про́волока",
+          "transliteration": "koljúčaja próvoloka",
+          "translation": "barbed wire"
+        }
+      ],
+      "examples": [
+        "колю́чая про́волока"
+      ]
+    }
+  }
+}

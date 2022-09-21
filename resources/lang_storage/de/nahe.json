@@ -1,0 +1,19 @@
+{
+  "nahe": {
+    "word": "nahe",
+    "partOfSpeech": "Preposition",
+    "language": "German",
+    "definitions": {
+      "definition": "near",
+      "parsedExamples": [
+        {
+          "example": "Brühl ist eine kleine Stadt nahe Köln.",
+          "translation": "Brühl is a small town near Cologne."
+        }
+      ],
+      "examples": [
+        "Brühl ist eine kleine Stadt nahe Köln."
+      ]
+    }
+  }
+}

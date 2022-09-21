@@ -1,0 +1,19 @@
+{
+  "officinale": {
+    "word": "officinale",
+    "partOfSpeech": "Adjective",
+    "language": "Italian",
+    "definitions": {
+      "definition": "officinal, medicinal",
+      "parsedExamples": [
+        {
+          "example": "piante officinali",
+          "translation": "medicinal plants"
+        }
+      ],
+      "examples": [
+        "piante officinali"
+      ]
+    }
+  }
+}

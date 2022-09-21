@@ -1,0 +1,22 @@
+{
+  "paltry": {
+    "word": "paltry",
+    "partOfSpeech": "Adjective",
+    "language": "English",
+    "definitions": {
+      "definition": "Trashy, trivial, of little value.",
+      "parsedExamples": [
+        {
+          "example": "This is indeed a paltry flyer about a silly product."
+        },
+        {
+          "example": "She made some paltry excuse and left."
+        }
+      ],
+      "examples": [
+        "This is indeed a paltry flyer about a silly product.",
+        "She made some paltry excuse and left."
+      ]
+    }
+  }
+}

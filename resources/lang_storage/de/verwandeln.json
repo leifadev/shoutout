@@ -1,0 +1,24 @@
+{
+  "verwandeln": {
+    "word": "verwandeln",
+    "partOfSpeech": "Verb",
+    "language": "German",
+    "definitions": {
+      "definition": "to change (into something else), to transform, transmute",
+      "parsedExamples": [
+        {
+          "example": "Hitze verwandelt Wasser in Dampf.",
+          "translation": "Heat turns water into steam."
+        },
+        {
+          "example": "Die böse Hexe verwandelte das Mädchen in eine Kröte.",
+          "translation": "The evil witch changed the girl into a toad."
+        }
+      ],
+      "examples": [
+        "Hitze verwandelt Wasser in Dampf.",
+        "Die böse Hexe verwandelte das Mädchen in eine Kröte."
+      ]
+    }
+  }
+}

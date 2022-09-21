@@ -1,0 +1,19 @@
+{
+  "zkrátit": {
+    "word": "zkrátit",
+    "partOfSpeech": "Verb",
+    "language": "Czech",
+    "definitions": {
+      "definition": "to shorten",
+      "parsedExamples": [
+        {
+          "example": "Kalhoty potřebují trochu zkrátit.",
+          "translation": "The trousers need shortening a bit."
+        }
+      ],
+      "examples": [
+        "Kalhoty potřebují trochu zkrátit."
+      ]
+    }
+  }
+}

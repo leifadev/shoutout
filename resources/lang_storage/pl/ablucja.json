@@ -1,0 +1,29 @@
+{
+  "ablucja": {
+    "word": "ablucja",
+    "partOfSpeech": "Noun",
+    "language": "Polish",
+    "definitions": {
+      "definition": "ablution (ritualistic washing for religious reasons)",
+      "parsedExamples": [
+        {
+          "example": "rytualna ablucja",
+          "translation": "ritualistic ablution"
+        },
+        {
+          "example": "dokonywać/dokonać ablucji",
+          "translation": "to perform ablution/to ablute"
+        },
+        {
+          "example": "święta ablucja",
+          "translation": "holy ablution"
+        }
+      ],
+      "examples": [
+        "rytualna ablucja",
+        "dokonywać/dokonać ablucji",
+        "święta ablucja"
+      ]
+    }
+  }
+}

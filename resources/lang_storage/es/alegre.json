@@ -1,0 +1,19 @@
+{
+  "alegre": {
+    "word": "alegre",
+    "partOfSpeech": "Adjective",
+    "language": "Spanish",
+    "definitions": {
+      "definition": "joyful, cheerful",
+      "parsedExamples": [
+        {
+          "example": "Ella es una persona madrugadora, siempre tan alegre.",
+          "translation": "She is definitely a morning person, always so cheerful."
+        }
+      ],
+      "examples": [
+        "Ella es una persona madrugadora, siempre tan alegre."
+      ]
+    }
+  }
+}

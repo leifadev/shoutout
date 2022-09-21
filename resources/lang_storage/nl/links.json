@@ -1,0 +1,19 @@
+{
+  "links": {
+    "word": "links",
+    "partOfSpeech": "Adverb",
+    "language": "Dutch",
+    "definitions": {
+      "definition": "on the left",
+      "parsedExamples": [
+        {
+          "example": "Zie je die auto links?",
+          "translation": "Do you see the car on the left?"
+        }
+      ],
+      "examples": [
+        "Zie je die auto links?"
+      ]
+    }
+  }
+}

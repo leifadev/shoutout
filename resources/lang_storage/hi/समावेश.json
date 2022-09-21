@@ -1,0 +1,26 @@
+{
+  "समावेश": {
+    "word": "समावेश",
+    "partOfSpeech": "Noun",
+    "language": "Hindi",
+    "definitions": {
+      "definition": "inclusion, involvement, incorporation",
+      "parsedExamples": [
+        {
+          "example": "समावेश होना",
+          "transliteration": "samāveś honā",
+          "translation": "to be included"
+        },
+        {
+          "example": "समावेश करना",
+          "transliteration": "samāveś karnā",
+          "translation": "to include"
+        }
+      ],
+      "examples": [
+        "समावेश होना",
+        "समावेश करना"
+      ]
+    }
+  }
+}

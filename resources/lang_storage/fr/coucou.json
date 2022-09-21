@@ -1,0 +1,10 @@
+{
+  "coucou": {
+    "word": "coucou",
+    "partOfSpeech": "Noun",
+    "language": "French",
+    "definitions": {
+      "definition": "cuckoo (the bird)"
+    }
+  }
+}

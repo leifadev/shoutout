@@ -1,0 +1,18 @@
+{
+  "ambiguous": {
+    "word": "ambiguous",
+    "partOfSpeech": "Adjective",
+    "language": "English",
+    "definitions": {
+      "definition": "Open to multiple interpretations.",
+      "parsedExamples": [
+        {
+          "example": "The politician was criticized for his ambiguous statements and lack of precision."
+        }
+      ],
+      "examples": [
+        "The politician was criticized for his ambiguous statements and lack of precision."
+      ]
+    }
+  }
+}

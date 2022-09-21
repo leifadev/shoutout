@@ -1,0 +1,20 @@
+{
+  "раскаиваться": {
+    "word": "раскаиваться",
+    "partOfSpeech": "Verb",
+    "language": "Russian",
+    "definitions": {
+      "definition": "to repent (of)",
+      "parsedExamples": [
+        {
+          "example": "раска́иваться в свои́х греха́х",
+          "transliteration": "raskáivatʹsja v svoíx grexáx",
+          "translation": "to repent one's sins"
+        }
+      ],
+      "examples": [
+        "раска́иваться в свои́х греха́х"
+      ]
+    }
+  }
+}

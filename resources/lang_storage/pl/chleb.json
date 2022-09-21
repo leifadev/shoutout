@@ -1,0 +1,29 @@
+{
+  "chleb": {
+    "word": "chleb",
+    "partOfSpeech": "Noun",
+    "language": "Polish",
+    "definitions": {
+      "definition": "bread",
+      "parsedExamples": [
+        {
+          "example": "kromka chleba",
+          "translation": "a slice of bread"
+        },
+        {
+          "example": "bochenek chleba",
+          "translation": "a loaf of bread"
+        },
+        {
+          "example": "chleb razowy",
+          "translation": "whole-meal bread"
+        }
+      ],
+      "examples": [
+        "kromka chleba",
+        "bochenek chleba",
+        "chleb razowy"
+      ]
+    }
+  }
+}

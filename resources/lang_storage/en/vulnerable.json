@@ -1,0 +1,22 @@
+{
+  "vulnerable": {
+    "word": "vulnerable",
+    "partOfSpeech": "Adjective",
+    "language": "English",
+    "definitions": {
+      "definition": "More or most likely to be exposed to the chance of being attacked or harmed, either physically or emotionally.",
+      "parsedExamples": [
+        {
+          "example": "You are vulnerable to be bullied by someone at school."
+        },
+        {
+          "example": "It's okay to get vulnerable every now and again."
+        }
+      ],
+      "examples": [
+        "You are vulnerable to be bullied by someone at school.",
+        "It's okay to get vulnerable every now and again."
+      ]
+    }
+  }
+}

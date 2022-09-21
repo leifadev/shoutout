@@ -1,0 +1,18 @@
+{
+  "verbatim": {
+    "word": "verbatim",
+    "partOfSpeech": "Adverb",
+    "language": "English",
+    "definitions": {
+      "definition": "Word for word; in exactly the same words as were used originally.",
+      "parsedExamples": [
+        {
+          "example": "I have copied his speech verbatim, so this is exactly what he said, word for word."
+        }
+      ],
+      "examples": [
+        "I have copied his speech verbatim, so this is exactly what he said, word for word."
+      ]
+    }
+  }
+}

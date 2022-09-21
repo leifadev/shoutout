@@ -1,0 +1,26 @@
+{
+  "eponymous": {
+    "word": "eponymous",
+    "partOfSpeech": "Adjective",
+    "language": "English",
+    "definitions": {
+      "definition": "Of, relating to, or being the person or entity after which something or someone is named; serving as an eponym.",
+      "parsedExamples": [
+        {
+          "example": "Robinson Crusoe is the eponymous hero of the book."
+        },
+        {
+          "example": "Prince Hamlet is the eponymous protagonist of the Shakespearian tragedy Hamlet."
+        },
+        {
+          "example": "The language Limburgish is named after the eponymous provinces in Belgium and the Netherlands."
+        }
+      ],
+      "examples": [
+        "Robinson Crusoe is the eponymous hero of the book.",
+        "Prince Hamlet is the eponymous protagonist of the Shakespearian tragedy Hamlet.",
+        "The language Limburgish is named after the eponymous provinces in Belgium and the Netherlands."
+      ]
+    }
+  }
+}

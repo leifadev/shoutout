@@ -1,0 +1,26 @@
+{
+  "대단히": {
+    "word": "대단히",
+    "partOfSpeech": "Adverb",
+    "language": "Korean",
+    "definitions": {
+      "definition": "very (much), so (much), extremely, exceedingly",
+      "parsedExamples": [
+        {
+          "example": "대단히 고맙습니다",
+          "transliteration": "daedan-hi gomapseumnida",
+          "translation": "Thank you very much / Thank you so much"
+        },
+        {
+          "example": "언니는 대단히 부지런하다.",
+          "transliteration": "Eonni-neun daedan-hi bujireon-hada.",
+          "translation": "[My] big sister is very hardworking."
+        }
+      ],
+      "examples": [
+        "대단히 고맙습니다",
+        "언니는 대단히 부지런하다."
+      ]
+    }
+  }
+}

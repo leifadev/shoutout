@@ -1,0 +1,19 @@
+{
+  "mensonger": {
+    "word": "mensonger",
+    "partOfSpeech": "Adjective",
+    "language": "French",
+    "definitions": {
+      "definition": "false, mendacious, deceitful, untruthful",
+      "parsedExamples": [
+        {
+          "example": "publicité mensongère",
+          "translation": "false advertising"
+        }
+      ],
+      "examples": [
+        "publicité mensongère"
+      ]
+    }
+  }
+}

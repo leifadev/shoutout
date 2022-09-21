@@ -1,0 +1,19 @@
+{
+  "zuipen": {
+    "word": "zuipen",
+    "partOfSpeech": "Verb",
+    "language": "Dutch",
+    "definitions": {
+      "definition": "to swig, to drink heavily, to guzzle",
+      "parsedExamples": [
+        {
+          "example": "Nu zuipt hij nog volop, maar wacht tot hij morgen wakker wordt!",
+          "translation": "Now he's still swigging like crazy, but wait until he wakes up tomorrow morning!"
+        }
+      ],
+      "examples": [
+        "Nu zuipt hij nog volop, maar wacht tot hij morgen wakker wordt!"
+      ]
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "umpteen": {
+    "word": "umpteen",
+    "partOfSpeech": "Determiner",
+    "language": "English",
+    "definitions": {
+      "definition": "Relatively large but unspecified in number.",
+      "parsedExamples": [
+        {
+          "example": "She's taking umpteen friends with her to the party."
+        }
+      ],
+      "examples": [
+        "She's taking umpteen friends with her to the party."
+      ]
+    }
+  }
+}

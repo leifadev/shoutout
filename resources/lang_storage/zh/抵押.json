@@ -1,0 +1,18 @@
+{
+  "抵押": {
+    "word": "抵押",
+    "partOfSpeech": "Verb",
+    "language": "Chinese",
+    "definitions": {
+      "definition": "to mortgage; to provide security; to put up collateral",
+      "parsedExamples": [
+        {
+          "example": "抵押貸款 / 抵押贷款&nbsp; ―&nbsp; dǐyā dàikuǎn&nbsp; ―&nbsp; mortgage loan"
+        }
+      ],
+      "examples": [
+        "抵押貸款 / 抵押贷款&nbsp; ―&nbsp; dǐyā dàikuǎn&nbsp; ―&nbsp; mortgage loan"
+      ]
+    }
+  }
+}

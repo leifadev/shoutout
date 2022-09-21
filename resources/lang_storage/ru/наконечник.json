@@ -1,0 +1,20 @@
+{
+  "наконечник": {
+    "word": "наконечник",
+    "partOfSpeech": "Noun",
+    "language": "Russian",
+    "definitions": {
+      "definition": "ferrule, tip, point (extreme top of something)",
+      "parsedExamples": [
+        {
+          "example": "наконе́чник стрелы́",
+          "transliteration": "nakonéčnik strelý",
+          "translation": "arrow-head"
+        }
+      ],
+      "examples": [
+        "наконе́чник стрелы́"
+      ]
+    }
+  }
+}

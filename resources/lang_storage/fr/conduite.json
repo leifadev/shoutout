@@ -1,0 +1,19 @@
+{
+  "conduite": {
+    "word": "conduite",
+    "partOfSpeech": "Noun",
+    "language": "French",
+    "definitions": {
+      "definition": "behavior, conduct",
+      "parsedExamples": [
+        {
+          "example": "On m'a renvoyé pour mauvaise conduite.",
+          "translation": "I was sacked for bad behavior."
+        }
+      ],
+      "examples": [
+        "On m'a renvoyé pour mauvaise conduite."
+      ]
+    }
+  }
+}

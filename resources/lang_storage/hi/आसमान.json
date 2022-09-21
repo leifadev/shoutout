@@ -1,0 +1,20 @@
+{
+  "आसमान": {
+    "word": "आसमान",
+    "partOfSpeech": "Noun",
+    "language": "Hindi",
+    "definitions": {
+      "definition": "sky",
+      "parsedExamples": [
+        {
+          "example": "न्यू यार्क की इमारतें आसमान से बातें करती हैं ।",
+          "transliteration": "nyū yārk kī imārtẽ āsmān se bātẽ kartī ha͠i .",
+          "translation": "The buildings of New York talk to the sky."
+        }
+      ],
+      "examples": [
+        "न्यू यार्क की इमारतें आसमान से बातें करती हैं ।"
+      ]
+    }
+  }
+}

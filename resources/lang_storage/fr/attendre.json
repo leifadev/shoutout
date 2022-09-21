@@ -1,0 +1,24 @@
+{
+  "attendre": {
+    "word": "attendre",
+    "partOfSpeech": "Verb",
+    "language": "French",
+    "definitions": {
+      "definition": "to wait for, to await",
+      "parsedExamples": [
+        {
+          "example": "Je l'attends.",
+          "translation": "I'm waiting for her/him."
+        },
+        {
+          "example": "J’attends mon cousin à la gare.",
+          "translation": "I'm waiting for my cousin at the station."
+        }
+      ],
+      "examples": [
+        "Je l'attends.",
+        "J’attends mon cousin à la gare."
+      ]
+    }
+  }
+}

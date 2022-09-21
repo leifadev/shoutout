@@ -1,0 +1,29 @@
+{
+  "ribadire": {
+    "word": "ribadire",
+    "partOfSpeech": "Verb",
+    "language": "Italian",
+    "definitions": {
+      "definition": "(also with [di + inf.] or [che + ind.]) to reaffirm",
+      "parsedExamples": [
+        {
+          "example": "ribadire un concetto",
+          "translation": "to reaffirm a concept"
+        },
+        {
+          "example": "ribadisco di non averlo fatto",
+          "translation": "I reaffirm that I didn't do it"
+        },
+        {
+          "example": "ribadisca che non era presente",
+          "translation": "she reaffirms that she wasn't present"
+        }
+      ],
+      "examples": [
+        "ribadire un concetto",
+        "ribadisco di non averlo fatto",
+        "ribadisca che non era presente"
+      ]
+    }
+  }
+}

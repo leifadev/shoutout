@@ -1,0 +1,18 @@
+{
+  "pungent": {
+    "word": "pungent",
+    "partOfSpeech": "Adjective",
+    "language": "English",
+    "definitions": {
+      "definition": "Having a strong odor that stings the nose, said especially of acidic or spicy substances.",
+      "parsedExamples": [
+        {
+          "example": "I accidentally dropped the bottle of ammonia and after few seconds, a very pungent stench could be detected."
+        }
+      ],
+      "examples": [
+        "I accidentally dropped the bottle of ammonia and after few seconds, a very pungent stench could be detected."
+      ]
+    }
+  }
+}

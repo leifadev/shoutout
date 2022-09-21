@@ -1,0 +1,20 @@
+{
+  "와": {
+    "word": "와",
+    "partOfSpeech": "Interjection",
+    "language": "Korean",
+    "definitions": {
+      "definition": "woah, wow, hurrah; an interjection of surprise or excitement.",
+      "parsedExamples": [
+        {
+          "example": "와, 여름이다!",
+          "transliteration": "Wa, yeoreum-ida!",
+          "translation": "Hurray, it's summer!"
+        }
+      ],
+      "examples": [
+        "와, 여름이다!"
+      ]
+    }
+  }
+}

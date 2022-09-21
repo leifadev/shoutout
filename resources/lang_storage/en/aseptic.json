@@ -1,0 +1,18 @@
+{
+  "aseptic": {
+    "word": "aseptic",
+    "partOfSpeech": "Adjective",
+    "language": "English",
+    "definitions": {
+      "definition": "Free of disease-causing microbes.",
+      "parsedExamples": [
+        {
+          "example": "The lack of aseptic tools during surgery has resulted in many deaths."
+        }
+      ],
+      "examples": [
+        "The lack of aseptic tools during surgery has resulted in many deaths."
+      ]
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "detención": {
+    "word": "detención",
+    "partOfSpeech": "Noun",
+    "language": "Spanish",
+    "definitions": {
+      "definition": "arrest",
+      "parsedExamples": [
+        {
+          "example": "guardarle bajo detención"
+        }
+      ],
+      "examples": [
+        "guardarle bajo detención"
+      ]
+    }
+  }
+}

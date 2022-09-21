@@ -1,0 +1,19 @@
+{
+  "sok": {
+    "word": "sok",
+    "partOfSpeech": "Noun",
+    "language": "Polish",
+    "definitions": {
+      "definition": "juice",
+      "parsedExamples": [
+        {
+          "example": "Nalej mi jeszcze soku.",
+          "translation": "Pour me some more juice."
+        }
+      ],
+      "examples": [
+        "Nalej mi jeszcze soku."
+      ]
+    }
+  }
+}

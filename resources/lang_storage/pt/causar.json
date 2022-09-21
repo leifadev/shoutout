@@ -1,0 +1,24 @@
+{
+  "causar": {
+    "word": "causar",
+    "partOfSpeech": "Verb",
+    "language": "Portuguese",
+    "definitions": {
+      "definition": "to cause",
+      "parsedExamples": [
+        {
+          "example": "A guerra causou muitas mortes.",
+          "translation": "The war caused many deaths."
+        },
+        {
+          "example": "Roupas novas podem causar uma boa impressão.",
+          "translation": "New clothes may cause a good impression."
+        }
+      ],
+      "examples": [
+        "A guerra causou muitas mortes.",
+        "Roupas novas podem causar uma boa impressão."
+      ]
+    }
+  }
+}

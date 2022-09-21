@@ -1,0 +1,35 @@
+{
+  "污染": {
+    "word": "污染",
+    "partOfSpeech": "Verb",
+    "language": "Chinese",
+    "definitions": {
+      "definition": "to pollute; to contaminate",
+      "parsedExamples": [
+        {
+          "example": "被污染的空氣 / 被污染的空气&nbsp; ―&nbsp; bèi wūrǎn de kōngqì&nbsp; ―&nbsp; polluted air"
+        },
+        {
+          "example": "防止污染&nbsp; ―&nbsp; fángzhǐ wūrǎn&nbsp; ―&nbsp; to prevent pollution"
+        },
+        {
+          "example": "防治污染&nbsp; ―&nbsp; fángzhì wūrǎn&nbsp; ―&nbsp; to prevent and control pollution"
+        },
+        {
+          "example": "地下水污染修復 / 地下水污染修复&nbsp; ―&nbsp; dìxiàshuǐ wūrǎn xiūfù&nbsp; ―&nbsp; groundwater pollution remediation"
+        },
+        {
+          "translation": "Lánzhōu shì quánqiú wūrǎn zuì yánzhòng chéngshì zhīyī. [Pinyin]",
+          "example": ""
+        }
+      ],
+      "examples": [
+        "被污染的空氣 / 被污染的空气&nbsp; ―&nbsp; bèi wūrǎn de kōngqì&nbsp; ―&nbsp; polluted air",
+        "防止污染&nbsp; ―&nbsp; fángzhǐ wūrǎn&nbsp; ―&nbsp; to prevent pollution",
+        "防治污染&nbsp; ―&nbsp; fángzhì wūrǎn&nbsp; ―&nbsp; to prevent and control pollution",
+        "地下水污染修復 / 地下水污染修复&nbsp; ―&nbsp; dìxiàshuǐ wūrǎn xiūfù&nbsp; ―&nbsp; groundwater pollution remediation",
+        ""
+      ]
+    }
+  }
+}

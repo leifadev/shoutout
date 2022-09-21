@@ -1,0 +1,20 @@
+{
+  "سماوي": {
+    "word": "سماوي",
+    "partOfSpeech": "Adjective",
+    "language": "Arabic",
+    "definitions": {
+      "definition": "celestial",
+      "parsedExamples": [
+        {
+          "example": "الأَدْيَانُ السَّمَاوِيَّةُ",
+          "transliteration": "al-ʾadyānu s-samāwiyyatu",
+          "translation": "the celestial religions (i.e. Abrahamic religions)"
+        }
+      ],
+      "examples": [
+        "الأَدْيَانُ السَّمَاوِيَّةُ"
+      ]
+    }
+  }
+}

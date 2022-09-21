@@ -1,0 +1,24 @@
+{
+  "beaucoup": {
+    "word": "beaucoup",
+    "partOfSpeech": "Adverb",
+    "language": "French",
+    "definitions": {
+      "definition": "much, very much, a lot",
+      "parsedExamples": [
+        {
+          "example": "Merci beaucoup!",
+          "translation": "Thank you very much!"
+        },
+        {
+          "example": "Je mange beaucoup.",
+          "translation": "I eat a lot."
+        }
+      ],
+      "examples": [
+        "Merci beaucoup!",
+        "Je mange beaucoup."
+      ]
+    }
+  }
+}

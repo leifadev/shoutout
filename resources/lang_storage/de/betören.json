@@ -1,0 +1,24 @@
+{
+  "betören": {
+    "word": "betören",
+    "partOfSpeech": "Verb",
+    "language": "German",
+    "definitions": {
+      "definition": "to bewitch, infatuate, intoxicate, stupefy, to make someone unable to think straight",
+      "parsedExamples": [
+        {
+          "example": "Der Blick ihrer pechschwarzen Augen betörte ihn.",
+          "translation": "The glance of her pitch-black eyes infatuated him."
+        },
+        {
+          "example": "Ich war betört von der lauten Musik und der tanzenden Menge.",
+          "translation": "I was intoxicated by the loud music and the dancing crowd."
+        }
+      ],
+      "examples": [
+        "Der Blick ihrer pechschwarzen Augen betörte ihn.",
+        "Ich war betört von der lauten Musik und der tanzenden Menge."
+      ]
+    }
+  }
+}

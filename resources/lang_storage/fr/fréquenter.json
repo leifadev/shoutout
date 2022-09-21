@@ -1,0 +1,19 @@
+{
+  "fréquenter": {
+    "word": "fréquenter",
+    "partOfSpeech": "Verb",
+    "language": "French",
+    "definitions": {
+      "definition": "to frequent, to go to (a place)",
+      "parsedExamples": [
+        {
+          "example": "Il ne fréquente plus les bars.",
+          "translation": "He no longer goes to bars."
+        }
+      ],
+      "examples": [
+        "Il ne fréquente plus les bars."
+      ]
+    }
+  }
+}

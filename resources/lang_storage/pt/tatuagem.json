@@ -1,0 +1,19 @@
+{
+  "tatuagem": {
+    "word": "tatuagem",
+    "partOfSpeech": "Noun",
+    "language": "Portuguese",
+    "definitions": {
+      "definition": "tattoo",
+      "parsedExamples": [
+        {
+          "example": "Meu irmão tem muitas tatuagens.",
+          "translation": "My brother has a lot of tattoos."
+        }
+      ],
+      "examples": [
+        "Meu irmão tem muitas tatuagens."
+      ]
+    }
+  }
+}

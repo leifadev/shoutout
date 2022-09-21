@@ -1,0 +1,19 @@
+{
+  "frapper": {
+    "word": "frapper",
+    "partOfSpeech": "Verb",
+    "language": "French",
+    "definitions": {
+      "definition": "to hit, to strike, to bash",
+      "parsedExamples": [
+        {
+          "example": "Il m'a frappé le bras.",
+          "translation": "He hit me on the arm."
+        }
+      ],
+      "examples": [
+        "Il m'a frappé le bras."
+      ]
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "misnomer": {
+    "word": "misnomer",
+    "partOfSpeech": "Noun",
+    "language": "English",
+    "definitions": {
+      "definition": "A use of a term that is misleading; a misname.",
+      "parsedExamples": [
+        {
+          "example": "Calling it a driveway is a bit of a misnomer, since you don't drive on it, you park on it."
+        }
+      ],
+      "examples": [
+        "Calling it a driveway is a bit of a misnomer, since you don't drive on it, you park on it."
+      ]
+    }
+  }
+}

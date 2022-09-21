@@ -1,0 +1,18 @@
+{
+  "abscond": {
+    "word": "abscond",
+    "partOfSpeech": "Verb",
+    "language": "English",
+    "definitions": {
+      "definition": "To flee, often secretly; to steal away.",
+      "parsedExamples": [
+        {
+          "example": "The thieves absconded with our property."
+        }
+      ],
+      "examples": [
+        "The thieves absconded with our property."
+      ]
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "비계": {
+    "word": "비계",
+    "partOfSpeech": "Noun",
+    "language": "Korean",
+    "definitions": {
+      "definition": "fat in meat, especially pork",
+      "parsedExamples": [
+        {
+          "example": "비계는 건강에 해롭다.",
+          "transliteration": "Bigye-neun geon'gang-e haeropda.",
+          "translation": "Fat in meat is bad for you."
+        }
+      ],
+      "examples": [
+        "비계는 건강에 해롭다."
+      ]
+    }
+  }
+}

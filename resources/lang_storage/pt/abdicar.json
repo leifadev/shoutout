@@ -1,0 +1,19 @@
+{
+  "abdicar": {
+    "word": "abdicar",
+    "partOfSpeech": "Verb",
+    "language": "Portuguese",
+    "definitions": {
+      "definition": "to abdicate",
+      "parsedExamples": [
+        {
+          "example": "O imperador Dom Pedro I abdicou.",
+          "translation": "The emperor Peter I abdicated."
+        }
+      ],
+      "examples": [
+        "O imperador Dom Pedro I abdicou."
+      ]
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "gregario": {
+    "word": "gregario",
+    "partOfSpeech": "Adjective",
+    "language": "Italian",
+    "definitions": {
+      "definition": "pertaining or relative to a follower; unable of showing any enterprise or autonomy",
+      "parsedExamples": [
+        {
+          "example": "atteggiamento gregario",
+          "translation": "follower's attitude"
+        }
+      ],
+      "examples": [
+        "atteggiamento gregario"
+      ]
+    }
+  }
+}

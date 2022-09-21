@@ -1,0 +1,19 @@
+{
+  "Deutsch": {
+    "word": "deutsch",
+    "partOfSpeech": "Adjective",
+    "language": "German",
+    "definitions": {
+      "definition": "German (of or pertaining to the German people)",
+      "parsedExamples": [
+        {
+          "example": "Meine Mutter ist deutscher Herkunft, aber mein Vater ist Schwede.",
+          "translation": "My mother is of German origin, but my father is a Swede."
+        }
+      ],
+      "examples": [
+        "Meine Mutter ist deutscher Herkunft, aber mein Vater ist Schwede."
+      ]
+    }
+  }
+}

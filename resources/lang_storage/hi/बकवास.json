@@ -1,0 +1,20 @@
+{
+  "बकवास": {
+    "word": "बकवास",
+    "partOfSpeech": "Noun",
+    "language": "Hindi",
+    "definitions": {
+      "definition": "nonsense, idiocy",
+      "parsedExamples": [
+        {
+          "example": "बकवास बंद करो!",
+          "transliteration": "bakvās band karo!",
+          "translation": "Stop this nonsense!"
+        }
+      ],
+      "examples": [
+        "बकवास बंद करो!"
+      ]
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "bénin": {
+    "word": "bénin",
+    "partOfSpeech": "Adjective",
+    "language": "French",
+    "definitions": {
+      "definition": "benign",
+      "parsedExamples": [
+        {
+          "example": "tumeur bénigne",
+          "translation": "benign tumor"
+        }
+      ],
+      "examples": [
+        "tumeur bénigne"
+      ]
+    }
+  }
+}

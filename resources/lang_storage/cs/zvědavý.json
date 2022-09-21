@@ -1,0 +1,19 @@
+{
+  "zvědavý": {
+    "word": "zvědavý",
+    "partOfSpeech": "Adjective",
+    "language": "Czech",
+    "definitions": {
+      "definition": "curious (inquisitive)",
+      "parsedExamples": [
+        {
+          "example": "Kdo je (moc) zvědavý, bude brzy starý.",
+          "translation": "Who is (very) curious, will soon become old."
+        }
+      ],
+      "examples": [
+        "Kdo je (moc) zvědavý, bude brzy starý."
+      ]
+    }
+  }
+}

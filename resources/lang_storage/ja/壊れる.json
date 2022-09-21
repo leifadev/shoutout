@@ -1,0 +1,24 @@
+{
+  "壊れる": {
+    "word": "壊れる",
+    "partOfSpeech": "Verb",
+    "language": "Japanese",
+    "definitions": {
+      "definition": "to break, to be broken, to be destroyed, to be wrecked",
+      "parsedExamples": [
+        {
+          "translation": "Kōzui de hashi ga kowareta.",
+          "example": "洪水(こうずい)で橋(はし)が壊(こわ)れた。"
+        },
+        {
+          "translation": "Shōtotsu jiko de jidōsha ga kowareta.",
+          "example": "衝突(しょうとつ)事故(じこ)で自動車(じどうしゃ)が壊(こわ)れた。"
+        }
+      ],
+      "examples": [
+        "洪水(こうずい)で橋(はし)が壊(こわ)れた。",
+        "衝突(しょうとつ)事故(じこ)で自動車(じどうしゃ)が壊(こわ)れた。"
+      ]
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "mozek": {
+    "word": "mozek",
+    "partOfSpeech": "Noun",
+    "language": "Czech",
+    "definitions": {
+      "definition": "brain",
+      "parsedExamples": [
+        {
+          "example": "Podstoupil operaci mozku.",
+          "translation": "He underwent a brain operation"
+        }
+      ],
+      "examples": [
+        "Podstoupil operaci mozku."
+      ]
+    }
+  }
+}

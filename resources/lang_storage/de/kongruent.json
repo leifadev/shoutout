@@ -1,0 +1,10 @@
+{
+  "kongruent": {
+    "word": "kongruent",
+    "partOfSpeech": "Adjective",
+    "language": "German",
+    "definitions": {
+      "definition": "congruent (with difference divisible by modulus)"
+    }
+  }
+}

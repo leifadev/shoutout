@@ -1,0 +1,20 @@
+{
+  "косо": {
+    "word": "косо",
+    "partOfSpeech": "Adverb",
+    "language": "Russian",
+    "definitions": {
+      "definition": "slantwise, obliquely, aslant, askew, asquint",
+      "parsedExamples": [
+        {
+          "example": "смотре́ть ко́со",
+          "transliteration": "smotrétʹ kóso",
+          "translation": "to look sideways, to look askance, to frown upon smb., to scowl"
+        }
+      ],
+      "examples": [
+        "смотре́ть ко́со"
+      ]
+    }
+  }
+}

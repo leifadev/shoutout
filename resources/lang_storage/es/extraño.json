@@ -1,0 +1,24 @@
+{
+  "extraño": {
+    "word": "extraño",
+    "partOfSpeech": "Adjective",
+    "language": "Spanish",
+    "definitions": {
+      "definition": "strange, unusual, odd, weird, bizarre, uncanny, rare, peculiar, freaky, freakish, freak, curious",
+      "parsedExamples": [
+        {
+          "example": "Es extraño cómo las cosas pueden cambiar tan rápidamente.",
+          "translation": "It's strange how things can change so quickly."
+        },
+        {
+          "example": "La señora casi perdió la pierna en un accidente extraño.",
+          "translation": "The lady almost lost her leg in a freak accident."
+        }
+      ],
+      "examples": [
+        "Es extraño cómo las cosas pueden cambiar tan rápidamente.",
+        "La señora casi perdió la pierna en un accidente extraño."
+      ]
+    }
+  }
+}

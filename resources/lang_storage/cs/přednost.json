@@ -1,0 +1,19 @@
+{
+  "přednost": {
+    "word": "přednost",
+    "partOfSpeech": "Noun",
+    "language": "Czech",
+    "definitions": {
+      "definition": "priority",
+      "parsedExamples": [
+        {
+          "example": "Toto má přednost.",
+          "translation": "This takes precedence."
+        }
+      ],
+      "examples": [
+        "Toto má přednost."
+      ]
+    }
+  }
+}

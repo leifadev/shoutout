@@ -1,0 +1,18 @@
+{
+  "proscribe": {
+    "word": "proscribe",
+    "partOfSpeech": "Verb",
+    "language": "English",
+    "definitions": {
+      "definition": "To forbid or prohibit.",
+      "parsedExamples": [
+        {
+          "example": "The law proscribes driving a car while intoxicated."
+        }
+      ],
+      "examples": [
+        "The law proscribes driving a car while intoxicated."
+      ]
+    }
+  }
+}

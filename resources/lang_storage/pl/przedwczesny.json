@@ -1,0 +1,19 @@
+{
+  "przedwczesny": {
+    "word": "przedwczesny",
+    "partOfSpeech": "Adjective",
+    "language": "Polish",
+    "definitions": {
+      "definition": "premature",
+      "parsedExamples": [
+        {
+          "example": "przedwczesny wytrysk",
+          "translation": "premature ejaculation"
+        }
+      ],
+      "examples": [
+        "przedwczesny wytrysk"
+      ]
+    }
+  }
+}

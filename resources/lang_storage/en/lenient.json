@@ -1,0 +1,18 @@
+{
+  "lenient": {
+    "word": "lenient",
+    "partOfSpeech": "Adjective",
+    "language": "English",
+    "definitions": {
+      "definition": "Lax; not strict; tolerant of dissent or deviation",
+      "parsedExamples": [
+        {
+          "example": "The standard is fairly lenient, so use your discretion."
+        }
+      ],
+      "examples": [
+        "The standard is fairly lenient, so use your discretion."
+      ]
+    }
+  }
+}

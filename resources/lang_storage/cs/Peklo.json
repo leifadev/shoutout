@@ -1,0 +1,44 @@
+{
+  "Peklo": {
+    "word": "peklo",
+    "partOfSpeech": "Noun",
+    "language": "Czech",
+    "definitions": {
+      "definition": "hell",
+      "parsedExamples": [
+        {
+          "example": "Kníže Pekel",
+          "translation": "The Prince of Darkness"
+        },
+        {
+          "example": "mít z pekla štěstí",
+          "translation": "to be dead lucky"
+        },
+        {
+          "example": "mít peklo na zemi",
+          "translation": "to experience hell on earth"
+        },
+        {
+          "example": "Nastalo učiněné peklo.",
+          "translation": "All hell broke loose."
+        },
+        {
+          "example": "udělat mu ze života peklo",
+          "translation": "to make someone's life a living hell"
+        },
+        {
+          "example": "udělat peklo",
+          "translation": "to raise hell"
+        }
+      ],
+      "examples": [
+        "Kníže Pekel",
+        "mít z pekla štěstí",
+        "mít peklo na zemi",
+        "Nastalo učiněné peklo.",
+        "udělat mu ze života peklo",
+        "udělat peklo"
+      ]
+    }
+  }
+}

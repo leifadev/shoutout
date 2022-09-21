@@ -1,0 +1,18 @@
+{
+  "diminution": {
+    "word": "diminution",
+    "partOfSpeech": "Noun",
+    "language": "English",
+    "definitions": {
+      "definition": "A lessening, decrease or reduction.",
+      "parsedExamples": [
+        {
+          "example": "The new emission standards have produced a measurable diminution in air pollution."
+        }
+      ],
+      "examples": [
+        "The new emission standards have produced a measurable diminution in air pollution."
+      ]
+    }
+  }
+}

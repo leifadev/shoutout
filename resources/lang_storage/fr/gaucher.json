@@ -1,0 +1,24 @@
+{
+  "gaucher": {
+    "word": "gaucher",
+    "partOfSpeech": "Adjective",
+    "language": "French",
+    "definitions": {
+      "definition": "left-handed",
+      "parsedExamples": [
+        {
+          "example": "Marie est gauchère.",
+          "translation": "Marie is left-handed."
+        },
+        {
+          "example": "Parfois c'est très difficile de trouver des ciseaux pour gauchers.",
+          "translation": "Sometimes it's very difficult to find left-handed scissors."
+        }
+      ],
+      "examples": [
+        "Marie est gauchère.",
+        "Parfois c'est très difficile de trouver des ciseaux pour gauchers."
+      ]
+    }
+  }
+}

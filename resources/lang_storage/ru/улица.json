@@ -1,0 +1,20 @@
+{
+  "улица": {
+    "word": "улица",
+    "partOfSpeech": "Noun",
+    "language": "Russian",
+    "definitions": {
+      "definition": "street",
+      "parsedExamples": [
+        {
+          "example": "на у́лице",
+          "transliteration": "na úlice",
+          "translation": "outdoors"
+        }
+      ],
+      "examples": [
+        "на у́лице"
+      ]
+    }
+  }
+}

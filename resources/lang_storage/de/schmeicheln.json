@@ -1,0 +1,19 @@
+{
+  "schmeicheln": {
+    "word": "schmeicheln",
+    "partOfSpeech": "Verb",
+    "language": "German",
+    "definitions": {
+      "definition": "to flatter",
+      "parsedExamples": [
+        {
+          "example": "jemandem schmeicheln",
+          "translation": "to flatter someone"
+        }
+      ],
+      "examples": [
+        "jemandem schmeicheln"
+      ]
+    }
+  }
+}

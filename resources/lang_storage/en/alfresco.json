@@ -1,0 +1,18 @@
+{
+  "alfresco": {
+    "word": "alfresco",
+    "partOfSpeech": "Adjective",
+    "language": "English",
+    "definitions": {
+      "definition": "Outdoors, open to the atmosphere.",
+      "parsedExamples": [
+        {
+          "example": "The walking district features many alfresco cafés."
+        }
+      ],
+      "examples": [
+        "The walking district features many alfresco cafés."
+      ]
+    }
+  }
+}

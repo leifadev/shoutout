@@ -1,0 +1,41 @@
+{
+  "事故": {
+    "word": "事故",
+    "partOfSpeech": "Noun",
+    "language": "Chinese",
+    "definitions": {
+      "definition": "accident; mishap (Classifier: 個／个 m;&nbsp;起 m)",
+      "parsedExamples": [
+        {
+          "example": "緊急事故 / 紧急事故&nbsp; ―&nbsp; jǐnjí shìgù&nbsp; ―&nbsp; emergency"
+        },
+        {
+          "example": "事故高發路段 / 事故高发路段&nbsp; ―&nbsp; shìgù gāofā lùduàn&nbsp; ―&nbsp; stretch of road prone to traffic accidents"
+        },
+        {
+          "example": "出事故了。&nbsp; ―&nbsp; Chū shìgù le.&nbsp; ―&nbsp; There's been an accident."
+        },
+        {
+          "translation": "Tā yùdào le yī ge shìgù. [Pinyin]",
+          "example": ""
+        },
+        {
+          "translation": "Tā zài nà cì shìgù zhōng ānránwúyàng. [Pinyin]",
+          "example": ""
+        },
+        {
+          "translation": "Shìgù de chùlǐ yào yángé ànzhào guójiā fǎlǜ guīdìng de tiáolì lái zhíxíng. [Pinyin]",
+          "example": ""
+        }
+      ],
+      "examples": [
+        "緊急事故 / 紧急事故&nbsp; ―&nbsp; jǐnjí shìgù&nbsp; ―&nbsp; emergency",
+        "事故高發路段 / 事故高发路段&nbsp; ―&nbsp; shìgù gāofā lùduàn&nbsp; ―&nbsp; stretch of road prone to traffic accidents",
+        "出事故了。&nbsp; ―&nbsp; Chū shìgù le.&nbsp; ―&nbsp; There's been an accident.",
+        "",
+        "",
+        ""
+      ]
+    }
+  }
+}

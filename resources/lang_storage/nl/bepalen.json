@@ -1,0 +1,19 @@
+{
+  "bepalen": {
+    "word": "bepalen",
+    "partOfSpeech": "Verb",
+    "language": "Dutch",
+    "definitions": {
+      "definition": "to determine, to figure out",
+      "parsedExamples": [
+        {
+          "example": "Dat is bepaald door de wet.",
+          "translation": "That is determined by law."
+        }
+      ],
+      "examples": [
+        "Dat is bepaald door de wet."
+      ]
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "günstig": {
+    "word": "günstig",
+    "partOfSpeech": "Adjective",
+    "language": "German",
+    "definitions": {
+      "definition": "favourable, propitious, opportune",
+      "parsedExamples": [
+        {
+          "example": "Ich werde sie fragen, aber ich warte auf einen günstigen Moment.",
+          "translation": "I'll ask her, but I'm waiting for an opportune moment."
+        }
+      ],
+      "examples": [
+        "Ich werde sie fragen, aber ich warte auf einen günstigen Moment."
+      ]
+    }
+  }
+}

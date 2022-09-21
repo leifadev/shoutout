@@ -1,0 +1,29 @@
+{
+  "allemand": {
+    "word": "allemand",
+    "partOfSpeech": "Noun",
+    "language": "French",
+    "definitions": {
+      "definition": "German (The German language)",
+      "parsedExamples": [
+        {
+          "example": "L’allemand est une langue germanique.",
+          "translation": "German is a Germanic language."
+        },
+        {
+          "example": "Mon stagiaire parle un allemand impeccable.",
+          "translation": "My trainee speaks perfect German."
+        },
+        {
+          "example": "Parlez-vous allemand&nbsp;?",
+          "translation": "Do you speak German?"
+        }
+      ],
+      "examples": [
+        "L’allemand est une langue germanique.",
+        "Mon stagiaire parle un allemand impeccable.",
+        "Parlez-vous allemand&nbsp;?"
+      ]
+    }
+  }
+}

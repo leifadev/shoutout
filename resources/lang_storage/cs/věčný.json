@@ -1,0 +1,19 @@
+{
+  "věčný": {
+    "word": "věčný",
+    "partOfSpeech": "Adjective",
+    "language": "Czech",
+    "definitions": {
+      "definition": "eternal, perpetual",
+      "parsedExamples": [
+        {
+          "example": "věčný dluhopis",
+          "translation": "perpetual bond"
+        }
+      ],
+      "examples": [
+        "věčný dluhopis"
+      ]
+    }
+  }
+}

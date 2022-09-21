@@ -1,0 +1,18 @@
+{
+  "或者": {
+    "word": "或者",
+    "partOfSpeech": "Conjunction",
+    "language": "Chinese",
+    "definitions": {
+      "definition": "or",
+      "parsedExamples": [
+        {
+          "example": "A或者B&nbsp; ―&nbsp; A huòzhě B&nbsp; ―&nbsp; A or B"
+        }
+      ],
+      "examples": [
+        "A或者B&nbsp; ―&nbsp; A huòzhě B&nbsp; ―&nbsp; A or B"
+      ]
+    }
+  }
+}

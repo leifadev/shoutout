@@ -1,0 +1,30 @@
+{
+  "明智": {
+    "word": "明智",
+    "partOfSpeech": "Adjective",
+    "language": "Chinese",
+    "definitions": {
+      "definition": "wise; smart; sensible",
+      "parsedExamples": [
+        {
+          "example": "明智的選擇 / 明智的选择&nbsp; ―&nbsp; míngzhì de xuǎnzé&nbsp; ―&nbsp; wise choice"
+        },
+        {
+          "example": "明智的辦法 / 明智的办法&nbsp; ―&nbsp; míngzhì de bànfǎ&nbsp; ―&nbsp; smart way"
+        },
+        {
+          "example": "明智的決策 / 明智的决策&nbsp; ―&nbsp; míngzhì de juécè&nbsp; ―&nbsp; sensible decision"
+        },
+        {
+          "example": "明智的領導 / 明智的领导&nbsp; ―&nbsp; míngzhì de lǐngdǎo&nbsp; ―&nbsp; wise leadership"
+        }
+      ],
+      "examples": [
+        "明智的選擇 / 明智的选择&nbsp; ―&nbsp; míngzhì de xuǎnzé&nbsp; ―&nbsp; wise choice",
+        "明智的辦法 / 明智的办法&nbsp; ―&nbsp; míngzhì de bànfǎ&nbsp; ―&nbsp; smart way",
+        "明智的決策 / 明智的决策&nbsp; ―&nbsp; míngzhì de juécè&nbsp; ―&nbsp; sensible decision",
+        "明智的領導 / 明智的领导&nbsp; ―&nbsp; míngzhì de lǐngdǎo&nbsp; ―&nbsp; wise leadership"
+      ]
+    }
+  }
+}

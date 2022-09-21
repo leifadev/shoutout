@@ -1,0 +1,19 @@
+{
+  "prodejný": {
+    "word": "prodejný",
+    "partOfSpeech": "Adjective",
+    "language": "Czech",
+    "definitions": {
+      "definition": "salable, sellable",
+      "parsedExamples": [
+        {
+          "example": "volně prodejný lék",
+          "translation": "over-the-counter drug"
+        }
+      ],
+      "examples": [
+        "volně prodejný lék"
+      ]
+    }
+  }
+}

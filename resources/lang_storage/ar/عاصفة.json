@@ -1,0 +1,20 @@
+{
+  "عاصفة": {
+    "word": "عاصفة",
+    "partOfSpeech": "Noun",
+    "language": "Arabic",
+    "definitions": {
+      "definition": "storm",
+      "parsedExamples": [
+        {
+          "example": "عَاصِفَة رَعْدِيَّة",
+          "transliteration": "ʿāṣifa raʿdiyya",
+          "translation": "thunderstorm"
+        }
+      ],
+      "examples": [
+        "عَاصِفَة رَعْدِيَّة"
+      ]
+    }
+  }
+}

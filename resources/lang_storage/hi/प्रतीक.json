@@ -1,0 +1,20 @@
+{
+  "प्रतीक": {
+    "word": "प्रतीक",
+    "partOfSpeech": "Noun",
+    "language": "Hindi",
+    "definitions": {
+      "definition": "symbol; emblem",
+      "parsedExamples": [
+        {
+          "example": "यह है अमेरिका का प्रतीक, हर सरकारी प्रलेख पर छपाया है।",
+          "transliteration": "yah hai amerikā kā pratīk, har sarkārī pralekh par chapāyā hai.",
+          "translation": "This is the emblem of America, it is printed on every governmental document."
+        }
+      ],
+      "examples": [
+        "यह है अमेरिका का प्रतीक, हर सरकारी प्रलेख पर छपाया है।"
+      ]
+    }
+  }
+}

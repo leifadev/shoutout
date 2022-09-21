@@ -1,0 +1,39 @@
+{
+  "bezwzględny": {
+    "word": "bezwzględny",
+    "partOfSpeech": "Adjective",
+    "language": "Polish",
+    "definitions": {
+      "definition": "harsh, merciless, ruthless",
+      "parsedExamples": [
+        {
+          "example": "Musimy być bezwzględni wobec przestępców.",
+          "translation": "We have to be harsh on criminals."
+        },
+        {
+          "example": "bezwzględna konkurencja",
+          "translation": "fierce/severe/stiff/cutthroat competition"
+        },
+        {
+          "example": "bezwzględna walka",
+          "translation": "a vicious fight"
+        },
+        {
+          "example": "bezwzględne działanie",
+          "translation": "vicious action"
+        },
+        {
+          "example": "bezwzględne niszczenie",
+          "translation": "ruthless destruction"
+        }
+      ],
+      "examples": [
+        "Musimy być bezwzględni wobec przestępców.",
+        "bezwzględna konkurencja",
+        "bezwzględna walka",
+        "bezwzględne działanie",
+        "bezwzględne niszczenie"
+      ]
+    }
+  }
+}

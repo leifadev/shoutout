@@ -1,0 +1,19 @@
+{
+  "横幅": {
+    "word": "横幅",
+    "partOfSpeech": "Noun",
+    "language": "Japanese",
+    "definitions": {
+      "definition": "the horizontal breadth or width",
+      "parsedExamples": [
+        {
+          "translation": "Kono nuno ga nagasa hyaku senchi to yokohaba sanjū senchi desu.",
+          "example": "この布(ぬの)が長(なが)さ百(ひゃく)センチと横幅(よこはば)三十(さんじゅう)センチです。"
+        }
+      ],
+      "examples": [
+        "この布(ぬの)が長(なが)さ百(ひゃく)センチと横幅(よこはば)三十(さんじゅう)センチです。"
+      ]
+    }
+  }
+}

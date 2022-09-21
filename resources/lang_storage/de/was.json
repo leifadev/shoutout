@@ -1,0 +1,19 @@
+{
+  "was": {
+    "word": "was",
+    "partOfSpeech": "Pronoun",
+    "language": "German",
+    "definitions": {
+      "definition": "what",
+      "parsedExamples": [
+        {
+          "example": "Was machst du heute?",
+          "translation": "What are you doing today?"
+        }
+      ],
+      "examples": [
+        "Was machst du heute?"
+      ]
+    }
+  }
+}

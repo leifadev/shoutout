@@ -1,0 +1,20 @@
+{
+  "स्थापना": {
+    "word": "स्थापना",
+    "partOfSpeech": "Noun",
+    "language": "Hindi",
+    "definitions": {
+      "definition": "establishment, foundation, making",
+      "parsedExamples": [
+        {
+          "example": "इस विद्यालय की स्थापना कब हुई थी?",
+          "transliteration": "is vidyālay kī sthāpnā kab huī thī?",
+          "translation": "When was this institution founded?"
+        }
+      ],
+      "examples": [
+        "इस विद्यालय की स्थापना कब हुई थी?"
+      ]
+    }
+  }
+}

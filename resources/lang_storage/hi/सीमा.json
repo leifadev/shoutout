@@ -1,0 +1,20 @@
+{
+  "सीमा": {
+    "word": "सीमा",
+    "partOfSpeech": "Noun",
+    "language": "Hindi",
+    "definitions": {
+      "definition": "limit",
+      "parsedExamples": [
+        {
+          "example": "धैर्य की भी कोई सीमा होती है।",
+          "transliteration": "dhairya kī bhī koī sīmā hotī hai.",
+          "translation": "There is a limit to one's patience."
+        }
+      ],
+      "examples": [
+        "धैर्य की भी कोई सीमा होती है।"
+      ]
+    }
+  }
+}

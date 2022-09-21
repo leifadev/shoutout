@@ -1,0 +1,19 @@
+{
+  "niente": {
+    "word": "niente",
+    "partOfSpeech": "Pronoun",
+    "language": "Italian",
+    "definitions": {
+      "definition": "nothing",
+      "parsedExamples": [
+        {
+          "example": "Cosa fai? Niente.",
+          "translation": "What are you doing? Nothing."
+        }
+      ],
+      "examples": [
+        "Cosa fai? Niente."
+      ]
+    }
+  }
+}

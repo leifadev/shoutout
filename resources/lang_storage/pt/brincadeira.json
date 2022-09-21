@@ -1,0 +1,19 @@
+{
+  "brincadeira": {
+    "word": "brincadeira",
+    "partOfSpeech": "Noun",
+    "language": "Portuguese",
+    "definitions": {
+      "definition": "game, play",
+      "parsedExamples": [
+        {
+          "example": "Era uma brincadeira de criança.",
+          "translation": "It was child's play."
+        }
+      ],
+      "examples": [
+        "Era uma brincadeira de criança."
+      ]
+    }
+  }
+}

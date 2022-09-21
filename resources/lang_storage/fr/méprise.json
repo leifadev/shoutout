@@ -1,0 +1,19 @@
+{
+  "méprise": {
+    "word": "méprise",
+    "partOfSpeech": "Noun",
+    "language": "French",
+    "definitions": {
+      "definition": "mistake",
+      "parsedExamples": [
+        {
+          "example": "L'homme est tué par méprise.",
+          "translation": "The man is killed by mistake."
+        }
+      ],
+      "examples": [
+        "L'homme est tué par méprise."
+      ]
+    }
+  }
+}

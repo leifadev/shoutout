@@ -1,0 +1,18 @@
+{
+  "carouse": {
+    "word": "carouse",
+    "partOfSpeech": "Verb",
+    "language": "English",
+    "definitions": {
+      "definition": "To engage in a noisy or drunken social gathering.",
+      "parsedExamples": [
+        {
+          "example": "We are all going to carouse at Brian's tonight."
+        }
+      ],
+      "examples": [
+        "We are all going to carouse at Brian's tonight."
+      ]
+    }
+  }
+}

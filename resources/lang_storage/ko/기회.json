@@ -1,0 +1,20 @@
+{
+  "기회": {
+    "word": "기회",
+    "partOfSpeech": "Noun",
+    "language": "Korean",
+    "definitions": {
+      "definition": "opportunity",
+      "parsedExamples": [
+        {
+          "example": "지금이 기회이다.",
+          "transliteration": "Jigeumi gihoeida.",
+          "translation": "Now is your opportunity."
+        }
+      ],
+      "examples": [
+        "지금이 기회이다."
+      ]
+    }
+  }
+}

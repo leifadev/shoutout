@@ -1,0 +1,19 @@
+{
+  "omnibus": {
+    "word": "omnibus",
+    "partOfSpeech": "Adjective",
+    "language": "French",
+    "definitions": {
+      "definition": "local (of a train; making stops at all stations)",
+      "parsedExamples": [
+        {
+          "example": "un train omnibus",
+          "translation": "a local train"
+        }
+      ],
+      "examples": [
+        "un train omnibus"
+      ]
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "verurteilen": {
+    "word": "verurteilen",
+    "partOfSpeech": "Verb",
+    "language": "German",
+    "definitions": {
+      "definition": "to convict, condemn, sentence",
+      "parsedExamples": [
+        {
+          "example": "Der Angeklagte wurde verurteilt.",
+          "translation": "The accused was convicted."
+        },
+        {
+          "example": "Der Angeklagte wurde zu einer Geldstrafe verurteilt.",
+          "translation": "The accused was sentenced to pay a fine."
+        }
+      ],
+      "examples": [
+        "Der Angeklagte wurde verurteilt.",
+        "Der Angeklagte wurde zu einer Geldstrafe verurteilt."
+      ]
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "paradigm": {
+    "word": "paradigm",
+    "partOfSpeech": "Noun",
+    "language": "English",
+    "definitions": {
+      "definition": "A pattern, a way of doing something, especially  a pattern of thought, a system of beliefs, a conceptual framework.",
+      "parsedExamples": [
+        {
+          "example": "Thomas Kuhn's landmark “The Structure of Scientific Revolutions” got people talking about paradigm shifts, to the point the word itself now suggests an incomplete or biased perspective."
+        }
+      ],
+      "examples": [
+        "Thomas Kuhn's landmark “The Structure of Scientific Revolutions” got people talking about paradigm shifts, to the point the word itself now suggests an incomplete or biased perspective."
+      ]
+    }
+  }
+}

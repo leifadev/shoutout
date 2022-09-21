@@ -1,0 +1,20 @@
+{
+  "जल्द": {
+    "word": "जल्द",
+    "partOfSpeech": "Noun",
+    "language": "Hindi",
+    "definitions": {
+      "definition": "haste, speed, swiftness",
+      "parsedExamples": [
+        {
+          "example": "जल्द से जल्द यहाँ ट्रेन पकड़कर आ जाओ।",
+          "transliteration": "jald se jald yahā̃ ṭren pakaṛkar ā jāo.",
+          "translation": "Get on a train and come here as fast as possible."
+        }
+      ],
+      "examples": [
+        "जल्द से जल्द यहाँ ट्रेन पकड़कर आ जाओ।"
+      ]
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "shopaholic": {
+    "word": "shopaholic",
+    "partOfSpeech": "Noun",
+    "language": "English",
+    "definitions": {
+      "definition": "One who shops excessively; a shopping addict.",
+      "parsedExamples": [
+        {
+          "example": "Shopaholics lose a lot of their money and possibly go broke because they've spent all of it."
+        }
+      ],
+      "examples": [
+        "Shopaholics lose a lot of their money and possibly go broke because they've spent all of it."
+      ]
+    }
+  }
+}

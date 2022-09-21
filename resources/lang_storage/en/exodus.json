@@ -1,0 +1,26 @@
+{
+  "exodus": {
+    "word": "exodus",
+    "partOfSpeech": "Noun",
+    "language": "English",
+    "definitions": {
+      "definition": "A sudden departure of a large number of people.",
+      "parsedExamples": [
+        {
+          "example": "There was an exodus when the show ended."
+        },
+        {
+          "example": "In the movie Submersion of Japan, virtually all Japanese desperately try to find any form of transportation out of Japan in a massive exodus to flee the sinking country."
+        },
+        {
+          "example": "a mass exodus"
+        }
+      ],
+      "examples": [
+        "There was an exodus when the show ended.",
+        "In the movie Submersion of Japan, virtually all Japanese desperately try to find any form of transportation out of Japan in a massive exodus to flee the sinking country.",
+        "a mass exodus"
+      ]
+    }
+  }
+}

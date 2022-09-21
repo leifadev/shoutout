@@ -1,0 +1,10 @@
+{
+  "palindrom": {
+    "word": "palindrom",
+    "partOfSpeech": "Noun",
+    "language": "Czech",
+    "definitions": {
+      "definition": "palindrome (a word, phrase, number or any other sequence of units which has the property of reading the same forwards as it does backwards)"
+    }
+  }
+}

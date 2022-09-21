@@ -1,0 +1,19 @@
+{
+  "znalec": {
+    "word": "znalec",
+    "partOfSpeech": "Noun",
+    "language": "Czech",
+    "definitions": {
+      "definition": "expert",
+      "parsedExamples": [
+        {
+          "example": "Byl znalcem věd přírodních.",
+          "translation": "He was an expert in the natural sciences."
+        }
+      ],
+      "examples": [
+        "Byl znalcem věd přírodních."
+      ]
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "осквернять": {
+    "word": "осквернять",
+    "partOfSpeech": "Verb",
+    "language": "Russian",
+    "definitions": {
+      "definition": "to defile, to profane",
+      "parsedExamples": [
+        {
+          "example": "оскверня́ть па́мятник",
+          "transliteration": "oskvernjátʹ pámjatnik",
+          "translation": "to deface a memorial"
+        }
+      ],
+      "examples": [
+        "оскверня́ть па́мятник"
+      ]
+    }
+  }
+}

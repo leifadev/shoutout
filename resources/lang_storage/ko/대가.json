@@ -1,0 +1,20 @@
+{
+  "대가": {
+    "word": "대가",
+    "partOfSpeech": "Noun",
+    "language": "Korean",
+    "definitions": {
+      "definition": "master, leading figure",
+      "parsedExamples": [
+        {
+          "example": "그는 음악의 대가다.",
+          "transliteration": "Geu-neun eumag-ui daega-da.",
+          "translation": "He is a master of music."
+        }
+      ],
+      "examples": [
+        "그는 음악의 대가다."
+      ]
+    }
+  }
+}

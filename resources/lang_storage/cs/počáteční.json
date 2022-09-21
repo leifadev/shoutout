@@ -1,0 +1,19 @@
+{
+  "počáteční": {
+    "word": "počáteční",
+    "partOfSpeech": "Adjective",
+    "language": "Czech",
+    "definitions": {
+      "definition": "initial",
+      "parsedExamples": [
+        {
+          "example": "počáteční stav",
+          "translation": "initial state"
+        }
+      ],
+      "examples": [
+        "počáteční stav"
+      ]
+    }
+  }
+}

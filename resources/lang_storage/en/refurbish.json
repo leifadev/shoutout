@@ -1,0 +1,18 @@
+{
+  "refurbish": {
+    "word": "refurbish",
+    "partOfSpeech": "Verb",
+    "language": "English",
+    "definitions": {
+      "definition": "To rebuild or replenish with all new material; to restore to original (or better) working order and appearance.",
+      "parsedExamples": [
+        {
+          "example": "We're having the sitting room refurbished, after a leak damaged a large part of the room."
+        }
+      ],
+      "examples": [
+        "We're having the sitting room refurbished, after a leak damaged a large part of the room."
+      ]
+    }
+  }
+}

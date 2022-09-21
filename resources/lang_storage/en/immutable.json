@@ -1,0 +1,18 @@
+{
+  "immutable": {
+    "word": "immutable",
+    "partOfSpeech": "Adjective",
+    "language": "English",
+    "definitions": {
+      "definition": "Unable to be changed without exception.",
+      "parsedExamples": [
+        {
+          "example": "The government has enacted an immutable law."
+        }
+      ],
+      "examples": [
+        "The government has enacted an immutable law."
+      ]
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "přehledný": {
+    "word": "přehledný",
+    "partOfSpeech": "Adjective",
+    "language": "Czech",
+    "definitions": {
+      "definition": "clear, lucid, well-arranged",
+      "parsedExamples": [
+        {
+          "example": "Ovládací panel stroje je velmi přehledný.",
+          "translation": "The control panel of the machine is very clearly laid out."
+        }
+      ],
+      "examples": [
+        "Ovládací panel stroje je velmi přehledný."
+      ]
+    }
+  }
+}

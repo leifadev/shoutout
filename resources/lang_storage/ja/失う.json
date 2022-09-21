@@ -1,0 +1,19 @@
+{
+  "失う": {
+    "word": "失う",
+    "partOfSpeech": "Verb",
+    "language": "Japanese",
+    "definitions": {
+      "definition": "to lose (possession of something)",
+      "parsedExamples": [
+        {
+          "translation": "jishin o ushinau",
+          "example": "自(じ)信(しん)を失(うしな)う"
+        }
+      ],
+      "examples": [
+        "自(じ)信(しん)を失(うしな)う"
+      ]
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "hashtag": {
+    "word": "hashtag",
+    "partOfSpeech": "Noun",
+    "language": "English",
+    "definitions": {
+      "definition": "A metadata tag, signaled by a preceding hash sign (#), used to label content."
+    }
+  }
+}

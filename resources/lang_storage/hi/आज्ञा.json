@@ -1,0 +1,26 @@
+{
+  "आज्ञा": {
+    "word": "आज्ञा",
+    "partOfSpeech": "Noun",
+    "language": "Hindi",
+    "definitions": {
+      "definition": "order, command",
+      "parsedExamples": [
+        {
+          "example": "उसकी आज्ञा नहीं टल सकती।",
+          "transliteration": "uskī āgyā nahī̃ ṭal saktī.",
+          "translation": "His order cannot be reverted."
+        },
+        {
+          "example": "अपके पिता की आज्ञा का पालन करो।",
+          "transliteration": "apke pitā kī āgyā kā pālan karo.",
+          "translation": "Obey the commands of your father."
+        }
+      ],
+      "examples": [
+        "उसकी आज्ञा नहीं टल सकती।",
+        "अपके पिता की आज्ञा का पालन करो।"
+      ]
+    }
+  }
+}

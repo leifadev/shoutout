@@ -1,0 +1,18 @@
+{
+  "memento": {
+    "word": "memento",
+    "partOfSpeech": "Noun",
+    "language": "English",
+    "definitions": {
+      "definition": "A keepsake; an object kept as a reminder of a place or event.",
+      "parsedExamples": [
+        {
+          "example": "I kept the shell as a memento of my visit to the seashore."
+        }
+      ],
+      "examples": [
+        "I kept the shell as a memento of my visit to the seashore."
+      ]
+    }
+  }
+}

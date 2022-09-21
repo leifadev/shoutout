@@ -1,0 +1,10 @@
+{
+  "cocinar": {
+    "word": "cocinar",
+    "partOfSpeech": "Verb",
+    "language": "Spanish",
+    "definitions": {
+      "definition": "to cook"
+    }
+  }
+}

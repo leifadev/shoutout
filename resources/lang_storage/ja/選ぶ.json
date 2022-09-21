@@ -1,0 +1,19 @@
+{
+  "選ぶ": {
+    "word": "選ぶ",
+    "partOfSpeech": "Verb",
+    "language": "Japanese",
+    "definitions": {
+      "definition": "to select; to choose",
+      "parsedExamples": [
+        {
+          "translation": "shigoto o erabanai hito",
+          "example": "仕事(しごと)を選(えら)ばない人(ひと)"
+        }
+      ],
+      "examples": [
+        "仕事(しごと)を選(えら)ばない人(ひと)"
+      ]
+    }
+  }
+}

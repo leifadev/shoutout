@@ -1,0 +1,18 @@
+{
+  "clarion": {
+    "word": "clarion",
+    "partOfSpeech": "Noun",
+    "language": "English",
+    "definitions": {
+      "definition": "A medieval brass instrument, related to the trumpet.",
+      "parsedExamples": [
+        {
+          "example": "The clarion's call to action has been heard."
+        }
+      ],
+      "examples": [
+        "The clarion's call to action has been heard."
+      ]
+    }
+  }
+}

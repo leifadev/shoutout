@@ -1,0 +1,19 @@
+{
+  "boscoso": {
+    "word": "boscoso",
+    "partOfSpeech": "Adjective",
+    "language": "Spanish",
+    "definitions": {
+      "definition": "woody, wooded",
+      "parsedExamples": [
+        {
+          "example": "terreno boscoso",
+          "translation": "woodland"
+        }
+      ],
+      "examples": [
+        "terreno boscoso"
+      ]
+    }
+  }
+}

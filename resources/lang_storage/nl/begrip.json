@@ -1,0 +1,24 @@
+{
+  "begrip": {
+    "word": "begrip",
+    "partOfSpeech": "Noun",
+    "language": "Dutch",
+    "definitions": {
+      "definition": "understanding, comprehension",
+      "parsedExamples": [
+        {
+          "example": "Ik heb geen begrip van wiskunde.",
+          "translation": "I have no comprehension of mathematics."
+        },
+        {
+          "example": "Dat gaat mijn begrip te boven.",
+          "translation": "That is beyond my comprehension."
+        }
+      ],
+      "examples": [
+        "Ik heb geen begrip van wiskunde.",
+        "Dat gaat mijn begrip te boven."
+      ]
+    }
+  }
+}

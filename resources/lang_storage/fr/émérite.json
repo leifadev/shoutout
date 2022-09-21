@@ -1,0 +1,19 @@
+{
+  "émérite": {
+    "word": "émérite",
+    "partOfSpeech": "Adjective",
+    "language": "French",
+    "definitions": {
+      "definition": "emeritus",
+      "parsedExamples": [
+        {
+          "example": "un professeur émérite",
+          "translation": "a emeritus professor"
+        }
+      ],
+      "examples": [
+        "un professeur émérite"
+      ]
+    }
+  }
+}

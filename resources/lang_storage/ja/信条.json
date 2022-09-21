@@ -1,0 +1,19 @@
+{
+  "信条": {
+    "word": "信条",
+    "partOfSpeech": "Noun",
+    "language": "Japanese",
+    "definitions": {
+      "definition": "belief, article of faith",
+      "parsedExamples": [
+        {
+          "translation": "Datsu genshiryoku ga kare no shinjō da.",
+          "example": "脱原子力(だつげんしりょく)が彼(かれ)の信条(しんじょう)だ。"
+        }
+      ],
+      "examples": [
+        "脱原子力(だつげんしりょく)が彼(かれ)の信条(しんじょう)だ。"
+      ]
+    }
+  }
+}

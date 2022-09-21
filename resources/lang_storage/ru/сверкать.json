@@ -1,0 +1,20 @@
+{
+  "сверкать": {
+    "word": "сверкать",
+    "partOfSpeech": "Verb",
+    "language": "Russian",
+    "definitions": {
+      "definition": "to sparkle, to twinkle",
+      "parsedExamples": [
+        {
+          "example": "сверка́ть пятками",
+          "transliteration": "sverkátʹ pjatkami",
+          "translation": "to take to one's heels"
+        }
+      ],
+      "examples": [
+        "сверка́ть пятками"
+      ]
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "才能": {
+    "word": "才能",
+    "partOfSpeech": "Noun",
+    "language": "Japanese",
+    "definitions": {
+      "definition": "ability, talent",
+      "parsedExamples": [
+        {
+          "translation": "sainō ga mazushii",
+          "example": "才能(さいのう)が貧(まず)しい"
+        },
+        {
+          "translation": "sainō o nobasu",
+          "example": "才能(さいのう)を伸(の)ばす"
+        }
+      ],
+      "examples": [
+        "才能(さいのう)が貧(まず)しい",
+        "才能(さいのう)を伸(の)ばす"
+      ]
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "blanchir": {
+    "word": "blanchir",
+    "partOfSpeech": "Verb",
+    "language": "French",
+    "definitions": {
+      "definition": "to launder, wash",
+      "parsedExamples": [
+        {
+          "example": "Blanchir du linge.",
+          "translation": "To wash linen."
+        }
+      ],
+      "examples": [
+        "Blanchir du linge."
+      ]
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "pertencer": {
+    "word": "pertencer",
+    "partOfSpeech": "Verb",
+    "language": "Portuguese",
+    "definitions": {
+      "definition": "to belong to (to be property of; to be owned by)",
+      "parsedExamples": [
+        {
+          "example": "Esse livro pertence a mim.",
+          "translation": "This book belongs to me."
+        }
+      ],
+      "examples": [
+        "Esse livro pertence a mim."
+      ]
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "笑う": {
+    "word": "笑う",
+    "partOfSpeech": "Verb",
+    "language": "Japanese",
+    "definitions": {
+      "definition": "to spontaneously express joy or amusement by means of the voice or facial expression:\nto laugh\n\nto smile",
+      "parsedExamples": [
+        {
+          "translation": "Maiku ga yoku waraimasu yo ne.",
+          "example": "マイクがよく笑(わら)いますよね。"
+        }
+      ],
+      "examples": [
+        "マイクがよく笑(わら)いますよね。"
+      ]
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "precipitate": {
+    "word": "precipitate",
+    "partOfSpeech": "Verb",
+    "language": "English",
+    "definitions": {
+      "definition": "To make something happen suddenly and quickly.",
+      "parsedExamples": [
+        {
+          "example": "to precipitate a journey, or a conflict"
+        },
+        {
+          "example": "it precipitated their success"
+        }
+      ],
+      "examples": [
+        "to precipitate a journey, or a conflict",
+        "it precipitated their success"
+      ]
+    }
+  }
+}

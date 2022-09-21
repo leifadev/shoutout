@@ -1,0 +1,19 @@
+{
+  "onirique": {
+    "word": "onirique",
+    "partOfSpeech": "Adjective",
+    "language": "French",
+    "definitions": {
+      "definition": "dream",
+      "parsedExamples": [
+        {
+          "example": "logique onirique",
+          "translation": "dream logic"
+        }
+      ],
+      "examples": [
+        "logique onirique"
+      ]
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "święty": {
+    "word": "święty",
+    "partOfSpeech": "Adjective",
+    "language": "Polish",
+    "definitions": {
+      "definition": "holy, sacred",
+      "parsedExamples": [
+        {
+          "example": "Jerozolima jest uważana za święte miasto.",
+          "translation": "Jerusalem is considered to be a holy city."
+        }
+      ],
+      "examples": [
+        "Jerozolima jest uważana za święte miasto."
+      ]
+    }
+  }
+}

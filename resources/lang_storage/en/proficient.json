@@ -1,0 +1,18 @@
+{
+  "proficient": {
+    "word": "proficient",
+    "partOfSpeech": "Adjective",
+    "language": "English",
+    "definitions": {
+      "definition": "Good at something; skilled; fluent; practiced, especially in relation to a task or skill.",
+      "parsedExamples": [
+        {
+          "example": "He was a proficient writer with an interest in human nature."
+        }
+      ],
+      "examples": [
+        "He was a proficient writer with an interest in human nature."
+      ]
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "gambit": {
+    "word": "gambit",
+    "partOfSpeech": "Noun",
+    "language": "English",
+    "definitions": {
+      "definition": "An opening in chess in which a minor piece or a pawn is sacrificed to gain an advantage.",
+      "parsedExamples": [
+        {
+          "example": "Her clever gambit gave her an advantage."
+        }
+      ],
+      "examples": [
+        "Her clever gambit gave her an advantage."
+      ]
+    }
+  }
+}

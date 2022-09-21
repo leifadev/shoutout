@@ -1,0 +1,19 @@
+{
+  "wesoły": {
+    "word": "wesoły",
+    "partOfSpeech": "Adjective",
+    "language": "Polish",
+    "definitions": {
+      "definition": "merry",
+      "parsedExamples": [
+        {
+          "example": "Wesołych Świąt!",
+          "translation": "Merry Christmas!"
+        }
+      ],
+      "examples": [
+        "Wesołych Świąt!"
+      ]
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "象徴": {
+    "word": "象徴",
+    "partOfSpeech": "Noun",
+    "language": "Japanese",
+    "definitions": {
+      "definition": "symbol",
+      "parsedExamples": [
+        {
+          "translation": "Sensō wa ningen no orokasa no shōchō de aru.",
+          "example": "戦(せん)争(そう)は人(にん)間(げん)の愚(おろ)かさの象(しょう)徴(ちょう)である。"
+        }
+      ],
+      "examples": [
+        "戦(せん)争(そう)は人(にん)間(げん)の愚(おろ)かさの象(しょう)徴(ちょう)である。"
+      ]
+    }
+  }
+}

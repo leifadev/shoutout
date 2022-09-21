@@ -1,0 +1,19 @@
+{
+  "oblać": {
+    "word": "oblać",
+    "partOfSpeech": "Verb",
+    "language": "Polish",
+    "definitions": {
+      "definition": "to pour [+instrumental = something] onto/over, to douse",
+      "parsedExamples": [
+        {
+          "example": "Jakiś idiota oblał mnie zimną wodą.",
+          "translation": "Some idiot poured cold water over me."
+        }
+      ],
+      "examples": [
+        "Jakiś idiota oblał mnie zimną wodą."
+      ]
+    }
+  }
+}

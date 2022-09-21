@@ -1,0 +1,19 @@
+{
+  "振り回す": {
+    "word": "振り回す",
+    "partOfSpeech": "Verb",
+    "language": "Japanese",
+    "definitions": {
+      "definition": "to wave (something in hand); to wield",
+      "parsedExamples": [
+        {
+          "translation": "Bō o furimawashite abareru.",
+          "example": "棒(ぼう)を振(ふ)り回(まわ)して暴(あば)れる。"
+        }
+      ],
+      "examples": [
+        "棒(ぼう)を振(ふ)り回(まわ)して暴(あば)れる。"
+      ]
+    }
+  }
+}

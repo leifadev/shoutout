@@ -1,0 +1,19 @@
+{
+  "nic": {
+    "word": "nic",
+    "partOfSpeech": "Pronoun",
+    "language": "Czech",
+    "definitions": {
+      "definition": "nothing, not any thing",
+      "parsedExamples": [
+        {
+          "example": "nic jiného",
+          "translation": "nothing else"
+        }
+      ],
+      "examples": [
+        "nic jiného"
+      ]
+    }
+  }
+}

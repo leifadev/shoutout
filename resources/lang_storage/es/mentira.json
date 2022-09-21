@@ -1,0 +1,19 @@
+{
+  "mentira": {
+    "word": "mentira",
+    "partOfSpeech": "Noun",
+    "language": "Spanish",
+    "definitions": {
+      "definition": "lie, trick, falsity",
+      "parsedExamples": [
+        {
+          "example": "Parecía mentira que su cuerpo fuera tan hermoso.",
+          "translation": "It was unbelievable how beautiful her body was."
+        }
+      ],
+      "examples": [
+        "Parecía mentira que su cuerpo fuera tan hermoso."
+      ]
+    }
+  }
+}

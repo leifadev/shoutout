@@ -1,0 +1,24 @@
+{
+  "ondertiteling": {
+    "word": "ondertiteling",
+    "partOfSpeech": "Noun",
+    "language": "Dutch",
+    "definitions": {
+      "definition": "The subtitles to a video in a particular language ; sub.",
+      "parsedExamples": [
+        {
+          "example": "De ondertiteling van deze actiefilm was bedroevend slecht.",
+          "translation": "The subtitles of this action film were agonisingly bad."
+        },
+        {
+          "example": "De documentaire heeft ondertitelingen in negen talen.",
+          "translation": "The documentary has subtitles in nine languages."
+        }
+      ],
+      "examples": [
+        "De ondertiteling van deze actiefilm was bedroevend slecht.",
+        "De documentaire heeft ondertitelingen in negen talen."
+      ]
+    }
+  }
+}

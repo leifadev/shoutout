@@ -1,0 +1,19 @@
+{
+  "pseudônimo": {
+    "word": "pseudônimo",
+    "partOfSpeech": "Noun",
+    "language": "Portuguese",
+    "definitions": {
+      "definition": "Brazilian Portuguese standard spelling of pseudónimo.",
+      "parsedExamples": [
+        {
+          "example": "Eric Blair escrevia sob o pseudônimo de George Orwell.",
+          "translation": "Eric Blair used to write under the pseudonym of George Orwell."
+        }
+      ],
+      "examples": [
+        "Eric Blair escrevia sob o pseudônimo de George Orwell."
+      ]
+    }
+  }
+}

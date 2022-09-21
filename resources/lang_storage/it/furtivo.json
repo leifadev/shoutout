@@ -1,0 +1,19 @@
+{
+  "furtivo": {
+    "word": "furtivo",
+    "partOfSpeech": "Adjective",
+    "language": "Italian",
+    "definitions": {
+      "definition": "stolen, related to a theft",
+      "parsedExamples": [
+        {
+          "example": "merce di provenienza furtiva",
+          "translation": "manubial goods"
+        }
+      ],
+      "examples": [
+        "merce di provenienza furtiva"
+      ]
+    }
+  }
+}

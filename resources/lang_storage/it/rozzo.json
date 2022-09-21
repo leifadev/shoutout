@@ -1,0 +1,24 @@
+{
+  "rozzo": {
+    "word": "rozzo",
+    "partOfSpeech": "Adjective",
+    "language": "Italian",
+    "definitions": {
+      "definition": "uncouth, coarse, impolite",
+      "parsedExamples": [
+        {
+          "example": "linguaggio rozzo",
+          "translation": "crude language"
+        },
+        {
+          "example": "è un uomo rozzo e incolto",
+          "translation": "he's a coarse, ignorant man"
+        }
+      ],
+      "examples": [
+        "linguaggio rozzo",
+        "è un uomo rozzo e incolto"
+      ]
+    }
+  }
+}

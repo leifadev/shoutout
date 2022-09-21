@@ -1,0 +1,20 @@
+{
+  "모방하다": {
+    "word": "모방하다",
+    "partOfSpeech": "Verb",
+    "language": "Korean",
+    "definitions": {
+      "definition": "to imitate; to copy",
+      "parsedExamples": [
+        {
+          "example": "다른 회사의 제품을 공공연하게 모방하다.",
+          "transliteration": "Dareun hoesa-ui jepum-eul gonggong'yeon-hage mobang-hada.",
+          "translation": "to blatantly copy a product from another company"
+        }
+      ],
+      "examples": [
+        "다른 회사의 제품을 공공연하게 모방하다."
+      ]
+    }
+  }
+}

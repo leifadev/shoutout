@@ -1,0 +1,19 @@
+{
+  "allusion": {
+    "word": "allusion",
+    "partOfSpeech": "Noun",
+    "language": "French",
+    "definitions": {
+      "definition": "allusion, innuendo",
+      "parsedExamples": [
+        {
+          "example": "En parlant ainsi, il faisait allusion aux mœurs de son temps.",
+          "translation": "In speaking thus, he was making an allusion to the mores of his time."
+        }
+      ],
+      "examples": [
+        "En parlant ainsi, il faisait allusion aux mœurs de son temps."
+      ]
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "독": {
+    "word": "독",
+    "partOfSpeech": "Noun",
+    "language": "Korean",
+    "definitions": {
+      "definition": "jar, pot (made of clay)",
+      "parsedExamples": [
+        {
+          "example": "독 안에 든 쥐",
+          "transliteration": "dok an-e deun jwi",
+          "translation": "being in a helpless situation",
+          "literally": "a rat in a jar"
+        }
+      ],
+      "examples": [
+        "독 안에 든 쥐"
+      ]
+    }
+  }
+}

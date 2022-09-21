@@ -1,0 +1,19 @@
+{
+  "entre": {
+    "word": "entre",
+    "partOfSpeech": "Preposition",
+    "language": "Spanish",
+    "definitions": {
+      "definition": "between",
+      "parsedExamples": [
+        {
+          "example": "Entre tú y yo...",
+          "translation": "Between you and me..."
+        }
+      ],
+      "examples": [
+        "Entre tú y yo..."
+      ]
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "野蛮": {
+    "word": "野蛮",
+    "partOfSpeech": "Adjective",
+    "language": "Japanese",
+    "definitions": {
+      "definition": "barbarian; uncivilized",
+      "parsedExamples": [
+        {
+          "translation": "Nihon o yaban na kuni to kangaeru gaikokujin ga mada iru.",
+          "example": "日本(にほん)を野蛮(やばん)な国(くに)と考(かんが)える外国人(がいこくじん)がまだいる。"
+        }
+      ],
+      "examples": [
+        "日本(にほん)を野蛮(やばん)な国(くに)と考(かんが)える外国人(がいこくじん)がまだいる。"
+      ]
+    }
+  }
+}

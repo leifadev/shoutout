@@ -1,0 +1,18 @@
+{
+  "aukční": {
+    "word": "aukční",
+    "partOfSpeech": "Adjective",
+    "language": "Czech",
+    "definitions": {
+      "definition": "auction",
+      "parsedExamples": [
+        {
+          "example": "aukční síň"
+        }
+      ],
+      "examples": [
+        "aukční síň"
+      ]
+    }
+  }
+}

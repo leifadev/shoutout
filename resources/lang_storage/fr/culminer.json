@@ -1,0 +1,19 @@
+{
+  "culminer": {
+    "word": "culminer",
+    "partOfSpeech": "Verb",
+    "language": "French",
+    "definitions": {
+      "definition": "to culminate (to come to an end)",
+      "parsedExamples": [
+        {
+          "example": "Le film culmine sur son meurtre.",
+          "translation": "The film culminates in his murder."
+        }
+      ],
+      "examples": [
+        "Le film culmine sur son meurtre."
+      ]
+    }
+  }
+}

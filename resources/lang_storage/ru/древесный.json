@@ -1,0 +1,92 @@
+{
+  "древесный": {
+    "word": "древесный",
+    "partOfSpeech": "Adjective",
+    "language": "Russian",
+    "definitions": {
+      "definition": "wood; woody, ligneous",
+      "parsedExamples": [
+        {
+          "example": "древе́сная зама́зка",
+          "transliteration": "drevésnaja zamázka",
+          "translation": "wood cement, joiner’s putty"
+        },
+        {
+          "example": "древе́сная каме́дь",
+          "transliteration": "drevésnaja kamédʹ",
+          "translation": "wood gum, xylan"
+        },
+        {
+          "example": "древе́сное ма́сло",
+          "transliteration": "drevésnoje máslo",
+          "translation": "wood oil, tung oil"
+        },
+        {
+          "example": "древе́сная ма́сса",
+          "transliteration": "drevésnaja mássa",
+          "translation": "wood pulp"
+        },
+        {
+          "example": "древе́сная мука́",
+          "transliteration": "drevésnaja muká",
+          "translation": "sawdust, wood meal"
+        },
+        {
+          "example": "древе́сные опи́лки",
+          "transliteration": "drevésnyje opílki",
+          "translation": "sawdust"
+        },
+        {
+          "example": "древе́сный са́хар",
+          "transliteration": "drevésnyj sáxar",
+          "translation": "wood sugar, xylose"
+        },
+        {
+          "example": "древе́сный спи́рт",
+          "transliteration": "drevésnyj spírt",
+          "translation": "wood alcohol, methyl alcohol"
+        },
+        {
+          "example": "древе́сная стру́жка",
+          "transliteration": "drevésnaja strúžka",
+          "translation": "wood shavings, excelsior"
+        },
+        {
+          "example": "древе́сное то́пливо",
+          "transliteration": "drevésnoje tóplivo",
+          "translation": "firewood"
+        },
+        {
+          "example": "древе́сный у́голь",
+          "transliteration": "drevésnyj úgolʹ",
+          "translation": "charcoal"
+        },
+        {
+          "example": "древе́сный у́ксус",
+          "transliteration": "drevésnyj úksus",
+          "translation": "wood vinegar, pyroligneous acid"
+        },
+        {
+          "example": "древе́сная ше́рсть",
+          "transliteration": "drevésnaja šérstʹ",
+          "translation": "wood fiber, excelsior"
+        }
+      ],
+      "examples": [
+        "древе́сная зама́зка",
+        "древе́сная каме́дь",
+        "древе́сное ма́сло",
+        "древе́сная ма́сса",
+        "древе́сная мука́",
+        "древе́сные опи́лки",
+        "древе́сный са́хар",
+        "древе́сный спи́рт",
+        "древе́сная стру́жка",
+        "древе́сное то́пливо",
+        "древе́сный у́голь",
+        "древе́сный у́ксус",
+        "древе́сная ше́рсть"
+      ]
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "bleiben": {
+    "word": "bleiben",
+    "partOfSpeech": "Verb",
+    "language": "German",
+    "definitions": {
+      "definition": "to remain (to continue to be)",
+      "parsedExamples": [
+        {
+          "example": "Er blieb sein ganzes Leben ein glühender Anhänger der Monarchie.",
+          "translation": "He remained a devoted supporter of the monarchy for all his life."
+        }
+      ],
+      "examples": [
+        "Er blieb sein ganzes Leben ein glühender Anhänger der Monarchie."
+      ]
+    }
+  }
+}

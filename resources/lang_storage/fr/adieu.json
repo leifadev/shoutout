@@ -1,0 +1,19 @@
+{
+  "adieu": {
+    "word": "adieu",
+    "partOfSpeech": "Interjection",
+    "language": "French",
+    "definitions": {
+      "definition": "farewell, adieu",
+      "parsedExamples": [
+        {
+          "example": "Adieu, monsieur le professeur. On ne vous oubliera jamais.",
+          "translation": "Farewell, Mr. Teacher. We will never forget you."
+        }
+      ],
+      "examples": [
+        "Adieu, monsieur le professeur. On ne vous oubliera jamais."
+      ]
+    }
+  }
+}

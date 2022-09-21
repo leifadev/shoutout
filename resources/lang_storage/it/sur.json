@@ -1,0 +1,19 @@
+{
+  "sur": {
+    "word": "sur",
+    "partOfSpeech": "Preposition",
+    "language": "Italian",
+    "definitions": {
+      "definition": "Alternative form of su used before words beginning with u (especially indefinite articles)",
+      "parsedExamples": [
+        {
+          "example": "sur un tavolo",
+          "translation": "on a table"
+        }
+      ],
+      "examples": [
+        "sur un tavolo"
+      ]
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "a proposito": {
+    "word": "a proposito",
+    "partOfSpeech": "Adverb",
+    "language": "Italian",
+    "definitions": {
+      "definition": "at the right moment, opportunely",
+      "parsedExamples": [
+        {
+          "example": "vieni a proposito!",
+          "translation": "you came at just the right time!"
+        }
+      ],
+      "examples": [
+        "vieni a proposito!"
+      ]
+    }
+  }
+}

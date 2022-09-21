@@ -1,0 +1,19 @@
+{
+  "orgueil": {
+    "word": "orgueil",
+    "partOfSpeech": "Noun",
+    "language": "French",
+    "definitions": {
+      "definition": "pride; pridefulness; haughtiness, arrogance",
+      "parsedExamples": [
+        {
+          "example": "Le revers a blessé son orgueil.",
+          "translation": "The misfortune hurt his pride."
+        }
+      ],
+      "examples": [
+        "Le revers a blessé son orgueil."
+      ]
+    }
+  }
+}

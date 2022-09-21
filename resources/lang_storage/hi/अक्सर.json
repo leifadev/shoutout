@@ -1,0 +1,20 @@
+{
+  "अक्सर": {
+    "word": "अक्सर",
+    "partOfSpeech": "Adverb",
+    "language": "Hindi",
+    "definitions": {
+      "definition": "often, usually, frequently",
+      "parsedExamples": [
+        {
+          "example": "मैं उससे अक्सर हिन्दी बोलता हूँ।",
+          "transliteration": "ma͠i usse aksar hindī boltā hū̃.",
+          "translation": "I usually speak Hindi to him."
+        }
+      ],
+      "examples": [
+        "मैं उससे अक्सर हिन्दी बोलता हूँ।"
+      ]
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "palabra": {
+    "word": "palabra",
+    "partOfSpeech": "Noun",
+    "language": "Spanish",
+    "definitions": {
+      "definition": "word",
+      "parsedExamples": [
+        {
+          "example": "las palabras de amor",
+          "translation": "the words of love"
+        }
+      ],
+      "examples": [
+        "las palabras de amor"
+      ]
+    }
+  }
+}

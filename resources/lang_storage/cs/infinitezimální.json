@@ -1,0 +1,19 @@
+{
+  "infinitezimální": {
+    "word": "infinitezimální",
+    "partOfSpeech": "Adjective",
+    "language": "Czech",
+    "definitions": {
+      "definition": "infinitesimal",
+      "parsedExamples": [
+        {
+          "example": "infinitezimální počet",
+          "translation": "infinitesimal calculus"
+        }
+      ],
+      "examples": [
+        "infinitezimální počet"
+      ]
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "의지": {
+    "word": "의지",
+    "partOfSpeech": "Noun",
+    "language": "Korean",
+    "definitions": {
+      "definition": "determination to accomplish something; steadfastness",
+      "parsedExamples": [
+        {
+          "example": "그는 성공에 대한 의지가 강했다.",
+          "transliteration": "Geu-neun seonggong-e daehan uiji-ga ganghaetda.",
+          "translation": "He had a strong will to succeed."
+        }
+      ],
+      "examples": [
+        "그는 성공에 대한 의지가 강했다."
+      ]
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "schnorren": {
+    "word": "schnorren",
+    "partOfSpeech": "Verb",
+    "language": "German",
+    "definitions": {
+      "definition": "to scrounge, sponge, cadge",
+      "parsedExamples": [
+        {
+          "example": "Er schnorrt sich so durch die Gegend",
+          "translation": "He's scrounging around through the area."
+        },
+        {
+          "example": "Kann ich mir 'ne Zigarette von dir schnorren?",
+          "translation": "Can I scrounge a ciggy off you?"
+        }
+      ],
+      "examples": [
+        "Er schnorrt sich so durch die Gegend",
+        "Kann ich mir 'ne Zigarette von dir schnorren?"
+      ]
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "خير": {
+    "word": "خير",
+    "partOfSpeech": "Noun",
+    "language": "Arabic",
+    "definitions": {
+      "definition": "goodness, good",
+      "parsedExamples": [
+        {
+          "example": "بِخَيْرٍ",
+          "transliteration": "biḵayrin",
+          "translation": "well"
+        }
+      ],
+      "examples": [
+        "بِخَيْرٍ"
+      ]
+    }
+  }
+}

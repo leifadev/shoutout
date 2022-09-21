@@ -1,0 +1,19 @@
+{
+  "議論する": {
+    "word": "議論する",
+    "partOfSpeech": "Noun",
+    "language": "Japanese",
+    "definitions": {
+      "definition": "discussion",
+      "parsedExamples": [
+        {
+          "translation": "Saishutsu sakugen ni kansuru giron ga atta.",
+          "example": "歳出削減(さいしゅつさくげん)に関(かん)する議論(ぎろん)があった。"
+        }
+      ],
+      "examples": [
+        "歳出削減(さいしゅつさくげん)に関(かん)する議論(ぎろん)があった。"
+      ]
+    }
+  }
+}

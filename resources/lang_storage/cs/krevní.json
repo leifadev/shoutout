@@ -1,0 +1,29 @@
+{
+  "krevní": {
+    "word": "krevní",
+    "partOfSpeech": "Adjective",
+    "language": "Czech",
+    "definitions": {
+      "definition": "blood",
+      "parsedExamples": [
+        {
+          "example": "krevní oběh",
+          "translation": "bloodstream"
+        },
+        {
+          "example": "krevní tlak",
+          "translation": "blood pressure"
+        },
+        {
+          "example": "mít stejnou krevní skupinu",
+          "translation": "to be cut from the same cloth (literally: to have the same blood group)"
+        }
+      ],
+      "examples": [
+        "krevní oběh",
+        "krevní tlak",
+        "mít stejnou krevní skupinu"
+      ]
+    }
+  }
+}

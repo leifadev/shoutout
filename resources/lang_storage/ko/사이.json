@@ -1,0 +1,26 @@
+{
+  "사이": {
+    "word": "사이",
+    "partOfSpeech": "Noun",
+    "language": "Korean",
+    "definitions": {
+      "definition": "gap; space between",
+      "parsedExamples": [
+        {
+          "example": "이틀 사이에 돈을 다 써버렸습니다.",
+          "transliteration": "Iteul sai-e don-eul da sseo-beoryeotseumnida.",
+          "translation": "I ended up spending all the money in the span of two days."
+        },
+        {
+          "example": "집과 차고 사이",
+          "transliteration": "jip-gwa chago sai",
+          "translation": "the space between the house and the garage"
+        }
+      ],
+      "examples": [
+        "이틀 사이에 돈을 다 써버렸습니다.",
+        "집과 차고 사이"
+      ]
+    }
+  }
+}

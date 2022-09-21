@@ -1,0 +1,18 @@
+{
+  "malinger": {
+    "word": "malinger",
+    "partOfSpeech": "Verb",
+    "language": "English",
+    "definitions": {
+      "definition": "To feign illness, injury, or incapacitation in order to avoid work, obligation, or perilous risk.",
+      "parsedExamples": [
+        {
+          "example": "It is not uncommon on exam days for several students to malinger rather than prepare themselves."
+        }
+      ],
+      "examples": [
+        "It is not uncommon on exam days for several students to malinger rather than prepare themselves."
+      ]
+    }
+  }
+}

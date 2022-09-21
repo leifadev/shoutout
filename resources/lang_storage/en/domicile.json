@@ -1,0 +1,18 @@
+{
+  "domicile": {
+    "word": "domicile",
+    "partOfSpeech": "Noun",
+    "language": "English",
+    "definitions": {
+      "definition": "A home or residence.",
+      "parsedExamples": [
+        {
+          "example": "The call to jury duty was sent to my legal domicile; too bad I was on vacation at the time."
+        }
+      ],
+      "examples": [
+        "The call to jury duty was sent to my legal domicile; too bad I was on vacation at the time."
+      ]
+    }
+  }
+}

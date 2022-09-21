@@ -1,0 +1,18 @@
+{
+  "parlous": {
+    "word": "parlous",
+    "partOfSpeech": "Adjective",
+    "language": "English",
+    "definitions": {
+      "definition": "Attended with peril; dangerous, risky.",
+      "parsedExamples": [
+        {
+          "example": "The situation became parlous when the weather made resupply impossible."
+        }
+      ],
+      "examples": [
+        "The situation became parlous when the weather made resupply impossible."
+      ]
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "napadnout": {
+    "word": "napadnout",
+    "partOfSpeech": "Verb",
+    "language": "Czech",
+    "definitions": {
+      "definition": "to occur, to strike, to cross (to come to the mind)",
+      "parsedExamples": [
+        {
+          "example": "Napadlo mě, že..",
+          "translation": "It occurred to me that.."
+        }
+      ],
+      "examples": [
+        "Napadlo mě, že.."
+      ]
+    }
+  }
+}

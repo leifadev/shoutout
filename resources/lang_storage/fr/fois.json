@@ -1,0 +1,23 @@
+{
+  "fois": {
+    "word": "fois",
+    "partOfSpeech": "Noun",
+    "language": "French",
+    "definitions": {
+      "definition": "time (an instance or repetition of something happening)",
+      "parsedExamples": [
+        {
+          "example": "J'y vais deux fois par mois.",
+          "translation": "I go there twice a month."
+        },
+        {
+          "example": "Je lui ai parlé pour la première fois il y a des années."
+        }
+      ],
+      "examples": [
+        "J'y vais deux fois par mois.",
+        "Je lui ai parlé pour la première fois il y a des années."
+      ]
+    }
+  }
+}

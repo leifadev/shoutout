@@ -1,0 +1,23 @@
+{
+  "confondre": {
+    "word": "confondre",
+    "partOfSpeech": "Verb",
+    "language": "French",
+    "definitions": {
+      "definition": "to confuse, confound",
+      "parsedExamples": [
+        {
+          "example": "Son comportement m'a toujours confondu.",
+          "translation": "His behavior always confused me."
+        },
+        {
+          "example": "Est-ce que tu essaies de me confondre&nbsp;?"
+        }
+      ],
+      "examples": [
+        "Son comportement m'a toujours confondu.",
+        "Est-ce que tu essaies de me confondre&nbsp;?"
+      ]
+    }
+  }
+}

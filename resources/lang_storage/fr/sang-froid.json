@@ -1,0 +1,19 @@
+{
+  "sang-froid": {
+    "word": "sang-froid",
+    "partOfSpeech": "Noun",
+    "language": "French",
+    "definitions": {
+      "definition": "sang-froid, calmness, calm",
+      "parsedExamples": [
+        {
+          "example": "garder son sang-froid",
+          "translation": "to keep one's cool"
+        }
+      ],
+      "examples": [
+        "garder son sang-froid"
+      ]
+    }
+  }
+}

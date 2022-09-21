@@ -1,0 +1,19 @@
+{
+  "fantasma": {
+    "word": "fantasma",
+    "partOfSpeech": "Noun",
+    "language": "Spanish",
+    "definitions": {
+      "definition": "ghost, phantom, wraith",
+      "parsedExamples": [
+        {
+          "example": "El fantasma de la ópera.",
+          "translation": "The Phantom of the Opera."
+        }
+      ],
+      "examples": [
+        "El fantasma de la ópera."
+      ]
+    }
+  }
+}

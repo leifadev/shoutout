@@ -1,0 +1,19 @@
+{
+  "origen": {
+    "word": "origen",
+    "partOfSpeech": "Noun",
+    "language": "Spanish",
+    "definitions": {
+      "definition": "origin",
+      "parsedExamples": [
+        {
+          "example": "No se conocen con certeza los orígenes de ellos.",
+          "translation": "Their origins aren't known with certainty."
+        }
+      ],
+      "examples": [
+        "No se conocen con certeza los orígenes de ellos."
+      ]
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "속도": {
+    "word": "속도",
+    "partOfSpeech": "Noun",
+    "language": "Korean",
+    "definitions": {
+      "definition": "speed",
+      "parsedExamples": [
+        {
+          "example": "빠른 속도로",
+          "transliteration": "ppareun sokdo-ro",
+          "translation": "very quickly"
+        }
+      ],
+      "examples": [
+        "빠른 속도로"
+      ]
+    }
+  }
+}

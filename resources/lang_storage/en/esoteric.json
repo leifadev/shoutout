@@ -1,0 +1,18 @@
+{
+  "esoteric": {
+    "word": "esoteric",
+    "partOfSpeech": "Adjective",
+    "language": "English",
+    "definitions": {
+      "definition": "Intended for or likely to be understood by only a small number of people with a specialized knowledge or interest, or an enlightened inner circle.",
+      "parsedExamples": [
+        {
+          "example": "The writing in this manual is very esoteric; I’d need a degree in engineering just to understand it!"
+        }
+      ],
+      "examples": [
+        "The writing in this manual is very esoteric; I’d need a degree in engineering just to understand it!"
+      ]
+    }
+  }
+}

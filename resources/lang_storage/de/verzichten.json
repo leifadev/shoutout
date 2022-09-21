@@ -1,0 +1,34 @@
+{
+  "verzichten": {
+    "word": "verzichten",
+    "partOfSpeech": "Verb",
+    "language": "German",
+    "definitions": {
+      "definition": "to give up, go without, live without, make do without, do without, formal: forgo, dispense with",
+      "parsedExamples": [
+        {
+          "example": "Viele Menschen verzichten gerne auf ihr Auto, wenn der öffentliche Verkehr gut ist.",
+          "translation": "Many people gladly give up their car if public transportation is good."
+        },
+        {
+          "example": "Arme Kinder müssen z.B. auf Kinobesuche und auf Musikunterricht und andere teure Hobbys verzichten.",
+          "translation": "Poor children have to live without going to the movies and without music lessons and other expensive hobbies"
+        },
+        {
+          "example": "Darauf können wir verzichten.",
+          "translation": "We can dispense with that."
+        },
+        {
+          "example": "Darauf können wir verzichten.",
+          "translation": "We can/could do without that."
+        }
+      ],
+      "examples": [
+        "Viele Menschen verzichten gerne auf ihr Auto, wenn der öffentliche Verkehr gut ist.",
+        "Arme Kinder müssen z.B. auf Kinobesuche und auf Musikunterricht und andere teure Hobbys verzichten.",
+        "Darauf können wir verzichten.",
+        "Darauf können wir verzichten."
+      ]
+    }
+  }
+}

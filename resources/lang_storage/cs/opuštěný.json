@@ -1,0 +1,19 @@
+{
+  "opuštěný": {
+    "word": "opuštěný",
+    "partOfSpeech": "Adjective",
+    "language": "Czech",
+    "definitions": {
+      "definition": "abandoned",
+      "parsedExamples": [
+        {
+          "example": "opuštěný dům.",
+          "translation": "an abandoned house."
+        }
+      ],
+      "examples": [
+        "opuštěný dům."
+      ]
+    }
+  }
+}

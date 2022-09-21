@@ -1,0 +1,18 @@
+{
+  "podpora": {
+    "word": "podpora",
+    "partOfSpeech": "Noun",
+    "language": "Czech",
+    "definitions": {
+      "definition": "support",
+      "parsedExamples": [
+        {
+          "example": "lékařova podpora pacientovi"
+        }
+      ],
+      "examples": [
+        "lékařova podpora pacientovi"
+      ]
+    }
+  }
+}

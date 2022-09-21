@@ -1,0 +1,10 @@
+{
+  "Tesauro": {
+    "word": "tesauro",
+    "partOfSpeech": "Noun",
+    "language": "Spanish",
+    "definitions": {
+      "definition": "thesaurus (hierarchical index of metadata pointing to information bearing entities)"
+    }
+  }
+}

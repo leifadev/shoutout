@@ -1,0 +1,29 @@
+{
+  "ゲスト": {
+    "word": "ゲスト",
+    "partOfSpeech": "Noun",
+    "language": "Japanese",
+    "definitions": {
+      "definition": "guest (invited visitor)",
+      "parsedExamples": [
+        {
+          "translation": "kekkonshiki no gesuto",
+          "example": "結婚式(けっこんしき)のゲスト"
+        },
+        {
+          "translation": "gesuto shutsuen",
+          "example": "ゲスト出演(しゅつえん)"
+        },
+        {
+          "translation": "Kyō no gesuto wa, nanto, ○○-yaku no ○○-san desu!",
+          "example": "今日(きょう)のゲストは、なんと、○○役(やく)の○○さんです！"
+        }
+      ],
+      "examples": [
+        "結婚式(けっこんしき)のゲスト",
+        "ゲスト出演(しゅつえん)",
+        "今日(きょう)のゲストは、なんと、○○役(やく)の○○さんです！"
+      ]
+    }
+  }
+}

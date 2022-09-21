@@ -1,0 +1,20 @@
+{
+  "रथ": {
+    "word": "रथ",
+    "partOfSpeech": "Noun",
+    "language": "Hindi",
+    "definitions": {
+      "definition": "a chariot",
+      "parsedExamples": [
+        {
+          "example": "रथ यात्रा",
+          "transliteration": "rath yātrā",
+          "translation": "Rath Yatra"
+        }
+      ],
+      "examples": [
+        "रथ यात्रा"
+      ]
+    }
+  }
+}

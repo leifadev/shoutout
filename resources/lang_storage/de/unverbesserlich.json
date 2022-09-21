@@ -1,0 +1,24 @@
+{
+  "unverbesserlich": {
+    "word": "unverbesserlich",
+    "partOfSpeech": "Adjective",
+    "language": "German",
+    "definitions": {
+      "definition": "unimprovable; which cannot be improved\nincorrigible (unimprovable because any correction is impossible)",
+      "parsedExamples": [
+        {
+          "example": "Er legt eine unverbesserliche Überheblichkeit an den Tag.",
+          "translation": "He displays an incorrigible presumptuousness."
+        },
+        {
+          "example": "Nach katholischer Lehre ist die Muttergottes ein vollendetes, unverbesserliches Geschöpf.",
+          "translation": "According to Catholic doctrine, the Mother of God is a perfect, unimprovable creation."
+        }
+      ],
+      "examples": [
+        "Er legt eine unverbesserliche Überheblichkeit an den Tag.",
+        "Nach katholischer Lehre ist die Muttergottes ein vollendetes, unverbesserliches Geschöpf."
+      ]
+    }
+  }
+}

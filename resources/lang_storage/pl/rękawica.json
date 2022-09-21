@@ -1,0 +1,19 @@
+{
+  "rękawica": {
+    "word": "rękawica",
+    "partOfSpeech": "Noun",
+    "language": "Polish",
+    "definitions": {
+      "definition": "glove",
+      "parsedExamples": [
+        {
+          "example": "rękawica kuchenna",
+          "translation": "oven glove"
+        }
+      ],
+      "examples": [
+        "rękawica kuchenna"
+      ]
+    }
+  }
+}

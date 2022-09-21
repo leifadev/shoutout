@@ -1,0 +1,18 @@
+{
+  "benevolent": {
+    "word": "benevolent",
+    "partOfSpeech": "Adjective",
+    "language": "English",
+    "definitions": {
+      "definition": "Having a disposition to do good.",
+      "parsedExamples": [
+        {
+          "example": "Chinese and Eastern mythologies describe dragons as benevolent."
+        }
+      ],
+      "examples": [
+        "Chinese and Eastern mythologies describe dragons as benevolent."
+      ]
+    }
+  }
+}

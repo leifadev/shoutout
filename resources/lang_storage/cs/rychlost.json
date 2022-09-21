@@ -1,0 +1,19 @@
+{
+  "rychlost": {
+    "word": "rychlost",
+    "partOfSpeech": "Noun",
+    "language": "Czech",
+    "definitions": {
+      "definition": "speed, velocity",
+      "parsedExamples": [
+        {
+          "example": "úhlová rychlost",
+          "translation": "angular velocity"
+        }
+      ],
+      "examples": [
+        "úhlová rychlost"
+      ]
+    }
+  }
+}

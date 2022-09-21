@@ -1,0 +1,20 @@
+{
+  "अनुकूल": {
+    "word": "अनुकूल",
+    "partOfSpeech": "Adjective",
+    "language": "Hindi",
+    "definitions": {
+      "definition": "favourable, conducive, beneficial",
+      "parsedExamples": [
+        {
+          "example": "मौसम इस बैठक के लिए अनुकूल होगा।",
+          "transliteration": "mausam is baiṭhak ke lie anukūl hogā.",
+          "translation": "The weather will be favourable for the meeting."
+        }
+      ],
+      "examples": [
+        "मौसम इस बैठक के लिए अनुकूल होगा।"
+      ]
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "juicio": {
+    "word": "juicio",
+    "partOfSpeech": "Noun",
+    "language": "Spanish",
+    "definitions": {
+      "definition": "good judgement; reason",
+      "parsedExamples": [
+        {
+          "example": "no estar en su sano juicio",
+          "translation": "not be in one's right mind"
+        }
+      ],
+      "examples": [
+        "no estar en su sano juicio"
+      ]
+    }
+  }
+}

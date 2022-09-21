@@ -1,0 +1,24 @@
+{
+  "umgehen": {
+    "word": "umgehen",
+    "partOfSpeech": "Verb",
+    "language": "German",
+    "definitions": {
+      "definition": "to avoid, bypass, to go around",
+      "parsedExamples": [
+        {
+          "example": "Sie wollten die Stadtmitte umgehen.",
+          "translation": "They wanted to avoid [going through] the middle of town."
+        },
+        {
+          "example": "Er umging den Bach.",
+          "translation": "He went around the creek."
+        }
+      ],
+      "examples": [
+        "Sie wollten die Stadtmitte umgehen.",
+        "Er umging den Bach."
+      ]
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "घूस": {
+    "word": "घूस",
+    "partOfSpeech": "Noun",
+    "language": "Hindi",
+    "definitions": {
+      "definition": "bribe",
+      "parsedExamples": [
+        {
+          "example": "वह घूस खाते वक़्त पकड़ गया था।",
+          "transliteration": "vah ghūs khāte vaqt pakaṛ gayā thā.",
+          "translation": "He was caught while taking a bribe."
+        },
+        {
+          "example": "घूस खाना",
+          "transliteration": "ghūs khānā",
+          "translation": "to take a bribe"
+        },
+        {
+          "example": "घूस देना",
+          "transliteration": "ghūs denā",
+          "translation": "to give a bribe"
+        }
+      ],
+      "examples": [
+        "वह घूस खाते वक़्त पकड़ गया था।",
+        "घूस खाना",
+        "घूस देना"
+      ]
+    }
+  }
+}

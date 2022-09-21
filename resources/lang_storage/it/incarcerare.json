@@ -1,0 +1,22 @@
+{
+  "incarcerare": {
+    "word": "incarcerare",
+    "partOfSpeech": "Verb",
+    "language": "Italian",
+    "definitions": {
+      "definition": "to put in prison, to imprison, to jail, to incarcerate",
+      "parsedExamples": [
+        {
+          "example": "to jam into a tight space"
+        },
+        {
+          "example": "to imprison, to lock up"
+        }
+      ],
+      "examples": [
+        "to jam into a tight space",
+        "to imprison, to lock up"
+      ]
+    }
+  }
+}

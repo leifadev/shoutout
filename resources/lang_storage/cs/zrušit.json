@@ -1,0 +1,19 @@
+{
+  "zrušit": {
+    "word": "zrušit",
+    "partOfSpeech": "Verb",
+    "language": "Czech",
+    "definitions": {
+      "definition": "to cancel, to abolish, to call off",
+      "parsedExamples": [
+        {
+          "example": "Bylo by fantastické, kdybychom zrušili všechny zkoušky.",
+          "translation": "It would be fantastic if we were to cancel all exams."
+        }
+      ],
+      "examples": [
+        "Bylo by fantastické, kdybychom zrušili všechny zkoušky."
+      ]
+    }
+  }
+}

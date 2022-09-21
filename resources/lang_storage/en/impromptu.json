@@ -1,0 +1,22 @@
+{
+  "impromptu": {
+    "word": "impromptu",
+    "partOfSpeech": "Adjective",
+    "language": "English",
+    "definitions": {
+      "definition": "Improvised; without prior preparation, planning or rehearsal.",
+      "parsedExamples": [
+        {
+          "example": "The party began with an impromptu rendition of 'Happy Birthday'."
+        },
+        {
+          "example": "an impromptu speech"
+        }
+      ],
+      "examples": [
+        "The party began with an impromptu rendition of 'Happy Birthday'.",
+        "an impromptu speech"
+      ]
+    }
+  }
+}

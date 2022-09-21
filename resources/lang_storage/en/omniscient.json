@@ -1,0 +1,22 @@
+{
+  "omniscient": {
+    "word": "omniscient",
+    "partOfSpeech": "Adjective",
+    "language": "English",
+    "definitions": {
+      "definition": "Having total knowledge.",
+      "parsedExamples": [
+        {
+          "example": "The story was narrated from an omniscient point of view."
+        },
+        {
+          "example": "The Abrahamic God is omniscient."
+        }
+      ],
+      "examples": [
+        "The story was narrated from an omniscient point of view.",
+        "The Abrahamic God is omniscient."
+      ]
+    }
+  }
+}

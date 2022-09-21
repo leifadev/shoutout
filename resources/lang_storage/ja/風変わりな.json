@@ -1,0 +1,19 @@
+{
+  "風変わりな": {
+    "word": "風変わりな",
+    "partOfSpeech": "Adjective",
+    "language": "Japanese",
+    "definitions": {
+      "definition": "odd, peculiar, weird, eccentric",
+      "parsedExamples": [
+        {
+          "translation": "fūgawari na inshō",
+          "example": "風変(ふうが)わりな印象(いんしょう)"
+        }
+      ],
+      "examples": [
+        "風変(ふうが)わりな印象(いんしょう)"
+      ]
+    }
+  }
+}

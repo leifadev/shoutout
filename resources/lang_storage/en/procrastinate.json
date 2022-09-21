@@ -1,0 +1,18 @@
+{
+  "procrastinate": {
+    "word": "procrastinate",
+    "partOfSpeech": "Verb",
+    "language": "English",
+    "definitions": {
+      "definition": "To delay taking action; to wait until later.",
+      "parsedExamples": [
+        {
+          "example": "He procrastinated until the last minute and had to stay up all night to finish."
+        }
+      ],
+      "examples": [
+        "He procrastinated until the last minute and had to stay up all night to finish."
+      ]
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "рабский": {
+    "word": "рабский",
+    "partOfSpeech": "Adjective",
+    "language": "Russian",
+    "definitions": {
+      "definition": "slave; slavish, servile",
+      "parsedExamples": [
+        {
+          "example": "ра́бские кварта́лы",
+          "transliteration": "rábskije kvartály",
+          "translation": "slave quarters"
+        }
+      ],
+      "examples": [
+        "ра́бские кварта́лы"
+      ]
+    }
+  }
+}

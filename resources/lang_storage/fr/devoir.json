@@ -1,0 +1,24 @@
+{
+  "devoir": {
+    "word": "devoir",
+    "partOfSpeech": "Noun",
+    "language": "French",
+    "definitions": {
+      "definition": "duty",
+      "parsedExamples": [
+        {
+          "example": "Il est de mon devoir de protéger le roi.",
+          "translation": "It is my duty to protect the king."
+        },
+        {
+          "example": "manquer à son devoir, manquer à tous ses devoirs",
+          "translation": "to fail in one's duty, duties"
+        }
+      ],
+      "examples": [
+        "Il est de mon devoir de protéger le roi.",
+        "manquer à son devoir, manquer à tous ses devoirs"
+      ]
+    }
+  }
+}

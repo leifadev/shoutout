@@ -1,0 +1,19 @@
+{
+  "atacar": {
+    "word": "atacar",
+    "partOfSpeech": "Verb",
+    "language": "Portuguese",
+    "definitions": {
+      "definition": "to attack (to apply violent force)",
+      "parsedExamples": [
+        {
+          "example": "Fui atacado por um cão.",
+          "translation": "I was attacked by a dog."
+        }
+      ],
+      "examples": [
+        "Fui atacado por um cão."
+      ]
+    }
+  }
+}

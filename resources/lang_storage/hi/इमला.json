@@ -1,0 +1,20 @@
+{
+  "इमला": {
+    "word": "इमला",
+    "partOfSpeech": "Noun",
+    "language": "Hindi",
+    "definitions": {
+      "definition": "dictation",
+      "parsedExamples": [
+        {
+          "example": "इमला लिखवाना",
+          "transliteration": "imlā likhvānā",
+          "translation": "to dictate (to someone)"
+        }
+      ],
+      "examples": [
+        "इमला लिखवाना"
+      ]
+    }
+  }
+}

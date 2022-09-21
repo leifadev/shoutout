@@ -1,0 +1,24 @@
+{
+  "a pezzi": {
+    "word": "a pezzi",
+    "partOfSpeech": "Prepositional phrase",
+    "language": "Italian",
+    "definitions": {
+      "definition": "to pieces\ninto fragments",
+      "parsedExamples": [
+        {
+          "example": "tagliare a pezzi",
+          "translation": "to cut to pieces"
+        },
+        {
+          "example": "cadere a pezzi",
+          "translation": "to fall to pieces"
+        }
+      ],
+      "examples": [
+        "tagliare a pezzi",
+        "cadere a pezzi"
+      ]
+    }
+  }
+}

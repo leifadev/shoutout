@@ -1,0 +1,18 @@
+{
+  "ersatz": {
+    "word": "ersatz",
+    "partOfSpeech": "Adjective",
+    "language": "English",
+    "definitions": {
+      "definition": "made in imitation; artificial, especially of a poor quality",
+      "parsedExamples": [
+        {
+          "example": "Back then, we could only get ersatz coffee."
+        }
+      ],
+      "examples": [
+        "Back then, we could only get ersatz coffee."
+      ]
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "spijs": {
+    "word": "spijs",
+    "partOfSpeech": "Noun",
+    "language": "Dutch",
+    "definitions": {
+      "definition": "foodstuff in general",
+      "parsedExamples": [
+        {
+          "example": "De tafel was gedekt met allerlei heerlijke spijzen.",
+          "translation": "The table was arranged with all kinds of delicious foods."
+        }
+      ],
+      "examples": [
+        "De tafel was gedekt met allerlei heerlijke spijzen."
+      ]
+    }
+  }
+}

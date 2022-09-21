@@ -1,0 +1,20 @@
+{
+  "пар": {
+    "word": "пар",
+    "partOfSpeech": "Noun",
+    "language": "Russian",
+    "definitions": {
+      "definition": "steam, vapor",
+      "parsedExamples": [
+        {
+          "example": "конденса́ция па́ра",
+          "transliteration": "kondɛnsácija pára",
+          "translation": "condensation of steam"
+        }
+      ],
+      "examples": [
+        "конденса́ция па́ра"
+      ]
+    }
+  }
+}

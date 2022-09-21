@@ -1,0 +1,20 @@
+{
+  "стойкость": {
+    "word": "стойкость",
+    "partOfSpeech": "Noun",
+    "language": "Russian",
+    "definitions": {
+      "definition": "firmness, steadfastness, staunchness, stableness",
+      "parsedExamples": [
+        {
+          "example": "прояви́ть сто́йкость",
+          "transliteration": "projavítʹ stójkostʹ",
+          "translation": "display fortitude/determination"
+        }
+      ],
+      "examples": [
+        "прояви́ть сто́йкость"
+      ]
+    }
+  }
+}

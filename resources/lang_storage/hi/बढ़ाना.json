@@ -1,0 +1,20 @@
+{
+  "बढ़ाना": {
+    "word": "बढ़ाना",
+    "partOfSpeech": "Verb",
+    "language": "Hindi",
+    "definitions": {
+      "definition": "to increase, make greater",
+      "parsedExamples": [
+        {
+          "example": "सरकार ने दाम फिर से बढ़ाए।",
+          "transliteration": "sarkār ne dām phir se baṛhāe.",
+          "translation": "The government increased prices again."
+        }
+      ],
+      "examples": [
+        "सरकार ने दाम फिर से बढ़ाए।"
+      ]
+    }
+  }
+}

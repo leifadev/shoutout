@@ -1,0 +1,19 @@
+{
+  "essai": {
+    "word": "essai",
+    "partOfSpeech": "Noun",
+    "language": "French",
+    "definitions": {
+      "definition": "try, trial",
+      "parsedExamples": [
+        {
+          "example": "Il a gagné après plusieurs essais.",
+          "translation": "He won after numerous tries."
+        }
+      ],
+      "examples": [
+        "Il a gagné après plusieurs essais."
+      ]
+    }
+  }
+}

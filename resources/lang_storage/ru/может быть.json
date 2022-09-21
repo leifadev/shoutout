@@ -1,0 +1,39 @@
+{
+  "может быть": {
+    "word": "может быть",
+    "partOfSpeech": "Adverb",
+    "language": "Russian",
+    "definitions": {
+      "definition": "maybe, perhaps, possibly",
+      "parsedExamples": [
+        {
+          "example": "Я, мо́жет быть, приду́ сего́дня по́здно.",
+          "transliteration": "Ja, móžet bytʹ, pridú sevódnja pózdno.",
+          "translation": "I may come late tonight.",
+          "literally": "I, maybe, will come late tonight."
+        },
+        {
+          "example": "Ну, мо́жет быть, и так.",
+          "transliteration": "Nu, móžet bytʹ, i tak.",
+          "translation": "Well, perhaps so."
+        },
+        {
+          "example": "Мо́жет быть, ты, наконе́ц, доде́лаешь свою́ рабо́ту?",
+          "transliteration": "Móžet bytʹ, ty, nakonéc, dodélaješʹ svojú rabótu?",
+          "translation": "Are you going to finish your work at last?"
+        },
+        {
+          "example": "Мо́жет быть, а мо́жет и не быть.",
+          "transliteration": "Móžet bytʹ, a móžet i ne bytʹ.",
+          "translation": "Perhaps it is so, perhaps not. OR It may be or may NOT be (a pun)."
+        }
+      ],
+      "examples": [
+        "Я, мо́жет быть, приду́ сего́дня по́здно.",
+        "Ну, мо́жет быть, и так.",
+        "Мо́жет быть, ты, наконе́ц, доде́лаешь свою́ рабо́ту?",
+        "Мо́жет быть, а мо́жет и не быть."
+      ]
+    }
+  }
+}

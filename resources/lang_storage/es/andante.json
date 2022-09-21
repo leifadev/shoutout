@@ -1,0 +1,19 @@
+{
+  "andante": {
+    "word": "andante",
+    "partOfSpeech": "Adjective",
+    "language": "Spanish",
+    "definitions": {
+      "definition": "walking, who roams, who wanders, errant",
+      "parsedExamples": [
+        {
+          "example": "Caballero andante.",
+          "translation": "Knight-errant."
+        }
+      ],
+      "examples": [
+        "Caballero andante."
+      ]
+    }
+  }
+}

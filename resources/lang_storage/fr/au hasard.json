@@ -1,0 +1,19 @@
+{
+  "au hasard": {
+    "word": "au hasard",
+    "partOfSpeech": "Adverb",
+    "language": "French",
+    "definitions": {
+      "definition": "randomly, at random (by using random selection)",
+      "parsedExamples": [
+        {
+          "example": "Il tira une carte au hasard",
+          "translation": "he picked a card at random."
+        }
+      ],
+      "examples": [
+        "Il tira une carte au hasard"
+      ]
+    }
+  }
+}

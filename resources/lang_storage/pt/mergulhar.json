@@ -1,0 +1,19 @@
+{
+  "mergulhar": {
+    "word": "mergulhar",
+    "partOfSpeech": "Verb",
+    "language": "Portuguese",
+    "definitions": {
+      "definition": "to submerge (to go down in water)",
+      "parsedExamples": [
+        {
+          "example": "O submarino mergulhou vinte metro.",
+          "translation": "The submarine submerged twenty meters."
+        }
+      ],
+      "examples": [
+        "O submarino mergulhou vinte metro."
+      ]
+    }
+  }
+}

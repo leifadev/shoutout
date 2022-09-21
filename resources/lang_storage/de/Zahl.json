@@ -1,0 +1,10 @@
+{
+  "Zahl": {
+    "word": "zahl",
+    "partOfSpeech": "Verb",
+    "language": "German",
+    "definitions": {
+      "definition": "singular imperative of zahlen"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "fulcrum": {
+    "word": "fulcrum",
+    "partOfSpeech": "Noun",
+    "language": "English",
+    "definitions": {
+      "definition": "The support about which a lever pivots.",
+      "parsedExamples": [
+        {
+          "example": "It is possible to flick food across the table using your fork as a lever and your finger as a fulcrum."
+        }
+      ],
+      "examples": [
+        "It is possible to flick food across the table using your fork as a lever and your finger as a fulcrum."
+      ]
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "foment": {
+    "word": "foment",
+    "partOfSpeech": "Verb",
+    "language": "English",
+    "definitions": {
+      "definition": "To incite or cause troublesome acts; to encourage; to instigate.",
+      "parsedExamples": [
+        {
+          "example": "He was arrested for fomenting a riot; after all, it's bad enough being in a riot but starting one is much worse."
+        },
+        {
+          "example": "Foreign governments have tried to foment unrest."
+        }
+      ],
+      "examples": [
+        "He was arrested for fomenting a riot; after all, it's bad enough being in a riot but starting one is much worse.",
+        "Foreign governments have tried to foment unrest."
+      ]
+    }
+  }
+}

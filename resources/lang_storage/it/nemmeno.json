@@ -1,0 +1,24 @@
+{
+  "nemmeno": {
+    "word": "nemmeno",
+    "partOfSpeech": "Adverb",
+    "language": "Italian",
+    "definitions": {
+      "definition": "not even",
+      "parsedExamples": [
+        {
+          "example": "Non provarlo nemmeno.",
+          "translation": "Don't even try it."
+        },
+        {
+          "example": "Non c'eri nemmeno.",
+          "translation": "You weren't even there."
+        }
+      ],
+      "examples": [
+        "Non provarlo nemmeno.",
+        "Non c'eri nemmeno."
+      ]
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "волнистый": {
+    "word": "волнистый",
+    "partOfSpeech": "Adjective",
+    "language": "Russian",
+    "definitions": {
+      "definition": "wavy, corrugated",
+      "parsedExamples": [
+        {
+          "example": "волни́стые во́лосы",
+          "transliteration": "volnístyje vólosy",
+          "translation": "wavy hair"
+        },
+        {
+          "example": "волни́стый попуга́йчик",
+          "transliteration": "volnístyj popugájčik",
+          "translation": "budgerigar; shell parakeet; budgie"
+        }
+      ],
+      "examples": [
+        "волни́стые во́лосы",
+        "волни́стый попуга́йчик"
+      ]
+    }
+  }
+}

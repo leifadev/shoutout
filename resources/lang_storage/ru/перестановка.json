@@ -1,0 +1,20 @@
+{
+  "перестановка": {
+    "word": "перестановка",
+    "partOfSpeech": "Noun",
+    "language": "Russian",
+    "definitions": {
+      "definition": "shift, transposition",
+      "parsedExamples": [
+        {
+          "example": "произвести́ перестано́вку ме́бели",
+          "transliteration": "proizvestí perestanóvku mébeli",
+          "translation": "move furniture"
+        }
+      ],
+      "examples": [
+        "произвести́ перестано́вку ме́бели"
+      ]
+    }
+  }
+}

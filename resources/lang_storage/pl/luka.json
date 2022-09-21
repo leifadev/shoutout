@@ -1,0 +1,19 @@
+{
+  "luka": {
+    "word": "luka",
+    "partOfSpeech": "Noun",
+    "language": "Polish",
+    "definitions": {
+      "definition": "gap, blank",
+      "parsedExamples": [
+        {
+          "example": "wypełniać lukę",
+          "translation": "to fill in the blank"
+        }
+      ],
+      "examples": [
+        "wypełniać lukę"
+      ]
+    }
+  }
+}

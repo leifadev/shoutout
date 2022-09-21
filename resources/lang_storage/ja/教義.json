@@ -1,0 +1,19 @@
+{
+  "教義": {
+    "word": "教義",
+    "partOfSpeech": "Noun",
+    "language": "Japanese",
+    "definitions": {
+      "definition": "doctrine, dogma",
+      "parsedExamples": [
+        {
+          "translation": "Kyōgi no chigai o norikoete kyōryoku subeki da.",
+          "example": "教(きょう)義(ぎ)の違(ちが)いを乗(の)り越(こ)えて協力(きょうりょく)すべきだ。"
+        }
+      ],
+      "examples": [
+        "教(きょう)義(ぎ)の違(ちが)いを乗(の)り越(こ)えて協力(きょうりょく)すべきだ。"
+      ]
+    }
+  }
+}

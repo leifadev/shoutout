@@ -1,0 +1,39 @@
+{
+  "raj": {
+    "word": "raj",
+    "partOfSpeech": "Noun",
+    "language": "Polish",
+    "definitions": {
+      "definition": "paradise",
+      "parsedExamples": [
+        {
+          "example": "wrota raju",
+          "translation": "gates to paradise"
+        },
+        {
+          "example": "istny raj",
+          "translation": "true paradise"
+        },
+        {
+          "example": "raj utracony",
+          "translation": "paradise lost"
+        },
+        {
+          "example": "wygnanie z raju",
+          "translation": "expulsion from paradise"
+        },
+        {
+          "example": "raje podatkowe",
+          "translation": "tax havens (lit. tax paradises)"
+        }
+      ],
+      "examples": [
+        "wrota raju",
+        "istny raj",
+        "raj utracony",
+        "wygnanie z raju",
+        "raje podatkowe"
+      ]
+    }
+  }
+}

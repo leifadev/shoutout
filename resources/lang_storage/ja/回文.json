@@ -1,0 +1,10 @@
+{
+  "回文": {
+    "word": "回文",
+    "partOfSpeech": "Noun",
+    "language": "Japanese",
+    "definitions": {
+      "definition": "that which when read from start to end or end to start results in the same phrase; a palindrome. In Japanese, the sound unit is the mora, and voicing constraints are ignored."
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "zakazać": {
+    "word": "zakazać",
+    "partOfSpeech": "Verb",
+    "language": "Polish",
+    "definitions": {
+      "definition": "to forbid, to prohibit, to disallow, to ban [+ (dative) (genitive/infinitive) = (someone) from (something)]",
+      "parsedExamples": [
+        {
+          "example": "Rodzice zakazali dzieciom grać w gry komputerowe.",
+          "translation": "The parents have forbidden their children to play computer games."
+        }
+      ],
+      "examples": [
+        "Rodzice zakazali dzieciom grać w gry komputerowe."
+      ]
+    }
+  }
+}

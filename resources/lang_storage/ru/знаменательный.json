@@ -1,0 +1,20 @@
+{
+  "знаменательный": {
+    "word": "знаменательный",
+    "partOfSpeech": "Adjective",
+    "language": "Russian",
+    "definitions": {
+      "definition": "significant, remarkable, noteworthy, portentous, momentous",
+      "parsedExamples": [
+        {
+          "example": "знамена́тельное собы́тие",
+          "transliteration": "znamenátelʹnoje sobýtije",
+          "translation": "important/momentous event"
+        }
+      ],
+      "examples": [
+        "знамена́тельное собы́тие"
+      ]
+    }
+  }
+}

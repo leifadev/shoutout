@@ -1,0 +1,22 @@
+{
+  "lambaste": {
+    "word": "lambaste",
+    "partOfSpeech": "Verb",
+    "language": "English",
+    "definitions": {
+      "definition": "To scold, reprimand or criticize harshly.",
+      "parsedExamples": [
+        {
+          "example": "The sergeant lambasted the new recruits daily."
+        },
+        {
+          "example": "Her first novel was well and truly lambasted by the critics."
+        }
+      ],
+      "examples": [
+        "The sergeant lambasted the new recruits daily.",
+        "Her first novel was well and truly lambasted by the critics."
+      ]
+    }
+  }
+}

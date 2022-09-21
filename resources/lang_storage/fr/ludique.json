@@ -1,0 +1,30 @@
+{
+  "ludique": {
+    "word": "ludique",
+    "partOfSpeech": "Adjective",
+    "language": "French",
+    "definitions": {
+      "definition": "playful, ludic",
+      "parsedExamples": [
+        {
+          "example": "attitude ludique"
+        },
+        {
+          "example": "caractère ludique"
+        },
+        {
+          "example": "esprit ludique"
+        },
+        {
+          "example": "tendance ludique"
+        }
+      ],
+      "examples": [
+        "attitude ludique",
+        "caractère ludique",
+        "esprit ludique",
+        "tendance ludique"
+      ]
+    }
+  }
+}

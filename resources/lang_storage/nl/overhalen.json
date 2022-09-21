@@ -1,0 +1,19 @@
+{
+  "overhalen": {
+    "word": "overhalen",
+    "partOfSpeech": "Verb",
+    "language": "Dutch",
+    "definitions": {
+      "definition": "to talk over, talk into, persuade (make someone agree to something, usually without fully convincing them)",
+      "parsedExamples": [
+        {
+          "example": "Ik dacht al van tevoren dat het een dom idee was, maar helaas heb ik me laten overhalen.",
+          "translation": "I already thought before that it was a stupid idea, but unfortunately I let them persuade me."
+        }
+      ],
+      "examples": [
+        "Ik dacht al van tevoren dat het een dom idee was, maar helaas heb ik me laten overhalen."
+      ]
+    }
+  }
+}

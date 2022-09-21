@@ -1,0 +1,18 @@
+{
+  "supersede": {
+    "word": "supersede",
+    "partOfSpeech": "Verb",
+    "language": "English",
+    "definitions": {
+      "definition": "To take the place of.",
+      "parsedExamples": [
+        {
+          "example": "Those older products have been superseded by our new range."
+        }
+      ],
+      "examples": [
+        "Those older products have been superseded by our new range."
+      ]
+    }
+  }
+}

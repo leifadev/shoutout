@@ -1,0 +1,19 @@
+{
+  "mächtig": {
+    "word": "mächtig",
+    "partOfSpeech": "Adjective",
+    "language": "German",
+    "definitions": {
+      "definition": "powerful, mighty",
+      "parsedExamples": [
+        {
+          "example": "Ist Deutschland ein mächtiges Land?",
+          "translation": "Is Germany a powerful country?"
+        }
+      ],
+      "examples": [
+        "Ist Deutschland ein mächtiges Land?"
+      ]
+    }
+  }
+}

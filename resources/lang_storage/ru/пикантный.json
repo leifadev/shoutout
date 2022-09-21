@@ -1,0 +1,20 @@
+{
+  "пикантный": {
+    "word": "пикантный",
+    "partOfSpeech": "Adjective",
+    "language": "Russian",
+    "definitions": {
+      "definition": "piquant, savoury, spicy, sexy",
+      "parsedExamples": [
+        {
+          "example": "пика́нтный анекдо́т",
+          "transliteration": "pikántnyj anekdót",
+          "translation": "risque/spicy story"
+        }
+      ],
+      "examples": [
+        "пика́нтный анекдо́т"
+      ]
+    }
+  }
+}

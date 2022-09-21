@@ -1,0 +1,18 @@
+{
+  "overwhelm": {
+    "word": "overwhelm",
+    "partOfSpeech": "Verb",
+    "language": "English",
+    "definitions": {
+      "definition": "To engulf, surge over and submerge.",
+      "parsedExamples": [
+        {
+          "example": "The dinghy was overwhelmed by the great wave."
+        }
+      ],
+      "examples": [
+        "The dinghy was overwhelmed by the great wave."
+      ]
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "शाब्दिक": {
+    "word": "शाब्दिक",
+    "partOfSpeech": "Adjective",
+    "language": "Hindi",
+    "definitions": {
+      "definition": "literal",
+      "parsedExamples": [
+        {
+          "example": "शाब्दिक अर्थ",
+          "transliteration": "śābdik arth",
+          "translation": "literal meaning"
+        }
+      ],
+      "examples": [
+        "शाब्दिक अर्थ"
+      ]
+    }
+  }
+}

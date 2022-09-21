@@ -1,0 +1,18 @@
+{
+  "notch": {
+    "word": "notch",
+    "partOfSpeech": "Noun",
+    "language": "English",
+    "definitions": {
+      "definition": "A V-shaped cut.\nSuch a cut, used for keeping a record.",
+      "parsedExamples": [
+        {
+          "example": "The notches in that tribe's warrior axe handles stand for killed enemies."
+        }
+      ],
+      "examples": [
+        "The notches in that tribe's warrior axe handles stand for killed enemies."
+      ]
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "útěcha": {
+    "word": "útěcha",
+    "partOfSpeech": "Noun",
+    "language": "Czech",
+    "definitions": {
+      "definition": "consolation, solace",
+      "parsedExamples": [
+        {
+          "example": "získat útěchu",
+          "translation": "to take comfort"
+        },
+        {
+          "example": "poskytovat útěchu",
+          "translation": "to provide solace"
+        },
+        {
+          "example": "najít útěchu",
+          "translation": "to find relief"
+        },
+        {
+          "example": "chabá útěcha",
+          "translation": "cold comfort"
+        }
+      ],
+      "examples": [
+        "získat útěchu",
+        "poskytovat útěchu",
+        "najít útěchu",
+        "chabá útěcha"
+      ]
+    }
+  }
+}

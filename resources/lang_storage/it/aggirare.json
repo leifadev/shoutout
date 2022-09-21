@@ -1,0 +1,19 @@
+{
+  "aggirare": {
+    "word": "aggirare",
+    "partOfSpeech": "Verb",
+    "language": "Italian",
+    "definitions": {
+      "definition": "to bypass, circumvent, go around, get around",
+      "parsedExamples": [
+        {
+          "example": "aggirare le regole",
+          "translation": "to get around the rules"
+        }
+      ],
+      "examples": [
+        "aggirare le regole"
+      ]
+    }
+  }
+}

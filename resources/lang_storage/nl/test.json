@@ -1,0 +1,10 @@
+{
+  "test": {
+    "word": "test",
+    "partOfSpeech": "Noun",
+    "language": "Dutch",
+    "definitions": {
+      "definition": "test"
+    }
+  }
+}

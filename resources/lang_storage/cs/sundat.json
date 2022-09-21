@@ -1,0 +1,24 @@
+{
+  "sundat": {
+    "word": "sundat",
+    "partOfSpeech": "Verb",
+    "language": "Czech",
+    "definitions": {
+      "definition": "to take off, to remove",
+      "parsedExamples": [
+        {
+          "example": "Sundej ty nohy ze stolu!",
+          "translation": "Take your feet off the table!"
+        },
+        {
+          "example": "Sundavši si kabát, pověsila jej na věšák.",
+          "translation": "When she had taken her coat off, she hung it on the coat-stand."
+        }
+      ],
+      "examples": [
+        "Sundej ty nohy ze stolu!",
+        "Sundavši si kabát, pověsila jej na věšák."
+      ]
+    }
+  }
+}

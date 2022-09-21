@@ -1,0 +1,20 @@
+{
+  "समाप्त": {
+    "word": "समाप्त",
+    "partOfSpeech": "Adjective",
+    "language": "Hindi",
+    "definitions": {
+      "definition": "finished, completed, terminated",
+      "parsedExamples": [
+        {
+          "example": "एक सप्ताह के बाद, हड़ताल समाप्त हो गई।",
+          "transliteration": "ek saptāh ke bād, haṛtāl samāpt ho gaī.",
+          "translation": "After one week, the strike has finished."
+        }
+      ],
+      "examples": [
+        "एक सप्ताह के बाद, हड़ताल समाप्त हो गई।"
+      ]
+    }
+  }
+}

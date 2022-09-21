@@ -1,0 +1,23 @@
+{
+  "指控": {
+    "word": "指控",
+    "partOfSpeech": "Verb",
+    "language": "Chinese",
+    "definitions": {
+      "definition": "to accuse",
+      "parsedExamples": [
+        {
+          "example": "被指控接受賄賂 / 被指控接受贿赂&nbsp; ―&nbsp; bèi zhǐkòng jiēshòu huìlù&nbsp; ―&nbsp; to be accused of accepting bribes"
+        },
+        {
+          "translation": "Tā zhǐkòng wǒ móushā línjū. [Pinyin]",
+          "example": ""
+        }
+      ],
+      "examples": [
+        "被指控接受賄賂 / 被指控接受贿赂&nbsp; ―&nbsp; bèi zhǐkòng jiēshòu huìlù&nbsp; ―&nbsp; to be accused of accepting bribes",
+        ""
+      ]
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "heinous": {
+    "word": "heinous",
+    "partOfSpeech": "Adjective",
+    "language": "English",
+    "definitions": {
+      "definition": "Totally reprehensible.",
+      "parsedExamples": [
+        {
+          "example": "I hope they catch the person responsible for that heinous crime."
+        },
+        {
+          "example": "The perpetrators of this heinous act must be brought to justice."
+        }
+      ],
+      "examples": [
+        "I hope they catch the person responsible for that heinous crime.",
+        "The perpetrators of this heinous act must be brought to justice."
+      ]
+    }
+  }
+}

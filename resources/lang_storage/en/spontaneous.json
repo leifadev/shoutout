@@ -1,0 +1,22 @@
+{
+  "spontaneous": {
+    "word": "spontaneous",
+    "partOfSpeech": "Adjective",
+    "language": "English",
+    "definitions": {
+      "definition": "Self-generated; happening without any apparent external cause.",
+      "parsedExamples": [
+        {
+          "example": "He made a spontaneous offer of help."
+        },
+        {
+          "example": "a make spontaneous decision"
+        }
+      ],
+      "examples": [
+        "He made a spontaneous offer of help.",
+        "a make spontaneous decision"
+      ]
+    }
+  }
+}

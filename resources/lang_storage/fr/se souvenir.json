@@ -1,0 +1,19 @@
+{
+  "se souvenir": {
+    "word": "se souvenir",
+    "partOfSpeech": "Verb",
+    "language": "French",
+    "definitions": {
+      "definition": "remember (to recall one's memory)",
+      "parsedExamples": [
+        {
+          "example": "Je ne me souviens plus de rien.",
+          "translation": "I don’t remember anything."
+        }
+      ],
+      "examples": [
+        "Je ne me souviens plus de rien."
+      ]
+    }
+  }
+}

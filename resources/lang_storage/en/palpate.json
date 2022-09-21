@@ -1,0 +1,18 @@
+{
+  "palpate": {
+    "word": "palpate",
+    "partOfSpeech": "Verb",
+    "language": "English",
+    "definitions": {
+      "definition": "To examine or otherwise explore through touch, particularly  in reference to an area or organ of the human body.",
+      "parsedExamples": [
+        {
+          "example": "I palpated his expired heart."
+        }
+      ],
+      "examples": [
+        "I palpated his expired heart."
+      ]
+    }
+  }
+}

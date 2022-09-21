@@ -1,0 +1,22 @@
+{
+  "debunk": {
+    "word": "debunk",
+    "partOfSpeech": "Verb",
+    "language": "English",
+    "definitions": {
+      "definition": "To discredit, or expose to ridicule the falsehood or the exaggerated claims of something.",
+      "parsedExamples": [
+        {
+          "example": "The explosion story was thoroughly debunked on National Public Radio in November 1999."
+        },
+        {
+          "example": "debunk a theory"
+        }
+      ],
+      "examples": [
+        "The explosion story was thoroughly debunked on National Public Radio in November 1999.",
+        "debunk a theory"
+      ]
+    }
+  }
+}

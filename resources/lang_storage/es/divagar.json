@@ -1,0 +1,19 @@
+{
+  "divagar": {
+    "word": "divagar",
+    "partOfSpeech": "Verb",
+    "language": "Spanish",
+    "definitions": {
+      "definition": "to roam, wander, stray, ramble, digress",
+      "parsedExamples": [
+        {
+          "example": "...pero estoy divagando.",
+          "translation": "...but I digress."
+        }
+      ],
+      "examples": [
+        "...pero estoy divagando."
+      ]
+    }
+  }
+}

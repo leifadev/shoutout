@@ -1,0 +1,20 @@
+{
+  "हार्दिक": {
+    "word": "हार्दिक",
+    "partOfSpeech": "Adjective",
+    "language": "Hindi",
+    "definitions": {
+      "definition": "heartfelt, cordial",
+      "parsedExamples": [
+        {
+          "example": "आपके जन्मदिन पर हार्दिक शुभकामनाएं!",
+          "transliteration": "āpke janmadin par hārdik śubhkāmnāẽ!",
+          "translation": "Heartfelt congratulations on your birthday!"
+        }
+      ],
+      "examples": [
+        "आपके जन्मदिन पर हार्दिक शुभकामनाएं!"
+      ]
+    }
+  }
+}

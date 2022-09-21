@@ -1,0 +1,20 @@
+{
+  "손바닥": {
+    "word": "손바닥",
+    "partOfSpeech": "Noun",
+    "language": "Korean",
+    "definitions": {
+      "definition": "palm (inner, concave part of hand)",
+      "parsedExamples": [
+        {
+          "example": "박수는 손바닥 두개를 마주치면서 치는 것이다.",
+          "transliteration": "Baksu-neun sonbadak du-gae-reul majuchimyeonseo chineun geos-ida.",
+          "translation": "When you clap, you hit palms of your hands together."
+        }
+      ],
+      "examples": [
+        "박수는 손바닥 두개를 마주치면서 치는 것이다."
+      ]
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "protivný": {
+    "word": "protivný",
+    "partOfSpeech": "Adjective",
+    "language": "Czech",
+    "definitions": {
+      "definition": "mean, annoying",
+      "parsedExamples": [
+        {
+          "example": "protivný chlap"
+        },
+        {
+          "example": "ten člověk je mi protivný"
+        },
+        {
+          "example": "protivný zvuk"
+        },
+        {
+          "example": "protivný zvyk"
+        }
+      ],
+      "examples": [
+        "protivný chlap",
+        "ten člověk je mi protivný",
+        "protivný zvuk",
+        "protivný zvyk"
+      ]
+    }
+  }
+}

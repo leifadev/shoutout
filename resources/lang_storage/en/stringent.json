@@ -1,0 +1,18 @@
+{
+  "stringent": {
+    "word": "stringent",
+    "partOfSpeech": "Adjective",
+    "language": "English",
+    "definitions": {
+      "definition": "Strict; binding strongly; making strict requirements; restrictive; rigid; severe",
+      "parsedExamples": [
+        {
+          "example": "They have stringent quality requirements outlining what is acceptable."
+        }
+      ],
+      "examples": [
+        "They have stringent quality requirements outlining what is acceptable."
+      ]
+    }
+  }
+}

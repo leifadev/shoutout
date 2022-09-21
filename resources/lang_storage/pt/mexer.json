@@ -1,0 +1,29 @@
+{
+  "mexer": {
+    "word": "mexer",
+    "partOfSpeech": "Verb",
+    "language": "Portuguese",
+    "definitions": {
+      "definition": "to move, to mess with, to put your hands on",
+      "parsedExamples": [
+        {
+          "example": "Não mexas nas minhas coisas.",
+          "translation": "Don't move my stuff."
+        },
+        {
+          "example": "Esse filme mexeu comigo.",
+          "translation": "That movie moved me."
+        },
+        {
+          "example": "Para de te mexer!",
+          "translation": "Stop moving! (Stand still!)"
+        }
+      ],
+      "examples": [
+        "Não mexas nas minhas coisas.",
+        "Esse filme mexeu comigo.",
+        "Para de te mexer!"
+      ]
+    }
+  }
+}

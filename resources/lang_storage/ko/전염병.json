@@ -1,0 +1,20 @@
+{
+  "전염병": {
+    "word": "전염병",
+    "partOfSpeech": "Noun",
+    "language": "Korean",
+    "definitions": {
+      "definition": "an infectious disease",
+      "parsedExamples": [
+        {
+          "example": "유럽인들이 아메리카 대륙에 정착하기 시작하자, 수백만명의 아메리카 원주민들이 천연두 같은 유입된 전염병으로 숨졌다.",
+          "transliteration": "Yureobindeuri amerika daeryuge jeongchakhagi sijakhaja, subaengmanmyeong'ui amerika wonjumindeuri cheonyeondu gateun yuipdoen jeonyeombyeong'euro sumjeotda.",
+          "translation": "After Europeans began settling in the Americas, many millions of indigenous Americans died from epidemics of imported diseases such as smallpox."
+        }
+      ],
+      "examples": [
+        "유럽인들이 아메리카 대륙에 정착하기 시작하자, 수백만명의 아메리카 원주민들이 천연두 같은 유입된 전염병으로 숨졌다."
+      ]
+    }
+  }
+}

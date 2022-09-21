@@ -1,0 +1,26 @@
+{
+  "мне": {
+    "word": "мне",
+    "partOfSpeech": "Pronoun",
+    "language": "Russian",
+    "definitions": {
+      "definition": "dative/prepositional of я (ja)",
+      "parsedExamples": [
+        {
+          "example": "обо мне́",
+          "transliteration": "obo mné",
+          "translation": "about me"
+        },
+        {
+          "example": "во мне́",
+          "transliteration": "vo mné",
+          "translation": "in me"
+        }
+      ],
+      "examples": [
+        "обо мне́",
+        "во мне́"
+      ]
+    }
+  }
+}

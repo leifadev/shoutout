@@ -1,0 +1,18 @@
+{
+  "receipt": {
+    "word": "receipt",
+    "partOfSpeech": "Noun",
+    "language": "English",
+    "definitions": {
+      "definition": "The act of receiving, or the fact of having been received.",
+      "parsedExamples": [
+        {
+          "example": "A balance payable on receipt of the goods."
+        }
+      ],
+      "examples": [
+        "A balance payable on receipt of the goods."
+      ]
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "furtif": {
+    "word": "furtif",
+    "partOfSpeech": "Adjective",
+    "language": "French",
+    "definitions": {
+      "definition": "furtive, stealthy",
+      "parsedExamples": [
+        {
+          "example": "une main furtive",
+          "translation": "a furtive hand"
+        }
+      ],
+      "examples": [
+        "une main furtive"
+      ]
+    }
+  }
+}

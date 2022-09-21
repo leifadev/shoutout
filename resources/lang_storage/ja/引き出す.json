@@ -1,0 +1,19 @@
+{
+  "引き出す": {
+    "word": "引き出す",
+    "partOfSpeech": "Verb",
+    "language": "Japanese",
+    "definitions": {
+      "definition": "take out, withdraw",
+      "parsedExamples": [
+        {
+          "translation": "kyasshukādo o tsukatte genkin o hikidasō to shita otoko",
+          "example": "キャッシュカードを使(つか)って現金(げんきん)を引(ひ)き出(だ)そうとした男(おとこ)"
+        }
+      ],
+      "examples": [
+        "キャッシュカードを使(つか)って現金(げんきん)を引(ひ)き出(だ)そうとした男(おとこ)"
+      ]
+    }
+  }
+}

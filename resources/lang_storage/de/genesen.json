@@ -1,0 +1,19 @@
+{
+  "genesen": {
+    "word": "genesen",
+    "partOfSpeech": "Verb",
+    "language": "German",
+    "definitions": {
+      "definition": "to recover; to recuperate",
+      "parsedExamples": [
+        {
+          "example": "nach langer Krankheit genesen",
+          "translation": "recovered after a long illness"
+        }
+      ],
+      "examples": [
+        "nach langer Krankheit genesen"
+      ]
+    }
+  }
+}

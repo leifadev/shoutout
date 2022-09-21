@@ -1,0 +1,19 @@
+{
+  "roztáhnout": {
+    "word": "roztáhnout",
+    "partOfSpeech": "Verb",
+    "language": "Czech",
+    "definitions": {
+      "definition": "to spread (to stretch out, expand)",
+      "parsedExamples": [
+        {
+          "example": "roztáhnout křídla",
+          "translation": "spread wings"
+        }
+      ],
+      "examples": [
+        "roztáhnout křídla"
+      ]
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "получать": {
+    "word": "получать",
+    "partOfSpeech": "Verb",
+    "language": "Russian",
+    "definitions": {
+      "definition": "to receive, to get, to obtain, to accept",
+      "parsedExamples": [
+        {
+          "example": "получа́ть пре́мию",
+          "transliteration": "polučátʹ prémiju",
+          "translation": "to receive a prize"
+        }
+      ],
+      "examples": [
+        "получа́ть пре́мию"
+      ]
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "prostorný": {
+    "word": "prostorný",
+    "partOfSpeech": "Adjective",
+    "language": "Czech",
+    "definitions": {
+      "definition": "spacious, roomy, roomy",
+      "parsedExamples": [
+        {
+          "example": "prostorná stavba",
+          "translation": "spacious building"
+        },
+        {
+          "example": "Tenhle dům je však hezký, čistý a prostorný",
+          "translation": "This house is spacious, clean, and nice"
+        }
+      ],
+      "examples": [
+        "prostorná stavba",
+        "Tenhle dům je však hezký, čistý a prostorný"
+      ]
+    }
+  }
+}

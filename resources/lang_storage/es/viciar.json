@@ -1,0 +1,24 @@
+{
+  "viciar": {
+    "word": "viciar",
+    "partOfSpeech": "Verb",
+    "language": "Spanish",
+    "definitions": {
+      "definition": "to addict (to cause someone to become addicted)",
+      "parsedExamples": [
+        {
+          "example": "Sus amigos lo viciaron en las drogas.",
+          "translation": "His friends addicted him to drugs."
+        },
+        {
+          "example": "Este juego me vició.",
+          "translation": "This game got me addicted."
+        }
+      ],
+      "examples": [
+        "Sus amigos lo viciaron en las drogas.",
+        "Este juego me vició."
+      ]
+    }
+  }
+}

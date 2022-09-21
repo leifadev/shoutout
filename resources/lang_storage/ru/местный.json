@@ -1,0 +1,20 @@
+{
+  "местный": {
+    "word": "местный",
+    "partOfSpeech": "Adjective",
+    "language": "Russian",
+    "definitions": {
+      "definition": "local",
+      "parsedExamples": [
+        {
+          "example": "ме́стный нарко́з",
+          "transliteration": "méstnyj narkóz",
+          "translation": "local anaesthetic"
+        }
+      ],
+      "examples": [
+        "ме́стный нарко́з"
+      ]
+    }
+  }
+}

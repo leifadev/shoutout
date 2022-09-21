@@ -1,0 +1,19 @@
+{
+  "rozsudek": {
+    "word": "rozsudek",
+    "partOfSpeech": "Noun",
+    "language": "Czech",
+    "definitions": {
+      "definition": "sentence, verdict (decision of a jury)",
+      "parsedExamples": [
+        {
+          "example": "vynést rozsudek nad kým",
+          "translation": "to pass sentence on someone"
+        }
+      ],
+      "examples": [
+        "vynést rozsudek nad kým"
+      ]
+    }
+  }
+}

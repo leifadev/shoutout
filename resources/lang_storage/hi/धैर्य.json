@@ -1,0 +1,20 @@
+{
+  "धैर्य": {
+    "word": "धैर्य",
+    "partOfSpeech": "Noun",
+    "language": "Hindi",
+    "definitions": {
+      "definition": "patience, calmness",
+      "parsedExamples": [
+        {
+          "example": "धैर्य रखना",
+          "transliteration": "dhairy rakhnā",
+          "translation": "to be patient"
+        }
+      ],
+      "examples": [
+        "धैर्य रखना"
+      ]
+    }
+  }
+}

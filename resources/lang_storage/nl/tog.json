@@ -1,0 +1,19 @@
+{
+  "tog": {
+    "word": "tog",
+    "partOfSpeech": "Adverb",
+    "language": "Dutch",
+    "definitions": {
+      "definition": "Misspelling of toch.",
+      "parsedExamples": [
+        {
+          "example": "Hij kwam tog?",
+          "translation": "He came, didn't he?"
+        }
+      ],
+      "examples": [
+        "Hij kwam tog?"
+      ]
+    }
+  }
+}

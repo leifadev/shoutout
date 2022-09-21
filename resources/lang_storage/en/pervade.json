@@ -1,0 +1,18 @@
+{
+  "pervade": {
+    "word": "pervade",
+    "partOfSpeech": "Verb",
+    "language": "English",
+    "definitions": {
+      "definition": "To be in every part of; to spread through.",
+      "parsedExamples": [
+        {
+          "example": "Cruel wars pervade history."
+        }
+      ],
+      "examples": [
+        "Cruel wars pervade history."
+      ]
+    }
+  }
+}

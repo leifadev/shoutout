@@ -1,0 +1,18 @@
+{
+  "founder": {
+    "word": "founder",
+    "partOfSpeech": "Noun",
+    "language": "English",
+    "definitions": {
+      "definition": "One who founds or establishes (especially said of a company, project, organisation, state)",
+      "parsedExamples": [
+        {
+          "example": "the founder of Facebook, Mark Zuckerberg"
+        }
+      ],
+      "examples": [
+        "the founder of Facebook, Mark Zuckerberg"
+      ]
+    }
+  }
+}

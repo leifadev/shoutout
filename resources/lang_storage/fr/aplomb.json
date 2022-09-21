@@ -1,0 +1,19 @@
+{
+  "aplomb": {
+    "word": "aplomb",
+    "partOfSpeech": "Noun",
+    "language": "French",
+    "definitions": {
+      "definition": "vertical line, as measured with a plumb line",
+      "parsedExamples": [
+        {
+          "example": "Bien prendre l’aplomb.",
+          "translation": "To take well the plumb-line."
+        }
+      ],
+      "examples": [
+        "Bien prendre l’aplomb."
+      ]
+    }
+  }
+}

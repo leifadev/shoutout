@@ -1,0 +1,20 @@
+{
+  "병": {
+    "word": "병",
+    "partOfSpeech": "Noun",
+    "language": "Korean",
+    "definitions": {
+      "definition": "bottle; jar",
+      "parsedExamples": [
+        {
+          "example": "병이 깨지다.",
+          "transliteration": "Byeong-i kkaejida.",
+          "translation": "The bottle breaks."
+        }
+      ],
+      "examples": [
+        "병이 깨지다."
+      ]
+    }
+  }
+}

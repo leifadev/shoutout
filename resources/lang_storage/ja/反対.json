@@ -1,0 +1,29 @@
+{
+  "反対": {
+    "word": "反対",
+    "partOfSpeech": "Noun",
+    "language": "Japanese",
+    "definitions": {
+      "definition": "opposition; disagreement; defiance",
+      "parsedExamples": [
+        {
+          "translation": "Hantai no imi.",
+          "example": "反(はん)対(たい)の意(い)味(み)。"
+        },
+        {
+          "translation": "Mochiron, sensō ni wa hantai da.",
+          "example": "もちろん、戦(せん)争(そう)には反(はん)対(たい)だ。"
+        },
+        {
+          "translation": "Bōryoku hantai.",
+          "example": "暴(ぼう)力(りょく)反(はん)対(たい)。"
+        }
+      ],
+      "examples": [
+        "反(はん)対(たい)の意(い)味(み)。",
+        "もちろん、戦(せん)争(そう)には反(はん)対(たい)だ。",
+        "暴(ぼう)力(りょく)反(はん)対(たい)。"
+      ]
+    }
+  }
+}

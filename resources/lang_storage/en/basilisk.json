@@ -1,0 +1,18 @@
+{
+  "basilisk": {
+    "word": "basilisk",
+    "partOfSpeech": "Noun",
+    "language": "English",
+    "definitions": {
+      "definition": "A mythical snake-like dragon, so venomous that even its gaze was deadly.",
+      "parsedExamples": [
+        {
+          "example": "The deadly look of the basilisk"
+        }
+      ],
+      "examples": [
+        "The deadly look of the basilisk"
+      ]
+    }
+  }
+}

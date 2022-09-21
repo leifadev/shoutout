@@ -1,0 +1,19 @@
+{
+  "vluchtig": {
+    "word": "vluchtig",
+    "partOfSpeech": "Adjective",
+    "language": "Dutch",
+    "definitions": {
+      "definition": "volatile (evaporating readily)",
+      "parsedExamples": [
+        {
+          "example": "Vluchtige stoffen die aan de lucht worden blootgesteld verdampen snel.",
+          "translation": "Volatile substances that are exposed to air evaporate quickly."
+        }
+      ],
+      "examples": [
+        "Vluchtige stoffen die aan de lucht worden blootgesteld verdampen snel."
+      ]
+    }
+  }
+}

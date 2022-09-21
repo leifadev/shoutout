@@ -1,0 +1,26 @@
+{
+  "वेतन": {
+    "word": "वेतन",
+    "partOfSpeech": "Noun",
+    "language": "Hindi",
+    "definitions": {
+      "definition": "wages, salary",
+      "parsedExamples": [
+        {
+          "example": "वे अधिक वेतन के लिए आंदोलन कर रहे थे।",
+          "transliteration": "ve adhik vetan ke lie āndolan kar rahe the.",
+          "translation": "They were agitating for higher wages."
+        },
+        {
+          "example": "अगली सूचना तक उसका वेतन रोक दिया गया है।",
+          "transliteration": "aglī sūcnā tak uskā vetan rok diyā gayā hai.",
+          "translation": "His salary has been withheld until further notice."
+        }
+      ],
+      "examples": [
+        "वे अधिक वेतन के लिए आंदोलन कर रहे थे।",
+        "अगली सूचना तक उसका वेतन रोक दिया गया है।"
+      ]
+    }
+  }
+}

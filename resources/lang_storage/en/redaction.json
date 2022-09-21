@@ -1,0 +1,18 @@
+{
+  "redaction": {
+    "word": "redaction",
+    "partOfSpeech": "Noun",
+    "language": "English",
+    "definitions": {
+      "definition": "Edited or censored version of a document.",
+      "parsedExamples": [
+        {
+          "example": "The government supplied only the redaction to the reporters; the original was kept secret."
+        }
+      ],
+      "examples": [
+        "The government supplied only the redaction to the reporters; the original was kept secret."
+      ]
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "biadolić": {
+    "word": "biadolić",
+    "partOfSpeech": "Verb",
+    "language": "Polish",
+    "definitions": {
+      "definition": "to bellyache, to bleat, to gripe, to kvetch, to nudzh, to snivel, to squeal, to yammer, to whimper, to whine",
+      "parsedExamples": [
+        {
+          "example": "biadolić nad losem",
+          "translation": "to bewail one's fate"
+        }
+      ],
+      "examples": [
+        "biadolić nad losem"
+      ]
+    }
+  }
+}

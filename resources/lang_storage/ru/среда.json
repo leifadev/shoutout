@@ -1,0 +1,50 @@
+{
+  "среда": {
+    "word": "среда",
+    "partOfSpeech": "Noun",
+    "language": "Russian",
+    "definitions": {
+      "definition": "Wednesday",
+      "parsedExamples": [
+        {
+          "example": "в сре́ду",
+          "transliteration": "v srédu",
+          "translation": "on Wednesday"
+        },
+        {
+          "example": "по среда́м",
+          "transliteration": "po sredám",
+          "translation": "on Wednesdays"
+        },
+        {
+          "example": "к среде́",
+          "transliteration": "k sredé",
+          "translation": "by Wednesday"
+        },
+        {
+          "example": "со среды́",
+          "transliteration": "so sredý",
+          "translation": "from Wednesday"
+        },
+        {
+          "example": "со среды́ до пя́тницы",
+          "transliteration": "so sredý do pjátnicy",
+          "translation": "from Wednesday to Friday"
+        },
+        {
+          "example": "в сле́дующую сре́ду",
+          "transliteration": "v slédujuščuju srédu",
+          "translation": "next Wednesday"
+        }
+      ],
+      "examples": [
+        "в сре́ду",
+        "по среда́м",
+        "к среде́",
+        "со среды́",
+        "со среды́ до пя́тницы",
+        "в сле́дующую сре́ду"
+      ]
+    }
+  }
+}

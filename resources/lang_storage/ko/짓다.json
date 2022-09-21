@@ -1,0 +1,20 @@
+{
+  "짓다": {
+    "word": "짓다",
+    "partOfSpeech": "Verb",
+    "language": "Korean",
+    "definitions": {
+      "definition": "to make something (food, a house, etc.), to build",
+      "parsedExamples": [
+        {
+          "example": "이름을 짓다",
+          "transliteration": "ireum-eul jitda",
+          "translation": "to name"
+        }
+      ],
+      "examples": [
+        "이름을 짓다"
+      ]
+    }
+  }
+}

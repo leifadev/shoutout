@@ -1,0 +1,18 @@
+{
+  "truffa": {
+    "word": "truffa",
+    "partOfSpeech": "Noun",
+    "language": "Italian",
+    "definitions": {
+      "definition": "fraud, swindle, scam",
+      "parsedExamples": [
+        {
+          "example": "commettere una truffa"
+        }
+      ],
+      "examples": [
+        "commettere una truffa"
+      ]
+    }
+  }
+}

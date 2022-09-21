@@ -1,0 +1,19 @@
+{
+  "estranho": {
+    "word": "estranho",
+    "partOfSpeech": "Adjective",
+    "language": "Portuguese",
+    "definitions": {
+      "definition": "odd; strange (not normal)",
+      "parsedExamples": [
+        {
+          "example": "Esse animal é muito estranho.",
+          "translation": "This animal is very strange."
+        }
+      ],
+      "examples": [
+        "Esse animal é muito estranho."
+      ]
+    }
+  }
+}

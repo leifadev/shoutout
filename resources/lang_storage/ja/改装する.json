@@ -1,0 +1,19 @@
+{
+  "改装する": {
+    "word": "改装する",
+    "partOfSpeech": "Noun",
+    "language": "Japanese",
+    "definitions": {
+      "definition": "renovation",
+      "parsedExamples": [
+        {
+          "translation": "daiyokujō no ichibu ga kaisō-chū",
+          "example": "大浴場(だいよくじょう)の一部(いちぶ)が改装中(かいそうちゅう)"
+        }
+      ],
+      "examples": [
+        "大浴場(だいよくじょう)の一部(いちぶ)が改装中(かいそうちゅう)"
+      ]
+    }
+  }
+}

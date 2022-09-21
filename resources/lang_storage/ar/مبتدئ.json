@@ -1,0 +1,19 @@
+{
+  "مبتدئ": {
+    "word": "مبتدئ",
+    "partOfSpeech": "Adjective",
+    "language": "Arabic",
+    "definitions": {
+      "definition": "beginner",
+      "parsedExamples": [
+        {
+          "example": "لَاعِبٌ مُبْتَدِئٌ",
+          "transliteration": "lāʿibun mubtadiʾun"
+        }
+      ],
+      "examples": [
+        "لَاعِبٌ مُبْتَدِئٌ"
+      ]
+    }
+  }
+}

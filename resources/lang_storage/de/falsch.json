@@ -1,0 +1,19 @@
+{
+  "falsch": {
+    "word": "falsch",
+    "partOfSpeech": "Adjective",
+    "language": "German",
+    "definitions": {
+      "definition": "false, unfactual, untrue",
+      "parsedExamples": [
+        {
+          "example": "eine falsche Beschuldigung",
+          "translation": "a false accusation"
+        }
+      ],
+      "examples": [
+        "eine falsche Beschuldigung"
+      ]
+    }
+  }
+}

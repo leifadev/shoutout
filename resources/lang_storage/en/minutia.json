@@ -1,0 +1,18 @@
+{
+  "minutia": {
+    "word": "minutia",
+    "partOfSpeech": "Noun",
+    "language": "English",
+    "definitions": {
+      "definition": "A minor detail, often of negligible importance.",
+      "parsedExamples": [
+        {
+          "example": "They spent all their time on minutiae, never making real progress."
+        }
+      ],
+      "examples": [
+        "They spent all their time on minutiae, never making real progress."
+      ]
+    }
+  }
+}

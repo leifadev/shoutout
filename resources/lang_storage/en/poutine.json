@@ -1,0 +1,18 @@
+{
+  "poutine": {
+    "word": "poutine",
+    "partOfSpeech": "Noun",
+    "language": "English",
+    "definitions": {
+      "definition": "A dish consisting of french fries topped with cheese curds and gravy, eaten primarily in Canada",
+      "parsedExamples": [
+        {
+          "example": "Jean made an eight-hour trip across the border into Quebec just to satisfy his craving for poutine."
+        }
+      ],
+      "examples": [
+        "Jean made an eight-hour trip across the border into Quebec just to satisfy his craving for poutine."
+      ]
+    }
+  }
+}

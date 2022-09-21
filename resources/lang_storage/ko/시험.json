@@ -1,0 +1,20 @@
+{
+  "시험": {
+    "word": "시험",
+    "partOfSpeech": "Noun",
+    "language": "Korean",
+    "definitions": {
+      "definition": "test, exam",
+      "parsedExamples": [
+        {
+          "example": "시험을 보다",
+          "transliteration": "siheom-eul boda",
+          "translation": "to take a test"
+        }
+      ],
+      "examples": [
+        "시험을 보다"
+      ]
+    }
+  }
+}

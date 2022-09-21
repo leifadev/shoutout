@@ -1,0 +1,24 @@
+{
+  "老人": {
+    "word": "老人",
+    "partOfSpeech": "Noun",
+    "language": "Chinese",
+    "definitions": {
+      "definition": "old person; the old; the elderly",
+      "parsedExamples": [
+        {
+          "translation": "Tā de fùqīn kànqilai shì yī wèi jīngshén juéshuò de lǎorén. [Pinyin]",
+          "example": ""
+        },
+        {
+          "translation": "Cóng lǎorén yīzhí dào xiǎohái wúbù huānxīngǔwǔ. [Pinyin]",
+          "example": ""
+        }
+      ],
+      "examples": [
+        "",
+        ""
+      ]
+    }
+  }
+}

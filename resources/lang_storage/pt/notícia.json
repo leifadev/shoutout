@@ -1,0 +1,19 @@
+{
+  "notícia": {
+    "word": "notícia",
+    "partOfSpeech": "Noun",
+    "language": "Portuguese",
+    "definitions": {
+      "definition": "news (a single news item)",
+      "parsedExamples": [
+        {
+          "example": "Esta é uma boa notícia.",
+          "translation": "This is good news."
+        }
+      ],
+      "examples": [
+        "Esta é uma boa notícia."
+      ]
+    }
+  }
+}

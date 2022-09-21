@@ -1,0 +1,19 @@
+{
+  "incubo": {
+    "word": "incubo",
+    "partOfSpeech": "Noun",
+    "language": "Italian",
+    "definitions": {
+      "definition": "nightmare, incubus",
+      "parsedExamples": [
+        {
+          "example": "Mi sono risvegliato da un incubo.",
+          "translation": "I woke from a nightmare."
+        }
+      ],
+      "examples": [
+        "Mi sono risvegliato da un incubo."
+      ]
+    }
+  }
+}

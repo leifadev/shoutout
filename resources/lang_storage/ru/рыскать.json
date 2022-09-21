@@ -1,0 +1,20 @@
+{
+  "рыскать": {
+    "word": "рыскать",
+    "partOfSpeech": "Verb",
+    "language": "Russian",
+    "definitions": {
+      "definition": "to prowl, to scour (about)",
+      "parsedExamples": [
+        {
+          "example": "ры́скать по берегу [лесу]",
+          "transliteration": "rýskatʹ po beregu [lesu]",
+          "translation": "to scour the coast [woods]"
+        }
+      ],
+      "examples": [
+        "ры́скать по берегу [лесу]"
+      ]
+    }
+  }
+}

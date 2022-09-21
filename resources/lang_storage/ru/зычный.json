@@ -1,0 +1,20 @@
+{
+  "зычный": {
+    "word": "зычный",
+    "partOfSpeech": "Adjective",
+    "language": "Russian",
+    "definitions": {
+      "definition": "loud, stentorian",
+      "parsedExamples": [
+        {
+          "example": "зычный голос",
+          "transliteration": "zyčnyj golos",
+          "translation": "stentorian voice"
+        }
+      ],
+      "examples": [
+        "зычный голос"
+      ]
+    }
+  }
+}

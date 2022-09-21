@@ -1,0 +1,20 @@
+{
+  "فك": {
+    "word": "فك",
+    "partOfSpeech": "Verb",
+    "language": "Arabic",
+    "definitions": {
+      "definition": "to untie a knot",
+      "parsedExamples": [
+        {
+          "example": "فَكَّ الْعُقْدَةَ",
+          "transliteration": "fakka l-ʿuqdata",
+          "translation": "He untied the knot."
+        }
+      ],
+      "examples": [
+        "فَكَّ الْعُقْدَةَ"
+      ]
+    }
+  }
+}

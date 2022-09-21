@@ -1,0 +1,19 @@
+{
+  "指ぬき": {
+    "word": "指ぬき",
+    "partOfSpeech": "Noun",
+    "language": "Japanese",
+    "definitions": {
+      "definition": "thimble (a protective cap for the finger)",
+      "parsedExamples": [
+        {
+          "translation": "yubinuki o hameru",
+          "example": "指(ゆび)ぬきをはめる"
+        }
+      ],
+      "examples": [
+        "指(ゆび)ぬきをはめる"
+      ]
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "punc": {
+    "word": "punc",
+    "partOfSpeech": "Noun",
+    "language": "Czech",
+    "definitions": {
+      "definition": "hallmark",
+      "parsedExamples": [
+        {
+          "example": "Má to punc?",
+          "translation": "Does it have a hallmark?"
+        }
+      ],
+      "examples": [
+        "Má to punc?"
+      ]
+    }
+  }
+}

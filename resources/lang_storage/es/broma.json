@@ -1,0 +1,19 @@
+{
+  "broma": {
+    "word": "broma",
+    "partOfSpeech": "Noun",
+    "language": "Spanish",
+    "definitions": {
+      "definition": "joke, prank, practical joke",
+      "parsedExamples": [
+        {
+          "example": "Hizo una broma y todos se rieron.",
+          "translation": "He made a joke and everyone laughed."
+        }
+      ],
+      "examples": [
+        "Hizo una broma y todos se rieron."
+      ]
+    }
+  }
+}

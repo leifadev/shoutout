@@ -1,0 +1,18 @@
+{
+  "absolve": {
+    "word": "absolve",
+    "partOfSpeech": "Verb",
+    "language": "English",
+    "definitions": {
+      "definition": "To set free, release or discharge (from obligations, debts, responsibility etc.).",
+      "parsedExamples": [
+        {
+          "example": "You will absolve a subject from his allegiance."
+        }
+      ],
+      "examples": [
+        "You will absolve a subject from his allegiance."
+      ]
+    }
+  }
+}

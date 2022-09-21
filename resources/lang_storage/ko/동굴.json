@@ -1,0 +1,20 @@
+{
+  "동굴": {
+    "word": "동굴",
+    "partOfSpeech": "Noun",
+    "language": "Korean",
+    "definitions": {
+      "definition": "cave, cavern",
+      "parsedExamples": [
+        {
+          "example": "동굴의 비유",
+          "transliteration": "donggur-ui biyu",
+          "translation": "Allegory of the Cave"
+        }
+      ],
+      "examples": [
+        "동굴의 비유"
+      ]
+    }
+  }
+}

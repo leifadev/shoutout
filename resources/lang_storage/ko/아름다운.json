@@ -1,0 +1,26 @@
+{
+  "아름다운": {
+    "word": "아름다운",
+    "partOfSpeech": "Adjective",
+    "language": "Korean",
+    "definitions": {
+      "definition": "to be beautiful",
+      "parsedExamples": [
+        {
+          "example": "이 꽃들은 아름다운 여인들을 위해서 준비했어요.",
+          "transliteration": "I kkot-deur-eun areumdaun yeoin-deur-eul wihaeseo junbihaesseo-yo.",
+          "translation": "I prepared these flowers for beautiful women."
+        },
+        {
+          "example": "아름다운 세상",
+          "transliteration": "areumdaun sesang",
+          "translation": "beautiful world"
+        }
+      ],
+      "examples": [
+        "이 꽃들은 아름다운 여인들을 위해서 준비했어요.",
+        "아름다운 세상"
+      ]
+    }
+  }
+}

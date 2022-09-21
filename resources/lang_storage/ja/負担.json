@@ -1,0 +1,19 @@
+{
+  "負担": {
+    "word": "負担",
+    "partOfSpeech": "Noun",
+    "language": "Japanese",
+    "definitions": {
+      "definition": "A burden, charge, or responsibility.",
+      "parsedExamples": [
+        {
+          "translation": "shōhizei no futan ga kyūzō suru",
+          "example": "消費税(しょうひぜい)の負担(ふたん)が急増(きゅうぞう)する"
+        }
+      ],
+      "examples": [
+        "消費税(しょうひぜい)の負担(ふたん)が急増(きゅうぞう)する"
+      ]
+    }
+  }
+}

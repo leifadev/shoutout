@@ -1,0 +1,19 @@
+{
+  "mávat": {
+    "word": "mávat",
+    "partOfSpeech": "Verb",
+    "language": "Czech",
+    "definitions": {
+      "definition": "to wave (as a gesture)",
+      "parsedExamples": [
+        {
+          "example": "Mávali jsme mu na rozloučenou.",
+          "translation": "We waved him goodbye."
+        }
+      ],
+      "examples": [
+        "Mávali jsme mu na rozloučenou."
+      ]
+    }
+  }
+}

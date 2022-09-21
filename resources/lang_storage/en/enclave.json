@@ -1,0 +1,22 @@
+{
+  "enclave": {
+    "word": "enclave",
+    "partOfSpeech": "Noun",
+    "language": "English",
+    "definitions": {
+      "definition": "A political, cultural or social entity or part thereof that is completely surrounded by another.",
+      "parsedExamples": [
+        {
+          "example": "The republic of San Marino is an enclave of Italy."
+        },
+        {
+          "example": "The streets around Union Square form a Protestant enclave within an otherwise Catholic neighbourhood."
+        }
+      ],
+      "examples": [
+        "The republic of San Marino is an enclave of Italy.",
+        "The streets around Union Square form a Protestant enclave within an otherwise Catholic neighbourhood."
+      ]
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "فرن": {
+    "word": "فرن",
+    "partOfSpeech": "Noun",
+    "language": "Arabic",
+    "definitions": {
+      "definition": "oven, furnace",
+      "parsedExamples": [
+        {
+          "example": "فُرْن ذَرِّيّ",
+          "transliteration": "furn ḏarriyy",
+          "translation": "nuclear reactor"
+        }
+      ],
+      "examples": [
+        "فُرْن ذَرِّيّ"
+      ]
+    }
+  }
+}

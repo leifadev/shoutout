@@ -1,0 +1,20 @@
+{
+  "обида": {
+    "word": "обида",
+    "partOfSpeech": "Noun",
+    "language": "Russian",
+    "definitions": {
+      "definition": "resentment (feeling), offense; grudges",
+      "parsedExamples": [
+        {
+          "example": "без оби́д",
+          "transliteration": "bez obíd",
+          "translation": "no offense"
+        }
+      ],
+      "examples": [
+        "без оби́д"
+      ]
+    }
+  }
+}

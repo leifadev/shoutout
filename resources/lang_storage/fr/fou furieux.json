@@ -1,0 +1,19 @@
+{
+  "fou furieux": {
+    "word": "fou furieux",
+    "partOfSpeech": "Noun",
+    "language": "French",
+    "definitions": {
+      "definition": "berserk, raving lunatic",
+      "parsedExamples": [
+        {
+          "example": "courir comme un fou furieux",
+          "translation": "to run like crazy"
+        }
+      ],
+      "examples": [
+        "courir comme un fou furieux"
+      ]
+    }
+  }
+}

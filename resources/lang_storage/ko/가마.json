@@ -1,0 +1,20 @@
+{
+  "가마": {
+    "word": "가마",
+    "partOfSpeech": "Noun",
+    "language": "Korean",
+    "definitions": {
+      "definition": "kiln; oven",
+      "parsedExamples": [
+        {
+          "example": "벽돌을 가마에 굽다",
+          "transliteration": "byeokdoreul gamae gupda",
+          "translation": "to bake bricks in a kiln"
+        }
+      ],
+      "examples": [
+        "벽돌을 가마에 굽다"
+      ]
+    }
+  }
+}

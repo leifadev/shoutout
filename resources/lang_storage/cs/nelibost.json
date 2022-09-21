@@ -1,0 +1,19 @@
+{
+  "nelibost": {
+    "word": "nelibost",
+    "partOfSpeech": "Noun",
+    "language": "Czech",
+    "definitions": {
+      "definition": "displeasure, resentment",
+      "parsedExamples": [
+        {
+          "example": "vyvolat nelibost",
+          "translation": "to cause resentment"
+        }
+      ],
+      "examples": [
+        "vyvolat nelibost"
+      ]
+    }
+  }
+}

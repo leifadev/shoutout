@@ -1,0 +1,19 @@
+{
+  "ingewikkeld": {
+    "word": "ingewikkeld",
+    "partOfSpeech": "Adjective",
+    "language": "Dutch",
+    "definitions": {
+      "definition": "complicated",
+      "parsedExamples": [
+        {
+          "example": "Ken je de mop van de mummie? Ingewikkeld, hè? ",
+          "translation": "Do you know the joke about the mummy? It's complicated, isn't it?"
+        }
+      ],
+      "examples": [
+        "Ken je de mop van de mummie? Ingewikkeld, hè? "
+      ]
+    }
+  }
+}

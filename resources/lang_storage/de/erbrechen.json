@@ -1,0 +1,19 @@
+{
+  "erbrechen": {
+    "word": "erbrechen",
+    "partOfSpeech": "Verb",
+    "language": "German",
+    "definitions": {
+      "definition": "to vomit",
+      "parsedExamples": [
+        {
+          "example": "Er erbricht sich.",
+          "translation": "He is vomiting."
+        }
+      ],
+      "examples": [
+        "Er erbricht sich."
+      ]
+    }
+  }
+}

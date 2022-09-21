@@ -1,0 +1,19 @@
+{
+  "troncare": {
+    "word": "troncare",
+    "partOfSpeech": "Verb",
+    "language": "Italian",
+    "definitions": {
+      "definition": "to break off, to truncate",
+      "parsedExamples": [
+        {
+          "example": "troncare sul nascere",
+          "translation": "to nip in the bud"
+        }
+      ],
+      "examples": [
+        "troncare sul nascere"
+      ]
+    }
+  }
+}

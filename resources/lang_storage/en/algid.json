@@ -1,0 +1,18 @@
+{
+  "algid": {
+    "word": "algid",
+    "partOfSpeech": "Adjective",
+    "language": "English",
+    "definitions": {
+      "definition": "Cold, chilly; used of low body temperature especially in connection with certain diseases such as malaria and cholera.",
+      "parsedExamples": [
+        {
+          "example": "algid malaria"
+        }
+      ],
+      "examples": [
+        "algid malaria"
+      ]
+    }
+  }
+}

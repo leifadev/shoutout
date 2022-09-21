@@ -1,0 +1,18 @@
+{
+  "exterminate": {
+    "word": "exterminate",
+    "partOfSpeech": "Verb",
+    "language": "English",
+    "definitions": {
+      "definition": "To kill all of (a population of pests or undesirables), usually intentionally.",
+      "parsedExamples": [
+        {
+          "example": "We'll use poison to exterminate the rats."
+        }
+      ],
+      "examples": [
+        "We'll use poison to exterminate the rats."
+      ]
+    }
+  }
+}

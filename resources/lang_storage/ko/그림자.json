@@ -1,0 +1,20 @@
+{
+  "그림자": {
+    "word": "그림자",
+    "partOfSpeech": "Noun",
+    "language": "Korean",
+    "definitions": {
+      "definition": "shadow",
+      "parsedExamples": [
+        {
+          "example": "키가 크면 그림자도 길다.",
+          "transliteration": "Ki-ga keumyeon geurimja-do gilda.",
+          "translation": "If one is tall, one's shadow is long as well."
+        }
+      ],
+      "examples": [
+        "키가 크면 그림자도 길다."
+      ]
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "vorgeben": {
+    "word": "vorgeben",
+    "partOfSpeech": "Verb",
+    "language": "German",
+    "definitions": {
+      "definition": "to pretend",
+      "parsedExamples": [
+        {
+          "example": "Wir mussten vorgeben, lesbisch zu sein.",
+          "translation": "We had to pretend that we were lesbians."
+        }
+      ],
+      "examples": [
+        "Wir mussten vorgeben, lesbisch zu sein."
+      ]
+    }
+  }
+}

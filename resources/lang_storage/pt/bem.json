@@ -1,0 +1,19 @@
+{
+  "bem": {
+    "word": "bem",
+    "partOfSpeech": "Adverb",
+    "language": "Portuguese",
+    "definitions": {
+      "definition": "well; accurately; competently",
+      "parsedExamples": [
+        {
+          "example": "Esse filme foi muito bem produzido.",
+          "translation": "This film was produced very well."
+        }
+      ],
+      "examples": [
+        "Esse filme foi muito bem produzido."
+      ]
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "spectre": {
+    "word": "spectre",
+    "partOfSpeech": "Noun",
+    "language": "French",
+    "definitions": {
+      "definition": "ghost, specter",
+      "parsedExamples": [
+        {
+          "example": "Dans la nuit, il vit un spectre apparaître.",
+          "translation": "In the night, he saw a specter appear."
+        }
+      ],
+      "examples": [
+        "Dans la nuit, il vit un spectre apparaître."
+      ]
+    }
+  }
+}

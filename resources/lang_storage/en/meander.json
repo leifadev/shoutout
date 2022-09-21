@@ -1,0 +1,18 @@
+{
+  "meander": {
+    "word": "meander",
+    "partOfSpeech": "Noun",
+    "language": "English",
+    "definitions": {
+      "definition": "One of the turns of a winding, crooked, or involved course.",
+      "parsedExamples": [
+        {
+          "example": "the meanders of an old river, or of the veins and arteries in the body"
+        }
+      ],
+      "examples": [
+        "the meanders of an old river, or of the veins and arteries in the body"
+      ]
+    }
+  }
+}

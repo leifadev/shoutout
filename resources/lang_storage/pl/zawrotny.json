@@ -1,0 +1,19 @@
+{
+  "zawrotny": {
+    "word": "zawrotny",
+    "partOfSpeech": "Adjective",
+    "language": "Polish",
+    "definitions": {
+      "definition": "tremendous, dizzying, breakneck",
+      "parsedExamples": [
+        {
+          "example": "podróżują z zawrotną prędkością!",
+          "translation": "They're travelling at a breakneck speed!"
+        }
+      ],
+      "examples": [
+        "podróżują z zawrotną prędkością!"
+      ]
+    }
+  }
+}

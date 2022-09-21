@@ -1,0 +1,22 @@
+{
+  "iota": {
+    "word": "iota",
+    "partOfSpeech": "Noun",
+    "language": "English",
+    "definitions": {
+      "definition": "The ninth letter of the Greek alphabet.",
+      "parsedExamples": [
+        {
+          "example": "As a Greek numeral, iota represents ten."
+        },
+        {
+          "example": "There are twelve iotas on that page."
+        }
+      ],
+      "examples": [
+        "As a Greek numeral, iota represents ten.",
+        "There are twelve iotas on that page."
+      ]
+    }
+  }
+}

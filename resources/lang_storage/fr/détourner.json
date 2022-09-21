@@ -1,0 +1,24 @@
+{
+  "détourner": {
+    "word": "détourner",
+    "partOfSpeech": "Verb",
+    "language": "French",
+    "definitions": {
+      "definition": "to divert",
+      "parsedExamples": [
+        {
+          "example": "Pour protéger le village des crues, ils ont dû détourner la rivière.",
+          "translation": "They had to divert the river course to protect the village from floods."
+        },
+        {
+          "example": "À cause de la météo, notre vol a été détourné sur Marseille.",
+          "translation": "Our flight has been redirected to Marseille due to the weather."
+        }
+      ],
+      "examples": [
+        "Pour protéger le village des crues, ils ont dû détourner la rivière.",
+        "À cause de la météo, notre vol a été détourné sur Marseille."
+      ]
+    }
+  }
+}

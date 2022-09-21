@@ -1,0 +1,22 @@
+{
+  "tantamount": {
+    "word": "tantamount",
+    "partOfSpeech": "Adjective",
+    "language": "English",
+    "definitions": {
+      "definition": "Equivalent in meaning or effect; amounting to the same thing in practical terms, even if being technically distinct.",
+      "parsedExamples": [
+        {
+          "example": "It's tantamount to fraud."
+        },
+        {
+          "example": "In this view, disagreement and treason are tantamount."
+        }
+      ],
+      "examples": [
+        "It's tantamount to fraud.",
+        "In this view, disagreement and treason are tantamount."
+      ]
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "शिखर": {
+    "word": "शिखर",
+    "partOfSpeech": "Noun",
+    "language": "Hindi",
+    "definitions": {
+      "definition": "pinnacle, apex",
+      "parsedExamples": [
+        {
+          "example": "वह अपने व्यवसाय के शिखर तक नहीं पहुँच पाया।",
+          "transliteration": "vah apne vyavsāy ke śikhar tak nahī̃ pahũc pāyā.",
+          "translation": "He was unable to reach the pinnacle of his career."
+        }
+      ],
+      "examples": [
+        "वह अपने व्यवसाय के शिखर तक नहीं पहुँच पाया।"
+      ]
+    }
+  }
+}

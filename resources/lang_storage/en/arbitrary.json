@@ -1,0 +1,22 @@
+{
+  "arbitrary": {
+    "word": "arbitrary",
+    "partOfSpeech": "Adjective",
+    "language": "English",
+    "definitions": {
+      "definition": "Based on individual discretion or judgment; not based on any objective distinction, perhaps even made at random.",
+      "parsedExamples": [
+        {
+          "example": "Benjamin Franklin's designation of positive and negative to different charges was arbitrary."
+        },
+        {
+          "example": "The decision to use 18 years as the legal age of adulthood was arbitrary, as both age 17 and 19 were reasonable alternatives."
+        }
+      ],
+      "examples": [
+        "Benjamin Franklin's designation of positive and negative to different charges was arbitrary.",
+        "The decision to use 18 years as the legal age of adulthood was arbitrary, as both age 17 and 19 were reasonable alternatives."
+      ]
+    }
+  }
+}

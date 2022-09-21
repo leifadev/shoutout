@@ -1,0 +1,19 @@
+{
+  "naplnit": {
+    "word": "naplnit",
+    "partOfSpeech": "Verb",
+    "language": "Czech",
+    "definitions": {
+      "definition": "to fill (of a container like bottle)",
+      "parsedExamples": [
+        {
+          "example": "Naplnit láhev až po vršek.",
+          "translation": "Fill the bottle to the top"
+        }
+      ],
+      "examples": [
+        "Naplnit láhev až po vršek."
+      ]
+    }
+  }
+}

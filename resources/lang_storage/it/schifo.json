@@ -1,0 +1,19 @@
+{
+  "schifo": {
+    "word": "schifo",
+    "partOfSpeech": "Noun",
+    "language": "Italian",
+    "definitions": {
+      "definition": "disgust, nausea, loathing",
+      "parsedExamples": [
+        {
+          "example": "che schifo!",
+          "translation": "how disgusting!"
+        }
+      ],
+      "examples": [
+        "che schifo!"
+      ]
+    }
+  }
+}

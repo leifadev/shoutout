@@ -1,0 +1,20 @@
+{
+  "लापरवाही": {
+    "word": "लापरवाही",
+    "partOfSpeech": "Noun",
+    "language": "Hindi",
+    "definitions": {
+      "definition": "negligence, heedlessness, carelessness, thoughtlessness, indifference",
+      "parsedExamples": [
+        {
+          "example": "यह दुर्घटना उसके लापरवाही से हुआ है।",
+          "transliteration": "yah durghaṭnā uske lāparvāhī se huā hai.",
+          "translation": "This accident has happened due to his negligence."
+        }
+      ],
+      "examples": [
+        "यह दुर्घटना उसके लापरवाही से हुआ है।"
+      ]
+    }
+  }
+}

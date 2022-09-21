@@ -1,0 +1,19 @@
+{
+  "contornar": {
+    "word": "contornar",
+    "partOfSpeech": "Verb",
+    "language": "Portuguese",
+    "definitions": {
+      "definition": "to circumvent, to avoid something in one's path",
+      "parsedExamples": [
+        {
+          "example": "Melhor contornarmos esta região, ela é perigosa.",
+          "translation": "We better go around this region, it is dangerous."
+        }
+      ],
+      "examples": [
+        "Melhor contornarmos esta região, ela é perigosa."
+      ]
+    }
+  }
+}

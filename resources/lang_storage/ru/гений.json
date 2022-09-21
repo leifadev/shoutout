@@ -1,0 +1,20 @@
+{
+  "гений": {
+    "word": "гений",
+    "partOfSpeech": "Noun",
+    "language": "Russian",
+    "definitions": {
+      "definition": "genius (someone possesing extraordinary mental capacity)",
+      "parsedExamples": [
+        {
+          "example": "злой ге́ний",
+          "transliteration": "zloj génij",
+          "translation": "evil genius"
+        }
+      ],
+      "examples": [
+        "злой ге́ний"
+      ]
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "montrer": {
+    "word": "montrer",
+    "partOfSpeech": "Verb",
+    "language": "French",
+    "definitions": {
+      "definition": "to show",
+      "parsedExamples": [
+        {
+          "example": "Montre-le-moi."
+        }
+      ],
+      "examples": [
+        "Montre-le-moi."
+      ]
+    }
+  }
+}

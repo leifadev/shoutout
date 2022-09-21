@@ -1,0 +1,18 @@
+{
+  "dynasty": {
+    "word": "dynasty",
+    "partOfSpeech": "Noun",
+    "language": "English",
+    "definitions": {
+      "definition": "A series of rulers or dynasts from one family.",
+      "parsedExamples": [
+        {
+          "example": "Hapsburg dynasty; Ottoman dynasty"
+        }
+      ],
+      "examples": [
+        "Hapsburg dynasty; Ottoman dynasty"
+      ]
+    }
+  }
+}

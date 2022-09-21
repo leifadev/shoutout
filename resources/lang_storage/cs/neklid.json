@@ -1,0 +1,19 @@
+{
+  "neklid": {
+    "word": "neklid",
+    "partOfSpeech": "Noun",
+    "language": "Czech",
+    "definitions": {
+      "definition": "unease, uneasiness, restlessness",
+      "parsedExamples": [
+        {
+          "example": "vyvolat neklid",
+          "translation": "to cause unrest"
+        }
+      ],
+      "examples": [
+        "vyvolat neklid"
+      ]
+    }
+  }
+}

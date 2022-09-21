@@ -1,0 +1,29 @@
+{
+  "algo": {
+    "word": "algo",
+    "partOfSpeech": "Pronoun",
+    "language": "Spanish",
+    "definitions": {
+      "definition": "something, anything",
+      "parsedExamples": [
+        {
+          "example": "Algo imprevisto ocurrió.",
+          "translation": "Something unexpected happened."
+        },
+        {
+          "example": "Me parece algo de interés.",
+          "translation": "It seems like something interesting to me."
+        },
+        {
+          "example": "Eso es algo natural.",
+          "translation": "It's something natural."
+        }
+      ],
+      "examples": [
+        "Algo imprevisto ocurrió.",
+        "Me parece algo de interés.",
+        "Eso es algo natural."
+      ]
+    }
+  }
+}

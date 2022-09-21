@@ -1,0 +1,19 @@
+{
+  "diskutieren": {
+    "word": "diskutieren",
+    "partOfSpeech": "Verb",
+    "language": "German",
+    "definitions": {
+      "definition": "to discuss",
+      "parsedExamples": [
+        {
+          "example": "Über dieses Thema müssen wir diskutieren.",
+          "translation": "We need to discuss this issue."
+        }
+      ],
+      "examples": [
+        "Über dieses Thema müssen wir diskutieren."
+      ]
+    }
+  }
+}

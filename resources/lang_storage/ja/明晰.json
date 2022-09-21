@@ -1,0 +1,24 @@
+{
+  "明晰": {
+    "word": "明晰",
+    "partOfSpeech": "Adjective",
+    "language": "Japanese",
+    "definitions": {
+      "definition": "clear",
+      "parsedExamples": [
+        {
+          "translation": "Kare ni wa meiseki na mokuhyō ga nai yō da.",
+          "example": "彼(かれ)には明晰(めいせき)な目標(もくひょう)がないようだ。"
+        },
+        {
+          "translation": "Zunō meiseki na kanojo ni mo rikai dekinakatta.",
+          "example": "頭脳(ずのう)明晰(めいせき)な彼女(かのじょ)にも理解(りかい)できなかった。"
+        }
+      ],
+      "examples": [
+        "彼(かれ)には明晰(めいせき)な目標(もくひょう)がないようだ。",
+        "頭脳(ずのう)明晰(めいせき)な彼女(かのじょ)にも理解(りかい)できなかった。"
+      ]
+    }
+  }
+}

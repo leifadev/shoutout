@@ -1,0 +1,24 @@
+{
+  "Absynt": {
+    "word": "absynt",
+    "partOfSpeech": "Noun",
+    "language": "Polish",
+    "definitions": {
+      "definition": "absinthe (liquor)",
+      "parsedExamples": [
+        {
+          "example": "drinki z absyntem",
+          "translation": "cocktails with absinthe"
+        },
+        {
+          "example": "kieliszek absyntu",
+          "translation": "a glass of absinthe"
+        }
+      ],
+      "examples": [
+        "drinki z absyntem",
+        "kieliszek absyntu"
+      ]
+    }
+  }
+}

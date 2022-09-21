@@ -1,0 +1,20 @@
+{
+  "fome": {
+    "word": "fome",
+    "partOfSpeech": "Noun",
+    "language": "Portuguese",
+    "definitions": {
+      "definition": "hunger (need or compelling desire for food)",
+      "parsedExamples": [
+        {
+          "example": "Tenho fome porque não como há três dias.",
+          "translation": "I’m hungry because I haven’t eaten in three days.",
+          "literally": "I have hunger"
+        }
+      ],
+      "examples": [
+        "Tenho fome porque não como há três dias."
+      ]
+    }
+  }
+}

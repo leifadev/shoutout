@@ -1,0 +1,38 @@
+{
+  "так": {
+    "word": "так",
+    "partOfSpeech": "Adverb",
+    "language": "Russian",
+    "definitions": {
+      "definition": "so, thus",
+      "parsedExamples": [
+        {
+          "example": "так же",
+          "transliteration": "tak že",
+          "translation": "just as"
+        },
+        {
+          "example": "так и",
+          "transliteration": "tak i",
+          "translation": "and"
+        },
+        {
+          "example": "та́к как",
+          "transliteration": "ták kak",
+          "translation": "since, because"
+        },
+        {
+          "example": "так и не",
+          "transliteration": "tak i ne",
+          "translation": "never"
+        }
+      ],
+      "examples": [
+        "так же",
+        "так и",
+        "та́к как",
+        "так и не"
+      ]
+    }
+  }
+}

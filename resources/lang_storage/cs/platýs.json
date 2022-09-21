@@ -1,0 +1,24 @@
+{
+  "platýs": {
+    "word": "platýs",
+    "partOfSpeech": "Noun",
+    "language": "Czech",
+    "definitions": {
+      "definition": "flatfish",
+      "parsedExamples": [
+        {
+          "example": "platýs obecný",
+          "translation": "halibut (Hippoglossus hippoglossus)"
+        },
+        {
+          "example": "platýs velký",
+          "translation": "plaice (Pleuronectes platessa)"
+        }
+      ],
+      "examples": [
+        "platýs obecný",
+        "platýs velký"
+      ]
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "piggyback": {
+    "word": "piggyback",
+    "partOfSpeech": "Adjective",
+    "language": "English",
+    "definitions": {
+      "definition": "On somebody's back or shoulders.",
+      "parsedExamples": [
+        {
+          "example": "give someone a piggyback ride"
+        }
+      ],
+      "examples": [
+        "give someone a piggyback ride"
+      ]
+    }
+  }
+}

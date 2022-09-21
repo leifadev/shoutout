@@ -1,0 +1,18 @@
+{
+  "derelict": {
+    "word": "derelict",
+    "partOfSpeech": "Adjective",
+    "language": "English",
+    "definitions": {
+      "definition": "Abandoned, forsaken; given up by the natural owner or guardian; (of a ship) abandoned at sea, dilapidated, neglected; (of a spacecraft) abandoned in outer space.",
+      "parsedExamples": [
+        {
+          "example": "There was a derelict ship on the island."
+        }
+      ],
+      "examples": [
+        "There was a derelict ship on the island."
+      ]
+    }
+  }
+}

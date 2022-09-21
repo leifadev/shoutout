@@ -1,0 +1,10 @@
+{
+  "Hunger": {
+    "word": "hunger",
+    "partOfSpeech": "Verb",
+    "language": "German",
+    "definitions": {
+      "definition": "inflection of hungern:\nfirst-person singular present\nsingular imperative"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "essentiel": {
+    "word": "essentiel",
+    "partOfSpeech": "Adjective",
+    "language": "French",
+    "definitions": {
+      "definition": "essential",
+      "parsedExamples": [
+        {
+          "example": "distinguer l'essentiel de l'accessoire"
+        }
+      ],
+      "examples": [
+        "distinguer l'essentiel de l'accessoire"
+      ]
+    }
+  }
+}

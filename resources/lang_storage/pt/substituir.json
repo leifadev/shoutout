@@ -1,0 +1,19 @@
+{
+  "substituir": {
+    "word": "substituir",
+    "partOfSpeech": "Verb",
+    "language": "Portuguese",
+    "definitions": {
+      "definition": "to replace, substitute",
+      "parsedExamples": [
+        {
+          "example": "Minha perna se machucou durante o jogo de futebol, então outro jogador me substituiu.",
+          "translation": "My leg was hurt during the soccer game, so another player replaced me."
+        }
+      ],
+      "examples": [
+        "Minha perna se machucou durante o jogo de futebol, então outro jogador me substituiu."
+      ]
+    }
+  }
+}

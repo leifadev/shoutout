@@ -1,0 +1,19 @@
+{
+  "anpassen": {
+    "word": "anpassen",
+    "partOfSpeech": "Verb",
+    "language": "German",
+    "definitions": {
+      "definition": "to adapt, to adjust",
+      "parsedExamples": [
+        {
+          "example": "Der Preis wird entsprechend der Wechselkurse angepasst.",
+          "translation": "The price is adjusted according to exchange rates."
+        }
+      ],
+      "examples": [
+        "Der Preis wird entsprechend der Wechselkurse angepasst."
+      ]
+    }
+  }
+}

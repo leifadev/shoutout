@@ -1,0 +1,20 @@
+{
+  "सैर": {
+    "word": "सैर",
+    "partOfSpeech": "Noun",
+    "language": "Hindi",
+    "definitions": {
+      "definition": "an excursion, tour, sightseeing, stroll, walk, perambulation",
+      "parsedExamples": [
+        {
+          "example": "जन्नत की सैर",
+          "transliteration": "jannat kī sair",
+          "translation": "a stroll through heaven"
+        }
+      ],
+      "examples": [
+        "जन्नत की सैर"
+      ]
+    }
+  }
+}

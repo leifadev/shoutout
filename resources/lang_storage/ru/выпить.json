@@ -1,0 +1,10 @@
+{
+  "выпить": {
+    "word": "выпить",
+    "partOfSpeech": "Verb",
+    "language": "Russian",
+    "definitions": {
+      "definition": "to drink, to drink up"
+    }
+  }
+}

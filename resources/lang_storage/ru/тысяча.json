@@ -1,0 +1,38 @@
+{
+  "тысяча": {
+    "word": "тысяча",
+    "partOfSpeech": "Numeral",
+    "language": "Russian",
+    "definitions": {
+      "definition": "thousand (1000)",
+      "parsedExamples": [
+        {
+          "example": "ты́сяча ма́льчиков",
+          "transliteration": "týsjača málʹčikov",
+          "translation": "a thousand boys"
+        },
+        {
+          "example": "ма́льчиков ты́сяча",
+          "transliteration": "málʹčikov týsjača",
+          "translation": "approximately a thousand boys"
+        },
+        {
+          "example": "ты́сяча книг",
+          "transliteration": "týsjača knig",
+          "translation": "a thousand books"
+        },
+        {
+          "example": "Они́ говори́ли о свое́й ты́сяче столо́в",
+          "transliteration": "Oní govoríli o svojéj týsjače stolóv",
+          "translation": "They were talking about their thousand tables."
+        }
+      ],
+      "examples": [
+        "ты́сяча ма́льчиков",
+        "ма́льчиков ты́сяча",
+        "ты́сяча книг",
+        "Они́ говори́ли о свое́й ты́сяче столо́в"
+      ]
+    }
+  }
+}

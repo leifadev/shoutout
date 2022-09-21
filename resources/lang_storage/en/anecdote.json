@@ -1,0 +1,22 @@
+{
+  "anecdote": {
+    "word": "anecdote",
+    "partOfSpeech": "Noun",
+    "language": "English",
+    "definitions": {
+      "definition": "A short account of a real incident or person, often humorous or interesting.",
+      "parsedExamples": [
+        {
+          "example": "tell an anecdote"
+        },
+        {
+          "example": "relate a short anecdote"
+        }
+      ],
+      "examples": [
+        "tell an anecdote",
+        "relate a short anecdote"
+      ]
+    }
+  }
+}

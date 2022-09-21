@@ -1,0 +1,18 @@
+{
+  "endemic": {
+    "word": "endemic",
+    "partOfSpeech": "Adjective",
+    "language": "English",
+    "definitions": {
+      "definition": "Native to a particular area or culture; originating where it occurs.",
+      "parsedExamples": [
+        {
+          "example": "The endemic religion of Easter Island arrived with the Polynesian settlers."
+        }
+      ],
+      "examples": [
+        "The endemic religion of Easter Island arrived with the Polynesian settlers."
+      ]
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "صيني": {
+    "word": "صيني",
+    "partOfSpeech": "Adjective",
+    "language": "Arabic",
+    "definitions": {
+      "definition": "Chinese",
+      "parsedExamples": [
+        {
+          "example": "ثَقَافَة صِينِيَّة",
+          "transliteration": "ṯaqāfa(t) ṣīniyya",
+          "translation": "Chinese culture"
+        }
+      ],
+      "examples": [
+        "ثَقَافَة صِينِيَّة"
+      ]
+    }
+  }
+}

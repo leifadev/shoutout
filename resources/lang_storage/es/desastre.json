@@ -1,0 +1,24 @@
+{
+  "desastre": {
+    "word": "desastre",
+    "partOfSpeech": "Noun",
+    "language": "Spanish",
+    "definitions": {
+      "definition": "disaster, catastrophe, calamity",
+      "parsedExamples": [
+        {
+          "example": "El terremoto no fue un revés menor; fue un desastre.",
+          "translation": "The earthquake wasn't a minor setback; it was a calamity."
+        },
+        {
+          "example": "Sería un desastre si el siguiente genocidio en un país del tercer mundo no es recibido con una respuesta y un plan de acción internacionales.",
+          "translation": "It would be a  catastrophe if the next genocide in a third world country is not met with an international response and plan of action."
+        }
+      ],
+      "examples": [
+        "El terremoto no fue un revés menor; fue un desastre.",
+        "Sería un desastre si el siguiente genocidio en un país del tercer mundo no es recibido con una respuesta y un plan de acción internacionales."
+      ]
+    }
+  }
+}

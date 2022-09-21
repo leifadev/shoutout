@@ -1,0 +1,19 @@
+{
+  "pacchiano": {
+    "word": "pacchiano",
+    "partOfSpeech": "Adjective",
+    "language": "Italian",
+    "definitions": {
+      "definition": "garish, tacky",
+      "parsedExamples": [
+        {
+          "example": "un vestito pacchiano",
+          "translation": "a garish dress"
+        }
+      ],
+      "examples": [
+        "un vestito pacchiano"
+      ]
+    }
+  }
+}

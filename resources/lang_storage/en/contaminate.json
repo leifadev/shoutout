@@ -1,0 +1,18 @@
+{
+  "contaminate": {
+    "word": "contaminate",
+    "partOfSpeech": "Verb",
+    "language": "English",
+    "definitions": {
+      "definition": "To make something dangerous or toxic by introducing impurities or foreign matter.",
+      "parsedExamples": [
+        {
+          "example": "This water is contaminated. It isn't safe to drink."
+        }
+      ],
+      "examples": [
+        "This water is contaminated. It isn't safe to drink."
+      ]
+    }
+  }
+}

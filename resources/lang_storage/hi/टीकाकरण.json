@@ -1,0 +1,26 @@
+{
+  "टीकाकरण": {
+    "word": "टीकाकरण",
+    "partOfSpeech": "Noun",
+    "language": "Hindi",
+    "definitions": {
+      "definition": "vaccination",
+      "parsedExamples": [
+        {
+          "example": "रोटावायरस टीकाकरण",
+          "transliteration": "roṭāvāyras ṭīkākraṇ",
+          "translation": "Rotavirus vaccination"
+        },
+        {
+          "example": "टीकाकरण परियोजना",
+          "transliteration": "ṭīkākraṇ pariyojnā",
+          "translation": "vaccination project"
+        }
+      ],
+      "examples": [
+        "रोटावायरस टीकाकरण",
+        "टीकाकरण परियोजना"
+      ]
+    }
+  }
+}

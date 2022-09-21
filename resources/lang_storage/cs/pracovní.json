@@ -1,0 +1,24 @@
+{
+  "pracovní": {
+    "word": "pracovní",
+    "partOfSpeech": "Adjective",
+    "language": "Czech",
+    "definitions": {
+      "definition": "work, working, employment",
+      "parsedExamples": [
+        {
+          "example": "pracovní smlouva",
+          "translation": "employment contract"
+        },
+        {
+          "example": "pracovní místo",
+          "translation": "workplace"
+        }
+      ],
+      "examples": [
+        "pracovní smlouva",
+        "pracovní místo"
+      ]
+    }
+  }
+}

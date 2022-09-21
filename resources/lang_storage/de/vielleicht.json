@@ -1,0 +1,19 @@
+{
+  "vielleicht": {
+    "word": "vielleicht",
+    "partOfSpeech": "Adverb",
+    "language": "German",
+    "definitions": {
+      "definition": "perhaps, maybe",
+      "parsedExamples": [
+        {
+          "example": "Vielleicht hat er einen Unfall gehabt.",
+          "translation": "Maybe he’s had an accident."
+        }
+      ],
+      "examples": [
+        "Vielleicht hat er einen Unfall gehabt."
+      ]
+    }
+  }
+}

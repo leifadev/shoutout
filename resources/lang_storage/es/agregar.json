@@ -1,0 +1,19 @@
+{
+  "agregar": {
+    "word": "agregar",
+    "partOfSpeech": "Verb",
+    "language": "Spanish",
+    "definitions": {
+      "definition": "to add, collect, aggregate, collate, gather",
+      "parsedExamples": [
+        {
+          "example": "Hace falta agregar más detalles al informe.",
+          "translation": "You have to add more details to the report."
+        }
+      ],
+      "examples": [
+        "Hace falta agregar más detalles al informe."
+      ]
+    }
+  }
+}

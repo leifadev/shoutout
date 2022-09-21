@@ -1,0 +1,19 @@
+{
+  "populaire": {
+    "word": "populaire",
+    "partOfSpeech": "Adjective",
+    "language": "French",
+    "definitions": {
+      "definition": "people's; working-class",
+      "parsedExamples": [
+        {
+          "example": "République Populaire de Chine",
+          "translation": "People's Republic of China"
+        }
+      ],
+      "examples": [
+        "République Populaire de Chine"
+      ]
+    }
+  }
+}

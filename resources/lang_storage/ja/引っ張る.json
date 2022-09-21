@@ -1,0 +1,19 @@
+{
+  "引っ張る": {
+    "word": "引っ張る",
+    "partOfSpeech": "Verb",
+    "language": "Japanese",
+    "definitions": {
+      "definition": "pull, yank",
+      "parsedExamples": [
+        {
+          "translation": "sode o hipparu",
+          "example": "袖(そで)を引(ひ)っ張(ぱ)る"
+        }
+      ],
+      "examples": [
+        "袖(そで)を引(ひ)っ張(ぱ)る"
+      ]
+    }
+  }
+}

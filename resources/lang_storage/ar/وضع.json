@@ -1,0 +1,20 @@
+{
+  "وضع": {
+    "word": "وضع",
+    "partOfSpeech": "Verb",
+    "language": "Arabic",
+    "definitions": {
+      "definition": "to put; to lay; to place; to set; to position; to install; to implant",
+      "parsedExamples": [
+        {
+          "example": "وَضَعْتُ يَدَيَّ عَلَى أُذْنَيَّ فَمَا سَمِعْتُ قَوْلَهُ.",
+          "transliteration": "waḍaʿtu yadayya ʿalā ʾuḏnayya famā samiʿtu qawlahu.",
+          "translation": "I put my hands on my ears and did not hear what he said."
+        }
+      ],
+      "examples": [
+        "وَضَعْتُ يَدَيَّ عَلَى أُذْنَيَّ فَمَا سَمِعْتُ قَوْلَهُ."
+      ]
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "समुद्री": {
+    "word": "समुद्री",
+    "partOfSpeech": "Adjective",
+    "language": "Hindi",
+    "definitions": {
+      "definition": "oceanic, marine; of the sea or ocean",
+      "parsedExamples": [
+        {
+          "example": "समुद्री डाकू",
+          "transliteration": "samudrī ḍākū",
+          "translation": "pirate",
+          "literally": "sea-robber"
+        }
+      ],
+      "examples": [
+        "समुद्री डाकू"
+      ]
+    }
+  }
+}

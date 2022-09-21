@@ -1,0 +1,19 @@
+{
+  "exemplarisch": {
+    "word": "exemplarisch",
+    "partOfSpeech": "Adjective",
+    "language": "German",
+    "definitions": {
+      "definition": "exemplary, example",
+      "parsedExamples": [
+        {
+          "example": "Diese exemplarischen Fälle zeigen schon, dass ...",
+          "translation": "These exemplary cases already show that ..."
+        }
+      ],
+      "examples": [
+        "Diese exemplarischen Fälle zeigen schon, dass ..."
+      ]
+    }
+  }
+}

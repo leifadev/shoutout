@@ -1,0 +1,20 @@
+{
+  "верить": {
+    "word": "верить",
+    "partOfSpeech": "Verb",
+    "language": "Russian",
+    "definitions": {
+      "definition": "to believe, to trust",
+      "parsedExamples": [
+        {
+          "example": "Я тебе́ не ве́рю.",
+          "transliteration": "Ja tebé ne vérju.",
+          "translation": "I don't believe you./I don't trust you."
+        }
+      ],
+      "examples": [
+        "Я тебе́ не ве́рю."
+      ]
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "cautivar": {
+    "word": "cautivar",
+    "partOfSpeech": "Verb",
+    "language": "Spanish",
+    "definitions": {
+      "definition": "to captivate, to enthral, to enthrall, to charm, to enchant, to mesmerize, to rapture, to entice",
+      "parsedExamples": [
+        {
+          "example": "El bardo, con su canción, cautivó a la princesa.",
+          "translation": "The bard, by way of his song, captivated the princess."
+        }
+      ],
+      "examples": [
+        "El bardo, con su canción, cautivó a la princesa."
+      ]
+    }
+  }
+}

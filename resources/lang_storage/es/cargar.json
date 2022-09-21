@@ -1,0 +1,19 @@
+{
+  "cargar": {
+    "word": "cargar",
+    "partOfSpeech": "Verb",
+    "language": "Spanish",
+    "definitions": {
+      "definition": "to load (to put a load on or in (a means of conveyance or a place of storage))",
+      "parsedExamples": [
+        {
+          "example": "Los estibadores se negaron a cargar el barco.",
+          "translation": "The dock workers refused to load the ship."
+        }
+      ],
+      "examples": [
+        "Los estibadores se negaron a cargar el barco."
+      ]
+    }
+  }
+}

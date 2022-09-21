@@ -1,0 +1,19 @@
+{
+  "bene": {
+    "word": "bene",
+    "partOfSpeech": "Adjective",
+    "language": "Italian",
+    "definitions": {
+      "definition": "upper-class, posh, high",
+      "parsedExamples": [
+        {
+          "example": "Parioli è il quartiere bene di Roma per eccellenza.",
+          "translation": "Parioli is the posh Rome neighborhood par excellence."
+        }
+      ],
+      "examples": [
+        "Parioli è il quartiere bene di Roma per eccellenza."
+      ]
+    }
+  }
+}

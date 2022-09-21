@@ -1,0 +1,19 @@
+{
+  "rozhodnout": {
+    "word": "rozhodnout",
+    "partOfSpeech": "Verb",
+    "language": "Czech",
+    "definitions": {
+      "definition": "to decide (come to a resolution or judgment)",
+      "parsedExamples": [
+        {
+          "example": "Otec nakonec rozhodl, že půjdou do zoo.",
+          "translation": "In the end father decided they'd go to the zoo."
+        }
+      ],
+      "examples": [
+        "Otec nakonec rozhodl, že půjdou do zoo."
+      ]
+    }
+  }
+}

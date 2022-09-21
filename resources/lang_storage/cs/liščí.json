@@ -1,0 +1,19 @@
+{
+  "liščí": {
+    "word": "liščí",
+    "partOfSpeech": "Adjective",
+    "language": "Czech",
+    "definitions": {
+      "definition": "fox",
+      "parsedExamples": [
+        {
+          "example": "liščí nora",
+          "translation": "foxhole"
+        }
+      ],
+      "examples": [
+        "liščí nora"
+      ]
+    }
+  }
+}

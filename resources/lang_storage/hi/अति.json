@@ -1,0 +1,26 @@
+{
+  "अति": {
+    "word": "अति",
+    "partOfSpeech": "Adverb",
+    "language": "Hindi",
+    "definitions": {
+      "definition": "very, greatly",
+      "parsedExamples": [
+        {
+          "example": "अति उत्तम",
+          "transliteration": "ati uttam",
+          "translation": "very good"
+        },
+        {
+          "example": "अति महत्वपूर्ण",
+          "transliteration": "ati mahatvapūrṇ",
+          "translation": "very important"
+        }
+      ],
+      "examples": [
+        "अति उत्तम",
+        "अति महत्वपूर्ण"
+      ]
+    }
+  }
+}

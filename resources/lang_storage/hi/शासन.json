@@ -1,0 +1,26 @@
+{
+  "शासन": {
+    "word": "शासन",
+    "partOfSpeech": "Noun",
+    "language": "Hindi",
+    "definitions": {
+      "definition": "rule, government",
+      "parsedExamples": [
+        {
+          "example": "अमरीका में लोकतंत्रीय शासन है।",
+          "transliteration": "amrīkā mẽ loktantrīya śāsan hai.",
+          "translation": "The United States has a democratic government."
+        },
+        {
+          "example": "लोगों ने धर्मतंत्रीय शासन के तले कष्ट उठाया।",
+          "transliteration": "logõ ne dharmatantrīya śāsan ke tale kaṣṭ uṭhāyā.",
+          "translation": "The people suffered under theocratic rule."
+        }
+      ],
+      "examples": [
+        "अमरीका में लोकतंत्रीय शासन है।",
+        "लोगों ने धर्मतंत्रीय शासन के तले कष्ट उठाया।"
+      ]
+    }
+  }
+}

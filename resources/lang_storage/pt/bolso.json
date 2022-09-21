@@ -1,0 +1,19 @@
+{
+  "bolso": {
+    "word": "bolso",
+    "partOfSpeech": "Noun",
+    "language": "Portuguese",
+    "definitions": {
+      "definition": "pocket",
+      "parsedExamples": [
+        {
+          "example": "Este casaco não tem bolsos.",
+          "translation": "This coat doesn't have pockets."
+        }
+      ],
+      "examples": [
+        "Este casaco não tem bolsos."
+      ]
+    }
+  }
+}

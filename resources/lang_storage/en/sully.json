@@ -1,0 +1,18 @@
+{
+  "sully": {
+    "word": "sully",
+    "partOfSpeech": "Verb",
+    "language": "English",
+    "definitions": {
+      "definition": "To soil or stain; to dirty.",
+      "parsedExamples": [
+        {
+          "example": "He did not wish to sully his hands with gardening."
+        }
+      ],
+      "examples": [
+        "He did not wish to sully his hands with gardening."
+      ]
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Похмелье": {
+    "word": "похмелье",
+    "partOfSpeech": "Noun",
+    "language": "Russian",
+    "definitions": {
+      "definition": "hangover",
+      "parsedExamples": [
+        {
+          "example": "У меня́ голова́ раска́лывается с похме́лья",
+          "transliteration": "U menjá golová raskályvajetsja s poxmélʹja",
+          "translation": "My head is about to split from a hangover."
+        },
+        {
+          "example": "Весело́ весе́лье — тяжело́ похме́лье",
+          "transliteration": "Veseló vesélʹje — tjaželó poxmélʹje",
+          "translation": "Fun is fun, but the hangover is serious"
+        }
+      ],
+      "examples": [
+        "У меня́ голова́ раска́лывается с похме́лья",
+        "Весело́ весе́лье — тяжело́ похме́лье"
+      ]
+    }
+  }
+}

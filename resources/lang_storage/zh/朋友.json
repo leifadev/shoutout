@@ -1,0 +1,57 @@
+{
+  "朋友": {
+    "word": "朋友",
+    "partOfSpeech": "Noun",
+    "language": "Chinese",
+    "definitions": {
+      "definition": "friend (Classifier: 個／个;&nbsp;位)",
+      "parsedExamples": [
+        {
+          "example": "童年的朋友&nbsp; ―&nbsp; tóngnián de péngyǒu&nbsp; ―&nbsp; childhood friend"
+        },
+        {
+          "example": "結交新朋友 / 结交新朋友&nbsp; ―&nbsp; jiéjiāo xīn péngyǒu&nbsp; ―&nbsp; to make new friends"
+        },
+        {
+          "translation": "Tā bù zhīdào péngyǒu de jiā zài nǎlǐ. [Pinyin]",
+          "example": ""
+        },
+        {
+          "translation": "ni go hai ngo go pang jau. [Jyutping]",
+          "example": ""
+        },
+        {
+          "translation": "I m̄ chai pêng-iú ê chhù tī tó-ūi. [Pe̍h-ōe-jī]",
+          "example": ""
+        },
+        {
+          "translation": "i m zai pêng iu gai lai do di go. [Peng'im]",
+          "example": ""
+        },
+        {
+          "translation": "Nǐ de jìnkuàng duànxù cóng péngyǒu kǒu zhōng chuán dào wǒ ěrpàn. [Pinyin]",
+          "example": ""
+        },
+        {
+          "translation": "Wǒ gēn tā zhēnde zhǐshì pǔtōng péngyǒu. [Pinyin]",
+          "example": ""
+        },
+        {
+          "translation": "Shìjiè shàng zuì kěbēi de shìqíng, mòguòyú nǐ xǐhuān tā, tā què zhǐ bǎ nǐ dāng péngyǒu. [Pinyin]",
+          "example": ""
+        }
+      ],
+      "examples": [
+        "童年的朋友&nbsp; ―&nbsp; tóngnián de péngyǒu&nbsp; ―&nbsp; childhood friend",
+        "結交新朋友 / 结交新朋友&nbsp; ―&nbsp; jiéjiāo xīn péngyǒu&nbsp; ―&nbsp; to make new friends",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    }
+  }
+}

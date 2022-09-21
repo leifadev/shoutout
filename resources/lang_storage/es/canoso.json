@@ -1,0 +1,19 @@
+{
+  "canoso": {
+    "word": "canoso",
+    "partOfSpeech": "Adjective",
+    "language": "Spanish",
+    "definitions": {
+      "definition": "gray/grey, hoary (of hair)",
+      "parsedExamples": [
+        {
+          "example": "Tu cabeza es canosa.",
+          "translation": "Your head is hoary."
+        }
+      ],
+      "examples": [
+        "Tu cabeza es canosa."
+      ]
+    }
+  }
+}

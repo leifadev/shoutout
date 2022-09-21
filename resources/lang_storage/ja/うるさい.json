@@ -1,0 +1,29 @@
+{
+  "うるさい": {
+    "word": "うるさい",
+    "partOfSpeech": "Adjective",
+    "language": "Japanese",
+    "definitions": {
+      "definition": "overwhelmingly thorough ; excessive, repetitive \n  so thoroughly knowledgeable and particular about something as to be annoying to others: picky, nitpicking, fussy",
+      "parsedExamples": [
+        {
+          "translation": "jitai ni urusai",
+          "example": "字体(じたい)にうるさい"
+        },
+        {
+          "translation": "aji ni urusai",
+          "example": "味(あじ)にうるさい"
+        },
+        {
+          "translation": "Urusai renchū da.",
+          "example": "うるさい連中(れんちゅう)だ。"
+        }
+      ],
+      "examples": [
+        "字体(じたい)にうるさい",
+        "味(あじ)にうるさい",
+        "うるさい連中(れんちゅう)だ。"
+      ]
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "reprise": {
+    "word": "reprise",
+    "partOfSpeech": "Noun",
+    "language": "French",
+    "definitions": {
+      "definition": "a time, instance",
+      "parsedExamples": [
+        {
+          "example": "à plusieurs reprises",
+          "translation": "many times"
+        },
+        {
+          "example": "champion à six reprises",
+          "translation": "six-time champion"
+        }
+      ],
+      "examples": [
+        "à plusieurs reprises",
+        "champion à six reprises"
+      ]
+    }
+  }
+}

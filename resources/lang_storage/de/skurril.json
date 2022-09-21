@@ -1,0 +1,19 @@
+{
+  "skurril": {
+    "word": "skurril",
+    "partOfSpeech": "Adjective",
+    "language": "German",
+    "definitions": {
+      "definition": "bizarre, absurd, droll",
+      "parsedExamples": [
+        {
+          "example": "Das ist eine skurrile Idee.",
+          "translation": "That's a weird idea."
+        }
+      ],
+      "examples": [
+        "Das ist eine skurrile Idee."
+      ]
+    }
+  }
+}

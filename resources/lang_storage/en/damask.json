@@ -1,0 +1,18 @@
+{
+  "damask": {
+    "word": "damask",
+    "partOfSpeech": "Noun",
+    "language": "English",
+    "definitions": {
+      "definition": "An ornate silk fabric originating from Damascus.",
+      "parsedExamples": [
+        {
+          "example": "True damasks are pure silk."
+        }
+      ],
+      "examples": [
+        "True damasks are pure silk."
+      ]
+    }
+  }
+}

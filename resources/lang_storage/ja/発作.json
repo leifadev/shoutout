@@ -1,0 +1,19 @@
+{
+  "発作": {
+    "word": "発作",
+    "partOfSpeech": "Noun",
+    "language": "Japanese",
+    "definitions": {
+      "definition": "paroxysmal attack; epileptic seizure; a fit of coughing",
+      "parsedExamples": [
+        {
+          "translation": "shinzō hossa",
+          "example": "心臓(しんぞう)発作(ほっさ)"
+        }
+      ],
+      "examples": [
+        "心臓(しんぞう)発作(ほっさ)"
+      ]
+    }
+  }
+}

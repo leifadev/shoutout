@@ -1,0 +1,19 @@
+{
+  "verbessern": {
+    "word": "verbessern",
+    "partOfSpeech": "Verb",
+    "language": "German",
+    "definitions": {
+      "definition": "to improve (to make better), to enhance",
+      "parsedExamples": [
+        {
+          "example": "Der neue Präsident versprach, die Qualität der Bildung zu verbessern.",
+          "translation": "The new president promised to improve the quality of education."
+        }
+      ],
+      "examples": [
+        "Der neue Präsident versprach, die Qualität der Bildung zu verbessern."
+      ]
+    }
+  }
+}

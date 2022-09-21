@@ -1,0 +1,20 @@
+{
+  "तरह तरह का": {
+    "word": "तरह तरह का",
+    "partOfSpeech": "Adjective",
+    "language": "Hindi",
+    "definitions": {
+      "definition": "versatile, various, diverse, multifarious",
+      "parsedExamples": [
+        {
+          "example": "वह तरह-तरह की बातें करता है।",
+          "transliteration": "vah tarah-tarah kī bātẽ kartā hai.",
+          "translation": "He talks about all sorts of things."
+        }
+      ],
+      "examples": [
+        "वह तरह-तरह की बातें करता है।"
+      ]
+    }
+  }
+}

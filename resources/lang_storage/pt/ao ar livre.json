@@ -1,0 +1,19 @@
+{
+  "ao ar livre": {
+    "word": "ao ar livre",
+    "partOfSpeech": "Adverb",
+    "language": "Portuguese",
+    "definitions": {
+      "definition": "outdoors (in the open air)",
+      "parsedExamples": [
+        {
+          "example": "As crianças gostam de brincar ao ar livre.",
+          "translation": "Children like to play outdoors."
+        }
+      ],
+      "examples": [
+        "As crianças gostam de brincar ao ar livre."
+      ]
+    }
+  }
+}

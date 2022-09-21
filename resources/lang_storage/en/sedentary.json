@@ -1,0 +1,18 @@
+{
+  "sedentary": {
+    "word": "sedentary",
+    "partOfSpeech": "Adjective",
+    "language": "English",
+    "definitions": {
+      "definition": "Not moving; relatively still; staying in the vicinity.",
+      "parsedExamples": [
+        {
+          "example": "The oyster is a sedentary mollusk; the barnacles are sedentary crustaceans."
+        }
+      ],
+      "examples": [
+        "The oyster is a sedentary mollusk; the barnacles are sedentary crustaceans."
+      ]
+    }
+  }
+}

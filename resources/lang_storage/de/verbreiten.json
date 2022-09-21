@@ -1,0 +1,19 @@
+{
+  "verbreiten": {
+    "word": "verbreiten",
+    "partOfSpeech": "Verb",
+    "language": "German",
+    "definitions": {
+      "definition": "to put about, spread, circulate, disseminate sth.",
+      "parsedExamples": [
+        {
+          "example": "eine Nachricht verbreiten",
+          "translation": "disseminate news"
+        }
+      ],
+      "examples": [
+        "eine Nachricht verbreiten"
+      ]
+    }
+  }
+}

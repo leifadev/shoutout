@@ -1,0 +1,24 @@
+{
+  "fácil": {
+    "word": "fácil",
+    "partOfSpeech": "Adjective",
+    "language": "Spanish",
+    "definitions": {
+      "definition": "easy, facile, simple (requiring little effort)",
+      "parsedExamples": [
+        {
+          "example": "Quiero un trabajo fácil.",
+          "translation": "I want an easy task."
+        },
+        {
+          "example": "El proyecto se ve fácil de llevar a cabo.",
+          "translation": "The project seems easy to carry out."
+        }
+      ],
+      "examples": [
+        "Quiero un trabajo fácil.",
+        "El proyecto se ve fácil de llevar a cabo."
+      ]
+    }
+  }
+}

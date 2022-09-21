@@ -1,0 +1,24 @@
+{
+  "sztuczny": {
+    "word": "sztuczny",
+    "partOfSpeech": "Adjective",
+    "language": "Polish",
+    "definitions": {
+      "definition": "artificial, man-made",
+      "parsedExamples": [
+        {
+          "example": "sztuczna szczęka",
+          "translation": "dental plate"
+        },
+        {
+          "example": "dobór sztuczny",
+          "translation": "artificial selection"
+        }
+      ],
+      "examples": [
+        "sztuczna szczęka",
+        "dobór sztuczny"
+      ]
+    }
+  }
+}

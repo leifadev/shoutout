@@ -1,0 +1,19 @@
+{
+  "salut": {
+    "word": "salut",
+    "partOfSpeech": "Interjection",
+    "language": "French",
+    "definitions": {
+      "definition": "hi, hello",
+      "parsedExamples": [
+        {
+          "example": "Salut toi. Ça fait un bail, comment ça va?",
+          "translation": "Hi. It's been a while, how are you?"
+        }
+      ],
+      "examples": [
+        "Salut toi. Ça fait un bail, comment ça va?"
+      ]
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "iets": {
+    "word": "iets",
+    "partOfSpeech": "Pronoun",
+    "language": "Dutch",
+    "definitions": {
+      "definition": "something",
+      "parsedExamples": [
+        {
+          "example": "Mag het iets meer zijn?&nbsp;: May it be something more?"
+        },
+        {
+          "example": "Mag het iets minder zijn?&nbsp;: May it be something less?"
+        }
+      ],
+      "examples": [
+        "Mag het iets meer zijn?&nbsp;: May it be something more?",
+        "Mag het iets minder zijn?&nbsp;: May it be something less?"
+      ]
+    }
+  }
+}

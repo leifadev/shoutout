@@ -1,0 +1,19 @@
+{
+  "contrebande": {
+    "word": "contrebande",
+    "partOfSpeech": "Noun",
+    "language": "French",
+    "definitions": {
+      "definition": "smuggling",
+      "parsedExamples": [
+        {
+          "example": "faire de la contrebande",
+          "translation": "to smuggle"
+        }
+      ],
+      "examples": [
+        "faire de la contrebande"
+      ]
+    }
+  }
+}

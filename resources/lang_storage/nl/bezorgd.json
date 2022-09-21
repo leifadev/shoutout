@@ -1,0 +1,19 @@
+{
+  "bezorgd": {
+    "word": "bezorgd",
+    "partOfSpeech": "Adjective",
+    "language": "Dutch",
+    "definitions": {
+      "definition": "concerned, anxious",
+      "parsedExamples": [
+        {
+          "example": "Mijn vrienden waren bezorgd over mijn gezondheid.",
+          "translation": "My friends were concerned about my health."
+        }
+      ],
+      "examples": [
+        "Mijn vrienden waren bezorgd over mijn gezondheid."
+      ]
+    }
+  }
+}

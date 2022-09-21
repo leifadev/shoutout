@@ -1,0 +1,20 @@
+{
+  "позорный столб": {
+    "word": "позорный столб",
+    "partOfSpeech": "Noun",
+    "language": "Russian",
+    "definitions": {
+      "definition": "pillory",
+      "parsedExamples": [
+        {
+          "example": "поста́вить к позо́рному столбу́",
+          "transliteration": "postávitʹ k pozórnomu stolbú",
+          "translation": "to pillory"
+        }
+      ],
+      "examples": [
+        "поста́вить к позо́рному столбу́"
+      ]
+    }
+  }
+}

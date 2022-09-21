@@ -1,0 +1,20 @@
+{
+  "눈꺼풀": {
+    "word": "눈꺼풀",
+    "partOfSpeech": "Noun",
+    "language": "Korean",
+    "definitions": {
+      "definition": "eyelid",
+      "parsedExamples": [
+        {
+          "example": "졸려서 눈꺼풀이 감긴다.",
+          "transliteration": "Jollyeoseo nunkkeopuri gamginda.",
+          "translation": "My eyelids are drooping because I'm sleepy."
+        }
+      ],
+      "examples": [
+        "졸려서 눈꺼풀이 감긴다."
+      ]
+    }
+  }
+}

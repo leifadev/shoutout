@@ -1,0 +1,19 @@
+{
+  "再燃": {
+    "word": "再燃",
+    "partOfSpeech": "Noun",
+    "language": "Japanese",
+    "definitions": {
+      "definition": "resurgence, recurrence",
+      "parsedExamples": [
+        {
+          "translation": "Saimu kiki no sainen ga kikkake to natta.",
+          "example": "債務(さいむ)危機(きき)の再燃(さいねん)がきっかけとなった。"
+        }
+      ],
+      "examples": [
+        "債務(さいむ)危機(きき)の再燃(さいねん)がきっかけとなった。"
+      ]
+    }
+  }
+}

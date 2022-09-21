@@ -1,0 +1,18 @@
+{
+  "diurnal": {
+    "word": "diurnal",
+    "partOfSpeech": "Adjective",
+    "language": "English",
+    "definitions": {
+      "definition": "Happening or occurring during daylight, or primarily active during that time.",
+      "parsedExamples": [
+        {
+          "example": "Most birds are diurnal."
+        }
+      ],
+      "examples": [
+        "Most birds are diurnal."
+      ]
+    }
+  }
+}

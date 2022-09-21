@@ -1,0 +1,20 @@
+{
+  "خلع": {
+    "word": "خلع",
+    "partOfSpeech": "Verb",
+    "language": "Arabic",
+    "definitions": {
+      "definition": "to take off, to doff",
+      "parsedExamples": [
+        {
+          "example": "تَخْلَعُ الطَبَقَاتِ الخَارِجِيَّةَ بِسِكِّينٍ",
+          "transliteration": "taḵlaʿu ṭ-ṭabaqāti l-ḵārijiyyata bisikkīnin",
+          "translation": "She takes off the outer layers with a knife."
+        }
+      ],
+      "examples": [
+        "تَخْلَعُ الطَبَقَاتِ الخَارِجِيَّةَ بِسِكِّينٍ"
+      ]
+    }
+  }
+}

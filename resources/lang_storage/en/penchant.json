@@ -1,0 +1,18 @@
+{
+  "penchant": {
+    "word": "penchant",
+    "partOfSpeech": "Noun",
+    "language": "English",
+    "definitions": {
+      "definition": "Taste, liking, or inclination (for).",
+      "parsedExamples": [
+        {
+          "example": "He has a penchant for fine wine."
+        }
+      ],
+      "examples": [
+        "He has a penchant for fine wine."
+      ]
+    }
+  }
+}

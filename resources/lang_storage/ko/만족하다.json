@@ -1,0 +1,20 @@
+{
+  "만족하다": {
+    "word": "만족하다",
+    "partOfSpeech": "Verb",
+    "language": "Korean",
+    "definitions": {
+      "definition": "to feel happy / satisfied",
+      "parsedExamples": [
+        {
+          "example": "전 저의 직업에 만족해요.",
+          "transliteration": "Jeon jeo-ui jigeob-e manjok-haeyo.",
+          "translation": "I am happy with my job."
+        }
+      ],
+      "examples": [
+        "전 저의 직업에 만족해요."
+      ]
+    }
+  }
+}

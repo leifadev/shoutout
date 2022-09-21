@@ -1,0 +1,18 @@
+{
+  "herald": {
+    "word": "herald",
+    "partOfSpeech": "Noun",
+    "language": "English",
+    "definitions": {
+      "definition": "A messenger, especially one bringing important news.",
+      "parsedExamples": [
+        {
+          "example": "The herald blew his trumpet and shouted that the King was dead."
+        }
+      ],
+      "examples": [
+        "The herald blew his trumpet and shouted that the King was dead."
+      ]
+    }
+  }
+}

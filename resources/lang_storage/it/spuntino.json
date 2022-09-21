@@ -1,0 +1,19 @@
+{
+  "spuntino": {
+    "word": "spuntino",
+    "partOfSpeech": "Noun",
+    "language": "Italian",
+    "definitions": {
+      "definition": "snack",
+      "parsedExamples": [
+        {
+          "example": "fare uno spuntino",
+          "translation": "to have a snack"
+        }
+      ],
+      "examples": [
+        "fare uno spuntino"
+      ]
+    }
+  }
+}

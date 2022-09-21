@@ -1,0 +1,26 @@
+{
+  "příšerný": {
+    "word": "příšerný",
+    "partOfSpeech": "Adjective",
+    "language": "Czech",
+    "definitions": {
+      "definition": "terrible",
+      "parsedExamples": [
+        {
+          "example": "příšerná bolest"
+        },
+        {
+          "example": "příšerný hlad"
+        },
+        {
+          "example": "příšerná zima"
+        }
+      ],
+      "examples": [
+        "příšerná bolest",
+        "příšerný hlad",
+        "příšerná zima"
+      ]
+    }
+  }
+}

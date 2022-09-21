@@ -1,0 +1,26 @@
+{
+  "kaput": {
+    "word": "kaput",
+    "partOfSpeech": "Adjective",
+    "language": "English",
+    "definitions": {
+      "definition": "Out of order; not working.",
+      "parsedExamples": [
+        {
+          "example": "My car went kaput."
+        },
+        {
+          "example": "His career is kaput."
+        },
+        {
+          "example": "Her marriage went kaput."
+        }
+      ],
+      "examples": [
+        "My car went kaput.",
+        "His career is kaput.",
+        "Her marriage went kaput."
+      ]
+    }
+  }
+}

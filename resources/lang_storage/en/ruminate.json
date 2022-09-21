@@ -1,0 +1,18 @@
+{
+  "ruminate": {
+    "word": "ruminate",
+    "partOfSpeech": "Verb",
+    "language": "English",
+    "definitions": {
+      "definition": "To chew cud. (Said of ruminants.) Involves regurgitating partially digested food from the rumen.",
+      "parsedExamples": [
+        {
+          "example": "A camel will ruminate just as a cow will."
+        }
+      ],
+      "examples": [
+        "A camel will ruminate just as a cow will."
+      ]
+    }
+  }
+}

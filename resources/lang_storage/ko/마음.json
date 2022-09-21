@@ -1,0 +1,26 @@
+{
+  "마음": {
+    "word": "마음",
+    "partOfSpeech": "Noun",
+    "language": "Korean",
+    "definitions": {
+      "definition": "mind, heart (i.e. one's emotions)",
+      "parsedExamples": [
+        {
+          "example": "마음에 들다",
+          "transliteration": "ma'eume deulda",
+          "translation": "to catch one's fancy; to like"
+        },
+        {
+          "example": "그는 착한 마음을 가지고 있다.",
+          "transliteration": "Geu-neun chakhan ma'eum-eul gajigo itda.",
+          "translation": "He has a good heart."
+        }
+      ],
+      "examples": [
+        "마음에 들다",
+        "그는 착한 마음을 가지고 있다."
+      ]
+    }
+  }
+}

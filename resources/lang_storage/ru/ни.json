@@ -1,0 +1,26 @@
+{
+  "ни": {
+    "word": "ни",
+    "partOfSpeech": "Conjunction",
+    "language": "Russian",
+    "definitions": {
+      "definition": "neither, nor",
+      "parsedExamples": [
+        {
+          "example": "ни он, ни она́",
+          "transliteration": "ni on, ni oná",
+          "translation": "neither he nor she"
+        },
+        {
+          "example": "ни ку́шает, ни спит",
+          "transliteration": "ni kúšajet, ni spit",
+          "translation": "neither eats nor sleeps"
+        }
+      ],
+      "examples": [
+        "ни он, ни она́",
+        "ни ку́шает, ни спит"
+      ]
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "полный": {
+    "word": "полный",
+    "partOfSpeech": "Adjective",
+    "language": "Russian",
+    "definitions": {
+      "definition": "full, complete",
+      "parsedExamples": [
+        {
+          "example": "по́лный пансио́н",
+          "transliteration": "pólnyj pansión",
+          "translation": "full board, American plan"
+        }
+      ],
+      "examples": [
+        "по́лный пансио́н"
+      ]
+    }
+  }
+}

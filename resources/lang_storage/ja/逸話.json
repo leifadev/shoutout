@@ -1,0 +1,19 @@
+{
+  "逸話": {
+    "word": "逸話",
+    "partOfSpeech": "Noun",
+    "language": "Japanese",
+    "definitions": {
+      "definition": "anecdote, story",
+      "parsedExamples": [
+        {
+          "translation": "Kare ni wa omoshiroi itsuwa ga aru.",
+          "example": "彼(かれ)には面白(おもしろ)い逸話(いつわ)がある。"
+        }
+      ],
+      "examples": [
+        "彼(かれ)には面白(おもしろ)い逸話(いつわ)がある。"
+      ]
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "tacaño": {
+    "word": "tacaño",
+    "partOfSpeech": "Adjective",
+    "language": "Spanish",
+    "definitions": {
+      "definition": "stingy, miserly, cheap, tight-fisted, niggardly, mean, penny-pinching",
+      "parsedExamples": [
+        {
+          "example": "Mi papá es tacaño, él no paga para nada.",
+          "translation": "My father is stingy, he doesn't pay for anything."
+        }
+      ],
+      "examples": [
+        "Mi papá es tacaño, él no paga para nada."
+      ]
+    }
+  }
+}

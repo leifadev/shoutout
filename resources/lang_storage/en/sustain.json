@@ -1,0 +1,26 @@
+{
+  "sustain": {
+    "word": "sustain",
+    "partOfSpeech": "Verb",
+    "language": "English",
+    "definitions": {
+      "definition": "To maintain, or keep in existence.",
+      "parsedExamples": [
+        {
+          "example": "The professor had trouble sustaining students’ interest until the end of her lectures."
+        },
+        {
+          "example": "The city came under sustained attack by enemy forces."
+        },
+        {
+          "example": "Sam managed to sustain his erection for two straight hours."
+        }
+      ],
+      "examples": [
+        "The professor had trouble sustaining students’ interest until the end of her lectures.",
+        "The city came under sustained attack by enemy forces.",
+        "Sam managed to sustain his erection for two straight hours."
+      ]
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "svědčit": {
+    "word": "svědčit",
+    "partOfSpeech": "Verb",
+    "language": "Czech",
+    "definitions": {
+      "definition": "to testify, to bear witness",
+      "parsedExamples": [
+        {
+          "example": "svědčit proti někomu",
+          "translation": "to testify against someone"
+        }
+      ],
+      "examples": [
+        "svědčit proti někomu"
+      ]
+    }
+  }
+}

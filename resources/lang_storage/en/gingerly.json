@@ -1,0 +1,18 @@
+{
+  "gingerly": {
+    "word": "gingerly",
+    "partOfSpeech": "Adverb",
+    "language": "English",
+    "definitions": {
+      "definition": "In a cautious and delicate manner; (very) carefully or cautiously.",
+      "parsedExamples": [
+        {
+          "example": "He placed the glass jar gingerly on the concrete step."
+        }
+      ],
+      "examples": [
+        "He placed the glass jar gingerly on the concrete step."
+      ]
+    }
+  }
+}

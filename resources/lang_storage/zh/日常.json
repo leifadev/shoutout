@@ -1,0 +1,26 @@
+{
+  "日常": {
+    "word": "日常",
+    "partOfSpeech": "Adjective",
+    "language": "Chinese",
+    "definitions": {
+      "definition": "everyday; daily; day-to-day; ordinary",
+      "parsedExamples": [
+        {
+          "example": "日常生活&nbsp; ―&nbsp; rìcháng shēnghuó&nbsp; ―&nbsp; everyday life"
+        },
+        {
+          "example": "日常運作 / 日常运作&nbsp; ―&nbsp; rìcháng yùnzuò&nbsp; ―&nbsp; day-to-day operations"
+        },
+        {
+          "example": "日常花銷 / 日常花销&nbsp; ―&nbsp; rìcháng huāxiāo&nbsp; ―&nbsp; daily expenses"
+        }
+      ],
+      "examples": [
+        "日常生活&nbsp; ―&nbsp; rìcháng shēnghuó&nbsp; ―&nbsp; everyday life",
+        "日常運作 / 日常运作&nbsp; ―&nbsp; rìcháng yùnzuò&nbsp; ―&nbsp; day-to-day operations",
+        "日常花銷 / 日常花销&nbsp; ―&nbsp; rìcháng huāxiāo&nbsp; ―&nbsp; daily expenses"
+      ]
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "envisager": {
+    "word": "envisager",
+    "partOfSpeech": "Verb",
+    "language": "French",
+    "definitions": {
+      "definition": "to envisage; to contemplate",
+      "parsedExamples": [
+        {
+          "example": "J'envisage de partir demain matin",
+          "translation": "I intend to leave tomorrow morning"
+        }
+      ],
+      "examples": [
+        "J'envisage de partir demain matin"
+      ]
+    }
+  }
+}

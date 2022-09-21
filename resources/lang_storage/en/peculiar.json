@@ -1,0 +1,22 @@
+{
+  "peculiar": {
+    "word": "peculiar",
+    "partOfSpeech": "Adjective",
+    "language": "English",
+    "definitions": {
+      "definition": "Out of the ordinary; odd; strange; unusual.",
+      "parsedExamples": [
+        {
+          "example": "The sky had a peculiar appearance before the storm."
+        },
+        {
+          "example": "It would be rather peculiar to see a kangaroo hopping down a city street."
+        }
+      ],
+      "examples": [
+        "The sky had a peculiar appearance before the storm.",
+        "It would be rather peculiar to see a kangaroo hopping down a city street."
+      ]
+    }
+  }
+}

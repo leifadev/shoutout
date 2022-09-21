@@ -1,0 +1,20 @@
+{
+  "आपदा": {
+    "word": "आपदा",
+    "partOfSpeech": "Noun",
+    "language": "Hindi",
+    "definitions": {
+      "definition": "disaster, calamity",
+      "parsedExamples": [
+        {
+          "example": "प्राकृतिक आपदा",
+          "transliteration": "prākŕtik āpdā",
+          "translation": "natural disaster"
+        }
+      ],
+      "examples": [
+        "प्राकृतिक आपदा"
+      ]
+    }
+  }
+}

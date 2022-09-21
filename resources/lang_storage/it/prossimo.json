@@ -1,0 +1,24 @@
+{
+  "prossimo": {
+    "word": "prossimo",
+    "partOfSpeech": "Adjective",
+    "language": "Italian",
+    "definitions": {
+      "definition": "very near, near, close",
+      "parsedExamples": [
+        {
+          "example": "nel prossimo futuro",
+          "translation": "in the near future"
+        },
+        {
+          "example": "parente prossimo",
+          "translation": "close relative"
+        }
+      ],
+      "examples": [
+        "nel prossimo futuro",
+        "parente prossimo"
+      ]
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "когда": {
+    "word": "когда",
+    "partOfSpeech": "Adverb",
+    "language": "Russian",
+    "definitions": {
+      "definition": "when",
+      "parsedExamples": [
+        {
+          "example": "Когда́ вы прие́хали?",
+          "transliteration": "Kogdá vy prijéxali?",
+          "translation": "When did you arrive?"
+        }
+      ],
+      "examples": [
+        "Когда́ вы прие́хали?"
+      ]
+    }
+  }
+}

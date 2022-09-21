@@ -1,0 +1,26 @@
+{
+  "거의": {
+    "word": "거의",
+    "partOfSpeech": "Adverb",
+    "language": "Korean",
+    "definitions": {
+      "definition": "almost, nearly",
+      "parsedExamples": [
+        {
+          "example": "거의 여섯시야.",
+          "transliteration": "Geoui yeoseotsiya.",
+          "translation": "It's almost six o'clock."
+        },
+        {
+          "example": "그녀는 지갑에 돈이 거의 남지 않았다.",
+          "transliteration": "Geunyeo-neun jigab-e don-i geoui namji anatda.",
+          "translation": "She had little money left in her purse."
+        }
+      ],
+      "examples": [
+        "거의 여섯시야.",
+        "그녀는 지갑에 돈이 거의 남지 않았다."
+      ]
+    }
+  }
+}

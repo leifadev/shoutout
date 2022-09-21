@@ -1,0 +1,20 @@
+{
+  "болтать": {
+    "word": "болтать",
+    "partOfSpeech": "Verb",
+    "language": "Russian",
+    "definitions": {
+      "definition": "to dangle",
+      "parsedExamples": [
+        {
+          "example": "На подоко́ннике сиде́л и болта́л нога́ми в джи́нсах соверше́нно незнако́мый дя́дька.",
+          "transliteration": "Na podokónnike sidél i boltál nogámi v džínsax soveršénno neznakómyj djádʹka.",
+          "translation": "On the window sill sat a complete stranger, in jeans, dangling his feet."
+        }
+      ],
+      "examples": [
+        "На подоко́ннике сиде́л и болта́л нога́ми в джи́нсах соверше́нно незнако́мый дя́дька."
+      ]
+    }
+  }
+}

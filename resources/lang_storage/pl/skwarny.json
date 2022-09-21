@@ -1,0 +1,19 @@
+{
+  "skwarny": {
+    "word": "skwarny",
+    "partOfSpeech": "Adjective",
+    "language": "Polish",
+    "definitions": {
+      "definition": "scorching, blistering, sweltering",
+      "parsedExamples": [
+        {
+          "example": "Zapowiada się kolejny skwarny dzień.",
+          "translation": "It's looking like another scorching day."
+        }
+      ],
+      "examples": [
+        "Zapowiada się kolejny skwarny dzień."
+      ]
+    }
+  }
+}

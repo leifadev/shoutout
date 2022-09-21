@@ -1,0 +1,18 @@
+{
+  "paradox": {
+    "word": "paradox",
+    "partOfSpeech": "Noun",
+    "language": "English",
+    "definitions": {
+      "definition": "An apparently self-contradictory statement, which can only be true if it is false, and vice versa.",
+      "parsedExamples": [
+        {
+          "example": "This sentence is false is a paradox."
+        }
+      ],
+      "examples": [
+        "This sentence is false is a paradox."
+      ]
+    }
+  }
+}

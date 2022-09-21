@@ -1,0 +1,24 @@
+{
+  "abandonar": {
+    "word": "abandonar",
+    "partOfSpeech": "Verb",
+    "language": "Portuguese",
+    "definitions": {
+      "definition": "to abandon (to leave behind, especially something one was responsible for or associated with)",
+      "parsedExamples": [
+        {
+          "example": "O exército teve que abandonar o forte.",
+          "translation": "The army had to abandon the fort."
+        },
+        {
+          "example": "A mulher abandonou seu bebé.",
+          "translation": "The woman abandoned her baby."
+        }
+      ],
+      "examples": [
+        "O exército teve que abandonar o forte.",
+        "A mulher abandonou seu bebé."
+      ]
+    }
+  }
+}

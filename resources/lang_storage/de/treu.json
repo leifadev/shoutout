@@ -1,0 +1,19 @@
+{
+  "treu": {
+    "word": "treu",
+    "partOfSpeech": "Adjective",
+    "language": "German",
+    "definitions": {
+      "definition": "loyal; faithful; true",
+      "parsedExamples": [
+        {
+          "example": "Willst du deinen eigenen Worten nicht treu bleiben?",
+          "translation": "Aren't you going to be true to your own words?"
+        }
+      ],
+      "examples": [
+        "Willst du deinen eigenen Worten nicht treu bleiben?"
+      ]
+    }
+  }
+}

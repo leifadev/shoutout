@@ -1,0 +1,18 @@
+{
+  "rescind": {
+    "word": "rescind",
+    "partOfSpeech": "Verb",
+    "language": "English",
+    "definitions": {
+      "definition": "To repeal, annul, or declare void; to take (something such as a rule or contract) out of effect.",
+      "parsedExamples": [
+        {
+          "example": "The agency will rescind the policy because many people are dissatisfied with it."
+        }
+      ],
+      "examples": [
+        "The agency will rescind the policy because many people are dissatisfied with it."
+      ]
+    }
+  }
+}

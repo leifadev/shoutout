@@ -1,0 +1,18 @@
+{
+  "impute": {
+    "word": "impute",
+    "partOfSpeech": "Verb",
+    "language": "English",
+    "definitions": {
+      "definition": "To attribute or ascribe (responsibility or fault) to a cause or source.",
+      "parsedExamples": [
+        {
+          "example": "The teacher imputed the student's failure to his nervousness."
+        }
+      ],
+      "examples": [
+        "The teacher imputed the student's failure to his nervousness."
+      ]
+    }
+  }
+}

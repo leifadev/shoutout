@@ -1,0 +1,20 @@
+{
+  "कथा": {
+    "word": "कथा",
+    "partOfSpeech": "Noun",
+    "language": "Hindi",
+    "definitions": {
+      "definition": "story, narrative",
+      "parsedExamples": [
+        {
+          "example": "वह जटिल लघु कथाएँ लिखता और प्रकाशित करता है।",
+          "transliteration": "vah jaṭil laghu kathāẽ likhtā aur prakāśit kartā hai.",
+          "translation": "He writes and publishes intricate short stories."
+        }
+      ],
+      "examples": [
+        "वह जटिल लघु कथाएँ लिखता और प्रकाशित करता है।"
+      ]
+    }
+  }
+}

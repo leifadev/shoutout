@@ -1,0 +1,49 @@
+{
+  "analizować": {
+    "word": "analizować",
+    "partOfSpeech": "Verb",
+    "language": "Polish",
+    "definitions": {
+      "definition": "to analyze (to separate into the constituent parts, for the purpose of an examination of each separately)",
+      "parsedExamples": [
+        {
+          "example": "lampa analizująca",
+          "translation": "video camera tube"
+        },
+        {
+          "example": "analizować dane",
+          "translation": "to analyze date"
+        },
+        {
+          "example": "analizować film",
+          "translation": "to analyze a movie"
+        },
+        {
+          "example": "analizować język",
+          "translation": "to analyze language"
+        },
+        {
+          "example": "analizować statystyki",
+          "translation": "to analyze statistics"
+        },
+        {
+          "example": "analizować sprawę/sytuację",
+          "translation": "to analyze a situation"
+        },
+        {
+          "example": "analizować skład (czegoś)",
+          "translation": "to analyze the composition (of something)"
+        }
+      ],
+      "examples": [
+        "lampa analizująca",
+        "analizować dane",
+        "analizować film",
+        "analizować język",
+        "analizować statystyki",
+        "analizować sprawę/sytuację",
+        "analizować skład (czegoś)"
+      ]
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "कारण": {
+    "word": "कारण",
+    "partOfSpeech": "Noun",
+    "language": "Hindi",
+    "definitions": {
+      "definition": "cause",
+      "parsedExamples": [
+        {
+          "example": "यह सब आपके कारण हुआ।",
+          "transliteration": "yah sab āpke kāraṇ huā.",
+          "translation": "All this happened because of you."
+        }
+      ],
+      "examples": [
+        "यह सब आपके कारण हुआ।"
+      ]
+    }
+  }
+}

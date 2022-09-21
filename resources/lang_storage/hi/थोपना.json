@@ -1,0 +1,26 @@
+{
+  "थोपना": {
+    "word": "थोपना",
+    "partOfSpeech": "Verb",
+    "language": "Hindi",
+    "definitions": {
+      "definition": "to impose, force on",
+      "parsedExamples": [
+        {
+          "example": "अपना धर्म किसी पर थोपो नहीं।",
+          "transliteration": "apnā dharm kisī par thopo nahī̃.",
+          "translation": "Don't force one's beliefs on another."
+        },
+        {
+          "example": "प्लास्टर थोपना",
+          "transliteration": "plāsṭar thopnā",
+          "translation": "to plaster"
+        }
+      ],
+      "examples": [
+        "अपना धर्म किसी पर थोपो नहीं।",
+        "प्लास्टर थोपना"
+      ]
+    }
+  }
+}

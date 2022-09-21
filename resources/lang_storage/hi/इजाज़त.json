@@ -1,0 +1,20 @@
+{
+  "इजाज़त": {
+    "word": "इजाज़त",
+    "partOfSpeech": "Noun",
+    "language": "Hindi",
+    "definitions": {
+      "definition": "permission, authorization, leave",
+      "parsedExamples": [
+        {
+          "example": "वे तुम्हें इस काम करने की इजाज़त नहीं देंगे।",
+          "transliteration": "ve tumhẽ is kām karne kī ijāzat nahī̃ deṅge.",
+          "translation": "They will not permit you to do such a thing."
+        }
+      ],
+      "examples": [
+        "वे तुम्हें इस काम करने की इजाज़त नहीं देंगे।"
+      ]
+    }
+  }
+}

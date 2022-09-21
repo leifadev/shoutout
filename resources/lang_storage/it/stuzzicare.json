@@ -1,0 +1,20 @@
+{
+  "stuzzicare": {
+    "word": "stuzzicare",
+    "partOfSpeech": "Verb",
+    "language": "Italian",
+    "definitions": {
+      "definition": "to poke or prod (at)",
+      "parsedExamples": [
+        {
+          "example": "Non stuzzicare il can che dorme.",
+          "translation": "Don't poke the bear.",
+          "literally": "Don't prod the sleeping dog."
+        }
+      ],
+      "examples": [
+        "Non stuzzicare il can che dorme."
+      ]
+    }
+  }
+}

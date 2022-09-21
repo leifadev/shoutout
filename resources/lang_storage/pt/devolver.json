@@ -1,0 +1,19 @@
+{
+  "devolver": {
+    "word": "devolver",
+    "partOfSpeech": "Verb",
+    "language": "Portuguese",
+    "definitions": {
+      "definition": "to return, give back",
+      "parsedExamples": [
+        {
+          "example": "Vou devolver isso.",
+          "translation": "I'll give it back."
+        }
+      ],
+      "examples": [
+        "Vou devolver isso."
+      ]
+    }
+  }
+}

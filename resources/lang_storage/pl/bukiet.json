@@ -1,0 +1,19 @@
+{
+  "bukiet": {
+    "word": "bukiet",
+    "partOfSpeech": "Noun",
+    "language": "Polish",
+    "definitions": {
+      "definition": "bunch, bouquet",
+      "parsedExamples": [
+        {
+          "example": "bukiet kwiatów",
+          "translation": "a bouqet of flowers"
+        }
+      ],
+      "examples": [
+        "bukiet kwiatów"
+      ]
+    }
+  }
+}

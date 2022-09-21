@@ -1,0 +1,26 @@
+{
+  "проницательный": {
+    "word": "проницательный",
+    "partOfSpeech": "Adjective",
+    "language": "Russian",
+    "definitions": {
+      "definition": "perspicacious, acute, shrewd, astute",
+      "parsedExamples": [
+        {
+          "example": "проница́тельный взор",
+          "transliteration": "pronicátelʹnyj vzor",
+          "translation": "penetrating gaze; piercing look"
+        },
+        {
+          "example": "проница́тельный ум",
+          "transliteration": "pronicátelʹnyj um",
+          "translation": "penetrating/astute mind; shrewdness"
+        }
+      ],
+      "examples": [
+        "проница́тельный взор",
+        "проница́тельный ум"
+      ]
+    }
+  }
+}

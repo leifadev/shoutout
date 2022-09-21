@@ -1,0 +1,18 @@
+{
+  "marginalia": {
+    "word": "marginalia",
+    "partOfSpeech": "Noun",
+    "language": "English",
+    "definitions": {
+      "definition": "Notes in the margin of a document.",
+      "parsedExamples": [
+        {
+          "example": "We know what the composer was thinking as he wrote the piece because we can read his handwritten marginalia on the manuscript."
+        }
+      ],
+      "examples": [
+        "We know what the composer was thinking as he wrote the piece because we can read his handwritten marginalia on the manuscript."
+      ]
+    }
+  }
+}

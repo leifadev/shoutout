@@ -1,0 +1,20 @@
+{
+  "صليب": {
+    "word": "صليب",
+    "partOfSpeech": "Noun",
+    "language": "Arabic",
+    "definitions": {
+      "definition": "cross (geometrical figure)",
+      "parsedExamples": [
+        {
+          "example": "اَلصَّلِيب اَلْجَنُوبِيّ",
+          "transliteration": "aṣ-ṣalīb al-janūbiyy",
+          "translation": "Southern Cross"
+        }
+      ],
+      "examples": [
+        "اَلصَّلِيب اَلْجَنُوبِيّ"
+      ]
+    }
+  }
+}

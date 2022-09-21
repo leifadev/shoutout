@@ -1,0 +1,20 @@
+{
+  "보복": {
+    "word": "보복",
+    "partOfSpeech": "Noun",
+    "language": "Korean",
+    "definitions": {
+      "definition": "revenge; reprisal; retaliation",
+      "parsedExamples": [
+        {
+          "example": "보복관세",
+          "transliteration": "bobok-gwanse",
+          "translation": "retaliatory tariffs"
+        }
+      ],
+      "examples": [
+        "보복관세"
+      ]
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "bezlitosny": {
+    "word": "bezlitosny",
+    "partOfSpeech": "Adjective",
+    "language": "Polish",
+    "definitions": {
+      "definition": "merciless, ruthless",
+      "parsedExamples": [
+        {
+          "example": "bezlitosny krytyk",
+          "translation": "a harsh critic"
+        },
+        {
+          "example": "bezlitosna konkurencja",
+          "translation": "cut-throat/fierce competition"
+        }
+      ],
+      "examples": [
+        "bezlitosny krytyk",
+        "bezlitosna konkurencja"
+      ]
+    }
+  }
+}

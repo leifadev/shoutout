@@ -1,0 +1,19 @@
+{
+  "binární": {
+    "word": "binární",
+    "partOfSpeech": "Adjective",
+    "language": "Czech",
+    "definitions": {
+      "definition": "binary",
+      "parsedExamples": [
+        {
+          "example": "binární relace",
+          "translation": "binary relation"
+        }
+      ],
+      "examples": [
+        "binární relace"
+      ]
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "passado": {
+    "word": "passado",
+    "partOfSpeech": "Adjective",
+    "language": "Portuguese",
+    "definitions": {
+      "definition": "past (of the past)",
+      "parsedExamples": [
+        {
+          "example": "Glórias passadas.",
+          "translation": "Past glories."
+        }
+      ],
+      "examples": [
+        "Glórias passadas."
+      ]
+    }
+  }
+}

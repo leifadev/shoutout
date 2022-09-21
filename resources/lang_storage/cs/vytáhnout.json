@@ -1,0 +1,19 @@
+{
+  "vytáhnout": {
+    "word": "vytáhnout",
+    "partOfSpeech": "Verb",
+    "language": "Czech",
+    "definitions": {
+      "definition": "to pull",
+      "parsedExamples": [
+        {
+          "example": "vytáhnout něco z čeho",
+          "translation": "to drag out something out of something"
+        }
+      ],
+      "examples": [
+        "vytáhnout něco z čeho"
+      ]
+    }
+  }
+}

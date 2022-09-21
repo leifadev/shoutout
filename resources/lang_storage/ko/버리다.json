@@ -1,0 +1,20 @@
+{
+  "버리다": {
+    "word": "버리다",
+    "partOfSpeech": "Verb",
+    "language": "Korean",
+    "definitions": {
+      "definition": "to throw away (a thing), to abandon (a person)",
+      "parsedExamples": [
+        {
+          "example": "쓰레기를 버리다",
+          "transliteration": "sseuregi-reul beorida",
+          "translation": "to throw away trash"
+        }
+      ],
+      "examples": [
+        "쓰레기를 버리다"
+      ]
+    }
+  }
+}

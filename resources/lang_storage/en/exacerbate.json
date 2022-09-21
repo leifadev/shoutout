@@ -1,0 +1,18 @@
+{
+  "exacerbate": {
+    "word": "exacerbate",
+    "partOfSpeech": "Verb",
+    "language": "English",
+    "definitions": {
+      "definition": "To make worse (a problem, bad situation, negative feeling, etc.); aggravate; exasperate.",
+      "parsedExamples": [
+        {
+          "example": "The proposed shutdown would exacerbate unemployment problems."
+        }
+      ],
+      "examples": [
+        "The proposed shutdown would exacerbate unemployment problems."
+      ]
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "přívětivý": {
+    "word": "přívětivý",
+    "partOfSpeech": "Adjective",
+    "language": "Czech",
+    "definitions": {
+      "definition": "pleasant, affable, amiable",
+      "parsedExamples": [
+        {
+          "example": "uživatelsky přívětivý software",
+          "translation": "user-friendly software"
+        }
+      ],
+      "examples": [
+        "uživatelsky přívětivý software"
+      ]
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "грозный": {
+    "word": "грозный",
+    "partOfSpeech": "Adjective",
+    "language": "Russian",
+    "definitions": {
+      "definition": "severe, harsh, cruel",
+      "parsedExamples": [
+        {
+          "example": "Ива́н Гро́зный",
+          "transliteration": "Iván Gróznyj",
+          "translation": "Ivan the Terrible"
+        }
+      ],
+      "examples": [
+        "Ива́н Гро́зный"
+      ]
+    }
+  }
+}
