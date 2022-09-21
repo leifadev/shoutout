@@ -1,0 +1,13 @@
+modulegraph~=0.19.2
+py2app~=0.28.2
+macholib~=1.16
+setuptools~=60.5.0
+altgraph~=0.17.2
+wget~=3.2
+requests~=2.28.1
+lockfile~=0.12.2
+ntplib~=0.4.0
+six~=1.16.0
+google~=3.0.0
+bs4~=0.0.1
+beautifulsoup4~=4.11.1
