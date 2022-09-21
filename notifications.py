@@ -3,14 +3,15 @@ import UserNotifications as UN
 
 DEFAULT_AUTH_OPTIIONS = UN.UNAuthorizationOptions(UN.UNAuthorizationOptionBadge and UN.UNAuthorizationOptionSound)
 
+
 class NotificationScheduler:
     center = UN.UNUserNotificationCenter.currentNotificationCenter()
-    
-    def __init__(self): # Init objects
+
+    def __init__(self):  # Init objects
         self.granted = None
         self.settings = None
-        self.timeInterval = 1 # In minutes
-        self.repeatNotif = True # Repeat notification? Boolean
+        self.timeInterval = 1  # In minutes
+        self.repeatNotif = True  # Repeat notification? Boolean
 
         self.center.getNotificationSettingsWithCompletionHandler_(self._settingsHandler)
 
@@ -35,13 +36,22 @@ class NotificationScheduler:
         if error:
             print(error)
 
-
     def _notificationRequestHandler(self, error):
-        # print("_notificationRequestHandler ")
+        # print("_notificationRequestHandler")
         if error:
             print(error)
 
-    def addNotificationRequest(self, title, subtitle, body):
+    def sendNotificationRequest(self, title, subtitle, body):
+        """
+        Sends a user notification
+
+        Send me a notiii!
+
+        :param title: Title of notification
+        :param subtitle: Subtitle of notification
+        :param body: Body text of the notification
+        :return:
+        """
         if not self._haveAuthorization(block=True):
             print("Error: Missing authorization to add notification request.")
             return None
@@ -58,6 +68,7 @@ class NotificationScheduler:
         content.setCategoryIdentifier_("Shoutout")
 
         # Attachments (logo)
+        # import Foundation
         # fileURL = Foundation.NSURL.fileURLWithPath_("/Users/leif/PycharmProjects/shoutout/images/shoutout_logo.png")
         # import Cocoa
         # fileURL = Cocoa.NSURL.fileURLWithPath_(Cocoa.NSBundle.mainBundle().pathForResource_ofType_("shoutout_logo", "png"))
@@ -65,19 +76,17 @@ class NotificationScheduler:
         #     ("Shoutout_image", fileURL, {}, None)
         # content.setAttachments_([attachments])
 
-
         # Actions for notification
         action_open = UN.UNNotificationAction.actionWithIdentifier_title_options_(
             "foregroundAction",
             "Word",
-            UN.UNNotificationActionOptions(UN.UNNotificationActionOptionForeground)) # Brings app to foreground
+            UN.UNNotificationActionOptions(UN.UNNotificationActionOptionForeground))  # Brings app to foreground
 
         category = UN.UNNotificationCategory.categoryWithIdentifier_actions_intentIdentifiers_options_(
             "Shoutout",
             [action_open],
             [], UN.UNNotificationCategoryOptions(UN.UNNotificationCategoryOptionNone))
         self.center.setNotificationCategories_([category])
-
 
         # Make a random identifier
         identifier = str(uuid4())
@@ -89,14 +98,13 @@ class NotificationScheduler:
 
 if __name__ == "__main__":
     notificationScheduler = NotificationScheduler()
-    notificationScheduler.addNotificationRequest("Shoutout!", "Reminder", "You have a word of the day to check!")
-
+    notificationScheduler.sendNotificationRequest("Shoutout!", f"Subtitle",
+                                                  "You have a word of the day to check!")
     import Cocoa
     # Runs an event loop to keep the interpreter running to give Cocoa time to make a second thread for
     # the completion handler to run, thus so Python doesn't crash with an error. (zsh: illegal hardware instruction)
-    loop = Cocoa.NSRunLoop.currentRunLoop() # Returns the run loop for the current thread (once?)
+    Cocoa.NSRunLoop.currentRunLoop()  # Returns the run loop for the current thread (once?)
     # https://github.com/ronaldoussoren/pyobjc/issues/482
-
 
 # Time Interval Class
 # https://developer.apple.com/documentation/usernotifications/untimeintervalnotificationtrigger?language=objc
