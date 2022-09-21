@@ -4,8 +4,8 @@ PYTHON = python3
 PIP = pip3
 
 PROJECT_DIR = /
-PROJECT_MAIN = WindowController.py # change if needed
-MAIN_FILENAME = WindowController
+PROJECT_MAIN = main.py # change if needed
+MAIN_FILENAME = main
 VERSION = v1.0
 
 # made by leifadev on github
@@ -20,6 +20,7 @@ help:
 	@echo "make run - run the binary in your compiled .app quickly!"
 	@echo "make clean - clean up files"
 	@echo "make build - builds the repo into .app dist"
+	@echo "make all - run all above functions except upgrade"
 	@echo "\n-------------------------------------\n"
 	@echo "\nCoded by leifadev\nhttps://github.com/leifadev/shoutout\n"
 
