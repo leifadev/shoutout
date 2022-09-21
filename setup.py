@@ -8,18 +8,21 @@ Usage:
 from setuptools import setup
 
 APP = ['main.py']
-DATA_FILES = ['shoutout_main.xib', 'daemon.py', 'lang_manager.py', 'notifications.py']
-OPTIONS = {'iconfile':'images/shoutout_logo.icns',
+DATA_FILES = ['shoutout_main.xib', 'AppDelegate.py',
+              'WindowController.py', 'daemon.py',
+              'lang_manager.py', 'notifications.py', 'tasks.py',
+              'resources/images/']
+OPTIONS = {'iconfile':'resources/images/shoutout_logo.icns',
            'plist': {
                'PyRuntimeLocations': [
                 '/Library/Frameworks/Python.framework/Versions/3.9/bin/python3'
-                ''
                ]
            }}
+
 
 setup(
     app=APP,
     data_files=DATA_FILES,
     options={'py2app': OPTIONS},
-    setup_requires=['py2app'],
+    setup_requires=['py2app']
 )
