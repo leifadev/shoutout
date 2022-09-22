@@ -246,7 +246,6 @@ class dbFunctions:
 
 from bs4 import BeautifulSoup
 
-
 class htmlx:
     """
     Fetch and handle HTML data for word of the day websites (currently merriam-webster.com)
@@ -342,7 +341,6 @@ class htmlx:
         except TypeError:  # Pass if we encounter parsing a NoneType
             pass
         except google.api_core.exceptions.ServiceUnavailable:
-            import time
             logging.warning("Network connection failed!")
 
         # Narrow down google's payload to just -the- text

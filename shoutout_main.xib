@@ -274,6 +274,9 @@
                         <rect key="frame" x="358" y="300" width="17" height="31"/>
                         <autoresizingMask key="autoresizingMask"/>
                         <imageCell key="cell" refusesFirstResponder="YES" alignment="left" animates="YES" imageAlignment="right" imageScaling="proportionallyDown" image="NSGoForwardTemplate" id="qgP-6b-0dy"/>
+                        <connections>
+                            <action selector="openlink:" target="-2" id="IYv-Ig-TBD"/>
+                        </connections>
                     </imageView>
                     <imageView fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="wSd-hD-c4r">
                         <rect key="frame" x="101" y="303" width="25" height="26"/>
@@ -441,7 +444,7 @@
                     </comboBox>
                 </subviews>
             </view>
-            <point key="canvasLocation" x="606" y="184"/>
+            <point key="canvasLocation" x="655" y="203"/>
         </window>
     </objects>
     <resources>
