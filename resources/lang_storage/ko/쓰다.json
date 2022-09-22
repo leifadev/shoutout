@@ -1,0 +1,26 @@
+{
+  "쓰다": {
+    "word": "쓰다",
+    "partOfSpeech": "Verb",
+    "language": "Korean",
+    "definitions": {
+      "definition": "to wear, to put on (a hat, helmet, etc., on one's head; a mask, pair of glasses, etc.)",
+      "parsedExamples": [
+        {
+          "example": "모자를 쓰다",
+          "transliteration": "moja-reul sseuda",
+          "translation": "to wear a hat"
+        },
+        {
+          "example": "안경을 쓰다",
+          "transliteration": "an'gyeong-eul sseuda",
+          "translation": "to put on glasses"
+        }
+      ],
+      "examples": [
+        "모자를 쓰다",
+        "안경을 쓰다"
+      ]
+    }
+  }
+}

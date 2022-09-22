@@ -1,0 +1,20 @@
+{
+  "연설": {
+    "word": "연설",
+    "partOfSpeech": "Noun",
+    "language": "Korean",
+    "definitions": {
+      "definition": "speech; address; oration",
+      "parsedExamples": [
+        {
+          "example": "의장의 연설은 어땠어요? ―저는 아주 감동했어요.",
+          "transliteration": "Uijang'ui yeonseoreun eottaesseoyo? ―jeoneun aju gamdonghaesseoyo.",
+          "translation": "What do you think of the chairman's speech? ― I was quite impressed."
+        }
+      ],
+      "examples": [
+        "의장의 연설은 어땠어요? ―저는 아주 감동했어요."
+      ]
+    }
+  }
+}

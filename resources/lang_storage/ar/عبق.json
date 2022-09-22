@@ -1,0 +1,20 @@
+{
+  "عبق": {
+    "word": "عبق",
+    "partOfSpeech": "Verb",
+    "language": "Arabic",
+    "definitions": {
+      "definition": "to be fragrant",
+      "parsedExamples": [
+        {
+          "example": "يَعْبَقُ ٱلْمَكَانُ بِٱلطِّيبِ",
+          "transliteration": "yaʿbaqu l-makānu bi-ṭ-ṭībi",
+          "translation": "The place smells of a perfume."
+        }
+      ],
+      "examples": [
+        "يَعْبَقُ ٱلْمَكَانُ بِٱلطِّيبِ"
+      ]
+    }
+  }
+}

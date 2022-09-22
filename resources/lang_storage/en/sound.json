@@ -1,0 +1,22 @@
+{
+  "sound": {
+    "word": "sound",
+    "partOfSpeech": "Adjective",
+    "language": "English",
+    "definitions": {
+      "definition": "Healthy.",
+      "parsedExamples": [
+        {
+          "example": "He was safe and sound."
+        },
+        {
+          "example": "In horse management a sound horse is one with no health problems that might affect its suitability for its intended work."
+        }
+      ],
+      "examples": [
+        "He was safe and sound.",
+        "In horse management a sound horse is one with no health problems that might affect its suitability for its intended work."
+      ]
+    }
+  }
+}

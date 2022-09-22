@@ -1,0 +1,44 @@
+{
+  "jelito": {
+    "word": "jelito",
+    "partOfSpeech": "Noun",
+    "language": "Polish",
+    "definitions": {
+      "definition": "intestine, bowel",
+      "parsedExamples": [
+        {
+          "example": "jelito cienkie",
+          "translation": "small intestine"
+        },
+        {
+          "example": "jelito grube",
+          "translation": "large intestine"
+        },
+        {
+          "example": "jelito czcze",
+          "translation": "jejunum"
+        },
+        {
+          "example": "jelito kręte",
+          "translation": "ileum"
+        },
+        {
+          "example": "rak jelita grubego",
+          "translation": "colorectal cancer"
+        },
+        {
+          "example": "zespół jelita drażliwego",
+          "translation": "irritable bowel syndrome"
+        }
+      ],
+      "examples": [
+        "jelito cienkie",
+        "jelito grube",
+        "jelito czcze",
+        "jelito kręte",
+        "rak jelita grubego",
+        "zespół jelita drażliwego"
+      ]
+    }
+  }
+}

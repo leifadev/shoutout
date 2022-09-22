@@ -1,0 +1,37 @@
+{
+  "房子": {
+    "word": "房子",
+    "partOfSpeech": "Noun",
+    "language": "Chinese",
+    "definitions": {
+      "definition": "house; home; apartment (Classifier: 所;&nbsp;棟／栋;&nbsp;幢;&nbsp;座;&nbsp;套)",
+      "parsedExamples": [
+        {
+          "example": "蓋房子 / 盖房子&nbsp; ―&nbsp; gài fángzi&nbsp; ―&nbsp; to build a house"
+        },
+        {
+          "example": "房子前面是禾場。 / 房子前面是禾场。&nbsp; ―&nbsp; Fángzi qiánmiàn shì héchǎng.&nbsp; ―&nbsp; The threshing floor is in front of the house."
+        },
+        {
+          "translation": "Wǒ de fángzi yǒu yī gè xiǎo yuànzi. [Pinyin]",
+          "example": ""
+        },
+        {
+          "translation": "Fùjìn yǒu fángzi chūzū ma? [Pinyin]",
+          "example": ""
+        },
+        {
+          "translation": "Shǐmìsī jiē shàng de fángzi zhèngzài pāimài. [Pinyin]",
+          "example": ""
+        }
+      ],
+      "examples": [
+        "蓋房子 / 盖房子&nbsp; ―&nbsp; gài fángzi&nbsp; ―&nbsp; to build a house",
+        "房子前面是禾場。 / 房子前面是禾场。&nbsp; ―&nbsp; Fángzi qiánmiàn shì héchǎng.&nbsp; ―&nbsp; The threshing floor is in front of the house.",
+        "",
+        "",
+        ""
+      ]
+    }
+  }
+}

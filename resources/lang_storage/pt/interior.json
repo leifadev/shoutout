@@ -1,0 +1,19 @@
+{
+  "interior": {
+    "word": "interior",
+    "partOfSpeech": "Adjective",
+    "language": "Portuguese",
+    "definitions": {
+      "definition": "inner; interior (located in the inside)",
+      "parsedExamples": [
+        {
+          "example": "Não comemos os olhos nem os órgãos interiores.",
+          "translation": "We don’t eat the eyes nor the inner organs."
+        }
+      ],
+      "examples": [
+        "Não comemos os olhos nem os órgãos interiores."
+      ]
+    }
+  }
+}

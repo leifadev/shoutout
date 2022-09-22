@@ -1,0 +1,20 @@
+{
+  "слизистый": {
+    "word": "слизистый",
+    "partOfSpeech": "Adjective",
+    "language": "Russian",
+    "definitions": {
+      "definition": "mucous (relating to mucus)",
+      "parsedExamples": [
+        {
+          "example": "сли́зистая оболо́чка",
+          "transliteration": "slízistaja obolóčka",
+          "translation": "mucous membrane"
+        }
+      ],
+      "examples": [
+        "сли́зистая оболо́чка"
+      ]
+    }
+  }
+}

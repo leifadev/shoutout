@@ -1,0 +1,24 @@
+{
+  "vertikutieren": {
+    "word": "vertikutieren",
+    "partOfSpeech": "Verb",
+    "language": "German",
+    "definitions": {
+      "definition": "scarify, verticut, thatch, dethatch (dethatch)",
+      "parsedExamples": [
+        {
+          "example": "Von Hand vertikutieren ist ziemlich anstrengend.",
+          "translation": "Dethatching by hand can be quite a hard job."
+        },
+        {
+          "example": "Zum Mähen oder Vertikutieren werden die oben beschriebenen Mähwerkzeuge eingesetzt.",
+          "translation": "The cutting tools described above are designed for mowing or scarifying."
+        }
+      ],
+      "examples": [
+        "Von Hand vertikutieren ist ziemlich anstrengend.",
+        "Zum Mähen oder Vertikutieren werden die oben beschriebenen Mähwerkzeuge eingesetzt."
+      ]
+    }
+  }
+}

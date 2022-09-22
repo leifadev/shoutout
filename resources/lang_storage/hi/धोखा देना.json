@@ -1,0 +1,20 @@
+{
+  "धोखा देना": {
+    "word": "धोखा देना",
+    "partOfSpeech": "Verb",
+    "language": "Hindi",
+    "definitions": {
+      "definition": "to deceive",
+      "parsedExamples": [
+        {
+          "example": "उसने हमें धोखा दिया।",
+          "transliteration": "usne hamẽ dhokhā diyā.",
+          "translation": "He deceived us."
+        }
+      ],
+      "examples": [
+        "उसने हमें धोखा दिया।"
+      ]
+    }
+  }
+}

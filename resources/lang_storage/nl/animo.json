@@ -1,0 +1,19 @@
+{
+  "animo": {
+    "word": "animo",
+    "partOfSpeech": "Noun",
+    "language": "Dutch",
+    "definitions": {
+      "definition": "desire, interest in doing something",
+      "parsedExamples": [
+        {
+          "example": "Er was weinig animo voor de strandwandeling.",
+          "translation": "There was not much interest in the walk on the beach."
+        }
+      ],
+      "examples": [
+        "Er was weinig animo voor de strandwandeling."
+      ]
+    }
+  }
+}

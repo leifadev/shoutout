@@ -1,0 +1,19 @@
+{
+  "účtenka": {
+    "word": "účtenka",
+    "partOfSpeech": "Noun",
+    "language": "Czech",
+    "definitions": {
+      "definition": "receipt, voucher",
+      "parsedExamples": [
+        {
+          "example": "Chcete účtenku?",
+          "translation": "Do you want a receipt?"
+        }
+      ],
+      "examples": [
+        "Chcete účtenku?"
+      ]
+    }
+  }
+}

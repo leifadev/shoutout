@@ -1,0 +1,20 @@
+{
+  "पुतला": {
+    "word": "पुतला",
+    "partOfSpeech": "Noun",
+    "language": "Hindi",
+    "definitions": {
+      "definition": "dummy, mannequin; effigy",
+      "parsedExamples": [
+        {
+          "example": "रावण का पुतला दहन",
+          "transliteration": "rāvaṇ kā putlā dahan",
+          "translation": "the burning of the demon Ravan's effigy, an annual Hindu ritual"
+        }
+      ],
+      "examples": [
+        "रावण का पुतला दहन"
+      ]
+    }
+  }
+}

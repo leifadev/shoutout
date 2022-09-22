@@ -1,0 +1,19 @@
+{
+  "afval": {
+    "word": "afval",
+    "partOfSpeech": "Noun",
+    "language": "Dutch",
+    "definitions": {
+      "definition": "rubbish, garbage, trash",
+      "parsedExamples": [
+        {
+          "example": "Morgen zullen zij het afval ophalen.",
+          "translation": "Tomorrow, they will collect the garbage."
+        }
+      ],
+      "examples": [
+        "Morgen zullen zij het afval ophalen."
+      ]
+    }
+  }
+}

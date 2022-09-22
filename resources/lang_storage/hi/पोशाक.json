@@ -1,0 +1,20 @@
+{
+  "पोशाक": {
+    "word": "पोशाक",
+    "partOfSpeech": "Noun",
+    "language": "Hindi",
+    "definitions": {
+      "definition": "attire, dress, clothing",
+      "parsedExamples": [
+        {
+          "example": "भारतीय पोशाक अकसर रंगीली होती है।",
+          "transliteration": "bhārtīya pośāk aksar raṅgīlī hotī hai.",
+          "translation": "Indian clothing is often colorful"
+        }
+      ],
+      "examples": [
+        "भारतीय पोशाक अकसर रंगीली होती है।"
+      ]
+    }
+  }
+}

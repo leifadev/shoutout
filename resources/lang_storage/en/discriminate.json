@@ -1,0 +1,18 @@
+{
+  "discriminate": {
+    "word": "discriminate",
+    "partOfSpeech": "Verb",
+    "language": "English",
+    "definitions": {
+      "definition": "To make distinctions.",
+      "parsedExamples": [
+        {
+          "example": "Since he was color blind he was unable to discriminate between the blue and green bottles."
+        }
+      ],
+      "examples": [
+        "Since he was color blind he was unable to discriminate between the blue and green bottles."
+      ]
+    }
+  }
+}

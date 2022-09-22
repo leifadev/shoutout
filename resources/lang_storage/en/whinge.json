@@ -1,0 +1,22 @@
+{
+  "whinge": {
+    "word": "whinge",
+    "partOfSpeech": "Verb",
+    "language": "English",
+    "definitions": {
+      "definition": "To whine; to complain, especially in an annoying or persistent manner.",
+      "parsedExamples": [
+        {
+          "example": "Argh! He has been whinging about it all night, even though he knows there's nothing we can do."
+        },
+        {
+          "example": "I know it won't help but sometimes it feels better to whinge about the things that annoy me."
+        }
+      ],
+      "examples": [
+        "Argh! He has been whinging about it all night, even though he knows there's nothing we can do.",
+        "I know it won't help but sometimes it feels better to whinge about the things that annoy me."
+      ]
+    }
+  }
+}

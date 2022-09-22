@@ -1,0 +1,26 @@
+{
+  "неотъемлемый": {
+    "word": "неотъемлемый",
+    "partOfSpeech": "Adjective",
+    "language": "Russian",
+    "definitions": {
+      "definition": "inalienable, integral",
+      "parsedExamples": [
+        {
+          "example": "неотъе́млемое пра́во",
+          "transliteration": "neotʺjémlemoje právo",
+          "translation": "an inalienable right"
+        },
+        {
+          "example": "неотъе́млемая часть",
+          "transliteration": "neotʺjémlemaja častʹ",
+          "translation": "an integral part, part and parcel"
+        }
+      ],
+      "examples": [
+        "неотъе́млемое пра́во",
+        "неотъе́млемая часть"
+      ]
+    }
+  }
+}

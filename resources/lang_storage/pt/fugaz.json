@@ -1,0 +1,19 @@
+{
+  "fugaz": {
+    "word": "fugaz",
+    "partOfSpeech": "Adjective",
+    "language": "Portuguese",
+    "definitions": {
+      "definition": "fleeting",
+      "parsedExamples": [
+        {
+          "example": "relação fugaz",
+          "translation": "fleeting romance"
+        }
+      ],
+      "examples": [
+        "relação fugaz"
+      ]
+    }
+  }
+}

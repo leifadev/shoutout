@@ -1,0 +1,20 @@
+{
+  "추가": {
+    "word": "추가",
+    "partOfSpeech": "Noun",
+    "language": "Korean",
+    "definitions": {
+      "definition": "addition",
+      "parsedExamples": [
+        {
+          "example": "추가의",
+          "transliteration": "chuga-ui",
+          "translation": "additional, supplementary"
+        }
+      ],
+      "examples": [
+        "추가의"
+      ]
+    }
+  }
+}

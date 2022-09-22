@@ -1,0 +1,20 @@
+{
+  "소리": {
+    "word": "소리",
+    "partOfSpeech": "Noun",
+    "language": "Korean",
+    "definitions": {
+      "definition": "sound",
+      "parsedExamples": [
+        {
+          "example": "음악 소리",
+          "transliteration": "eumak sori",
+          "translation": "the sound of music"
+        }
+      ],
+      "examples": [
+        "음악 소리"
+      ]
+    }
+  }
+}

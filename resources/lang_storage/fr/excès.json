@@ -1,0 +1,24 @@
+{
+  "excès": {
+    "word": "excès",
+    "partOfSpeech": "Noun",
+    "language": "French",
+    "definitions": {
+      "definition": "excess",
+      "parsedExamples": [
+        {
+          "example": "les excès de drogue.",
+          "translation": "drug excess/taking too much drugs"
+        },
+        {
+          "example": "à l'excès",
+          "translation": "in excess"
+        }
+      ],
+      "examples": [
+        "les excès de drogue.",
+        "à l'excès"
+      ]
+    }
+  }
+}

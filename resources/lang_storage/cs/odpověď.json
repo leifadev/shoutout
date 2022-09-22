@@ -1,0 +1,19 @@
+{
+  "odpověď": {
+    "word": "odpověď",
+    "partOfSpeech": "Noun",
+    "language": "Czech",
+    "definitions": {
+      "definition": "answer",
+      "parsedExamples": [
+        {
+          "example": "poskytovat odpověď",
+          "translation": "to provide an answer"
+        }
+      ],
+      "examples": [
+        "poskytovat odpověď"
+      ]
+    }
+  }
+}

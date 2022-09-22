@@ -1,0 +1,19 @@
+{
+  "příjemný": {
+    "word": "příjemný",
+    "partOfSpeech": "Adjective",
+    "language": "Czech",
+    "definitions": {
+      "definition": "pleasant, agreeable",
+      "parsedExamples": [
+        {
+          "example": "Je příjemné místo na cestování.",
+          "translation": "It is a pleasant place to travel."
+        }
+      ],
+      "examples": [
+        "Je příjemné místo na cestování."
+      ]
+    }
+  }
+}

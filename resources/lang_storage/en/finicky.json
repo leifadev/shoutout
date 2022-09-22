@@ -1,0 +1,22 @@
+{
+  "finicky": {
+    "word": "finicky",
+    "partOfSpeech": "Adjective",
+    "language": "English",
+    "definitions": {
+      "definition": "Fastidious and fussy; difficult to please; exacting, especially about details.",
+      "parsedExamples": [
+        {
+          "example": "My editor is very finicky about punctuation. Every dot and comma has to be just right."
+        },
+        {
+          "example": "She has a finicky baby that's hard to feed."
+        }
+      ],
+      "examples": [
+        "My editor is very finicky about punctuation. Every dot and comma has to be just right.",
+        "She has a finicky baby that's hard to feed."
+      ]
+    }
+  }
+}

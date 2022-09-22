@@ -1,0 +1,18 @@
+{
+  "recuse": {
+    "word": "recuse",
+    "partOfSpeech": "Verb",
+    "language": "English",
+    "definitions": {
+      "definition": "To refuse or reject (a judge); to declare that the judge shall not try the case or is disqualified from acting. ",
+      "parsedExamples": [
+        {
+          "example": "The judge recused herself from that case, citing a possible conflict of interest."
+        }
+      ],
+      "examples": [
+        "The judge recused herself from that case, citing a possible conflict of interest."
+      ]
+    }
+  }
+}

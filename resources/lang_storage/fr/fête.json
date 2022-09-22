@@ -1,0 +1,20 @@
+{
+  "fête": {
+    "word": "fête",
+    "partOfSpeech": "Noun",
+    "language": "French",
+    "definitions": {
+      "definition": "winter holidays (always in plural)",
+      "parsedExamples": [
+        {
+          "example": "Tu fais quoi pour les fêtes (de fin d'année)?",
+          "translation": "What will you do for the (winter) holidays?",
+          "literally": "the end-of-year holidays"
+        }
+      ],
+      "examples": [
+        "Tu fais quoi pour les fêtes (de fin d'année)?"
+      ]
+    }
+  }
+}

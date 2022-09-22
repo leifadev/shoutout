@@ -1,0 +1,20 @@
+{
+  "сверхъестественный": {
+    "word": "сверхъестественный",
+    "partOfSpeech": "Adjective",
+    "language": "Russian",
+    "definitions": {
+      "definition": "supernatural",
+      "parsedExamples": [
+        {
+          "example": "сверхъесте́ственные спосо́бности",
+          "transliteration": "sverxʺjestéstvennyje sposóbnosti",
+          "translation": "supernatural powers"
+        }
+      ],
+      "examples": [
+        "сверхъесте́ственные спосо́бности"
+      ]
+    }
+  }
+}

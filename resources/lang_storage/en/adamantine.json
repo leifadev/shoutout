@@ -1,0 +1,22 @@
+{
+  "adamantine": {
+    "word": "adamantine",
+    "partOfSpeech": "Adjective",
+    "language": "English",
+    "definitions": {
+      "definition": "Made of adamant, or having the qualities of adamant; incapable of being broken, dissolved, or penetrated.",
+      "parsedExamples": [
+        {
+          "example": "adamantine bonds"
+        },
+        {
+          "example": "adamantine chains"
+        }
+      ],
+      "examples": [
+        "adamantine bonds",
+        "adamantine chains"
+      ]
+    }
+  }
+}

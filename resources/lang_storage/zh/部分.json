@@ -1,0 +1,23 @@
+{
+  "部分": {
+    "word": "部分",
+    "partOfSpeech": "Noun",
+    "language": "Chinese",
+    "definitions": {
+      "definition": "part; section; segment; portion (Classifier: 個／个 m)",
+      "parsedExamples": [
+        {
+          "example": "水果的食用部分&nbsp; ―&nbsp; shuǐguǒ de shíyòng bùfen&nbsp; ―&nbsp; the edible part of a piece of fruit"
+        },
+        {
+          "translation": "Wǒ yǐjīng bǎ wénzhōng xūyào chóngxiě de bùfen biāoshì chūlái le. [Pinyin]",
+          "example": ""
+        }
+      ],
+      "examples": [
+        "水果的食用部分&nbsp; ―&nbsp; shuǐguǒ de shíyòng bùfen&nbsp; ―&nbsp; the edible part of a piece of fruit",
+        ""
+      ]
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "voorkomend": {
+    "word": "voorkomend",
+    "partOfSpeech": "Participle",
+    "language": "Dutch",
+    "definitions": {
+      "definition": "  present participle of voorkomen (“to occur”)",
+      "parsedExamples": [
+        {
+          "example": "In voorkomende gevallen kan een beroep worden gedaan op het noodfonds.",
+          "translation": "In [any] cases that [may] occur, an appeal can be made to the emergency fund."
+        }
+      ],
+      "examples": [
+        "In voorkomende gevallen kan een beroep worden gedaan op het noodfonds."
+      ]
+    }
+  }
+}

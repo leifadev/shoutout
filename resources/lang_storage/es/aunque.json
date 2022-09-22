@@ -1,0 +1,24 @@
+{
+  "aunque": {
+    "word": "aunque",
+    "partOfSpeech": "Conjunction",
+    "language": "Spanish",
+    "definitions": {
+      "definition": "though, although, even though, albeit",
+      "parsedExamples": [
+        {
+          "example": "Aunque es importante, nadie lo considera así.",
+          "translation": "Although it is important, nobody considers it so."
+        },
+        {
+          "example": "Voy a juntarme con los amigos, aunque tengo mucho que hacer por la mañana",
+          "translation": "I'm going to meet up with friends, even though I have a lot to do in the morning."
+        }
+      ],
+      "examples": [
+        "Aunque es importante, nadie lo considera así.",
+        "Voy a juntarme con los amigos, aunque tengo mucho que hacer por la mañana"
+      ]
+    }
+  }
+}

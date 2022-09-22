@@ -1,0 +1,19 @@
+{
+  "udeřit": {
+    "word": "udeřit",
+    "partOfSpeech": "Verb",
+    "language": "Czech",
+    "definitions": {
+      "definition": "to strike",
+      "parsedExamples": [
+        {
+          "example": "Ten tenista udeřil do míče tvrdě.",
+          "translation": "The tennis player hit the ball hard."
+        }
+      ],
+      "examples": [
+        "Ten tenista udeřil do míče tvrdě."
+      ]
+    }
+  }
+}

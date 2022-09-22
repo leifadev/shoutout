@@ -1,0 +1,19 @@
+{
+  "drunter und drüber": {
+    "word": "drunter und drüber",
+    "partOfSpeech": "Adjective",
+    "language": "German",
+    "definitions": {
+      "definition": "chaotic, haywire, higgledy-piggledy",
+      "parsedExamples": [
+        {
+          "example": "In meinem Leben geht neulich alles drunter und drüber.",
+          "translation": "Everything in my life has been going haywire lately."
+        }
+      ],
+      "examples": [
+        "In meinem Leben geht neulich alles drunter und drüber."
+      ]
+    }
+  }
+}

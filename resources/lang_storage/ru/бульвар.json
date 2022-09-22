@@ -1,0 +1,20 @@
+{
+  "бульвар": {
+    "word": "бульвар",
+    "partOfSpeech": "Noun",
+    "language": "Russian",
+    "definitions": {
+      "definition": "boulevard, avenue",
+      "parsedExamples": [
+        {
+          "example": "примо́рский бульва́р",
+          "transliteration": "primórskij bulʹvár",
+          "translation": "sea front"
+        }
+      ],
+      "examples": [
+        "примо́рский бульва́р"
+      ]
+    }
+  }
+}

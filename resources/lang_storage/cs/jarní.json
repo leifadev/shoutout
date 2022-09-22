@@ -1,0 +1,19 @@
+{
+  "jarní": {
+    "word": "jarní",
+    "partOfSpeech": "Adjective",
+    "language": "Czech",
+    "definitions": {
+      "definition": "spring, vernal (related to the season)",
+      "parsedExamples": [
+        {
+          "example": "první jarní den",
+          "translation": "first spring day"
+        }
+      ],
+      "examples": [
+        "první jarní den"
+      ]
+    }
+  }
+}

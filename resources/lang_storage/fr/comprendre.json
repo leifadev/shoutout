@@ -1,0 +1,33 @@
+{
+  "comprendre": {
+    "word": "comprendre",
+    "partOfSpeech": "Verb",
+    "language": "French",
+    "definitions": {
+      "definition": "to understand, comprehend",
+      "parsedExamples": [
+        {
+          "example": "J'ai compris maintenant.",
+          "translation": "I understand now. (lit. I have understood now.)"
+        },
+        {
+          "example": "Il est trop intelligent pour ne pas comprendre ce que vous lui avez dit."
+        },
+        {
+          "example": "Est-ce que vous avez bien compris&nbsp;?",
+          "translation": "Did you understand?"
+        },
+        {
+          "example": "„Est-ce que tu comprends ce qu'il dit&nbsp;?” „Je ne comprends même pas ce que je dis moi.”",
+          "translation": "Do you understand what he's saying? I don't even understand what I'm saying."
+        }
+      ],
+      "examples": [
+        "J'ai compris maintenant.",
+        "Il est trop intelligent pour ne pas comprendre ce que vous lui avez dit.",
+        "Est-ce que vous avez bien compris&nbsp;?",
+        "„Est-ce que tu comprends ce qu'il dit&nbsp;?” „Je ne comprends même pas ce que je dis moi.”"
+      ]
+    }
+  }
+}

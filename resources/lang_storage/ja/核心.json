@@ -1,0 +1,19 @@
+{
+  "核心": {
+    "word": "核心",
+    "partOfSpeech": "Noun",
+    "language": "Japanese",
+    "definitions": {
+      "definition": "core, heart",
+      "parsedExamples": [
+        {
+          "translation": "nyūsu no kakushin ni semaru",
+          "example": "ニュースの核心(かくしん)に迫(せま)る"
+        }
+      ],
+      "examples": [
+        "ニュースの核心(かくしん)に迫(せま)る"
+      ]
+    }
+  }
+}

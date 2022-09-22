@@ -1,0 +1,19 @@
+{
+  "leicht": {
+    "word": "leicht",
+    "partOfSpeech": "Adjective",
+    "language": "German",
+    "definitions": {
+      "definition": "light (not heavy)",
+      "parsedExamples": [
+        {
+          "example": "Nur leichte Autos sollten diese Brücke befahren.",
+          "translation": "Only light cars should drive on this bridge."
+        }
+      ],
+      "examples": [
+        "Nur leichte Autos sollten diese Brücke befahren."
+      ]
+    }
+  }
+}

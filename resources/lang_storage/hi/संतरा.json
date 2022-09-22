@@ -1,0 +1,20 @@
+{
+  "संतरा": {
+    "word": "संतरा",
+    "partOfSpeech": "Noun",
+    "language": "Hindi",
+    "definitions": {
+      "definition": "orange",
+      "parsedExamples": [
+        {
+          "example": "दूसरे फलों के मुक़ाबले मुझे संतरे ज़्यादा अच्छे लगते हैं।",
+          "transliteration": "dūsre phalõ ke muqāble mujhe santre zyādā acche lagte ha͠i.",
+          "translation": "I like oranges more than any other fruit."
+        }
+      ],
+      "examples": [
+        "दूसरे फलों के मुक़ाबले मुझे संतरे ज़्यादा अच्छे लगते हैं।"
+      ]
+    }
+  }
+}

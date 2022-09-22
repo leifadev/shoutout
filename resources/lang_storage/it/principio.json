@@ -1,0 +1,24 @@
+{
+  "principio": {
+    "word": "principio",
+    "partOfSpeech": "Noun",
+    "language": "Italian",
+    "definitions": {
+      "definition": "beginning, start, inception",
+      "parsedExamples": [
+        {
+          "example": "il principio di una azione.",
+          "translation": "the beginning of an action."
+        },
+        {
+          "example": "il principio di una nuova vita.",
+          "translation": "the beginning of a new life."
+        }
+      ],
+      "examples": [
+        "il principio di una azione.",
+        "il principio di una nuova vita."
+      ]
+    }
+  }
+}

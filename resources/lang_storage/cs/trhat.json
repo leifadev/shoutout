@@ -1,0 +1,19 @@
+{
+  "trhat": {
+    "word": "trhat",
+    "partOfSpeech": "Verb",
+    "language": "Czech",
+    "definitions": {
+      "definition": "to tear, rip",
+      "parsedExamples": [
+        {
+          "example": "trhané vepřové maso",
+          "translation": "ripped pork"
+        }
+      ],
+      "examples": [
+        "trhané vepřové maso"
+      ]
+    }
+  }
+}

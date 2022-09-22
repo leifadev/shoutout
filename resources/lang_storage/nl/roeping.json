@@ -1,0 +1,19 @@
+{
+  "roeping": {
+    "word": "roeping",
+    "partOfSpeech": "Noun",
+    "language": "Dutch",
+    "definitions": {
+      "definition": "vocation, calling",
+      "parsedExamples": [
+        {
+          "translation": "Monasticism was his calling.",
+          "example": "Het kloosterleven was zijn roeping."
+        }
+      ],
+      "examples": [
+        "Het kloosterleven was zijn roeping."
+      ]
+    }
+  }
+}

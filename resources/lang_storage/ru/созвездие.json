@@ -1,0 +1,20 @@
+{
+  "созвездие": {
+    "word": "созвездие",
+    "partOfSpeech": "Noun",
+    "language": "Russian",
+    "definitions": {
+      "definition": "constellation",
+      "parsedExamples": [
+        {
+          "example": "Созве́здия — в совреме́нной астроно́мии уча́стки, на кото́рые разделена́ небе́сная сфе́ра для удо́бства ориентирования на звёздном не́бе. В дре́вности созве́здиями называ́лись характерные фигу́ры, образуемые я́ркими звёздами.",
+          "transliteration": "Sozvézdija — v sovreménnoj astronómii učástki, na kotóryje razdelená nebésnaja sféra dlja udóbstva orijentirovanija na zvjózdnom nébe. V drévnosti sozvézdijami nazyválisʹ xarakternyje figúry, obrazujemyje járkimi zvjózdami.",
+          "translation": "Constellations in the modern astronomy are areas dividing the celestial sphere for convenient orientation in the stellar sky. In the ancient times the distinctive shapes formed by bright stars were called constellations"
+        }
+      ],
+      "examples": [
+        "Созве́здия — в совреме́нной астроно́мии уча́стки, на кото́рые разделена́ небе́сная сфе́ра для удо́бства ориентирования на звёздном не́бе. В дре́вности созве́здиями называ́лись характерные фигу́ры, образуемые я́ркими звёздами."
+      ]
+    }
+  }
+}

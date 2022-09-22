@@ -1,0 +1,20 @@
+{
+  "छाया": {
+    "word": "छाया",
+    "partOfSpeech": "Noun",
+    "language": "Hindi",
+    "definitions": {
+      "definition": "shade, a shady place",
+      "parsedExamples": [
+        {
+          "example": "तुम्हें छाया में बैठना चाहिए, क्योंकि बहुत गर्मी है।",
+          "transliteration": "tumhẽ chāyā mẽ baiṭhnā cāhie, kyoṅki bahut garmī hai.",
+          "translation": "You should sit in the shade, because it is very hot."
+        }
+      ],
+      "examples": [
+        "तुम्हें छाया में बैठना चाहिए, क्योंकि बहुत गर्मी है।"
+      ]
+    }
+  }
+}

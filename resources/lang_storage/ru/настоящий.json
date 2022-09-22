@@ -1,0 +1,32 @@
+{
+  "настоящий": {
+    "word": "настоящий",
+    "partOfSpeech": "Adjective",
+    "language": "Russian",
+    "definitions": {
+      "definition": "present",
+      "parsedExamples": [
+        {
+          "example": "настоя́щее вре́мя",
+          "transliteration": "nastojáščeje vrémja",
+          "translation": "present tense"
+        },
+        {
+          "example": "в настоя́щее вре́мя",
+          "transliteration": "v nastojáščeje vrémja",
+          "translation": "at present"
+        },
+        {
+          "example": "настоя́щий догово́р",
+          "transliteration": "nastojáščij dogovór",
+          "translation": "this contract"
+        }
+      ],
+      "examples": [
+        "настоя́щее вре́мя",
+        "в настоя́щее вре́мя",
+        "настоя́щий догово́р"
+      ]
+    }
+  }
+}

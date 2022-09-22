@@ -1,0 +1,19 @@
+{
+  "abscheulich": {
+    "word": "abscheulich",
+    "partOfSpeech": "Adjective",
+    "language": "German",
+    "definitions": {
+      "definition": "abominable, hideous",
+      "parsedExamples": [
+        {
+          "example": "ein abscheuliches Verbrechen",
+          "translation": "a hideous crime"
+        }
+      ],
+      "examples": [
+        "ein abscheuliches Verbrechen"
+      ]
+    }
+  }
+}

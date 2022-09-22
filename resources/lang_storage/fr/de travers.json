@@ -1,0 +1,23 @@
+{
+  "de travers": {
+    "word": "de travers",
+    "partOfSpeech": "Adverb",
+    "language": "French",
+    "definitions": {
+      "definition": "wrongly, the wrong way",
+      "parsedExamples": [
+        {
+          "example": "avaler de travers",
+          "translation": "to swallow something down the wrong pipe"
+        },
+        {
+          "example": "prendre quelque chose de travers"
+        }
+      ],
+      "examples": [
+        "avaler de travers",
+        "prendre quelque chose de travers"
+      ]
+    }
+  }
+}

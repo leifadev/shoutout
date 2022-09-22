@@ -1,0 +1,26 @@
+{
+  "львиный": {
+    "word": "львиный",
+    "partOfSpeech": "Adjective",
+    "language": "Russian",
+    "definitions": {
+      "definition": "lion's",
+      "parsedExamples": [
+        {
+          "example": "льви́ная до́ля",
+          "transliteration": "lʹvínaja dólja",
+          "translation": "lion's share"
+        },
+        {
+          "example": "льви́ный зев",
+          "transliteration": "lʹvínyj zev",
+          "translation": "snapdragon (flower)"
+        }
+      ],
+      "examples": [
+        "льви́ная до́ля",
+        "льви́ный зев"
+      ]
+    }
+  }
+}

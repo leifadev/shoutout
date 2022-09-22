@@ -1,0 +1,19 @@
+{
+  "bručet": {
+    "word": "bručet",
+    "partOfSpeech": "Verb",
+    "language": "Czech",
+    "definitions": {
+      "definition": "to growl",
+      "parsedExamples": [
+        {
+          "example": "medvěd bručel",
+          "translation": "a bear growled"
+        }
+      ],
+      "examples": [
+        "medvěd bručel"
+      ]
+    }
+  }
+}

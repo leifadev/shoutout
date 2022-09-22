@@ -1,0 +1,19 @@
+{
+  "懲らしめる": {
+    "word": "懲らしめる",
+    "partOfSpeech": "Verb",
+    "language": "Japanese",
+    "definitions": {
+      "definition": "chastise, punish, scold",
+      "parsedExamples": [
+        {
+          "translation": "itazura mono o korashimeru",
+          "example": "いたずら者(もの)を懲(こ)らしめる"
+        }
+      ],
+      "examples": [
+        "いたずら者(もの)を懲(こ)らしめる"
+      ]
+    }
+  }
+}

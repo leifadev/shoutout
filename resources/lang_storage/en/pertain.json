@@ -1,0 +1,18 @@
+{
+  "pertain": {
+    "word": "pertain",
+    "partOfSpeech": "Verb",
+    "language": "English",
+    "definitions": {
+      "definition": "to belong to or be a part of; be an adjunct, attribute, or accessory of",
+      "parsedExamples": [
+        {
+          "example": "That spare wheel pertains to this car."
+        }
+      ],
+      "examples": [
+        "That spare wheel pertains to this car."
+      ]
+    }
+  }
+}

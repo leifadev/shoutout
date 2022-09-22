@@ -1,0 +1,24 @@
+{
+  "ignorância": {
+    "word": "ignorância",
+    "partOfSpeech": "Noun",
+    "language": "Portuguese",
+    "definitions": {
+      "definition": "ignorance",
+      "parsedExamples": [
+        {
+          "translation": "I have never been more proud of my ignorance.",
+          "example": "Eu nunca estive mais orgulhoso da minha ignorância."
+        },
+        {
+          "translation": "Allow me to reduce your ignorance on the subject.",
+          "example": "Permita-me reduzir a tua ignorância sobre o assunto."
+        }
+      ],
+      "examples": [
+        "Eu nunca estive mais orgulhoso da minha ignorância.",
+        "Permita-me reduzir a tua ignorância sobre o assunto."
+      ]
+    }
+  }
+}

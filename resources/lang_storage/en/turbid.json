@@ -1,0 +1,22 @@
+{
+  "turbid": {
+    "word": "turbid",
+    "partOfSpeech": "Adjective",
+    "language": "English",
+    "definitions": {
+      "definition": "Having the lees or sediment disturbed; not clear.",
+      "parsedExamples": [
+        {
+          "example": "turbid water"
+        },
+        {
+          "example": "turbid wine"
+        }
+      ],
+      "examples": [
+        "turbid water",
+        "turbid wine"
+      ]
+    }
+  }
+}

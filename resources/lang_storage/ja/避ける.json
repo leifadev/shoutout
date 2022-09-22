@@ -1,0 +1,19 @@
+{
+  "避ける": {
+    "word": "避ける",
+    "partOfSpeech": "Verb",
+    "language": "Japanese",
+    "definitions": {
+      "definition": "to avoid",
+      "parsedExamples": [
+        {
+          "translation": "Inu o sakete aruita.",
+          "example": "イヌを避(さ)けて歩(ある)いた。"
+        }
+      ],
+      "examples": [
+        "イヌを避(さ)けて歩(ある)いた。"
+      ]
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "道歉": {
+    "word": "道歉",
+    "partOfSpeech": "Verb",
+    "language": "Chinese",
+    "definitions": {
+      "definition": "to apologize",
+      "parsedExamples": [
+        {
+          "example": "你向她道歉吧。&nbsp; ―&nbsp; Nǐ xiàng tā dàoqiàn ba.&nbsp; ―&nbsp; Apologize to her."
+        },
+        {
+          "translation": "Míngtiān nǐ jiù qù dào ge qiàn. [Pinyin]",
+          "example": ""
+        },
+        {
+          "translation": "Zhè ge qiàn, wǒ jiānjué bù dào. [Pinyin]",
+          "example": ""
+        }
+      ],
+      "examples": [
+        "你向她道歉吧。&nbsp; ―&nbsp; Nǐ xiàng tā dàoqiàn ba.&nbsp; ―&nbsp; Apologize to her.",
+        "",
+        ""
+      ]
+    }
+  }
+}

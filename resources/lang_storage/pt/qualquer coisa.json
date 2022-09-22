@@ -1,0 +1,19 @@
+{
+  "qualquer coisa": {
+    "word": "qualquer coisa",
+    "partOfSpeech": "Adverb",
+    "language": "Portuguese",
+    "definitions": {
+      "definition": "in any event (specifically, used to comfort someone about the possibility of something unpleasant happening in the future)",
+      "parsedExamples": [
+        {
+          "example": "Não se preocupe se você não passar na entrevista de emprego. Qualquer coisa, há outros empregos para se candidatar.",
+          "translation": "Don't worry if you don't pass the job interview. In any event, there are other jobs to apply for."
+        }
+      ],
+      "examples": [
+        "Não se preocupe se você não passar na entrevista de emprego. Qualquer coisa, há outros empregos para se candidatar."
+      ]
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "重要": {
+    "word": "重要",
+    "partOfSpeech": "Adjective",
+    "language": "Japanese",
+    "definitions": {
+      "definition": "important, significant",
+      "parsedExamples": [
+        {
+          "translation": "Ano tesuto wa jūyō da.",
+          "example": "あのテストは重(じゅう)要(よう)だ。"
+        }
+      ],
+      "examples": [
+        "あのテストは重(じゅう)要(よう)だ。"
+      ]
+    }
+  }
+}

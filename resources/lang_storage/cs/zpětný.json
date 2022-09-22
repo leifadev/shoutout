@@ -1,0 +1,24 @@
+{
+  "zpětný": {
+    "word": "zpětný",
+    "partOfSpeech": "Adjective",
+    "language": "Czech",
+    "definitions": {
+      "definition": "backward",
+      "parsedExamples": [
+        {
+          "example": "zpětný apostrof",
+          "translation": "backtick"
+        },
+        {
+          "example": "zpětné lomítko",
+          "translation": "backslash"
+        }
+      ],
+      "examples": [
+        "zpětný apostrof",
+        "zpětné lomítko"
+      ]
+    }
+  }
+}

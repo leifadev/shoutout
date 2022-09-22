@@ -1,0 +1,20 @@
+{
+  "झाग": {
+    "word": "झाग",
+    "partOfSpeech": "Noun",
+    "language": "Hindi",
+    "definitions": {
+      "definition": "foam, froth, fizz",
+      "parsedExamples": [
+        {
+          "example": "साबुन का झाग",
+          "transliteration": "sābun kā jhāg",
+          "translation": "foam from soap"
+        }
+      ],
+      "examples": [
+        "साबुन का झाग"
+      ]
+    }
+  }
+}

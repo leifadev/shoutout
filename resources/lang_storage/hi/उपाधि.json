@@ -1,0 +1,20 @@
+{
+  "उपाधि": {
+    "word": "उपाधि",
+    "partOfSpeech": "Noun",
+    "language": "Hindi",
+    "definitions": {
+      "definition": "degree, diploma; rank, title",
+      "parsedExamples": [
+        {
+          "example": "उसको विश्वविद्यालय से अपनी उपाधि कल मिल रही है।",
+          "transliteration": "usko viśvavidyālay se apnī upādhi kal mil rahī hai.",
+          "translation": "He is receiving his college degree tomorrow."
+        }
+      ],
+      "examples": [
+        "उसको विश्वविद्यालय से अपनी उपाधि कल मिल रही है।"
+      ]
+    }
+  }
+}

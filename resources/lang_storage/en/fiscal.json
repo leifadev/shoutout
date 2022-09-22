@@ -1,0 +1,22 @@
+{
+  "fiscal": {
+    "word": "fiscal",
+    "partOfSpeech": "Adjective",
+    "language": "English",
+    "definitions": {
+      "definition": "Related to the treasury of a country, company, region or city, particularly to government spending and revenue.",
+      "parsedExamples": [
+        {
+          "example": "fiscal matters"
+        },
+        {
+          "example": "fiscal lawyer"
+        }
+      ],
+      "examples": [
+        "fiscal matters",
+        "fiscal lawyer"
+      ]
+    }
+  }
+}

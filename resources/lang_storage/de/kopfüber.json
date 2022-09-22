@@ -1,0 +1,34 @@
+{
+  "kopfüber": {
+    "word": "kopfüber",
+    "partOfSpeech": "Adverb",
+    "language": "German",
+    "definitions": {
+      "definition": "headfirst, headlong, head over heels",
+      "parsedExamples": [
+        {
+          "example": "Er fiel kopfüber ins Wasser.",
+          "translation": "He plunged headfirst into the water."
+        },
+        {
+          "example": "Sie purzelte kopfüber den Hügel herab.",
+          "translation": "She tripped and rolled head over heels down the hill."
+        },
+        {
+          "example": "Er fiel kopfüber die Treppe herunter.",
+          "translation": "He fell headfirst down the stairs."
+        },
+        {
+          "example": "Er stürzte sich kopfüber in die Schlacht.",
+          "translation": "He rushed headlong into battle."
+        }
+      ],
+      "examples": [
+        "Er fiel kopfüber ins Wasser.",
+        "Sie purzelte kopfüber den Hügel herab.",
+        "Er fiel kopfüber die Treppe herunter.",
+        "Er stürzte sich kopfüber in die Schlacht."
+      ]
+    }
+  }
+}

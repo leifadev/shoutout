@@ -1,0 +1,22 @@
+{
+  "utmost": {
+    "word": "utmost",
+    "partOfSpeech": "Adjective",
+    "language": "English",
+    "definitions": {
+      "definition": "Situated at the most distant limit; farthest, outermost.",
+      "parsedExamples": [
+        {
+          "example": "the utmost limits of the land"
+        },
+        {
+          "example": "the utmost extent of human knowledge"
+        }
+      ],
+      "examples": [
+        "the utmost limits of the land",
+        "the utmost extent of human knowledge"
+      ]
+    }
+  }
+}

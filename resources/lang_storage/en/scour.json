@@ -1,0 +1,18 @@
+{
+  "scour": {
+    "word": "scour",
+    "partOfSpeech": "Verb",
+    "language": "English",
+    "definitions": {
+      "definition": "To clean, polish, or wash something by rubbing and scrubbing it vigorously, frequently with an abrasive or cleaning agent.",
+      "parsedExamples": [
+        {
+          "example": "He scoured the burnt food from the pan."
+        }
+      ],
+      "examples": [
+        "He scoured the burnt food from the pan."
+      ]
+    }
+  }
+}

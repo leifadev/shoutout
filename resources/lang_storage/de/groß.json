@@ -1,0 +1,24 @@
+{
+  "groß": {
+    "word": "groß",
+    "partOfSpeech": "Adjective",
+    "language": "German",
+    "definitions": {
+      "definition": "big, large, large-scale",
+      "parsedExamples": [
+        {
+          "example": "Das ist ein großes Problem.",
+          "translation": "That is a big problem."
+        },
+        {
+          "example": "Ich lebe in einem großen Haus.",
+          "translation": "I live in a large house."
+        }
+      ],
+      "examples": [
+        "Das ist ein großes Problem.",
+        "Ich lebe in einem großen Haus."
+      ]
+    }
+  }
+}

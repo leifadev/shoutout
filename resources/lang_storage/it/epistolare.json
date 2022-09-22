@@ -1,0 +1,24 @@
+{
+  "epistolare": {
+    "word": "epistolare",
+    "partOfSpeech": "Adjective",
+    "language": "Italian",
+    "definitions": {
+      "definition": "epistolary",
+      "parsedExamples": [
+        {
+          "example": "l'amore epistolare",
+          "translation": "epistolary love"
+        },
+        {
+          "example": "un romanzo epistolare",
+          "translation": "an epistolary novel"
+        }
+      ],
+      "examples": [
+        "l'amore epistolare",
+        "un romanzo epistolare"
+      ]
+    }
+  }
+}

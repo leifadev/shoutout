@@ -1,0 +1,18 @@
+{
+  "wheedle": {
+    "word": "wheedle",
+    "partOfSpeech": "Verb",
+    "language": "English",
+    "definitions": {
+      "definition": "To cajole or attempt to persuade by flattery.",
+      "parsedExamples": [
+        {
+          "example": "I’d like one of those, too, if you can wheedle him into telling you where he got it."
+        }
+      ],
+      "examples": [
+        "I’d like one of those, too, if you can wheedle him into telling you where he got it."
+      ]
+    }
+  }
+}

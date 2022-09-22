@@ -1,0 +1,18 @@
+{
+  "interpolate": {
+    "word": "interpolate",
+    "partOfSpeech": "Verb",
+    "language": "English",
+    "definitions": {
+      "definition": "To introduce (something) between other things; especially to insert (possibly spurious) words into a text.",
+      "parsedExamples": [
+        {
+          "example": "in verse 74, the second line is clearly interpolated"
+        }
+      ],
+      "examples": [
+        "in verse 74, the second line is clearly interpolated"
+      ]
+    }
+  }
+}

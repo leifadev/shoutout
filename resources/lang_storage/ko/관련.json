@@ -1,0 +1,20 @@
+{
+  "관련": {
+    "word": "관련",
+    "partOfSpeech": "Noun",
+    "language": "Korean",
+    "definitions": {
+      "definition": "connection, relation",
+      "parsedExamples": [
+        {
+          "example": "제조자는 제품의 품질에 관한 모든 관련 데이터와 기록을 보관하여야 한다.",
+          "transliteration": "Jejoja-neun jepum-ui pumjir-e gwanhan modeun gwallyeon deiteo-wa girog-eul bogwanhayeoya handa.",
+          "translation": "Manufacturer shall retain all relevant data and records regarding the quality of the Products."
+        }
+      ],
+      "examples": [
+        "제조자는 제품의 품질에 관한 모든 관련 데이터와 기록을 보관하여야 한다."
+      ]
+    }
+  }
+}

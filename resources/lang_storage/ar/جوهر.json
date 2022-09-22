@@ -1,0 +1,20 @@
+{
+  "جوهر": {
+    "word": "جوهر",
+    "partOfSpeech": "Noun",
+    "language": "Arabic",
+    "definitions": {
+      "definition": "jewel(s)",
+      "parsedExamples": [
+        {
+          "example": "جَوْهَر فَرْد",
+          "transliteration": "jawhar fard",
+          "translation": "atom"
+        }
+      ],
+      "examples": [
+        "جَوْهَر فَرْد"
+      ]
+    }
+  }
+}

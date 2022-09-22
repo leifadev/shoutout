@@ -1,0 +1,20 @@
+{
+  "सहायक": {
+    "word": "सहायक",
+    "partOfSpeech": "Adjective",
+    "language": "Hindi",
+    "definitions": {
+      "definition": "assisting, assistant",
+      "parsedExamples": [
+        {
+          "example": "मैं एक समाचार-पत्र का सहायक संपादक हूँ।",
+          "transliteration": "ma͠i ek samācār-patra kā sahāyak sampādak hū̃.",
+          "translation": "I am an assistant editor of a newspaper."
+        }
+      ],
+      "examples": [
+        "मैं एक समाचार-पत्र का सहायक संपादक हूँ।"
+      ]
+    }
+  }
+}

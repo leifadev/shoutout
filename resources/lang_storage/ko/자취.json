@@ -1,0 +1,20 @@
+{
+  "자취": {
+    "word": "자취",
+    "partOfSpeech": "Noun",
+    "language": "Korean",
+    "definitions": {
+      "definition": "mark; trace; legacy",
+      "parsedExamples": [
+        {
+          "example": "이 문명은 자취도 없이 사라졌다.",
+          "transliteration": "I munmyeong-eun jachwi-do eopsi sarajeotda.",
+          "translation": "This civilization disappeared without leaving even a trace."
+        }
+      ],
+      "examples": [
+        "이 문명은 자취도 없이 사라졌다."
+      ]
+    }
+  }
+}

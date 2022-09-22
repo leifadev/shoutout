@@ -1,0 +1,22 @@
+{
+  "empirical": {
+    "word": "empirical",
+    "partOfSpeech": "Adjective",
+    "language": "English",
+    "definitions": {
+      "definition": "Pertaining to or based on experience .",
+      "parsedExamples": [
+        {
+          "example": "The lengths were calculated according to the empirical rules of the trade."
+        },
+        {
+          "example": "For some presumptive diagnoses, empirical antibiotic therapy begins immediately, whereas specific antibiotic therapy must await the results of the culture and sensitivity test."
+        }
+      ],
+      "examples": [
+        "The lengths were calculated according to the empirical rules of the trade.",
+        "For some presumptive diagnoses, empirical antibiotic therapy begins immediately, whereas specific antibiotic therapy must await the results of the culture and sensitivity test."
+      ]
+    }
+  }
+}

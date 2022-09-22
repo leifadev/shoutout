@@ -1,0 +1,19 @@
+{
+  "zwischen": {
+    "word": "zwischen",
+    "partOfSpeech": "Preposition",
+    "language": "German",
+    "definitions": {
+      "definition": "between",
+      "parsedExamples": [
+        {
+          "example": "die Schere zwischen Arm und Reich",
+          "translation": "the gap between the poor and rich"
+        }
+      ],
+      "examples": [
+        "die Schere zwischen Arm und Reich"
+      ]
+    }
+  }
+}

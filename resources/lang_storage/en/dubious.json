@@ -1,0 +1,22 @@
+{
+  "dubious": {
+    "word": "dubious",
+    "partOfSpeech": "Adjective",
+    "language": "English",
+    "definitions": {
+      "definition": "Arousing doubt; questionable; open to suspicion.",
+      "parsedExamples": [
+        {
+          "example": "After he made some dubious claims about the company, fewer people trusted him."
+        },
+        {
+          "example": "They were renowned as people of dubious morals."
+        }
+      ],
+      "examples": [
+        "After he made some dubious claims about the company, fewer people trusted him.",
+        "They were renowned as people of dubious morals."
+      ]
+    }
+  }
+}

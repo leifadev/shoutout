@@ -1,0 +1,18 @@
+{
+  "quaff": {
+    "word": "quaff",
+    "partOfSpeech": "Verb",
+    "language": "English",
+    "definitions": {
+      "definition": "To drink or imbibe with vigour or relish; to drink copiously; to swallow in large draughts.",
+      "parsedExamples": [
+        {
+          "example": "I can't believe you quaffed four pints of beer and could still drive!"
+        }
+      ],
+      "examples": [
+        "I can't believe you quaffed four pints of beer and could still drive!"
+      ]
+    }
+  }
+}

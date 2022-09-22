@@ -1,0 +1,19 @@
+{
+  "glauben": {
+    "word": "glauben",
+    "partOfSpeech": "Verb",
+    "language": "German",
+    "definitions": {
+      "definition": "to believe something (consider true)",
+      "parsedExamples": [
+        {
+          "example": "Glaubst du diese Geschichte?",
+          "translation": "Do you believe this story?"
+        }
+      ],
+      "examples": [
+        "Glaubst du diese Geschichte?"
+      ]
+    }
+  }
+}

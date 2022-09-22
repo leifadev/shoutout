@@ -1,0 +1,32 @@
+{
+  "생각하다": {
+    "word": "생각하다",
+    "partOfSpeech": "Verb",
+    "language": "Korean",
+    "definitions": {
+      "definition": "to think",
+      "parsedExamples": [
+        {
+          "example": "왜 그렇게 생각하는데요?",
+          "transliteration": "Wae geureoke saenggakhaneundeyo?",
+          "translation": "What makes you think so?"
+        },
+        {
+          "example": "어떤 이들은 독서가 쓸데없다고 생각한다.",
+          "transliteration": "Eotteon i-deur-eun dokseo-ga sseuldeeopda-go saenggakhanda.",
+          "translation": "Some believe reading is a waste of time."
+        },
+        {
+          "example": "이번엔 제 차를 가지고 가려고는 생각하지 않습니다.",
+          "transliteration": "Ibeonen je cha-reul gajigo garyeogoneun saenggakhaji anseumnida.",
+          "translation": "Well, I don’t think I will bring my car this time."
+        }
+      ],
+      "examples": [
+        "왜 그렇게 생각하는데요?",
+        "어떤 이들은 독서가 쓸데없다고 생각한다.",
+        "이번엔 제 차를 가지고 가려고는 생각하지 않습니다."
+      ]
+    }
+  }
+}

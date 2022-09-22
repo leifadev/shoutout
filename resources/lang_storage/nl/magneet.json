@@ -1,0 +1,19 @@
+{
+  "magneet": {
+    "word": "magneet",
+    "partOfSpeech": "Noun",
+    "language": "Dutch",
+    "definitions": {
+      "definition": "magnet",
+      "parsedExamples": [
+        {
+          "example": "Zij heeft een grote verzameling magneten, waarmee ze spaarvarkens leegrooft.",
+          "translation": "She has a large collection of magnets, with which she robs every last penny from piggy banks."
+        }
+      ],
+      "examples": [
+        "Zij heeft een grote verzameling magneten, waarmee ze spaarvarkens leegrooft."
+      ]
+    }
+  }
+}

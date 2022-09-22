@@ -1,0 +1,29 @@
+{
+  "dotykowy": {
+    "word": "dotykowy",
+    "partOfSpeech": "Adjective",
+    "language": "Polish",
+    "definitions": {
+      "definition": "touch, haptic, tactile (of or relating to the sense of touch)",
+      "parsedExamples": [
+        {
+          "example": "ekran dotykowy",
+          "translation": "touchscreen"
+        },
+        {
+          "example": "ciałko dotykowe",
+          "translation": "tactile corpuscle"
+        },
+        {
+          "example": "ścieżka dotykowa",
+          "translation": "tactile path"
+        }
+      ],
+      "examples": [
+        "ekran dotykowy",
+        "ciałko dotykowe",
+        "ścieżka dotykowa"
+      ]
+    }
+  }
+}

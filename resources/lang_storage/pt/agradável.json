@@ -1,0 +1,19 @@
+{
+  "agradável": {
+    "word": "agradável",
+    "partOfSpeech": "Adjective",
+    "language": "Portuguese",
+    "definitions": {
+      "definition": "pleasant, agreeable, nice",
+      "parsedExamples": [
+        {
+          "example": "Que surpresa agradável!",
+          "translation": "What a pleasant surprise!"
+        }
+      ],
+      "examples": [
+        "Que surpresa agradável!"
+      ]
+    }
+  }
+}

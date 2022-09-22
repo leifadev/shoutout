@@ -1,0 +1,19 @@
+{
+  "傲慢": {
+    "word": "傲慢",
+    "partOfSpeech": "Adjective",
+    "language": "Japanese",
+    "definitions": {
+      "definition": "authoritarian, arrogant, haughty",
+      "parsedExamples": [
+        {
+          "translation": "Kare wa gōman da.",
+          "example": "彼(かれ)は傲慢(ごうまん)だ。"
+        }
+      ],
+      "examples": [
+        "彼(かれ)は傲慢(ごうまん)だ。"
+      ]
+    }
+  }
+}

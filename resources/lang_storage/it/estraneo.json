@@ -1,0 +1,19 @@
+{
+  "estraneo": {
+    "word": "estraneo",
+    "partOfSpeech": "Adjective",
+    "language": "Italian",
+    "definitions": {
+      "definition": "extraneous or foreign (to)",
+      "parsedExamples": [
+        {
+          "example": "una persona estranea al nostro paese",
+          "translation": "a person foreign to our country"
+        }
+      ],
+      "examples": [
+        "una persona estranea al nostro paese"
+      ]
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "impromptu": {
+    "word": "impromptu",
+    "partOfSpeech": "Adjective",
+    "language": "French",
+    "definitions": {
+      "definition": "improvised, not planned",
+      "parsedExamples": [
+        {
+          "example": "une visite impromptue.",
+          "translation": "an unplanned visit"
+        }
+      ],
+      "examples": [
+        "une visite impromptue."
+      ]
+    }
+  }
+}

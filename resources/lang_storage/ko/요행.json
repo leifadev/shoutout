@@ -1,0 +1,26 @@
+{
+  "요행": {
+    "word": "요행",
+    "partOfSpeech": "Noun",
+    "language": "Korean",
+    "definitions": {
+      "definition": "stroke of fortune; unexpected luck; lucky fluke",
+      "parsedExamples": [
+        {
+          "example": "요행을 바라다",
+          "transliteration": "yohaeng-eul barada",
+          "translation": "to rely on chance; to hope for a fluke"
+        },
+        {
+          "example": "시험을 잘 본 것은 요행일 뿐이다.",
+          "transliteration": "Siheom-eul jal bon geos-eun yohaeng-il ppun-ida.",
+          "translation": "It is merely a fluke that he did well on the test."
+        }
+      ],
+      "examples": [
+        "요행을 바라다",
+        "시험을 잘 본 것은 요행일 뿐이다."
+      ]
+    }
+  }
+}

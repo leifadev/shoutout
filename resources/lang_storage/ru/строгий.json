@@ -1,0 +1,20 @@
+{
+  "строгий": {
+    "word": "строгий",
+    "partOfSpeech": "Adjective",
+    "language": "Russian",
+    "definitions": {
+      "definition": "severe, strict, austere, stern [+ с (instrumental) = with someone] or [+ к (dative) = with someone]",
+      "parsedExamples": [
+        {
+          "example": "стро́гий с детьми́ (к де́тям)",
+          "transliteration": "strógij s detʹmí (k détjam)",
+          "translation": "strict with (one's) children"
+        }
+      ],
+      "examples": [
+        "стро́гий с детьми́ (к де́тям)"
+      ]
+    }
+  }
+}

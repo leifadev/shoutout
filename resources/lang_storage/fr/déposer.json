@@ -1,0 +1,19 @@
+{
+  "déposer": {
+    "word": "déposer",
+    "partOfSpeech": "Verb",
+    "language": "French",
+    "definitions": {
+      "definition": "to put down (set down), lay down",
+      "parsedExamples": [
+        {
+          "example": "Déposez votre lourd fardeau.",
+          "translation": "Lay down your heavy burden."
+        }
+      ],
+      "examples": [
+        "Déposez votre lourd fardeau."
+      ]
+    }
+  }
+}

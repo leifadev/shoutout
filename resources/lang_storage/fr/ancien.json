@@ -1,0 +1,19 @@
+{
+  "ancien": {
+    "word": "ancien",
+    "partOfSpeech": "Adjective",
+    "language": "French",
+    "definitions": {
+      "definition": "old, former, ex-:",
+      "parsedExamples": [
+        {
+          "example": "Mon ancien petit ami m'a plaquée.",
+          "translation": "My ex-boyfriend ditched me."
+        }
+      ],
+      "examples": [
+        "Mon ancien petit ami m'a plaquée."
+      ]
+    }
+  }
+}

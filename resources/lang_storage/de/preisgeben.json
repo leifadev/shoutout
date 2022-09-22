@@ -1,0 +1,27 @@
+{
+  "preisgeben": {
+    "word": "preisgeben",
+    "partOfSpeech": "Verb",
+    "language": "German",
+    "definitions": {
+      "definition": "to abandon, to forsake or betray",
+      "parsedExamples": [
+        {
+          "example": "Das Haus war dem Verfall preisgegeben.",
+          "translation": "The house was abandoned to decay."
+        },
+        {
+          "example": "Mit diesem Schritt gab er seine Ehre preis."
+        },
+        {
+          "example": "die Heimat preisgeben"
+        }
+      ],
+      "examples": [
+        "Das Haus war dem Verfall preisgegeben.",
+        "Mit diesem Schritt gab er seine Ehre preis.",
+        "die Heimat preisgeben"
+      ]
+    }
+  }
+}

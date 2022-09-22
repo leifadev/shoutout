@@ -1,0 +1,20 @@
+{
+  "अशुद्ध": {
+    "word": "अशुद्ध",
+    "partOfSpeech": "Noun",
+    "language": "Hindi",
+    "definitions": {
+      "definition": "incorrect, erroneous",
+      "parsedExamples": [
+        {
+          "example": "गवाह ने अशुद्ध वर्णन दिया।",
+          "transliteration": "gavāh ne aśuddh varṇan diyā.",
+          "translation": "The witness gave an incorrect description."
+        }
+      ],
+      "examples": [
+        "गवाह ने अशुद्ध वर्णन दिया।"
+      ]
+    }
+  }
+}

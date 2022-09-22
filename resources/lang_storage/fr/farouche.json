@@ -1,0 +1,19 @@
+{
+  "farouche": {
+    "word": "farouche",
+    "partOfSpeech": "Adjective",
+    "language": "French",
+    "definitions": {
+      "definition": "wild, shy of humans",
+      "parsedExamples": [
+        {
+          "example": "apprivoiser une bête farouche",
+          "translation": "to tame a wild beast"
+        }
+      ],
+      "examples": [
+        "apprivoiser une bête farouche"
+      ]
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "смута": {
+    "word": "смута",
+    "partOfSpeech": "Noun",
+    "language": "Russian",
+    "definitions": {
+      "definition": "troubles, disturbance, revolt",
+      "parsedExamples": [
+        {
+          "example": "стрелецкая сму́та",
+          "transliteration": "streleckaja smúta",
+          "translation": "the revolt of the Streltsy"
+        }
+      ],
+      "examples": [
+        "стрелецкая сму́та"
+      ]
+    }
+  }
+}

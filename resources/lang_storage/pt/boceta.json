@@ -1,0 +1,19 @@
+{
+  "boceta": {
+    "word": "boceta",
+    "partOfSpeech": "Noun",
+    "language": "Portuguese",
+    "definitions": {
+      "definition": "box",
+      "parsedExamples": [
+        {
+          "example": "boceta de Pandora",
+          "translation": "Pandora's box"
+        }
+      ],
+      "examples": [
+        "boceta de Pandora"
+      ]
+    }
+  }
+}

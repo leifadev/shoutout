@@ -1,0 +1,26 @@
+{
+  "बंदूक": {
+    "word": "बंदूक",
+    "partOfSpeech": "Noun",
+    "language": "Hindi",
+    "definitions": {
+      "definition": "gun, rifle",
+      "parsedExamples": [
+        {
+          "example": "अपना बंदूक़ जल्दी से भर दो।",
+          "transliteration": "apnā bandūq jaldī se bhar do.",
+          "translation": "Load your gun quickly!"
+        },
+        {
+          "example": "शिकारी ने बंदूक़ से हिरन मार डाला।",
+          "transliteration": "śikārī ne bandūq se hiran mār ḍālā.",
+          "translation": "The hunter shot a deer with his gun."
+        }
+      ],
+      "examples": [
+        "अपना बंदूक़ जल्दी से भर दो।",
+        "शिकारी ने बंदूक़ से हिरन मार डाला।"
+      ]
+    }
+  }
+}

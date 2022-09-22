@@ -1,0 +1,29 @@
+{
+  "avec": {
+    "word": "avec",
+    "partOfSpeech": "Preposition",
+    "language": "French",
+    "definitions": {
+      "definition": "with",
+      "parsedExamples": [
+        {
+          "example": "Je suis revenu avec lui.",
+          "translation": "I have returned with him."
+        },
+        {
+          "example": "Voudriez-vous y aller avec moi&nbsp;?",
+          "translation": "Would you like to come with me?"
+        },
+        {
+          "example": "Ils m'ont dit qu'ils étaient avec toi.",
+          "translation": "They told me that they were with you."
+        }
+      ],
+      "examples": [
+        "Je suis revenu avec lui.",
+        "Voudriez-vous y aller avec moi&nbsp;?",
+        "Ils m'ont dit qu'ils étaient avec toi."
+      ]
+    }
+  }
+}

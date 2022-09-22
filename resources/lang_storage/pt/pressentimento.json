@@ -1,0 +1,19 @@
+{
+  "pressentimento": {
+    "word": "pressentimento",
+    "partOfSpeech": "Noun",
+    "language": "Portuguese",
+    "definitions": {
+      "definition": "feeling; intuition",
+      "parsedExamples": [
+        {
+          "translation": "I have a feeling we are not in Kansas anymore.",
+          "example": "Tenho um pressentimento de que não estamos mais no Kansas."
+        }
+      ],
+      "examples": [
+        "Tenho um pressentimento de que não estamos mais no Kansas."
+      ]
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "हड़बड़ाना": {
+    "word": "हड़बड़ाना",
+    "partOfSpeech": "Verb",
+    "language": "Hindi",
+    "definitions": {
+      "definition": "to be confused, bewildered, flummoxed",
+      "parsedExamples": [
+        {
+          "example": "वह अचानक से हड़बड़ाकर उठा।",
+          "transliteration": "vah acānak se haṛbaṛākar uṭhā.",
+          "translation": "He suddenly woke up, bewildered."
+        }
+      ],
+      "examples": [
+        "वह अचानक से हड़बड़ाकर उठा।"
+      ]
+    }
+  }
+}

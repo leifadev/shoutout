@@ -1,0 +1,22 @@
+{
+  "deleterious": {
+    "word": "deleterious",
+    "partOfSpeech": "Adjective",
+    "language": "English",
+    "definitions": {
+      "definition": "Harmful often in a subtle or unexpected way.",
+      "parsedExamples": [
+        {
+          "example": "deleterious effects"
+        },
+        {
+          "example": "deleterious to someone's health"
+        }
+      ],
+      "examples": [
+        "deleterious effects",
+        "deleterious to someone's health"
+      ]
+    }
+  }
+}

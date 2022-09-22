@@ -1,0 +1,10 @@
+{
+  "quadratique": {
+    "word": "quadratique",
+    "partOfSpeech": "Adjective",
+    "language": "French",
+    "definitions": {
+      "definition": "quadratic (of a class of polynomial of the form \n  \n    \n      \n        y\n        =\n        a\n        .\n        \n          x\n          \n            2\n          \n        \n        +\n        b\n        .\n        x\n        +\n        c\n      \n    \n    {\\displaystyle y=a.x^{2}+b.x+c}\n  \n)"
+    }
+  }
+}

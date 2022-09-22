@@ -1,0 +1,19 @@
+{
+  "amable": {
+    "word": "amable",
+    "partOfSpeech": "Adjective",
+    "language": "Spanish",
+    "definitions": {
+      "definition": "kind, amiable, gracious",
+      "parsedExamples": [
+        {
+          "example": "Él es muy amable conmigo.",
+          "translation": "He is very kind to me."
+        }
+      ],
+      "examples": [
+        "Él es muy amable conmigo."
+      ]
+    }
+  }
+}

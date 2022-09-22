@@ -1,0 +1,18 @@
+{
+  "jeopardize": {
+    "word": "jeopardize",
+    "partOfSpeech": "Verb",
+    "language": "English",
+    "definitions": {
+      "definition": "To put in jeopardy, to threaten.",
+      "parsedExamples": [
+        {
+          "example": "After having an affair with a junior, her chances of promotion were seriously jeopardized."
+        }
+      ],
+      "examples": [
+        "After having an affair with a junior, her chances of promotion were seriously jeopardized."
+      ]
+    }
+  }
+}

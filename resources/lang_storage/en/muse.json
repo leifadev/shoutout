@@ -1,0 +1,18 @@
+{
+  "muse": {
+    "word": "muse",
+    "partOfSpeech": "Noun",
+    "language": "English",
+    "definitions": {
+      "definition": "A source of inspiration.",
+      "parsedExamples": [
+        {
+          "example": "Yoko Ono was John Lennon's wife, lover, and muse."
+        }
+      ],
+      "examples": [
+        "Yoko Ono was John Lennon's wife, lover, and muse."
+      ]
+    }
+  }
+}

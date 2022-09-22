@@ -1,0 +1,18 @@
+{
+  "prosaic": {
+    "word": "prosaic",
+    "partOfSpeech": "Adjective",
+    "language": "English",
+    "definitions": {
+      "definition": "Pertaining to or having the characteristics of prose.",
+      "parsedExamples": [
+        {
+          "example": "The tenor of Eliot's prosaic work differs greatly from that of his poetry."
+        }
+      ],
+      "examples": [
+        "The tenor of Eliot's prosaic work differs greatly from that of his poetry."
+      ]
+    }
+  }
+}

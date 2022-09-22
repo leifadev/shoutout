@@ -1,0 +1,18 @@
+{
+  "callous": {
+    "word": "callous",
+    "partOfSpeech": "Adjective",
+    "language": "English",
+    "definitions": {
+      "definition": "Emotionally hardened; unfeeling and indifferent to the suffering/feelings of others.",
+      "parsedExamples": [
+        {
+          "example": "She was so callous that she could criticise a cancer patient for wearing a wig."
+        }
+      ],
+      "examples": [
+        "She was so callous that she could criticise a cancer patient for wearing a wig."
+      ]
+    }
+  }
+}

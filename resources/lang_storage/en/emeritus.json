@@ -1,0 +1,22 @@
+{
+  "emeritus": {
+    "word": "emeritus",
+    "partOfSpeech": "Adjective",
+    "language": "English",
+    "definitions": {
+      "definition": "Retired, but retaining an honorific version of a previous title.",
+      "parsedExamples": [
+        {
+          "example": "professor emeritus"
+        },
+        {
+          "example": "pontiff emeritus"
+        }
+      ],
+      "examples": [
+        "professor emeritus",
+        "pontiff emeritus"
+      ]
+    }
+  }
+}

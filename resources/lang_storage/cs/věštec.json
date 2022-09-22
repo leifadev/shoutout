@@ -1,0 +1,19 @@
+{
+  "věštec": {
+    "word": "věštec",
+    "partOfSpeech": "Noun",
+    "language": "Czech",
+    "definitions": {
+      "definition": "prophet, seer, clairvoyant",
+      "parsedExamples": [
+        {
+          "example": "Věštec, o kterém mluvíme, má údajnou schopnost předpovídat budoucnost.",
+          "translation": "The seer who we are talking about has allegedly the ability to predict the future."
+        }
+      ],
+      "examples": [
+        "Věštec, o kterém mluvíme, má údajnou schopnost předpovídat budoucnost."
+      ]
+    }
+  }
+}

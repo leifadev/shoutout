@@ -1,0 +1,18 @@
+{
+  "grisly": {
+    "word": "grisly",
+    "partOfSpeech": "Adjective",
+    "language": "English",
+    "definitions": {
+      "definition": "Horrifyingly repellent; gruesome, terrifying.",
+      "parsedExamples": [
+        {
+          "example": "The photographs of the killings depict a grisly scene."
+        }
+      ],
+      "examples": [
+        "The photographs of the killings depict a grisly scene."
+      ]
+    }
+  }
+}

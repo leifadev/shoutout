@@ -1,0 +1,10 @@
+{
+  "хлеб": {
+    "word": "хлеб",
+    "partOfSpeech": "Noun",
+    "language": "Russian",
+    "definitions": {
+      "definition": "bread"
+    }
+  }
+}

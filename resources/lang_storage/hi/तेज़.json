@@ -1,0 +1,26 @@
+{
+  "तेज़": {
+    "word": "तेज़",
+    "partOfSpeech": "Adjective",
+    "language": "Hindi",
+    "definitions": {
+      "definition": "sharp",
+      "parsedExamples": [
+        {
+          "example": "यह चाक़ू काम के लिए काफ़ी तेज़ है।",
+          "transliteration": "yah cāqū kām ke lie kāfī tez hai.",
+          "translation": "This knife is sharp enough for the job."
+        },
+        {
+          "example": "उसकी आवाज़ बहुत तेज़ है।",
+          "transliteration": "uskī āvāz bahut tez hai.",
+          "translation": "His voice is very sharp/shrill."
+        }
+      ],
+      "examples": [
+        "यह चाक़ू काम के लिए काफ़ी तेज़ है।",
+        "उसकी आवाज़ बहुत तेज़ है।"
+      ]
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "myš": {
+    "word": "myš",
+    "partOfSpeech": "Noun",
+    "language": "Czech",
+    "definitions": {
+      "definition": "mouse (animal)",
+      "parsedExamples": [
+        {
+          "example": "šedá myš",
+          "translation": "inconspicuous person who doesn't attract a lot of attention (literally: gray mouse)"
+        },
+        {
+          "example": "chudý jak kostelní myš",
+          "translation": "as poor as a church mouse"
+        },
+        {
+          "example": "Ani myš by neproklouzla.",
+          "translation": "Not even a mouse could get through."
+        }
+      ],
+      "examples": [
+        "šedá myš",
+        "chudý jak kostelní myš",
+        "Ani myš by neproklouzla."
+      ]
+    }
+  }
+}

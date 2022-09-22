@@ -1,0 +1,22 @@
+{
+  "kelímek": {
+    "word": "kelímek",
+    "partOfSpeech": "Noun",
+    "language": "Czech",
+    "definitions": {
+      "definition": "disposable cup",
+      "parsedExamples": [
+        {
+          "example": "papírový kelímek"
+        },
+        {
+          "example": "plastový kelímek"
+        }
+      ],
+      "examples": [
+        "papírový kelímek",
+        "plastový kelímek"
+      ]
+    }
+  }
+}

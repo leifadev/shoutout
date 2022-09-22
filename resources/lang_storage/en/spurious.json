@@ -1,0 +1,18 @@
+{
+  "spurious": {
+    "word": "spurious",
+    "partOfSpeech": "Adjective",
+    "language": "English",
+    "definitions": {
+      "definition": "False, not authentic, not genuine.",
+      "parsedExamples": [
+        {
+          "example": "His argument was spurious and had no validity."
+        }
+      ],
+      "examples": [
+        "His argument was spurious and had no validity."
+      ]
+    }
+  }
+}

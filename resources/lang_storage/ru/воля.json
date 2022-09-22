@@ -1,0 +1,20 @@
+{
+  "воля": {
+    "word": "воля",
+    "partOfSpeech": "Noun",
+    "language": "Russian",
+    "definitions": {
+      "definition": "will, willpower",
+      "parsedExamples": [
+        {
+          "example": "несокруши́мая во́ля",
+          "transliteration": "nesokrušímaja vólja",
+          "translation": "iron will"
+        }
+      ],
+      "examples": [
+        "несокруши́мая во́ля"
+      ]
+    }
+  }
+}

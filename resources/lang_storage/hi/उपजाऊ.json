@@ -1,0 +1,20 @@
+{
+  "उपजाऊ": {
+    "word": "उपजाऊ",
+    "partOfSpeech": "Adjective",
+    "language": "Hindi",
+    "definitions": {
+      "definition": "fertile, productive",
+      "parsedExamples": [
+        {
+          "example": "यह ज़मीन बहुत उपजाऊ है, इसीलिए इतनी महँगी है।",
+          "transliteration": "yah zamīn bahut upjāū hai, isīlie itnī mahaṅgī hai.",
+          "translation": "This land is very fertile, that is why it is expensive."
+        }
+      ],
+      "examples": [
+        "यह ज़मीन बहुत उपजाऊ है, इसीलिए इतनी महँगी है।"
+      ]
+    }
+  }
+}

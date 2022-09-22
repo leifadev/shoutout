@@ -1,0 +1,19 @@
+{
+  "wonderkind": {
+    "word": "wonderkind",
+    "partOfSpeech": "Noun",
+    "language": "Dutch",
+    "definitions": {
+      "definition": "child prodigy, wunderkind",
+      "parsedExamples": [
+        {
+          "example": "Die peuter van hiernaast is een wonderkind op de draailier.",
+          "translation": "That toddler next-door is a prodigy on the hurdy-gurdy."
+        }
+      ],
+      "examples": [
+        "Die peuter van hiernaast is een wonderkind op de draailier."
+      ]
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "誤解": {
+    "word": "誤解",
+    "partOfSpeech": "Noun",
+    "language": "Japanese",
+    "definitions": {
+      "definition": "misunderstanding",
+      "parsedExamples": [
+        {
+          "translation": "gokai o maneku",
+          "example": "誤解(ごかい)を招(まね)く"
+        }
+      ],
+      "examples": [
+        "誤解(ごかい)を招(まね)く"
+      ]
+    }
+  }
+}

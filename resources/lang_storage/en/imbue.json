@@ -1,0 +1,18 @@
+{
+  "imbue": {
+    "word": "imbue",
+    "partOfSpeech": "Verb",
+    "language": "English",
+    "definitions": {
+      "definition": "To wet or stain an object completely with some physical quality.",
+      "parsedExamples": [
+        {
+          "example": "The shirt was imbued with his scent."
+        }
+      ],
+      "examples": [
+        "The shirt was imbued with his scent."
+      ]
+    }
+  }
+}

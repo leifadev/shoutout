@@ -1,0 +1,18 @@
+{
+  "southpaw": {
+    "word": "southpaw",
+    "partOfSpeech": "Noun",
+    "language": "English",
+    "definitions": {
+      "definition": "One who is left-handed, especially in sports.\n A left-handed pitcher.",
+      "parsedExamples": [
+        {
+          "example": "Since home plate is generally in the southwest corner to avoid glare in the batter's eyes, a southpaw's pitching hand is to the south."
+        }
+      ],
+      "examples": [
+        "Since home plate is generally in the southwest corner to avoid glare in the batter's eyes, a southpaw's pitching hand is to the south."
+      ]
+    }
+  }
+}

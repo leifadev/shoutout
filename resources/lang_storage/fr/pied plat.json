@@ -1,0 +1,19 @@
+{
+  "pied plat": {
+    "word": "pied plat",
+    "partOfSpeech": "Noun",
+    "language": "French",
+    "definitions": {
+      "definition": "flatfoot",
+      "parsedExamples": [
+        {
+          "example": "avoir les pieds plats",
+          "translation": "to be flatfooted"
+        }
+      ],
+      "examples": [
+        "avoir les pieds plats"
+      ]
+    }
+  }
+}

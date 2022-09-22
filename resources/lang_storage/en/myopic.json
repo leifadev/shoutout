@@ -1,0 +1,22 @@
+{
+  "myopic": {
+    "word": "myopic",
+    "partOfSpeech": "Adjective",
+    "language": "English",
+    "definitions": {
+      "definition": "near-sighted; unable to see distant objects unaided",
+      "parsedExamples": [
+        {
+          "example": "Corrective lenses compensate for the excessive positive diopters of the myopic eye."
+        },
+        {
+          "example": "A stronger prescription for myopic night drivers is often needed."
+        }
+      ],
+      "examples": [
+        "Corrective lenses compensate for the excessive positive diopters of the myopic eye.",
+        "A stronger prescription for myopic night drivers is often needed."
+      ]
+    }
+  }
+}

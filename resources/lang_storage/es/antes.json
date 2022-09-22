@@ -1,0 +1,29 @@
+{
+  "antes": {
+    "word": "antes",
+    "partOfSpeech": "Adverb",
+    "language": "Spanish",
+    "definitions": {
+      "definition": "earlier, before, sooner, previously, formerly, beforehand (at an earlier time)",
+      "parsedExamples": [
+        {
+          "example": "Nos conocimos antes, ¿te acuerdas?",
+          "translation": "We met before, remember?"
+        },
+        {
+          "example": "poco antes",
+          "translation": "shortly before"
+        },
+        {
+          "example": "La embajadora llegó antes de lo esperado.",
+          "translation": "The ambassador arrived sooner than expected"
+        }
+      ],
+      "examples": [
+        "Nos conocimos antes, ¿te acuerdas?",
+        "poco antes",
+        "La embajadora llegó antes de lo esperado."
+      ]
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "quiescent": {
+    "word": "quiescent",
+    "partOfSpeech": "Adjective",
+    "language": "English",
+    "definitions": {
+      "definition": "Inactive, quiet, at rest.",
+      "parsedExamples": [
+        {
+          "example": "The bats were quiescent at that time of day, so we slowly entered the cave."
+        }
+      ],
+      "examples": [
+        "The bats were quiescent at that time of day, so we slowly entered the cave."
+      ]
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "子鹿": {
+    "word": "子鹿",
+    "partOfSpeech": "Noun",
+    "language": "Japanese",
+    "definitions": {
+      "definition": "a fawn (young deer)",
+      "parsedExamples": [
+        {
+          "translation": "Kojika Monogatari",
+          "example": "子(こ)鹿(じか)物(もの)語(がたり)"
+        }
+      ],
+      "examples": [
+        "子(こ)鹿(じか)物(もの)語(がたり)"
+      ]
+    }
+  }
+}

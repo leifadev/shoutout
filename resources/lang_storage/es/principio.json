@@ -1,0 +1,24 @@
+{
+  "principio": {
+    "word": "principio",
+    "partOfSpeech": "Noun",
+    "language": "Spanish",
+    "definitions": {
+      "definition": "beginning, start, outset, get-go",
+      "parsedExamples": [
+        {
+          "example": "al principio",
+          "translation": "at the beginning, at first"
+        },
+        {
+          "example": "a principios del mes",
+          "translation": "at the beginning of the month"
+        }
+      ],
+      "examples": [
+        "al principio",
+        "a principios del mes"
+      ]
+    }
+  }
+}

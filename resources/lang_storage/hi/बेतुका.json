@@ -1,0 +1,26 @@
+{
+  "बेतुका": {
+    "word": "बेतुका",
+    "partOfSpeech": "Adjective",
+    "language": "Hindi",
+    "definitions": {
+      "definition": "absurd, meaningless, pointless",
+      "parsedExamples": [
+        {
+          "example": "बेतुकी बात",
+          "transliteration": "betukī bāt",
+          "translation": "meaningless matter"
+        },
+        {
+          "example": "बेतुकी हाँकना",
+          "transliteration": "betukī hā̃knā",
+          "translation": "to say meaningless things"
+        }
+      ],
+      "examples": [
+        "बेतुकी बात",
+        "बेतुकी हाँकना"
+      ]
+    }
+  }
+}

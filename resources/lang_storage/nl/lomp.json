@@ -1,0 +1,19 @@
+{
+  "lomp": {
+    "word": "lomp",
+    "partOfSpeech": "Adjective",
+    "language": "Dutch",
+    "definitions": {
+      "definition": "coarse; rude; surly; boorish; unrefined; uncouth; unsophisticated; unmannered",
+      "parsedExamples": [
+        {
+          "example": "Zeg, lompe boer, staat/trapt eens op uw eigen tenen!",
+          "translation": "Hey, unmannered boor, step on your own toes, will you!"
+        }
+      ],
+      "examples": [
+        "Zeg, lompe boer, staat/trapt eens op uw eigen tenen!"
+      ]
+    }
+  }
+}

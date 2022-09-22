@@ -1,0 +1,50 @@
+{
+  "вести": {
+    "word": "вести",
+    "partOfSpeech": "Verb",
+    "language": "Russian",
+    "definitions": {
+      "definition": "to lead, to preside over, to chair",
+      "parsedExamples": [
+        {
+          "example": "вести́ заседа́ние",
+          "transliteration": "vestí zasedánije",
+          "translation": "to preside over a meeting"
+        },
+        {
+          "example": "вести́ перегово́ры",
+          "transliteration": "vestí peregovóry",
+          "translation": "to negotiate, to conduct negotiations"
+        },
+        {
+          "example": "вести́ себя́",
+          "transliteration": "vestí sebjá",
+          "translation": "to behave"
+        },
+        {
+          "example": "пло́хо себя́ вести́",
+          "transliteration": "plóxo sebjá vestí",
+          "translation": "to behave poorly"
+        },
+        {
+          "example": "вести́ себя́ хорошо́",
+          "transliteration": "vestí sebjá xorošó",
+          "translation": "to acquit oneself well"
+        },
+        {
+          "example": "вести́ войну́",
+          "transliteration": "vestí vojnú",
+          "translation": "to wage a war, to conduct a war, to be at war, to fight a war"
+        }
+      ],
+      "examples": [
+        "вести́ заседа́ние",
+        "вести́ перегово́ры",
+        "вести́ себя́",
+        "пло́хо себя́ вести́",
+        "вести́ себя́ хорошо́",
+        "вести́ войну́"
+      ]
+    }
+  }
+}

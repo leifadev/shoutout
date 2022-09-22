@@ -1,0 +1,19 @@
+{
+  "服従": {
+    "word": "服従",
+    "partOfSpeech": "Noun",
+    "language": "Japanese",
+    "definitions": {
+      "definition": "obedience, submission",
+      "parsedExamples": [
+        {
+          "translation": "zettai fukujū",
+          "example": "絶対(ぜったい)服従(ふくじゅう)"
+        }
+      ],
+      "examples": [
+        "絶対(ぜったい)服従(ふくじゅう)"
+      ]
+    }
+  }
+}

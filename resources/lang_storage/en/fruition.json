@@ -1,0 +1,18 @@
+{
+  "fruition": {
+    "word": "fruition",
+    "partOfSpeech": "Noun",
+    "language": "English",
+    "definitions": {
+      "definition": "The fulfillment of something worked for.",
+      "parsedExamples": [
+        {
+          "example": "After six years of hard work, the engineers had brought the project to fruition."
+        }
+      ],
+      "examples": [
+        "After six years of hard work, the engineers had brought the project to fruition."
+      ]
+    }
+  }
+}

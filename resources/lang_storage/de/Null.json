@@ -1,0 +1,19 @@
+{
+  "Null": {
+    "word": "null",
+    "partOfSpeech": "Numeral",
+    "language": "German",
+    "definitions": {
+      "definition": "zero; nil; nought;  love (integer number between -1 and 1, denoting no quantity at all)",
+      "parsedExamples": [
+        {
+          "example": "Null mal null ist null.",
+          "translation": "Zero times zero is zero."
+        }
+      ],
+      "examples": [
+        "Null mal null ist null."
+      ]
+    }
+  }
+}

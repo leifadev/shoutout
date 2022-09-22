@@ -1,0 +1,19 @@
+{
+  "denní": {
+    "word": "denní",
+    "partOfSpeech": "Adjective",
+    "language": "Czech",
+    "definitions": {
+      "definition": "day",
+      "parsedExamples": [
+        {
+          "example": "denní světlo",
+          "translation": "daylight"
+        }
+      ],
+      "examples": [
+        "denní světlo"
+      ]
+    }
+  }
+}

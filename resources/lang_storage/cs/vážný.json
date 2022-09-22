@@ -1,0 +1,19 @@
+{
+  "vážný": {
+    "word": "vážný",
+    "partOfSpeech": "Adjective",
+    "language": "Czech",
+    "definitions": {
+      "definition": "serious",
+      "parsedExamples": [
+        {
+          "example": "vážné nebezpečí",
+          "translation": "serious danger"
+        }
+      ],
+      "examples": [
+        "vážné nebezpečí"
+      ]
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "propizio": {
+    "word": "propizio",
+    "partOfSpeech": "Adjective",
+    "language": "Italian",
+    "definitions": {
+      "definition": "favourable (to), propitious",
+      "parsedExamples": [
+        {
+          "example": "sorte propizia",
+          "translation": "favorable fate"
+        }
+      ],
+      "examples": [
+        "sorte propizia"
+      ]
+    }
+  }
+}

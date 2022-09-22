@@ -1,0 +1,18 @@
+{
+  "dewy": {
+    "word": "dewy",
+    "partOfSpeech": "Adjective",
+    "language": "English",
+    "definitions": {
+      "definition": "Covered by dew.",
+      "parsedExamples": [
+        {
+          "example": "The dewy grass was too slick for football."
+        }
+      ],
+      "examples": [
+        "The dewy grass was too slick for football."
+      ]
+    }
+  }
+}

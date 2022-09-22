@@ -1,0 +1,19 @@
+{
+  "abandonar": {
+    "word": "abandonar",
+    "partOfSpeech": "Verb",
+    "language": "Spanish",
+    "definitions": {
+      "definition": "to abandon, to leave",
+      "parsedExamples": [
+        {
+          "example": "La abandonó por otra mujer.",
+          "translation": "He abandoned her for another woman."
+        }
+      ],
+      "examples": [
+        "La abandonó por otra mujer."
+      ]
+    }
+  }
+}

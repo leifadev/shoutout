@@ -1,0 +1,19 @@
+{
+  "obligar": {
+    "word": "obligar",
+    "partOfSpeech": "Verb",
+    "language": "Spanish",
+    "definitions": {
+      "definition": "to force, to compel, to make (someone do something)",
+      "parsedExamples": [
+        {
+          "example": "Por favor no me obligues a hacer esto.",
+          "translation": "Please don't make me do this."
+        }
+      ],
+      "examples": [
+        "Por favor no me obligues a hacer esto."
+      ]
+    }
+  }
+}

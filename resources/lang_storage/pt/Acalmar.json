@@ -1,0 +1,19 @@
+{
+  "Acalmar": {
+    "word": "acalmar",
+    "partOfSpeech": "Verb",
+    "language": "Portuguese",
+    "definitions": {
+      "definition": "to calm; to calm down (to make calm)",
+      "parsedExamples": [
+        {
+          "example": "Acalme seus filhos, senão expulso vocês da loja.",
+          "translation": "Calm your children down or I will throw you out of the store."
+        }
+      ],
+      "examples": [
+        "Acalme seus filhos, senão expulso vocês da loja."
+      ]
+    }
+  }
+}

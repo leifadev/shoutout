@@ -1,0 +1,19 @@
+{
+  "kapieren": {
+    "word": "kapieren",
+    "partOfSpeech": "Verb",
+    "language": "German",
+    "definitions": {
+      "definition": "to understand intellectually; to get",
+      "parsedExamples": [
+        {
+          "example": "Dieser Idiot kapiert rein gar nichts.",
+          "translation": "This idiot doesn’t understand a single thing."
+        }
+      ],
+      "examples": [
+        "Dieser Idiot kapiert rein gar nichts."
+      ]
+    }
+  }
+}

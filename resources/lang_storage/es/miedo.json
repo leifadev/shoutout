@@ -1,0 +1,20 @@
+{
+  "miedo": {
+    "word": "miedo",
+    "partOfSpeech": "Noun",
+    "language": "Spanish",
+    "definitions": {
+      "definition": "fear",
+      "parsedExamples": [
+        {
+          "example": "Tengo miedo.",
+          "translation": "I'm afraid.",
+          "literally": "I have fear"
+        }
+      ],
+      "examples": [
+        "Tengo miedo."
+      ]
+    }
+  }
+}

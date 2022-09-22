@@ -1,0 +1,24 @@
+{
+  "lol": {
+    "word": "lol",
+    "partOfSpeech": "Noun",
+    "language": "Dutch",
+    "definitions": {
+      "definition": "fun",
+      "parsedExamples": [
+        {
+          "example": "Wij hebben veel lol.",
+          "translation": "We are having a lot of fun."
+        },
+        {
+          "example": "Wat een lol!",
+          "translation": "What a laugh!"
+        }
+      ],
+      "examples": [
+        "Wij hebben veel lol.",
+        "Wat een lol!"
+      ]
+    }
+  }
+}

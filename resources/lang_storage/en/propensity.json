@@ -1,0 +1,18 @@
+{
+  "propensity": {
+    "word": "propensity",
+    "partOfSpeech": "Noun",
+    "language": "English",
+    "definitions": {
+      "definition": "An inclination, disposition, tendency, preference, or attraction.",
+      "parsedExamples": [
+        {
+          "example": "He has a propensity for lengthy discussions of certain favorite topics."
+        }
+      ],
+      "examples": [
+        "He has a propensity for lengthy discussions of certain favorite topics."
+      ]
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "оправдывать": {
+    "word": "оправдывать",
+    "partOfSpeech": "Verb",
+    "language": "Russian",
+    "definitions": {
+      "definition": "to justify, to warrant, to authorize, to vindicate",
+      "parsedExamples": [
+        {
+          "example": "опра́вдывать наде́жды",
+          "transliteration": "oprávdyvatʹ nadéždy",
+          "translation": "to meet the expectations"
+        }
+      ],
+      "examples": [
+        "опра́вдывать наде́жды"
+      ]
+    }
+  }
+}

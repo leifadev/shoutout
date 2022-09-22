@@ -1,0 +1,19 @@
+{
+  "emoce": {
+    "word": "emoce",
+    "partOfSpeech": "Noun",
+    "language": "Czech",
+    "definitions": {
+      "definition": "emotion",
+      "parsedExamples": [
+        {
+          "example": "vyvolat hluboké emoce",
+          "translation": "to trigger a lot of emotions"
+        }
+      ],
+      "examples": [
+        "vyvolat hluboké emoce"
+      ]
+    }
+  }
+}

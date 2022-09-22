@@ -1,0 +1,24 @@
+{
+  "vontade": {
+    "word": "vontade",
+    "partOfSpeech": "Noun",
+    "language": "Portuguese",
+    "definitions": {
+      "definition": "will; the condition of feeling like or wanting something",
+      "parsedExamples": [
+        {
+          "example": "Casei-me com ele contra a minha vontade.",
+          "translation": "I married him against my will."
+        },
+        {
+          "example": "Estou com vontade de chorar.",
+          "translation": "I feel like crying."
+        }
+      ],
+      "examples": [
+        "Casei-me com ele contra a minha vontade.",
+        "Estou com vontade de chorar."
+      ]
+    }
+  }
+}

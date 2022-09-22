@@ -1,0 +1,19 @@
+{
+  "temporiseren": {
+    "word": "temporiseren",
+    "partOfSpeech": "Verb",
+    "language": "Dutch",
+    "definitions": {
+      "definition": "to lower the pace, to delay",
+      "parsedExamples": [
+        {
+          "translation": "A request to the board to delay the decisionmaking.",
+          "example": "Een verzoek aan de raad om de besluitvorming te temporiseren."
+        }
+      ],
+      "examples": [
+        "Een verzoek aan de raad om de besluitvorming te temporiseren."
+      ]
+    }
+  }
+}

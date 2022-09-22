@@ -1,0 +1,19 @@
+{
+  "ceder": {
+    "word": "ceder",
+    "partOfSpeech": "Verb",
+    "language": "Spanish",
+    "definitions": {
+      "definition": "to cede, hand over, convey",
+      "parsedExamples": [
+        {
+          "example": "ceda el paso",
+          "translation": "give way"
+        }
+      ],
+      "examples": [
+        "ceda el paso"
+      ]
+    }
+  }
+}

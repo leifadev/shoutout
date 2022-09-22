@@ -1,0 +1,18 @@
+{
+  "renovate": {
+    "word": "renovate",
+    "partOfSpeech": "Verb",
+    "language": "English",
+    "definitions": {
+      "definition": "To renew; to revamp something to make it look new again.",
+      "parsedExamples": [
+        {
+          "example": "This house is shabby: it needs renovating."
+        }
+      ],
+      "examples": [
+        "This house is shabby: it needs renovating."
+      ]
+    }
+  }
+}

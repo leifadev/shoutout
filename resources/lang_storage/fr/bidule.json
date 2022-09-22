@@ -1,0 +1,18 @@
+{
+  "bidule": {
+    "word": "bidule",
+    "partOfSpeech": "Noun",
+    "language": "French",
+    "definitions": {
+      "definition": "thingamajig",
+      "parsedExamples": [
+        {
+          "example": "C’est quoi ce bidule?"
+        }
+      ],
+      "examples": [
+        "C’est quoi ce bidule?"
+      ]
+    }
+  }
+}

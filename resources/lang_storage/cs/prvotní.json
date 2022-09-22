@@ -1,0 +1,19 @@
+{
+  "prvotní": {
+    "word": "prvotní",
+    "partOfSpeech": "Adjective",
+    "language": "Czech",
+    "definitions": {
+      "definition": "primal, primordial, original",
+      "parsedExamples": [
+        {
+          "example": "prvotní hřích",
+          "translation": "original sin"
+        }
+      ],
+      "examples": [
+        "prvotní hřích"
+      ]
+    }
+  }
+}

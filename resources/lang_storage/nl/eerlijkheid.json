@@ -1,0 +1,24 @@
+{
+  "eerlijkheid": {
+    "word": "eerlijkheid",
+    "partOfSpeech": "Noun",
+    "language": "Dutch",
+    "definitions": {
+      "definition": "honesty",
+      "parsedExamples": [
+        {
+          "example": "Je eerlijkheid is te prijzen.",
+          "translation": "Your honesty is laudable."
+        },
+        {
+          "example": "De eerlijkheid gebiedt te zeggen dat ...",
+          "translation": "To be perfectly honest, ..."
+        }
+      ],
+      "examples": [
+        "Je eerlijkheid is te prijzen.",
+        "De eerlijkheid gebiedt te zeggen dat ..."
+      ]
+    }
+  }
+}

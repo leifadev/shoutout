@@ -1,0 +1,22 @@
+{
+  "veritable": {
+    "word": "veritable",
+    "partOfSpeech": "Adjective",
+    "language": "English",
+    "definitions": {
+      "definition": "True; genuine.",
+      "parsedExamples": [
+        {
+          "example": "He is a veritable genius."
+        },
+        {
+          "example": "A fair is a veritable smorgasbord. (From Charlotte's Web)."
+        }
+      ],
+      "examples": [
+        "He is a veritable genius.",
+        "A fair is a veritable smorgasbord. (From Charlotte's Web)."
+      ]
+    }
+  }
+}

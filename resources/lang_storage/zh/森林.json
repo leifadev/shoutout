@@ -1,0 +1,26 @@
+{
+  "森林": {
+    "word": "森林",
+    "partOfSpeech": "Noun",
+    "language": "Chinese",
+    "definitions": {
+      "definition": "forest; trees (Classifier: 片 m)",
+      "parsedExamples": [
+        {
+          "example": "森林砍伐率&nbsp; ―&nbsp; sēnlín kǎnfá lǜ&nbsp; ―&nbsp; rate of deforestation"
+        },
+        {
+          "example": "注重保護森林 / 注重保护森林&nbsp; ―&nbsp; zhùzhòng bǎohù sēnlín&nbsp; ―&nbsp; to attach importance to forest conservation"
+        },
+        {
+          "example": "請愛護森林。 / 请爱护森林。&nbsp; ―&nbsp; Qǐng àihù sēnlín.&nbsp; ―&nbsp; Please protect our trees."
+        }
+      ],
+      "examples": [
+        "森林砍伐率&nbsp; ―&nbsp; sēnlín kǎnfá lǜ&nbsp; ―&nbsp; rate of deforestation",
+        "注重保護森林 / 注重保护森林&nbsp; ―&nbsp; zhùzhòng bǎohù sēnlín&nbsp; ―&nbsp; to attach importance to forest conservation",
+        "請愛護森林。 / 请爱护森林。&nbsp; ―&nbsp; Qǐng àihù sēnlín.&nbsp; ―&nbsp; Please protect our trees."
+      ]
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "rapport": {
+    "word": "rapport",
+    "partOfSpeech": "Noun",
+    "language": "English",
+    "definitions": {
+      "definition": "A relationship of mutual trust and respect. A close and harmonious relationship in which the people or groups concerned understand each other's feelings or ideas and communicate well.",
+      "parsedExamples": [
+        {
+          "example": "He always tried to maintain a rapport with his customers."
+        }
+      ],
+      "examples": [
+        "He always tried to maintain a rapport with his customers."
+      ]
+    }
+  }
+}

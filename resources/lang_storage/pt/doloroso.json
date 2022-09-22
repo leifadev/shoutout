@@ -1,0 +1,19 @@
+{
+  "doloroso": {
+    "word": "doloroso",
+    "partOfSpeech": "Adjective",
+    "language": "Portuguese",
+    "definitions": {
+      "definition": "painful (causing pain)",
+      "parsedExamples": [
+        {
+          "example": "Ferida dolorosa.",
+          "translation": "Painful wound."
+        }
+      ],
+      "examples": [
+        "Ferida dolorosa."
+      ]
+    }
+  }
+}

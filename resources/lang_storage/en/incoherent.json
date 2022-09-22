@@ -1,0 +1,22 @@
+{
+  "incoherent": {
+    "word": "incoherent",
+    "partOfSpeech": "Adjective",
+    "language": "English",
+    "definitions": {
+      "definition": "Not coherent.\nNot making logical sense; not logically connected or consistent.",
+      "parsedExamples": [
+        {
+          "example": "When we confronted her, she gave us a hasty, incoherent explanation."
+        },
+        {
+          "example": "After just a few drinks, he becomes incoherent."
+        }
+      ],
+      "examples": [
+        "When we confronted her, she gave us a hasty, incoherent explanation.",
+        "After just a few drinks, he becomes incoherent."
+      ]
+    }
+  }
+}

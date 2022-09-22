@@ -1,0 +1,20 @@
+{
+  "सटीक": {
+    "word": "सटीक",
+    "partOfSpeech": "Adjective",
+    "language": "Hindi",
+    "definitions": {
+      "definition": "correct, accurate, particular",
+      "parsedExamples": [
+        {
+          "example": "चित्र में झोंपड़ी का सटीक चित्रण किया गया है।",
+          "transliteration": "citra mẽ jhompṛī kā saṭīk citraṇ kiyā gayā hai.",
+          "translation": "The hut is depicted in accurate manner in the painting."
+        }
+      ],
+      "examples": [
+        "चित्र में झोंपड़ी का सटीक चित्रण किया गया है।"
+      ]
+    }
+  }
+}

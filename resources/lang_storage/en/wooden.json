@@ -1,0 +1,26 @@
+{
+  "wooden": {
+    "word": "wooden",
+    "partOfSpeech": "Adjective",
+    "language": "English",
+    "definitions": {
+      "definition": "Made of wood.",
+      "parsedExamples": [
+        {
+          "example": "a wooden boat"
+        },
+        {
+          "example": "On a recent windy day, hundreds of visitors climbed wooden stairs to take pictures in front of the glacier."
+        },
+        {
+          "example": "In such a case, you can make a very good case for wooden cases."
+        }
+      ],
+      "examples": [
+        "a wooden boat",
+        "On a recent windy day, hundreds of visitors climbed wooden stairs to take pictures in front of the glacier.",
+        "In such a case, you can make a very good case for wooden cases."
+      ]
+    }
+  }
+}

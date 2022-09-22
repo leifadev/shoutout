@@ -1,0 +1,19 @@
+{
+  "kočka": {
+    "word": "kočka",
+    "partOfSpeech": "Noun",
+    "language": "Czech",
+    "definitions": {
+      "definition": "cat (domestic animal)",
+      "parsedExamples": [
+        {
+          "example": "hrát si jako kočka s myší",
+          "translation": "to play cat and mouse"
+        }
+      ],
+      "examples": [
+        "hrát si jako kočka s myší"
+      ]
+    }
+  }
+}

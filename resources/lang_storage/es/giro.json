@@ -1,0 +1,19 @@
+{
+  "giro": {
+    "word": "giro",
+    "partOfSpeech": "Noun",
+    "language": "Spanish",
+    "definitions": {
+      "definition": "turn, spin",
+      "parsedExamples": [
+        {
+          "example": "navegación giro a giro",
+          "translation": "turn-by-turn navigation"
+        }
+      ],
+      "examples": [
+        "navegación giro a giro"
+      ]
+    }
+  }
+}

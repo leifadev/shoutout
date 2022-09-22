@@ -1,0 +1,19 @@
+{
+  "spać": {
+    "word": "spać",
+    "partOfSpeech": "Verb",
+    "language": "Polish",
+    "definitions": {
+      "definition": "to sleep; to rest in state of reduced consciousness",
+      "parsedExamples": [
+        {
+          "example": "Nie śpij, tylko ucz się!",
+          "translation": "Don't sleep, study!"
+        }
+      ],
+      "examples": [
+        "Nie śpij, tylko ucz się!"
+      ]
+    }
+  }
+}

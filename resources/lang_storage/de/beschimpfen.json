@@ -1,0 +1,29 @@
+{
+  "beschimpfen": {
+    "word": "beschimpfen",
+    "partOfSpeech": "Verb",
+    "language": "German",
+    "definitions": {
+      "definition": "to insult, swear at, call names,  abuse (verbally)",
+      "parsedExamples": [
+        {
+          "example": "Sie haben sich gestritten, und jetzt beschimpfen sie sich gegenseitig.",
+          "translation": "They were arguing, and now they're insulting each other."
+        },
+        {
+          "example": "Einer der Männer beschimpfte den Richter als Lügner.",
+          "translation": "One of the men called the judge a liar."
+        },
+        {
+          "example": "Schopenhauer beschimpfte Hegel wüst.",
+          "translation": "Schopenhauer swore at Hegel."
+        }
+      ],
+      "examples": [
+        "Sie haben sich gestritten, und jetzt beschimpfen sie sich gegenseitig.",
+        "Einer der Männer beschimpfte den Richter als Lügner.",
+        "Schopenhauer beschimpfte Hegel wüst."
+      ]
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "変": {
+    "word": "変",
+    "partOfSpeech": "Adjective",
+    "language": "Japanese",
+    "definitions": {
+      "definition": "strange",
+      "parsedExamples": [
+        {
+          "translation": "hen na hito",
+          "example": "変(へん)な人(ひと)"
+        },
+        {
+          "translation": "hen na koto ni kodawaru",
+          "example": "変(へん)なことにこだわる"
+        }
+      ],
+      "examples": [
+        "変(へん)な人(ひと)",
+        "変(へん)なことにこだわる"
+      ]
+    }
+  }
+}

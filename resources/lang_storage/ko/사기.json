@@ -1,0 +1,20 @@
+{
+  "사기": {
+    "word": "사기",
+    "partOfSpeech": "Noun",
+    "language": "Korean",
+    "definitions": {
+      "definition": "fraud; swindle",
+      "parsedExamples": [
+        {
+          "example": "사기를 치다",
+          "transliteration": "sagi-reul chida",
+          "translation": "to commit fraud"
+        }
+      ],
+      "examples": [
+        "사기를 치다"
+      ]
+    }
+  }
+}

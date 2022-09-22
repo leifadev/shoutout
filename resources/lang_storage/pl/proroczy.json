@@ -1,0 +1,19 @@
+{
+  "proroczy": {
+    "word": "proroczy",
+    "partOfSpeech": "Adjective",
+    "language": "Polish",
+    "definitions": {
+      "definition": "prophetic",
+      "parsedExamples": [
+        {
+          "example": "proroczy sen",
+          "translation": "prophetic dream"
+        }
+      ],
+      "examples": [
+        "proroczy sen"
+      ]
+    }
+  }
+}

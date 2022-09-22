@@ -1,0 +1,22 @@
+{
+  "meld": {
+    "word": "meld",
+    "partOfSpeech": "Verb",
+    "language": "English",
+    "definitions": {
+      "definition": "to combine multiple similar objects into one.",
+      "parsedExamples": [
+        {
+          "example": "One can meld copper and zinc together to form brass."
+        },
+        {
+          "example": "Much as America's motto celebrates melding many into one, South Africa's says that it doesn't matter what you look like — we can all be proud of our young country. - The New York Times, 26/02/2007 "
+        }
+      ],
+      "examples": [
+        "One can meld copper and zinc together to form brass.",
+        "Much as America's motto celebrates melding many into one, South Africa's says that it doesn't matter what you look like — we can all be proud of our young country. - The New York Times, 26/02/2007 "
+      ]
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "遠日点": {
+    "word": "遠日点",
+    "partOfSpeech": "Noun",
+    "language": "Japanese",
+    "definitions": {
+      "definition": "aphelion",
+      "parsedExamples": [
+        {
+          "translation": "tentai ga enjitsuten o tsūka suru",
+          "example": "天体(てんたい)が遠日点(えんじつてん)を通過(つうか)する"
+        }
+      ],
+      "examples": [
+        "天体(てんたい)が遠日点(えんじつてん)を通過(つうか)する"
+      ]
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "साथ": {
+    "word": "साथ",
+    "partOfSpeech": "Adverb",
+    "language": "Hindi",
+    "definitions": {
+      "definition": "together",
+      "parsedExamples": [
+        {
+          "example": "साथ चलते हैं।",
+          "transliteration": "sāth calte ha͠i.",
+          "translation": "Let's walk together."
+        }
+      ],
+      "examples": [
+        "साथ चलते हैं।"
+      ]
+    }
+  }
+}

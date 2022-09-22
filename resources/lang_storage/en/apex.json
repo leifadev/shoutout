@@ -1,0 +1,18 @@
+{
+  "apex": {
+    "word": "apex",
+    "partOfSpeech": "Noun",
+    "language": "English",
+    "definitions": {
+      "definition": "The highest or the greatest part of something, especially forming a point.",
+      "parsedExamples": [
+        {
+          "example": "the apex of the building"
+        }
+      ],
+      "examples": [
+        "the apex of the building"
+      ]
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "abc": {
+    "word": "abc",
+    "partOfSpeech": "Noun",
+    "language": "Spanish",
+    "definitions": {
+      "definition": "Alternative form of abecé"
+    }
+  }
+}

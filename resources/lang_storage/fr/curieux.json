@@ -1,0 +1,19 @@
+{
+  "curieux": {
+    "word": "curieux",
+    "partOfSpeech": "Adjective",
+    "language": "French",
+    "definitions": {
+      "definition": "curious, inquisitive, intrigued, wondering; possessing curiosity",
+      "parsedExamples": [
+        {
+          "example": "C'est un garçon curieux.",
+          "translation": "He's an inquisitive boy."
+        }
+      ],
+      "examples": [
+        "C'est un garçon curieux."
+      ]
+    }
+  }
+}

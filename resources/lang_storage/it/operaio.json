@@ -1,0 +1,24 @@
+{
+  "operaio": {
+    "word": "operaio",
+    "partOfSpeech": "Adjective",
+    "language": "Italian",
+    "definitions": {
+      "definition": "working, workmen's, worker's, labour",
+      "parsedExamples": [
+        {
+          "example": "la classe operaia",
+          "translation": "the working class"
+        },
+        {
+          "example": "case operaie",
+          "translation": "workmen's houses"
+        }
+      ],
+      "examples": [
+        "la classe operaia",
+        "case operaie"
+      ]
+    }
+  }
+}

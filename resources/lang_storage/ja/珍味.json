@@ -1,0 +1,19 @@
+{
+  "珍味": {
+    "word": "珍味",
+    "partOfSpeech": "Noun",
+    "language": "Japanese",
+    "definitions": {
+      "definition": "delicacies; dainties",
+      "parsedExamples": [
+        {
+          "translation": "sankai no chinmi",
+          "example": "山海(さんかい)の珍味(ちんみ)"
+        }
+      ],
+      "examples": [
+        "山海(さんかい)の珍味(ちんみ)"
+      ]
+    }
+  }
+}

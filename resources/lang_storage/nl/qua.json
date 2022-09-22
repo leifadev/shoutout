@@ -1,0 +1,19 @@
+{
+  "qua": {
+    "word": "qua",
+    "partOfSpeech": "Preposition",
+    "language": "Dutch",
+    "definitions": {
+      "definition": "regarding, concerning, in terms of",
+      "parsedExamples": [
+        {
+          "example": "Qua gezondheid ben ik helemaal in orde.",
+          "translation": "In terms of health, I'm perfectly fine."
+        }
+      ],
+      "examples": [
+        "Qua gezondheid ben ik helemaal in orde."
+      ]
+    }
+  }
+}

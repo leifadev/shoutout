@@ -1,0 +1,20 @@
+{
+  "чем": {
+    "word": "чем",
+    "partOfSpeech": "Conjunction",
+    "language": "Russian",
+    "definitions": {
+      "definition": "than",
+      "parsedExamples": [
+        {
+          "example": "лу́чше по́здно, чем никогда́",
+          "transliteration": "lúčše pózdno, čem nikogdá",
+          "translation": "better late than never"
+        }
+      ],
+      "examples": [
+        "лу́чше по́здно, чем никогда́"
+      ]
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "complicado": {
+    "word": "complicado",
+    "partOfSpeech": "Adjective",
+    "language": "Portuguese",
+    "definitions": {
+      "definition": "abstract; complex; complicated (difficult or convoluted)",
+      "parsedExamples": [
+        {
+          "example": "; complexo"
+        }
+      ],
+      "examples": [
+        "; complexo"
+      ]
+    }
+  }
+}

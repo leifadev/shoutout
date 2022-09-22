@@ -1,0 +1,22 @@
+{
+  "plaintive": {
+    "word": "plaintive",
+    "partOfSpeech": "Adjective",
+    "language": "English",
+    "definitions": {
+      "definition": "Sounding sorrowful, mournful or melancholic.",
+      "parsedExamples": [
+        {
+          "example": "a typically plaintive song from Radiohead"
+        },
+        {
+          "example": "I can see by your plaintive smile something is wrong, so spill it."
+        }
+      ],
+      "examples": [
+        "a typically plaintive song from Radiohead",
+        "I can see by your plaintive smile something is wrong, so spill it."
+      ]
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "मिथ्या": {
+    "word": "मिथ्या",
+    "partOfSpeech": "Adjective",
+    "language": "Hindi",
+    "definitions": {
+      "definition": "false, spurious, delusory",
+      "parsedExamples": [
+        {
+          "example": "यह व्यक्ति मिथ्या अभिमान से भरा है।",
+          "transliteration": "yah vyakti mithyā abhimān se bharā hai.",
+          "translation": "This man is full of false pride."
+        }
+      ],
+      "examples": [
+        "यह व्यक्ति मिथ्या अभिमान से भरा है।"
+      ]
+    }
+  }
+}

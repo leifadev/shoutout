@@ -1,0 +1,20 @@
+{
+  "कड़ा": {
+    "word": "कड़ा",
+    "partOfSpeech": "Adjective",
+    "language": "Hindi",
+    "definitions": {
+      "definition": "hard, difficult",
+      "parsedExamples": [
+        {
+          "example": "इस बरस का प्रश्नपत्र बहुत कड़ा है।",
+          "transliteration": "is baras kā praśnapatra bahut kaṛā hai.",
+          "translation": "The question paper for this year is very hard."
+        }
+      ],
+      "examples": [
+        "इस बरस का प्रश्नपत्र बहुत कड़ा है।"
+      ]
+    }
+  }
+}

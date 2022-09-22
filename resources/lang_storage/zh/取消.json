@@ -1,0 +1,23 @@
+{
+  "取消": {
+    "word": "取消",
+    "partOfSpeech": "Verb",
+    "language": "Chinese",
+    "definitions": {
+      "definition": "to cancel",
+      "parsedExamples": [
+        {
+          "example": "取消資格 / 取消资格&nbsp; ―&nbsp; qǔxiāo zīgé&nbsp; ―&nbsp; to disqualify"
+        },
+        {
+          "translation": "Xiànzài yǒu hěn duō shīshēng dōu liánmíng xiěxìn yāoqiú qǔxiāo lǎoshī de jiàoshòu zīgé. [Pinyin]",
+          "example": ""
+        }
+      ],
+      "examples": [
+        "取消資格 / 取消资格&nbsp; ―&nbsp; qǔxiāo zīgé&nbsp; ―&nbsp; to disqualify",
+        ""
+      ]
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "길": {
+    "word": "길",
+    "partOfSpeech": "Noun",
+    "language": "Korean",
+    "definitions": {
+      "definition": "a road, a path, a street, a track; passage, thoroughfare",
+      "parsedExamples": [
+        {
+          "example": "아직도 갈 길이 멀고 험하다.",
+          "transliteration": "Ajik-do gal gir-i meolgo heom-hada.",
+          "translation": "There's still a long and treacherous road ahead."
+        },
+        {
+          "example": "그는 독신의 길을 택하였다.",
+          "transliteration": "Geu-neun doksin-ui gir-eul taek-hayeotda.",
+          "translation": "He chose the path of celibacy."
+        }
+      ],
+      "examples": [
+        "아직도 갈 길이 멀고 험하다.",
+        "그는 독신의 길을 택하였다."
+      ]
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "通り": {
+    "word": "通り",
+    "partOfSpeech": "Noun",
+    "language": "Japanese",
+    "definitions": {
+      "definition": "street",
+      "parsedExamples": [
+        {
+          "translation": "furui tōri",
+          "example": "古(ふる)い通(とお)り"
+        }
+      ],
+      "examples": [
+        "古(ふる)い通(とお)り"
+      ]
+    }
+  }
+}

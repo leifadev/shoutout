@@ -1,0 +1,19 @@
+{
+  "täglich": {
+    "word": "täglich",
+    "partOfSpeech": "Adjective",
+    "language": "German",
+    "definitions": {
+      "definition": "daily",
+      "parsedExamples": [
+        {
+          "example": "einmal täglich",
+          "translation": "once per day"
+        }
+      ],
+      "examples": [
+        "einmal täglich"
+      ]
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "仲間": {
+    "word": "仲間",
+    "partOfSpeech": "Noun",
+    "language": "Japanese",
+    "definitions": {
+      "definition": "companion",
+      "parsedExamples": [
+        {
+          "example": "旅(たび)の仲(なか)間(ま)",
+          "transliteration": "Tabi no Nakama",
+          "translation": "The Travel Fellowship"
+        }
+      ],
+      "examples": [
+        "旅(たび)の仲(なか)間(ま)"
+      ]
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "impétueux": {
+    "word": "impétueux",
+    "partOfSpeech": "Adjective",
+    "language": "French",
+    "definitions": {
+      "definition": "forceful, violent, strong",
+      "parsedExamples": [
+        {
+          "example": "un vent impétueux",
+          "translation": "a violent wind"
+        }
+      ],
+      "examples": [
+        "un vent impétueux"
+      ]
+    }
+  }
+}

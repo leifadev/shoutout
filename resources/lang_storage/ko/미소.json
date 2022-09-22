@@ -1,0 +1,20 @@
+{
+  "미소": {
+    "word": "미소",
+    "partOfSpeech": "Noun",
+    "language": "Korean",
+    "definitions": {
+      "definition": "a (bright) smile",
+      "parsedExamples": [
+        {
+          "example": "미소를 짓다／띠다",
+          "transliteration": "miso-reul jitda／ttida",
+          "translation": "to smile"
+        }
+      ],
+      "examples": [
+        "미소를 짓다／띠다"
+      ]
+    }
+  }
+}

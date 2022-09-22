@@ -1,0 +1,19 @@
+{
+  "mączny": {
+    "word": "mączny",
+    "partOfSpeech": "Adjective",
+    "language": "Polish",
+    "definitions": {
+      "definition": "flour",
+      "parsedExamples": [
+        {
+          "example": "mklik mączny",
+          "translation": "Mediterranean flour moth"
+        }
+      ],
+      "examples": [
+        "mklik mączny"
+      ]
+    }
+  }
+}

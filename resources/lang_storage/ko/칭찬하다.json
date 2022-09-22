@@ -1,0 +1,20 @@
+{
+  "칭찬하다": {
+    "word": "칭찬하다",
+    "partOfSpeech": "Verb",
+    "language": "Korean",
+    "definitions": {
+      "definition": "to compliment, to praise",
+      "parsedExamples": [
+        {
+          "example": "너가 칭찬해주면 기분이 좋다.",
+          "transliteration": "Neo-ga chingchanhaejumyeon gibun-i jota.",
+          "translation": "When you compliment me, I feel happy."
+        }
+      ],
+      "examples": [
+        "너가 칭찬해주면 기분이 좋다."
+      ]
+    }
+  }
+}

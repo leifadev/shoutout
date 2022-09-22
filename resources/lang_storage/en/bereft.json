@@ -1,0 +1,24 @@
+{
+  "bereft": {
+    "word": "bereft",
+    "partOfSpeech": "Verb",
+    "language": "English",
+    "definitions": {
+      "definition": "simple past tense and past participle of bereave",
+      "parsedExamples": [
+        {
+          "example": "bereft of strength",
+          "translation": "powerless"
+        },
+        {
+          "example": "bereft of gorm",
+          "translation": "mindless one, idiot"
+        }
+      ],
+      "examples": [
+        "bereft of strength",
+        "bereft of gorm"
+      ]
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "未成年": {
+    "word": "未成年",
+    "partOfSpeech": "Adjective",
+    "language": "Chinese",
+    "definitions": {
+      "definition": "underage",
+      "parsedExamples": [
+        {
+          "example": "未成年子女&nbsp; ―&nbsp; wèichéngnián zǐnǚ&nbsp; ―&nbsp; non-adult children"
+        },
+        {
+          "example": "未成年飲酒 / 未成年饮酒&nbsp; ―&nbsp; wèichéngnián yǐnjiǔ&nbsp; ―&nbsp; underage drinking"
+        }
+      ],
+      "examples": [
+        "未成年子女&nbsp; ―&nbsp; wèichéngnián zǐnǚ&nbsp; ―&nbsp; non-adult children",
+        "未成年飲酒 / 未成年饮酒&nbsp; ―&nbsp; wèichéngnián yǐnjiǔ&nbsp; ―&nbsp; underage drinking"
+      ]
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "粘り強い": {
+    "word": "粘り強い",
+    "partOfSpeech": "Adjective",
+    "language": "Japanese",
+    "definitions": {
+      "definition": "persistent, tenacious",
+      "parsedExamples": [
+        {
+          "translation": "Nebarizuyoi mamori de nigekitta.",
+          "example": "粘(ねば)り強(づよ)い守(まも)りで逃(に)げ切(き)った。"
+        }
+      ],
+      "examples": [
+        "粘(ねば)り強(づよ)い守(まも)りで逃(に)げ切(き)った。"
+      ]
+    }
+  }
+}

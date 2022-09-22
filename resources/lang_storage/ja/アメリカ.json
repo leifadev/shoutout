@@ -1,0 +1,24 @@
+{
+  "アメリカ": {
+    "word": "アメリカ",
+    "partOfSpeech": "Proper noun",
+    "language": "Japanese",
+    "definitions": {
+      "definition": "America (one of the continents of North America or South America)",
+      "parsedExamples": [
+        {
+          "translation": "Minami Amerika, Kita Amerika, Chūō Amerika",
+          "example": "南(みなみ)アメリカ、北(きた)アメリカ、中(ちゅう)央(おう)アメリカ"
+        },
+        {
+          "translation": "Amerika-shū",
+          "example": "アメリカ州(しゅう)"
+        }
+      ],
+      "examples": [
+        "南(みなみ)アメリカ、北(きた)アメリカ、中(ちゅう)央(おう)アメリカ",
+        "アメリカ州(しゅう)"
+      ]
+    }
+  }
+}

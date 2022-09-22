@@ -1,0 +1,19 @@
+{
+  "穴": {
+    "word": "穴",
+    "partOfSpeech": "Noun",
+    "language": "Japanese",
+    "definitions": {
+      "definition": "hole",
+      "parsedExamples": [
+        {
+          "translation": "Kutsushita ni ana ga aita.",
+          "example": "靴(くつ)下(した)に穴(あな)が開(あ)いた。"
+        }
+      ],
+      "examples": [
+        "靴(くつ)下(した)に穴(あな)が開(あ)いた。"
+      ]
+    }
+  }
+}

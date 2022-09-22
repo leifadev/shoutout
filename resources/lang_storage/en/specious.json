@@ -1,0 +1,18 @@
+{
+  "specious": {
+    "word": "specious",
+    "partOfSpeech": "Adjective",
+    "language": "English",
+    "definitions": {
+      "definition": "Seemingly well-reasoned, plausible or true, but actually fallacious.",
+      "parsedExamples": [
+        {
+          "example": "This idea that we must see through what we have started is specious, however good it may sound."
+        }
+      ],
+      "examples": [
+        "This idea that we must see through what we have started is specious, however good it may sound."
+      ]
+    }
+  }
+}

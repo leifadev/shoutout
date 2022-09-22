@@ -1,0 +1,19 @@
+{
+  "tomber": {
+    "word": "tomber",
+    "partOfSpeech": "Verb",
+    "language": "French",
+    "definitions": {
+      "definition": "to fall",
+      "parsedExamples": [
+        {
+          "example": "Un tamis placé à l'intérieur du dispositif empêchera les choses de tomber dans le tube.",
+          "translation": "A screen placed inside the device will keep things from falling into the tube."
+        }
+      ],
+      "examples": [
+        "Un tamis placé à l'intérieur du dispositif empêchera les choses de tomber dans le tube."
+      ]
+    }
+  }
+}

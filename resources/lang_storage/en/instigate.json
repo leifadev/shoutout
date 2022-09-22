@@ -1,0 +1,18 @@
+{
+  "instigate": {
+    "word": "instigate",
+    "partOfSpeech": "Verb",
+    "language": "English",
+    "definitions": {
+      "definition": "to incite; to bring about by urging or encouraging",
+      "parsedExamples": [
+        {
+          "example": "to instigate a riot"
+        }
+      ],
+      "examples": [
+        "to instigate a riot"
+      ]
+    }
+  }
+}

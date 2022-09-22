@@ -1,0 +1,19 @@
+{
+  "reparo": {
+    "word": "reparo",
+    "partOfSpeech": "Noun",
+    "language": "Spanish",
+    "definitions": {
+      "definition": "qualm, objection, cavil, demur, compunction",
+      "parsedExamples": [
+        {
+          "example": "poner reparos a su pareja",
+          "translation": "raise objections to her partner"
+        }
+      ],
+      "examples": [
+        "poner reparos a su pareja"
+      ]
+    }
+  }
+}

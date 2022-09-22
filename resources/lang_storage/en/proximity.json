@@ -1,0 +1,22 @@
+{
+  "proximity": {
+    "word": "proximity",
+    "partOfSpeech": "Noun",
+    "language": "English",
+    "definitions": {
+      "definition": "Closeness; the state of being near as in space, time, or relationship.",
+      "parsedExamples": [
+        {
+          "example": "The proximity of the heat source allowed it to be detected by the sensor."
+        },
+        {
+          "example": "You and I live in close proximity."
+        }
+      ],
+      "examples": [
+        "The proximity of the heat source allowed it to be detected by the sensor.",
+        "You and I live in close proximity."
+      ]
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "úplatek": {
+    "word": "úplatek",
+    "partOfSpeech": "Noun",
+    "language": "Czech",
+    "definitions": {
+      "definition": "bribe",
+      "parsedExamples": [
+        {
+          "example": "přebrat úplatek.",
+          "translation": "to receive a bribe."
+        },
+        {
+          "example": "přijmout / přijímat úplatek.",
+          "translation": "to take a bribe."
+        }
+      ],
+      "examples": [
+        "přebrat úplatek.",
+        "přijmout / přijímat úplatek."
+      ]
+    }
+  }
+}

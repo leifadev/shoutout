@@ -1,0 +1,24 @@
+{
+  "bonheur": {
+    "word": "bonheur",
+    "partOfSpeech": "Noun",
+    "language": "French",
+    "definitions": {
+      "definition": "happiness",
+      "parsedExamples": [
+        {
+          "example": "Pourquoi est-ce qu'on part en vacances? Pour le bonheur!",
+          "translation": "Why do we go on vacation? To have a great time!"
+        },
+        {
+          "example": "La vie est trop courte. Le bonheur est ce qui compte vraiment.",
+          "translation": "Life is too short. Happiness is what truly matters."
+        }
+      ],
+      "examples": [
+        "Pourquoi est-ce qu'on part en vacances? Pour le bonheur!",
+        "La vie est trop courte. Le bonheur est ce qui compte vraiment."
+      ]
+    }
+  }
+}

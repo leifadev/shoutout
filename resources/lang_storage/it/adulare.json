@@ -1,0 +1,19 @@
+{
+  "adulare": {
+    "word": "adulare",
+    "partOfSpeech": "Verb",
+    "language": "Italian",
+    "definitions": {
+      "definition": "to flatter, to adulate, to soft-soap",
+      "parsedExamples": [
+        {
+          "example": "Quel suo modo di adularmi, mi ha esaurito.",
+          "translation": "His/her certain way of flattering me has exhausted me."
+        }
+      ],
+      "examples": [
+        "Quel suo modo di adularmi, mi ha esaurito."
+      ]
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "تسكع": {
+    "word": "تسكع",
+    "partOfSpeech": "Verb",
+    "language": "Arabic",
+    "definitions": {
+      "definition": "to wander about, to gad, to walk without a purpose",
+      "parsedExamples": [
+        {
+          "example": "أَتَسَكَّعُ‎ فِي شَوَارِعِ ٱلْمَدِينَةِ",
+          "transliteration": "ʾatasakkaʿu fī šawāriʿi l-madīnati",
+          "translation": "I wander about the city streets."
+        }
+      ],
+      "examples": [
+        "أَتَسَكَّعُ‎ فِي شَوَارِعِ ٱلْمَدِينَةِ"
+      ]
+    }
+  }
+}

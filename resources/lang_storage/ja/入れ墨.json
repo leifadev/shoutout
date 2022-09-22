@@ -1,0 +1,19 @@
+{
+  "入れ墨": {
+    "word": "入れ墨",
+    "partOfSpeech": "Noun",
+    "language": "Japanese",
+    "definitions": {
+      "definition": "a tattoo (an image made in the skin with ink and a needle)",
+      "parsedExamples": [
+        {
+          "translation": "irezumi (o) suru",
+          "example": "いれずみ（を）する"
+        }
+      ],
+      "examples": [
+        "いれずみ（を）する"
+      ]
+    }
+  }
+}

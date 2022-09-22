@@ -1,0 +1,20 @@
+{
+  "ढेर": {
+    "word": "ढेर",
+    "partOfSpeech": "Noun",
+    "language": "Hindi",
+    "definitions": {
+      "definition": "mass, pile, heap",
+      "parsedExamples": [
+        {
+          "example": "ढेर सारा",
+          "transliteration": "ḍher sārā",
+          "translation": "lots and lots"
+        }
+      ],
+      "examples": [
+        "ढेर सारा"
+      ]
+    }
+  }
+}

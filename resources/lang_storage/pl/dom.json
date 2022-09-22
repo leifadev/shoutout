@@ -1,0 +1,19 @@
+{
+  "dom": {
+    "word": "dom",
+    "partOfSpeech": "Noun",
+    "language": "Polish",
+    "definitions": {
+      "definition": "home",
+      "parsedExamples": [
+        {
+          "example": "Idę do domu.",
+          "translation": "I'm going home."
+        }
+      ],
+      "examples": [
+        "Idę do domu."
+      ]
+    }
+  }
+}

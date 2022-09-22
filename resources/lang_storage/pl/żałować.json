@@ -1,0 +1,19 @@
+{
+  "żałować": {
+    "word": "żałować",
+    "partOfSpeech": "Verb",
+    "language": "Polish",
+    "definitions": {
+      "definition": "to regret (to feel sorry about some past thing)",
+      "parsedExamples": [
+        {
+          "example": "Żałuję, że nie pomogłem.",
+          "translation": "I regret not helping/I wish I had  helped."
+        }
+      ],
+      "examples": [
+        "Żałuję, że nie pomogłem."
+      ]
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "헌법": {
+    "word": "헌법",
+    "partOfSpeech": "Noun",
+    "language": "Korean",
+    "definitions": {
+      "definition": "constitution",
+      "parsedExamples": [
+        {
+          "example": "싱가포르의 완전한 사법적 권한은 싱가포르 헌법에 의해 대법원과 그의 부속 법원에 부여되어 있다.",
+          "transliteration": "Singgaporeu-ui wanjeonhan sabeopjeok gwonhan-eun Singgaporeu heonbeob-e uihae daebeobwon-gwa geuui busok beobwon-e buyeodoeeo itda.",
+          "translation": "The full Judicial power in Singapore is vested in the Supreme Court as well as subordinate courts by the Constitution of Singapore."
+        }
+      ],
+      "examples": [
+        "싱가포르의 완전한 사법적 권한은 싱가포르 헌법에 의해 대법원과 그의 부속 법원에 부여되어 있다."
+      ]
+    }
+  }
+}

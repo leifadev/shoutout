@@ -1,0 +1,19 @@
+{
+  "kränklich": {
+    "word": "kränklich",
+    "partOfSpeech": "Adjective",
+    "language": "German",
+    "definitions": {
+      "definition": "sickly (frequently ill, given to becoming ill, or having the appearance of sickness)",
+      "parsedExamples": [
+        {
+          "example": "ein kränkliches Kind",
+          "translation": "a sickly child"
+        }
+      ],
+      "examples": [
+        "ein kränkliches Kind"
+      ]
+    }
+  }
+}

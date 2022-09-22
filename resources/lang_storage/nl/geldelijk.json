@@ -1,0 +1,19 @@
+{
+  "geldelijk": {
+    "word": "geldelijk",
+    "partOfSpeech": "Adjective",
+    "language": "Dutch",
+    "definitions": {
+      "definition": "monetary, usually consisting of or in the form of money",
+      "parsedExamples": [
+        {
+          "example": "Er was nog geen geldelijke steun toegezegd.",
+          "translation": "No monetary support has been promised yet."
+        }
+      ],
+      "examples": [
+        "Er was nog geen geldelijke steun toegezegd."
+      ]
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "antepasado": {
+    "word": "antepasado",
+    "partOfSpeech": "Adjective",
+    "language": "Spanish",
+    "definitions": {
+      "definition": "before last",
+      "parsedExamples": [
+        {
+          "example": "la semana antepasada",
+          "translation": "the week before last"
+        }
+      ],
+      "examples": [
+        "la semana antepasada"
+      ]
+    }
+  }
+}

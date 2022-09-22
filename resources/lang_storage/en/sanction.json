@@ -1,0 +1,18 @@
+{
+  "sanction": {
+    "word": "sanction",
+    "partOfSpeech": "Noun",
+    "language": "English",
+    "definitions": {
+      "definition": "An approval, by an authority, generally one that makes something valid.",
+      "parsedExamples": [
+        {
+          "example": "The whalers had been operating in the contested waters off the island with sanction from the Japanese government."
+        }
+      ],
+      "examples": [
+        "The whalers had been operating in the contested waters off the island with sanction from the Japanese government."
+      ]
+    }
+  }
+}

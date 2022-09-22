@@ -1,0 +1,20 @@
+{
+  "دعوة": {
+    "word": "دعوة",
+    "partOfSpeech": "Noun",
+    "language": "Arabic",
+    "definitions": {
+      "definition": "verbal noun of دَعَا‎ (daʿā)&nbsp;",
+      "parsedExamples": [
+        {
+          "example": "شُكْرًا عَلَى دَعْوَتِكَ لَنَا إِلَى الْمَقْهَى.",
+          "transliteration": "šukran ʿalā daʿwatika lanā ʾila l-maqhā.",
+          "translation": "Thank you for inviting us to the café."
+        }
+      ],
+      "examples": [
+        "شُكْرًا عَلَى دَعْوَتِكَ لَنَا إِلَى الْمَقْهَى."
+      ]
+    }
+  }
+}

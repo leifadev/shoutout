@@ -1,0 +1,19 @@
+{
+  "確率": {
+    "word": "確率",
+    "partOfSpeech": "Noun",
+    "language": "Japanese",
+    "definitions": {
+      "definition": "probability",
+      "parsedExamples": [
+        {
+          "translation": "Takarakuji ga ataru kakuritsu wa hijō ni hikui.",
+          "example": "宝(たから)くじが当(あ)たる確(かく)率(りつ)は非(ひ)常(じょう)に低(ひく)い。"
+        }
+      ],
+      "examples": [
+        "宝(たから)くじが当(あ)たる確(かく)率(りつ)は非(ひ)常(じょう)に低(ひく)い。"
+      ]
+    }
+  }
+}

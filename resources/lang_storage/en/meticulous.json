@@ -1,0 +1,30 @@
+{
+  "meticulous": {
+    "word": "meticulous",
+    "partOfSpeech": "Adjective",
+    "language": "English",
+    "definitions": {
+      "definition": "Characterized by very precise, conscientious attention to details.",
+      "parsedExamples": [
+        {
+          "example": "meticulous search"
+        },
+        {
+          "example": "meticulous investigation"
+        },
+        {
+          "example": "meticulous knowledge"
+        },
+        {
+          "example": "meticulous report"
+        }
+      ],
+      "examples": [
+        "meticulous search",
+        "meticulous investigation",
+        "meticulous knowledge",
+        "meticulous report"
+      ]
+    }
+  }
+}

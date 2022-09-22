@@ -1,0 +1,24 @@
+{
+  "疑わしい": {
+    "word": "疑わしい",
+    "partOfSpeech": "Adjective",
+    "language": "Japanese",
+    "definitions": {
+      "definition": "doubtful, uncertain, improbable",
+      "parsedExamples": [
+        {
+          "translation": "Are ga honmono ka wa utagawashī.",
+          "example": "あれが本(ほん)物(もの)かは疑(うたが)わしい。"
+        },
+        {
+          "translation": "Kare no shōri wa utagawashī.",
+          "example": "彼(かれ)の勝(しょう)利(り)は疑(うたが)わしい。"
+        }
+      ],
+      "examples": [
+        "あれが本(ほん)物(もの)かは疑(うたが)わしい。",
+        "彼(かれ)の勝(しょう)利(り)は疑(うたが)わしい。"
+      ]
+    }
+  }
+}

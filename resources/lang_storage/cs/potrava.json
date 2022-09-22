@@ -1,0 +1,19 @@
+{
+  "potrava": {
+    "word": "potrava",
+    "partOfSpeech": "Noun",
+    "language": "Czech",
+    "definitions": {
+      "definition": "food",
+      "parsedExamples": [
+        {
+          "example": "příjem potravy",
+          "translation": "food intake"
+        }
+      ],
+      "examples": [
+        "příjem potravy"
+      ]
+    }
+  }
+}

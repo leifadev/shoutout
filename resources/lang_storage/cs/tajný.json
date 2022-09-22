@@ -1,0 +1,19 @@
+{
+  "tajný": {
+    "word": "tajný",
+    "partOfSpeech": "Adjective",
+    "language": "Czech",
+    "definitions": {
+      "definition": "secret",
+      "parsedExamples": [
+        {
+          "example": "tajná služba",
+          "translation": "intelligence, secret service"
+        }
+      ],
+      "examples": [
+        "tajná služba"
+      ]
+    }
+  }
+}

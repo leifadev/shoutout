@@ -1,0 +1,20 @@
+{
+  "образец": {
+    "word": "образец",
+    "partOfSpeech": "Noun",
+    "language": "Russian",
+    "definitions": {
+      "definition": "specimen",
+      "parsedExamples": [
+        {
+          "example": "Э́то соверше́нный по красоте́ образе́ц.",
+          "transliteration": "Éto soveršénnyj po krasoté obrazéc.",
+          "translation": "This is an extremely beautiful specimen."
+        }
+      ],
+      "examples": [
+        "Э́то соверше́нный по красоте́ образе́ц."
+      ]
+    }
+  }
+}

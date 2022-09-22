@@ -1,0 +1,24 @@
+{
+  "aller": {
+    "word": "aller",
+    "partOfSpeech": "Verb",
+    "language": "French",
+    "definitions": {
+      "definition": "to go [+ à (location) = to]",
+      "parsedExamples": [
+        {
+          "example": "Je vais au magasin.",
+          "translation": "I'm going to the store."
+        },
+        {
+          "example": "On y va.",
+          "translation": "Let's go."
+        }
+      ],
+      "examples": [
+        "Je vais au magasin.",
+        "On y va."
+      ]
+    }
+  }
+}

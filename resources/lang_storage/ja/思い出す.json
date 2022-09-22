@@ -1,0 +1,19 @@
+{
+  "思い出す": {
+    "word": "思い出す",
+    "partOfSpeech": "Verb",
+    "language": "Japanese",
+    "definitions": {
+      "definition": "remember, recall",
+      "parsedExamples": [
+        {
+          "translation": "Kare no namae ga omoidasenai.",
+          "example": "彼(かれ)の名前(なまえ)が思(おも)い出(だ)せない。"
+        }
+      ],
+      "examples": [
+        "彼(かれ)の名前(なまえ)が思(おも)い出(だ)せない。"
+      ]
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "misschien": {
+    "word": "misschien",
+    "partOfSpeech": "Adverb",
+    "language": "Dutch",
+    "definitions": {
+      "definition": "perhaps, maybe",
+      "parsedExamples": [
+        {
+          "example": "Heeft u misschien een euro?",
+          "translation": "Do you maybe have a euro?"
+        }
+      ],
+      "examples": [
+        "Heeft u misschien een euro?"
+      ]
+    }
+  }
+}

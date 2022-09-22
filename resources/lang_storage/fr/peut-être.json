@@ -1,0 +1,23 @@
+{
+  "peut-être": {
+    "word": "peut-être",
+    "partOfSpeech": "Adverb",
+    "language": "French",
+    "definitions": {
+      "definition": "maybe, perhaps",
+      "parsedExamples": [
+        {
+          "example": "Peut-être que je vais bientôt partir."
+        },
+        {
+          "example": "Est-ce que tu veux venir avec moi demain? Peut-être.",
+          "translation": "Do you want to come with me tomorrow? Maybe."
+        }
+      ],
+      "examples": [
+        "Peut-être que je vais bientôt partir.",
+        "Est-ce que tu veux venir avec moi demain? Peut-être."
+      ]
+    }
+  }
+}

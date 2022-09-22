@@ -1,0 +1,18 @@
+{
+  "devise": {
+    "word": "devise",
+    "partOfSpeech": "Verb",
+    "language": "English",
+    "definitions": {
+      "definition": "To use one’s intellect to plan or design (something).",
+      "parsedExamples": [
+        {
+          "example": "to devise an argument; to devise a machine, or a new system of writing"
+        }
+      ],
+      "examples": [
+        "to devise an argument; to devise a machine, or a new system of writing"
+      ]
+    }
+  }
+}

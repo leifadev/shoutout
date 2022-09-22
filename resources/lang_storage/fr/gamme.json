@@ -1,0 +1,19 @@
+{
+  "gamme": {
+    "word": "gamme",
+    "partOfSpeech": "Noun",
+    "language": "French",
+    "definitions": {
+      "definition": "musical scale",
+      "parsedExamples": [
+        {
+          "example": "En musique, une gamme est un ensemble de sons, appelés degrés, formant le cadre dans lequel se bâtit une œuvre musicale.",
+          "translation": "In music, a scale is a set of sounds, called degrees, forming the framework in which a musical work is constructed."
+        }
+      ],
+      "examples": [
+        "En musique, une gamme est un ensemble de sons, appelés degrés, formant le cadre dans lequel se bâtit une œuvre musicale."
+      ]
+    }
+  }
+}

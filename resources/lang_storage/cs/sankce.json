@@ -1,0 +1,19 @@
+{
+  "sankce": {
+    "word": "sankce",
+    "partOfSpeech": "Noun",
+    "language": "Czech",
+    "definitions": {
+      "definition": "penalty, sanction",
+      "parsedExamples": [
+        {
+          "example": "uložit sankce.",
+          "translation": "to impose sanctions."
+        }
+      ],
+      "examples": [
+        "uložit sankce."
+      ]
+    }
+  }
+}

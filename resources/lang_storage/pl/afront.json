@@ -1,0 +1,49 @@
+{
+  "afront": {
+    "word": "afront",
+    "partOfSpeech": "Noun",
+    "language": "Polish",
+    "definitions": {
+      "definition": "affront (insult)",
+      "parsedExamples": [
+        {
+          "example": "osobisty afront",
+          "translation": "a personal affront"
+        },
+        {
+          "example": "dyplomatyczny afront",
+          "translation": "a tactful affront"
+        },
+        {
+          "example": "publiczny afront",
+          "translation": "a public affront"
+        },
+        {
+          "example": "kolejny afront",
+          "translation": "the next affront"
+        },
+        {
+          "example": "podobny afront",
+          "translation": "a similar affront"
+        },
+        {
+          "example": "czynić/uczynić afront",
+          "translation": "to commit an affront"
+        },
+        {
+          "example": "robić/zrobić afront",
+          "translation": "to affront"
+        }
+      ],
+      "examples": [
+        "osobisty afront",
+        "dyplomatyczny afront",
+        "publiczny afront",
+        "kolejny afront",
+        "podobny afront",
+        "czynić/uczynić afront",
+        "robić/zrobić afront"
+      ]
+    }
+  }
+}

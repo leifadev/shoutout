@@ -1,0 +1,22 @@
+{
+  "désuétude": {
+    "word": "désuétude",
+    "partOfSpeech": "Noun",
+    "language": "French",
+    "definitions": {
+      "definition": "disuse, obsolescence",
+      "parsedExamples": [
+        {
+          "example": "laisser tomber en désuétude une coutume barbare"
+        },
+        {
+          "example": "C'est un terme tombé en désuétude depuis des années."
+        }
+      ],
+      "examples": [
+        "laisser tomber en désuétude une coutume barbare",
+        "C'est un terme tombé en désuétude depuis des années."
+      ]
+    }
+  }
+}

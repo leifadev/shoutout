@@ -1,0 +1,19 @@
+{
+  "mořidlo": {
+    "word": "mořidlo",
+    "partOfSpeech": "Noun",
+    "language": "Czech",
+    "definitions": {
+      "definition": "wood stain, mordant, cirage",
+      "parsedExamples": [
+        {
+          "example": "vodové mořidlo",
+          "translation": "water stain"
+        }
+      ],
+      "examples": [
+        "vodové mořidlo"
+      ]
+    }
+  }
+}

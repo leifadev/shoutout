@@ -1,0 +1,19 @@
+{
+  "bravo": {
+    "word": "bravo",
+    "partOfSpeech": "Adjective",
+    "language": "Portuguese",
+    "definitions": {
+      "definition": "angry; furious, annoyed",
+      "parsedExamples": [
+        {
+          "example": "Fico bravo quando você entra sem bater.",
+          "translation": "I get angry when you enter without knocking first."
+        }
+      ],
+      "examples": [
+        "Fico bravo quando você entra sem bater."
+      ]
+    }
+  }
+}

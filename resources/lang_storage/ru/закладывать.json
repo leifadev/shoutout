@@ -1,0 +1,26 @@
+{
+  "закладывать": {
+    "word": "закладывать",
+    "partOfSpeech": "Verb",
+    "language": "Russian",
+    "definitions": {
+      "definition": "to put, to lay, to place",
+      "parsedExamples": [
+        {
+          "example": "закла́дывать страни́цу",
+          "transliteration": "zakládyvatʹ stranícu",
+          "translation": "to mark a page, to put in a bookmark"
+        },
+        {
+          "example": "закла́дывать за воротни́к",
+          "transliteration": "zakládyvatʹ za vorotník",
+          "translation": "to put away a lot of booze"
+        }
+      ],
+      "examples": [
+        "закла́дывать страни́цу",
+        "закла́дывать за воротни́к"
+      ]
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "abdykować": {
+    "word": "abdykować",
+    "partOfSpeech": "Verb",
+    "language": "Polish",
+    "definitions": {
+      "definition": "to abdicate (To surrender, renounce or relinquish, as sovereign power)",
+      "parsedExamples": [
+        {
+          "example": "król abdykował",
+          "translation": "a king abdicated"
+        },
+        {
+          "example": "abdykować na rzecz kogoś",
+          "translation": "to abdicate on behalf of someone"
+        }
+      ],
+      "examples": [
+        "król abdykował",
+        "abdykować na rzecz kogoś"
+      ]
+    }
+  }
+}

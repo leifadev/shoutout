@@ -1,0 +1,24 @@
+{
+  "pokuta": {
+    "word": "pokuta",
+    "partOfSpeech": "Noun",
+    "language": "Czech",
+    "definitions": {
+      "definition": "fine (payment or fee)",
+      "parsedExamples": [
+        {
+          "example": "Proč mám platit pokutu?",
+          "translation": "Why do I have to pay the fine?"
+        },
+        {
+          "example": "uložit pokutu.",
+          "translation": "to impose a fine."
+        }
+      ],
+      "examples": [
+        "Proč mám platit pokutu?",
+        "uložit pokutu."
+      ]
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "उचित": {
+    "word": "उचित",
+    "partOfSpeech": "Adjective",
+    "language": "Hindi",
+    "definitions": {
+      "definition": "appropriate, proper, fitting",
+      "parsedExamples": [
+        {
+          "example": "श्री पुण्ड को अपनी बेटी का घर लौटना उचित लगा।",
+          "transliteration": "śrī puṇḍ ko apnī beṭī kā ghar lauṭnā ucit lagā.",
+          "translation": "Mr. Punda thought it fitting that his daughter return home."
+        }
+      ],
+      "examples": [
+        "श्री पुण्ड को अपनी बेटी का घर लौटना उचित लगा।"
+      ]
+    }
+  }
+}

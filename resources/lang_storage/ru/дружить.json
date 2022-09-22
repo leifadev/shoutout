@@ -1,0 +1,20 @@
+{
+  "дружить": {
+    "word": "дружить",
+    "partOfSpeech": "Verb",
+    "language": "Russian",
+    "definitions": {
+      "definition": "to be friends (with), to be on friendly terms (with)",
+      "parsedExamples": [
+        {
+          "example": "дружи́ть с сосе́дями",
+          "transliteration": "družítʹ s sosédjami",
+          "translation": "to be friends with the neighbors"
+        }
+      ],
+      "examples": [
+        "дружи́ть с сосе́дями"
+      ]
+    }
+  }
+}

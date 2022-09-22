@@ -1,0 +1,19 @@
+{
+  "migraña": {
+    "word": "migraña",
+    "partOfSpeech": "Noun",
+    "language": "Spanish",
+    "definitions": {
+      "definition": "migraine",
+      "parsedExamples": [
+        {
+          "example": "Ella tenía una migraña muy fuerte y no pudo salir de casa en todo el día.",
+          "translation": "She had a very bad migraine and could not leave the house all day."
+        }
+      ],
+      "examples": [
+        "Ella tenía una migraña muy fuerte y no pudo salir de casa en todo el día."
+      ]
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "test": {
+    "word": "test",
+    "partOfSpeech": "Noun",
+    "language": "Czech",
+    "definitions": {
+      "definition": "test",
+      "parsedExamples": [
+        {
+          "example": "provést test",
+          "translation": "to perform a test"
+        }
+      ],
+      "examples": [
+        "provést test"
+      ]
+    }
+  }
+}

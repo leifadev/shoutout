@@ -1,0 +1,19 @@
+{
+  "光る": {
+    "word": "光る",
+    "partOfSpeech": "Verb",
+    "language": "Japanese",
+    "definitions": {
+      "definition": "to shine, gleam, glitter",
+      "parsedExamples": [
+        {
+          "translation": "pikapika hikaru",
+          "example": "ピカピカ光(ひか)る"
+        }
+      ],
+      "examples": [
+        "ピカピカ光(ひか)る"
+      ]
+    }
+  }
+}

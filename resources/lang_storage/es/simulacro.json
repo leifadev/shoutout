@@ -1,0 +1,19 @@
+{
+  "simulacro": {
+    "word": "simulacro",
+    "partOfSpeech": "Noun",
+    "language": "Spanish",
+    "definitions": {
+      "definition": "drill, fire drill",
+      "parsedExamples": [
+        {
+          "example": "¡Atención! ¡Esto no es un simulacro!",
+          "translation": "Attention! This is not a drill!"
+        }
+      ],
+      "examples": [
+        "¡Atención! ¡Esto no es un simulacro!"
+      ]
+    }
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "biopaliwo": {
+    "word": "biopaliwo",
+    "partOfSpeech": "Noun",
+    "language": "Polish",
+    "definitions": {
+      "definition": "biofuel",
+      "parsedExamples": [
+        {
+          "example": "biopaliwa ciekłe",
+          "translation": "liquid biofuels"
+        },
+        {
+          "example": "biopaliwa z rzepaku",
+          "translation": "rapeseed biofuel"
+        },
+        {
+          "example": "wytwórnia biopaliwa",
+          "translation": "biofuel manufacturing plant"
+        },
+        {
+          "example": "producent biopaliw",
+          "translation": "producer of biofuels"
+        },
+        {
+          "example": "fabryka biopaliw",
+          "translation": "biofuel factory"
+        },
+        {
+          "example": "zakład biopaliw",
+          "translation": "biofuel plant"
+        },
+        {
+          "example": "rynek biopaliw",
+          "translation": "biofuel market"
+        },
+        {
+          "example": "obrót biopaliw",
+          "translation": "biofuel turnover (on the market)"
+        },
+        {
+          "example": "produkcja biopaliw",
+          "translation": "biofuel production"
+        },
+        {
+          "example": "rozwój biopaliw",
+          "translation": "biofuel development"
+        },
+        {
+          "example": "sprzedaż biopaliw",
+          "translation": "biofuel sale"
+        },
+        {
+          "example": "kwestia biopaliw",
+          "translation": "the issue of biofuel"
+        },
+        {
+          "example": "temat biopaliw",
+          "translation": "the subject of biofuel"
+        },
+        {
+          "example": "udział biopaliw w czymś",
+          "translation": "the participation of biofuel in something"
+        },
+        {
+          "example": "rzepak na biopaliwa",
+          "translation": "rapeseed for biofuel"
+        },
+        {
+          "example": "popyt na biopaliwa",
+          "translation": "demand for biofuel"
+        },
+        {
+          "example": "ustawa o biopaliwach",
+          "translation": "legislation on biofuel"
+        },
+        {
+          "example": "stosowanie biopaliw",
+          "translation": "application of biofuel"
+        },
+        {
+          "example": "wprowadzenie biopaliw",
+          "translation": "implementation of biofuel"
+        },
+        {
+          "example": "wykorzystanie biopaliw",
+          "translation": "use of biofuel"
+        },
+        {
+          "example": "wytwarzanie  biopaliw",
+          "translation": "production of biofuel"
+        }
+      ],
+      "examples": [
+        "biopaliwa ciekłe",
+        "biopaliwa z rzepaku",
+        "wytwórnia biopaliwa",
+        "producent biopaliw",
+        "fabryka biopaliw",
+        "zakład biopaliw",
+        "rynek biopaliw",
+        "obrót biopaliw",
+        "produkcja biopaliw",
+        "rozwój biopaliw",
+        "sprzedaż biopaliw",
+        "kwestia biopaliw",
+        "temat biopaliw",
+        "udział biopaliw w czymś",
+        "rzepak na biopaliwa",
+        "popyt na biopaliwa",
+        "ustawa o biopaliwach",
+        "stosowanie biopaliw",
+        "wprowadzenie biopaliw",
+        "wykorzystanie biopaliw",
+        "wytwarzanie  biopaliw"
+      ]
+    }
+  }
+}

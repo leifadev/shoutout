@@ -1,0 +1,20 @@
+{
+  "예의": {
+    "word": "예의",
+    "partOfSpeech": "Noun",
+    "language": "Korean",
+    "definitions": {
+      "definition": "manners; etiquette; politeness",
+      "parsedExamples": [
+        {
+          "example": "걔는 예의가 없어.",
+          "transliteration": "Gyae-neun yeuiga eopseo.",
+          "translation": "He has no manners."
+        }
+      ],
+      "examples": [
+        "걔는 예의가 없어."
+      ]
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "dodržet": {
+    "word": "dodržet",
+    "partOfSpeech": "Verb",
+    "language": "Czech",
+    "definitions": {
+      "definition": "to keep (of promise)",
+      "parsedExamples": [
+        {
+          "example": "Svůj slib dodržela.",
+          "translation": "She has kept her promise."
+        }
+      ],
+      "examples": [
+        "Svůj slib dodržela."
+      ]
+    }
+  }
+}

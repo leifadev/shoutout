@@ -1,0 +1,18 @@
+{
+  "fructueux": {
+    "word": "fructueux",
+    "partOfSpeech": "Adjective",
+    "language": "French",
+    "definitions": {
+      "definition": "fruitful",
+      "parsedExamples": [
+        {
+          "example": "des fructueuses collaborations économiques"
+        }
+      ],
+      "examples": [
+        "des fructueuses collaborations économiques"
+      ]
+    }
+  }
+}

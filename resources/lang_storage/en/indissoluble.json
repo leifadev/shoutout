@@ -1,0 +1,22 @@
+{
+  "indissoluble": {
+    "word": "indissoluble",
+    "partOfSpeech": "Adjective",
+    "language": "English",
+    "definitions": {
+      "definition": "Lasting; indestructible; not possible to dissolve, disintegrate or break up.",
+      "parsedExamples": [
+        {
+          "example": "It connected in one indissoluble bond."
+        },
+        {
+          "example": "They have an indissoluble friendship."
+        }
+      ],
+      "examples": [
+        "It connected in one indissoluble bond.",
+        "They have an indissoluble friendship."
+      ]
+    }
+  }
+}

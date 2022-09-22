@@ -1,0 +1,19 @@
+{
+  "diurno": {
+    "word": "diurno",
+    "partOfSpeech": "Adjective",
+    "language": "Italian",
+    "definitions": {
+      "definition": "diurnal",
+      "parsedExamples": [
+        {
+          "example": "animale diurno",
+          "translation": "diurnal animal"
+        }
+      ],
+      "examples": [
+        "animale diurno"
+      ]
+    }
+  }
+}

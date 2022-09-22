@@ -1,0 +1,22 @@
+{
+  "extricate": {
+    "word": "extricate",
+    "partOfSpeech": "Verb",
+    "language": "English",
+    "definitions": {
+      "definition": "To free, disengage, loosen, or untangle.",
+      "parsedExamples": [
+        {
+          "example": "I finally managed to extricate myself from the tight jacket."
+        },
+        {
+          "example": "The firefighters had to use the jaws of life to extricate Monica from the car wreck."
+        }
+      ],
+      "examples": [
+        "I finally managed to extricate myself from the tight jacket.",
+        "The firefighters had to use the jaws of life to extricate Monica from the car wreck."
+      ]
+    }
+  }
+}

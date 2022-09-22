@@ -1,0 +1,19 @@
+{
+  "ضالة": {
+    "word": "ضالة",
+    "partOfSpeech": "Noun",
+    "language": "Arabic",
+    "definitions": {
+      "definition": "a lost thing, a stray",
+      "parsedExamples": [
+        {
+          "example": "وَجَدَ ضَالَّتَهُ",
+          "transliteration": "wajada ḍāllatahu"
+        }
+      ],
+      "examples": [
+        "وَجَدَ ضَالَّتَهُ"
+      ]
+    }
+  }
+}

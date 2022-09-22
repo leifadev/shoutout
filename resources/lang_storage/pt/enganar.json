@@ -1,0 +1,24 @@
+{
+  "enganar": {
+    "word": "enganar",
+    "partOfSpeech": "Verb",
+    "language": "Portuguese",
+    "definitions": {
+      "definition": "to deceive",
+      "parsedExamples": [
+        {
+          "example": "Não o engane.",
+          "translation": "Don't deceive him."
+        },
+        {
+          "example": "As aparências enganam.",
+          "translation": "Appearances are deceiving."
+        }
+      ],
+      "examples": [
+        "Não o engane.",
+        "As aparências enganam."
+      ]
+    }
+  }
+}

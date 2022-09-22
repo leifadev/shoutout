@@ -1,0 +1,19 @@
+{
+  "travailler": {
+    "word": "travailler",
+    "partOfSpeech": "Verb",
+    "language": "French",
+    "definitions": {
+      "definition": "to work",
+      "parsedExamples": [
+        {
+          "example": "Il ne fait que travailler.",
+          "translation": "All he does is work."
+        }
+      ],
+      "examples": [
+        "Il ne fait que travailler."
+      ]
+    }
+  }
+}

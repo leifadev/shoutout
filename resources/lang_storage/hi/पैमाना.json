@@ -1,0 +1,20 @@
+{
+  "पैमाना": {
+    "word": "पैमाना",
+    "partOfSpeech": "Noun",
+    "language": "Hindi",
+    "definitions": {
+      "definition": "scale, magnitude",
+      "parsedExamples": [
+        {
+          "example": "इस पैमाने पर",
+          "transliteration": "is paimāne par",
+          "translation": "at this scale"
+        }
+      ],
+      "examples": [
+        "इस पैमाने पर"
+      ]
+    }
+  }
+}

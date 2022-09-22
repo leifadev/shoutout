@@ -1,0 +1,22 @@
+{
+  "gebrek": {
+    "word": "gebrek",
+    "partOfSpeech": "Noun",
+    "language": "Dutch",
+    "definitions": {
+      "definition": "lack",
+      "parsedExamples": [
+        {
+          "example": "een gebrek aan ... — a lack of ..."
+        },
+        {
+          "example": "een gebrek hebben aan ... — to lack ... (literally: to have a lack of ...)"
+        }
+      ],
+      "examples": [
+        "een gebrek aan ... — a lack of ...",
+        "een gebrek hebben aan ... — to lack ... (literally: to have a lack of ...)"
+      ]
+    }
+  }
+}

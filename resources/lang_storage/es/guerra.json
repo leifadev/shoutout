@@ -1,0 +1,19 @@
+{
+  "guerra": {
+    "word": "guerra",
+    "partOfSpeech": "Noun",
+    "language": "Spanish",
+    "definitions": {
+      "definition": "war, warfare",
+      "parsedExamples": [
+        {
+          "example": "La guerra entre los Estados Unidos e Irak",
+          "translation": "The war between the United States and Iraq"
+        }
+      ],
+      "examples": [
+        "La guerra entre los Estados Unidos e Irak"
+      ]
+    }
+  }
+}

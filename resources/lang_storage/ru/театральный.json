@@ -1,0 +1,26 @@
+{
+  "театральный": {
+    "word": "театральный",
+    "partOfSpeech": "Adjective",
+    "language": "Russian",
+    "definitions": {
+      "definition": "theater; theatrical",
+      "parsedExamples": [
+        {
+          "example": "театра́льный зал",
+          "transliteration": "teatrálʹnyj zal",
+          "translation": "theater hall"
+        },
+        {
+          "example": "театра́льная усло́вность",
+          "transliteration": "teatrálʹnaja uslóvnostʹ",
+          "translation": "theatrical convention"
+        }
+      ],
+      "examples": [
+        "театра́льный зал",
+        "театра́льная усло́вность"
+      ]
+    }
+  }
+}

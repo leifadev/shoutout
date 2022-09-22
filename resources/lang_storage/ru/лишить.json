@@ -1,0 +1,20 @@
+{
+  "лишить": {
+    "word": "лишить",
+    "partOfSpeech": "Verb",
+    "language": "Russian",
+    "definitions": {
+      "definition": "to deprive, to rob, to bereave",
+      "parsedExamples": [
+        {
+          "example": "они́ лишены́ самого коренно́го права",
+          "transliteration": "oní lišený samovo korennóvo prava",
+          "translation": "they are deprived of the most fundamental rights"
+        }
+      ],
+      "examples": [
+        "они́ лишены́ самого коренно́го права"
+      ]
+    }
+  }
+}

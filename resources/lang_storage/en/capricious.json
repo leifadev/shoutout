@@ -1,0 +1,22 @@
+{
+  "capricious": {
+    "word": "capricious",
+    "partOfSpeech": "Adjective",
+    "language": "English",
+    "definitions": {
+      "definition": "Impulsive and unpredictable; determined by chance, impulse, or whim.",
+      "parsedExamples": [
+        {
+          "example": "I almost died in a capricious winter storm."
+        },
+        {
+          "example": "Stringent rulers are unlikely to act capriciously."
+        }
+      ],
+      "examples": [
+        "I almost died in a capricious winter storm.",
+        "Stringent rulers are unlikely to act capriciously."
+      ]
+    }
+  }
+}

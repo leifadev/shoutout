@@ -1,0 +1,26 @@
+{
+  "राज": {
+    "word": "राज",
+    "partOfSpeech": "Noun",
+    "language": "Hindi",
+    "definitions": {
+      "definition": "reign, rule",
+      "parsedExamples": [
+        {
+          "example": "अंग्रेज़ों ने मुग़ल राज ख़त्म करवा दिया।",
+          "transliteration": "aṅgrezõ ne muġal rāj xatma karvā diyā.",
+          "translation": "The British forced Mughal rule to end."
+        },
+        {
+          "example": "ब्रिटिश राज",
+          "transliteration": "briṭiś rāj",
+          "translation": "British Raj"
+        }
+      ],
+      "examples": [
+        "अंग्रेज़ों ने मुग़ल राज ख़त्म करवा दिया।",
+        "ब्रिटिश राज"
+      ]
+    }
+  }
+}

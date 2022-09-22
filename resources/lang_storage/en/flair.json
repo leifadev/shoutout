@@ -1,0 +1,18 @@
+{
+  "flair": {
+    "word": "flair",
+    "partOfSpeech": "Noun",
+    "language": "English",
+    "definitions": {
+      "definition": "A natural or innate talent or aptitude.",
+      "parsedExamples": [
+        {
+          "example": "to have a flair for art"
+        }
+      ],
+      "examples": [
+        "to have a flair for art"
+      ]
+    }
+  }
+}

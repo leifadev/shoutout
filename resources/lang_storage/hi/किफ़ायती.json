@@ -1,0 +1,20 @@
+{
+  "किफ़ायती": {
+    "word": "किफ़ायती",
+    "partOfSpeech": "Adjective",
+    "language": "Hindi",
+    "definitions": {
+      "definition": "economical, thrifty; inexpensive",
+      "parsedExamples": [
+        {
+          "example": "हवाई अड्डे तक छोटी टैक्सी लेना किफ़ायती होगा।",
+          "transliteration": "havāī aḍḍe tak choṭī ṭaiksī lenā kifāytī hogā.",
+          "translation": "It will be economical to take a small taxi to the airport."
+        }
+      ],
+      "examples": [
+        "हवाई अड्डे तक छोटी टैक्सी लेना किफ़ायती होगा।"
+      ]
+    }
+  }
+}

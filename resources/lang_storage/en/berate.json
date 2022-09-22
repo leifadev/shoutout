@@ -1,0 +1,18 @@
+{
+  "berate": {
+    "word": "berate",
+    "partOfSpeech": "Verb",
+    "language": "English",
+    "definitions": {
+      "definition": "to chide or scold vehemently",
+      "parsedExamples": [
+        {
+          "example": "What society tells people, that they could do whatever they want to dissidents, and yet berates anyone for treating them well?"
+        }
+      ],
+      "examples": [
+        "What society tells people, that they could do whatever they want to dissidents, and yet berates anyone for treating them well?"
+      ]
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "ручной": {
+    "word": "ручной",
+    "partOfSpeech": "Adjective",
+    "language": "Russian",
+    "definitions": {
+      "definition": "hand; manual",
+      "parsedExamples": [
+        {
+          "example": "ручна́я кладь",
+          "transliteration": "ručnája kladʹ",
+          "translation": "hand luggage"
+        }
+      ],
+      "examples": [
+        "ручна́я кладь"
+      ]
+    }
+  }
+}

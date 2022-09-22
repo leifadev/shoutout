@@ -1,0 +1,19 @@
+{
+  "lievito": {
+    "word": "lievito",
+    "partOfSpeech": "Noun",
+    "language": "Italian",
+    "definitions": {
+      "definition": "yeast",
+      "parsedExamples": [
+        {
+          "example": "Il lievito fa fermentare la birra.",
+          "translation": "Yeast makes beer ferment."
+        }
+      ],
+      "examples": [
+        "Il lievito fa fermentare la birra."
+      ]
+    }
+  }
+}

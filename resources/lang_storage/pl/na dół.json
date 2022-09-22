@@ -1,0 +1,19 @@
+{
+  "na dół": {
+    "word": "na dół",
+    "partOfSpeech": "Adverb",
+    "language": "Polish",
+    "definitions": {
+      "definition": "down, downstairs (to a lower floor or storey)",
+      "parsedExamples": [
+        {
+          "example": "Idę na dół.",
+          "translation": "I'm going downstairs."
+        }
+      ],
+      "examples": [
+        "Idę na dół."
+      ]
+    }
+  }
+}

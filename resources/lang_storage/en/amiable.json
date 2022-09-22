@@ -1,0 +1,22 @@
+{
+  "amiable": {
+    "word": "amiable",
+    "partOfSpeech": "Adjective",
+    "language": "English",
+    "definitions": {
+      "definition": "Friendly; kind; sweet; gracious",
+      "parsedExamples": [
+        {
+          "example": "an amiable temper"
+        },
+        {
+          "example": "amiable ideas"
+        }
+      ],
+      "examples": [
+        "an amiable temper",
+        "amiable ideas"
+      ]
+    }
+  }
+}

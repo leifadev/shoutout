@@ -1,0 +1,19 @@
+{
+  "evitar": {
+    "word": "evitar",
+    "partOfSpeech": "Verb",
+    "language": "Spanish",
+    "definitions": {
+      "definition": "to avoid, to bypass, to evade, to circumvent, to dodge, to shun, to eschew (to steer clear of)",
+      "parsedExamples": [
+        {
+          "example": "Después de haberlo evitado muchas horas, acabó por decirnos la verdad.",
+          "translation": "After having avoided it for several hours, he ended up telling us the truth."
+        }
+      ],
+      "examples": [
+        "Después de haberlo evitado muchas horas, acabó por decirnos la verdad."
+      ]
+    }
+  }
+}

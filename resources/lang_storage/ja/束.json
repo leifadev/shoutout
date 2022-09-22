@@ -1,0 +1,19 @@
+{
+  "束": {
+    "word": "束",
+    "partOfSpeech": "Noun",
+    "language": "Japanese",
+    "definitions": {
+      "definition": "bundle, bunch, batch, sheaf, coil",
+      "parsedExamples": [
+        {
+          "translation": "kare wa furui tegami o taba ni shita",
+          "example": "彼(かれ)は古(ふる)い手(て)紙(がみ)を束(たば)にした"
+        }
+      ],
+      "examples": [
+        "彼(かれ)は古(ふる)い手(て)紙(がみ)を束(たば)にした"
+      ]
+    }
+  }
+}

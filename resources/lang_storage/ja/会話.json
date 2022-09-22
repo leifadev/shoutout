@@ -1,0 +1,19 @@
+{
+  "会話": {
+    "word": "会話",
+    "partOfSpeech": "Noun",
+    "language": "Japanese",
+    "definitions": {
+      "definition": "conversation",
+      "parsedExamples": [
+        {
+          "translation": "eikaiwa no gakkō",
+          "example": "英(えい)会話(かいわ)の学校(がっこう)"
+        }
+      ],
+      "examples": [
+        "英(えい)会話(かいわ)の学校(がっこう)"
+      ]
+    }
+  }
+}

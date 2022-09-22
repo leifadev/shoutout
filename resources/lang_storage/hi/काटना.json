@@ -1,0 +1,20 @@
+{
+  "काटना": {
+    "word": "काटना",
+    "partOfSpeech": "Verb",
+    "language": "Hindi",
+    "definitions": {
+      "definition": "to cut, slice",
+      "parsedExamples": [
+        {
+          "example": "तर्बूज़े को काटकर चाकू वापस रख देना।",
+          "transliteration": "tarbūze ko kāṭkar cākū vāpas rakh denā.",
+          "translation": "Keep the knife back after cutting the watermelon."
+        }
+      ],
+      "examples": [
+        "तर्बूज़े को काटकर चाकू वापस रख देना।"
+      ]
+    }
+  }
+}

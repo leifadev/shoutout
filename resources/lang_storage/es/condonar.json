@@ -1,0 +1,19 @@
+{
+  "condonar": {
+    "word": "condonar",
+    "partOfSpeech": "Verb",
+    "language": "Spanish",
+    "definitions": {
+      "definition": "to remit",
+      "parsedExamples": [
+        {
+          "example": "condonar la pena",
+          "translation": "remit the sentence"
+        }
+      ],
+      "examples": [
+        "condonar la pena"
+      ]
+    }
+  }
+}

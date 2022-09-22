@@ -1,0 +1,20 @@
+{
+  "그물": {
+    "word": "그물",
+    "partOfSpeech": "Noun",
+    "language": "Korean",
+    "definitions": {
+      "definition": "net, fishnet",
+      "parsedExamples": [
+        {
+          "example": "그물이 삼천 코라도 벼리가 으뜸.",
+          "transliteration": "Geumur-i samcheon kora-do byeori-ga eutteum.",
+          "translation": "The manipulation rope is the top-flight of a fishnet that even has as many as three thousand meshes."
+        }
+      ],
+      "examples": [
+        "그물이 삼천 코라도 벼리가 으뜸."
+      ]
+    }
+  }
+}

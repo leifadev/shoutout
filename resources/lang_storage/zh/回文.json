@@ -1,0 +1,10 @@
+{
+  "回文": {
+    "word": "回文",
+    "partOfSpeech": "Noun",
+    "language": "Chinese",
+    "definitions": {
+      "definition": "palindrome"
+    }
+  }
+}

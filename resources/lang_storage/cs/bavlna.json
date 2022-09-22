@@ -1,0 +1,19 @@
+{
+  "bavlna": {
+    "word": "bavlna",
+    "partOfSpeech": "Noun",
+    "language": "Czech",
+    "definitions": {
+      "definition": "cotton (the textile made from the fiber harvested from the cotton plant)",
+      "parsedExamples": [
+        {
+          "example": "Je to čistá bavlna?",
+          "translation": "Is it pure cotton?"
+        }
+      ],
+      "examples": [
+        "Je to čistá bavlna?"
+      ]
+    }
+  }
+}

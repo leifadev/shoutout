@@ -1,0 +1,20 @@
+{
+  "превозносить": {
+    "word": "превозносить",
+    "partOfSpeech": "Verb",
+    "language": "Russian",
+    "definitions": {
+      "definition": "to extol, to praise",
+      "parsedExamples": [
+        {
+          "example": "превозноси́ть до небе́с",
+          "transliteration": "prevoznosítʹ do nebés",
+          "translation": "to praise to the skies"
+        }
+      ],
+      "examples": [
+        "превозноси́ть до небе́с"
+      ]
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "gostoso": {
+    "word": "gostoso",
+    "partOfSpeech": "Adjective",
+    "language": "Portuguese",
+    "definitions": {
+      "definition": "tasty, tasteful",
+      "parsedExamples": [
+        {
+          "example": "Este vinho é gostoso.",
+          "translation": "This wine is tasty."
+        }
+      ],
+      "examples": [
+        "Este vinho é gostoso."
+      ]
+    }
+  }
+}

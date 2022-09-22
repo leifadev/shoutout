@@ -1,0 +1,19 @@
+{
+  "zavázat": {
+    "word": "zavázat",
+    "partOfSpeech": "Verb",
+    "language": "Czech",
+    "definitions": {
+      "definition": "to tie (to secure something by tying a string or the like)",
+      "parsedExamples": [
+        {
+          "example": "Zavaž si boty.",
+          "translation": "Tie your shoes."
+        }
+      ],
+      "examples": [
+        "Zavaž si boty."
+      ]
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "مسجد": {
+    "word": "مسجد",
+    "partOfSpeech": "Noun",
+    "language": "Arabic",
+    "definitions": {
+      "definition": "mosque",
+      "parsedExamples": [
+        {
+          "example": "مَسْجِد جَامِع",
+          "transliteration": "masjid jāmiʿ",
+          "translation": "central mosque, great mosque"
+        }
+      ],
+      "examples": [
+        "مَسْجِد جَامِع"
+      ]
+    }
+  }
+}

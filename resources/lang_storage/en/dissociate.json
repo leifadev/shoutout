@@ -1,0 +1,18 @@
+{
+  "dissociate": {
+    "word": "dissociate",
+    "partOfSpeech": "Verb",
+    "language": "English",
+    "definitions": {
+      "definition": "To make unrelated; to sever a connection; to separate.",
+      "parsedExamples": [
+        {
+          "example": "A number of group members wish to dissociate themselves from the majority."
+        }
+      ],
+      "examples": [
+        "A number of group members wish to dissociate themselves from the majority."
+      ]
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "torrada": {
+    "word": "torrada",
+    "partOfSpeech": "Noun",
+    "language": "Portuguese",
+    "definitions": {
+      "definition": "toast (toasted bread)",
+      "parsedExamples": [
+        {
+          "example": "Eu comi uma torrada ao pequeno-almoço.",
+          "translation": "I ate a piece of toast for breakfast."
+        }
+      ],
+      "examples": [
+        "Eu comi uma torrada ao pequeno-almoço."
+      ]
+    }
+  }
+}

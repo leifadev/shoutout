@@ -1,0 +1,38 @@
+{
+  "接受": {
+    "word": "接受",
+    "partOfSpeech": "Verb",
+    "language": "Chinese",
+    "definitions": {
+      "definition": "to accept (treatment, gift, punishment, etc.); to receive (education, honours, invitation, interview, etc.); to take (criticism)",
+      "parsedExamples": [
+        {
+          "example": "接受治療 / 接受治疗&nbsp; ―&nbsp; jiēshòu zhìliáo&nbsp; ―&nbsp; to accept treatment"
+        },
+        {
+          "example": "被指控接受賄賂 / 被指控接受贿赂&nbsp; ―&nbsp; bèi zhǐkòng jiēshòu huìlù&nbsp; ―&nbsp; to be accused of accepting bribes"
+        },
+        {
+          "example": "接受教育&nbsp; ―&nbsp; jiēshòu jiàoyù&nbsp; ―&nbsp; to receive education"
+        },
+        {
+          "example": "接受某人的採訪 / 接受某人的采访&nbsp; ―&nbsp; jiēshòu mǒurén de cǎifǎng&nbsp; ―&nbsp; to be interviewed by someone"
+        },
+        {
+          "example": "接受批評 / 接受批评&nbsp; ―&nbsp; jiēshòu pīpíng&nbsp; ―&nbsp; to take criticism"
+        },
+        {
+          "example": "接受程度&nbsp; ―&nbsp; jiēshòu chéngdù&nbsp; ―&nbsp; level of acceptance"
+        }
+      ],
+      "examples": [
+        "接受治療 / 接受治疗&nbsp; ―&nbsp; jiēshòu zhìliáo&nbsp; ―&nbsp; to accept treatment",
+        "被指控接受賄賂 / 被指控接受贿赂&nbsp; ―&nbsp; bèi zhǐkòng jiēshòu huìlù&nbsp; ―&nbsp; to be accused of accepting bribes",
+        "接受教育&nbsp; ―&nbsp; jiēshòu jiàoyù&nbsp; ―&nbsp; to receive education",
+        "接受某人的採訪 / 接受某人的采访&nbsp; ―&nbsp; jiēshòu mǒurén de cǎifǎng&nbsp; ―&nbsp; to be interviewed by someone",
+        "接受批評 / 接受批评&nbsp; ―&nbsp; jiēshòu pīpíng&nbsp; ―&nbsp; to take criticism",
+        "接受程度&nbsp; ―&nbsp; jiēshòu chéngdù&nbsp; ―&nbsp; level of acceptance"
+      ]
+    }
+  }
+}

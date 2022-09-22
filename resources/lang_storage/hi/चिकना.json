@@ -1,0 +1,20 @@
+{
+  "चिकना": {
+    "word": "चिकना",
+    "partOfSpeech": "Adjective",
+    "language": "Hindi",
+    "definitions": {
+      "definition": "smooth, polished; slippery",
+      "parsedExamples": [
+        {
+          "example": "नदी में बहुत सारे चिकने पत्थर हैं।",
+          "transliteration": "nadī mẽ bahut sāre cikne patthar ha͠i.",
+          "translation": "There are many smooth stones in the river."
+        }
+      ],
+      "examples": [
+        "नदी में बहुत सारे चिकने पत्थर हैं।"
+      ]
+    }
+  }
+}

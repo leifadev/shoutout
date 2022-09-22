@@ -1,0 +1,18 @@
+{
+  "slough": {
+    "word": "slough",
+    "partOfSpeech": "Noun",
+    "language": "English",
+    "definitions": {
+      "definition": "The skin shed by a snake or other reptile.",
+      "parsedExamples": [
+        {
+          "example": "That is the slough of a rattler; we must be careful."
+        }
+      ],
+      "examples": [
+        "That is the slough of a rattler; we must be careful."
+      ]
+    }
+  }
+}

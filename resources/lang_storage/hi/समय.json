@@ -1,0 +1,26 @@
+{
+  "समय": {
+    "word": "समय",
+    "partOfSpeech": "Noun",
+    "language": "Hindi",
+    "definitions": {
+      "definition": "time",
+      "parsedExamples": [
+        {
+          "example": "इसमें कितना समय लगता है?",
+          "transliteration": "ismẽ kitnā samay lagtā hai?",
+          "translation": "How much time does this take?"
+        },
+        {
+          "example": "घर जाने का समय लगभग हो गया है।",
+          "transliteration": "ghar jāne kā samay lagbhag ho gayā hai.",
+          "translation": "It is about time to go home."
+        }
+      ],
+      "examples": [
+        "इसमें कितना समय लगता है?",
+        "घर जाने का समय लगभग हो गया है।"
+      ]
+    }
+  }
+}

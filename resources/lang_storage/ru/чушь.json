@@ -1,0 +1,20 @@
+{
+  "чушь": {
+    "word": "чушь",
+    "partOfSpeech": "Noun",
+    "language": "Russian",
+    "definitions": {
+      "definition": "rubbish",
+      "parsedExamples": [
+        {
+          "example": "нести́ чушь",
+          "transliteration": "nestí čušʹ",
+          "translation": "to talk rot"
+        }
+      ],
+      "examples": [
+        "нести́ чушь"
+      ]
+    }
+  }
+}

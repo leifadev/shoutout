@@ -1,0 +1,18 @@
+{
+  "dedication": {
+    "word": "dedication",
+    "partOfSpeech": "Noun",
+    "language": "English",
+    "definitions": {
+      "definition": "The act of dedicating or the state of being dedicated.",
+      "parsedExamples": [
+        {
+          "example": "work with dedication"
+        }
+      ],
+      "examples": [
+        "work with dedication"
+      ]
+    }
+  }
+}

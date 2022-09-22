@@ -1,0 +1,19 @@
+{
+  "confundir": {
+    "word": "confundir",
+    "partOfSpeech": "Verb",
+    "language": "Portuguese",
+    "definitions": {
+      "definition": "to confuse; to confound (to lead someone into an incorrect conclusion or uncertainty)",
+      "parsedExamples": [
+        {
+          "example": "O mapa com errors confundiu os navegadores.",
+          "translation": "The map with errors confused the navigators."
+        }
+      ],
+      "examples": [
+        "O mapa com errors confundiu os navegadores."
+      ]
+    }
+  }
+}

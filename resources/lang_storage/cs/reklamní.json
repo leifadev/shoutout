@@ -1,0 +1,29 @@
+{
+  "reklamní": {
+    "word": "reklamní",
+    "partOfSpeech": "Adjective",
+    "language": "Czech",
+    "definitions": {
+      "definition": "advertising",
+      "parsedExamples": [
+        {
+          "example": "reklamní agentura",
+          "translation": "advertising agency"
+        },
+        {
+          "example": "reklamní kampaň",
+          "translation": "advertising campaign"
+        },
+        {
+          "example": "reklamní slogan",
+          "translation": "advertising slogan"
+        }
+      ],
+      "examples": [
+        "reklamní agentura",
+        "reklamní kampaň",
+        "reklamní slogan"
+      ]
+    }
+  }
+}

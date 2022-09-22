@@ -1,0 +1,18 @@
+{
+  "en crabe": {
+    "word": "en crabe",
+    "partOfSpeech": "Adverb",
+    "language": "French",
+    "definitions": {
+      "definition": "moving sideways",
+      "parsedExamples": [
+        {
+          "example": "marcher en crabe"
+        }
+      ],
+      "examples": [
+        "marcher en crabe"
+      ]
+    }
+  }
+}

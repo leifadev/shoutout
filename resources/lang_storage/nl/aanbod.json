@@ -1,0 +1,19 @@
+{
+  "aanbod": {
+    "word": "aanbod",
+    "partOfSpeech": "Noun",
+    "language": "Dutch",
+    "definitions": {
+      "definition": "offer",
+      "parsedExamples": [
+        {
+          "example": "Een aanbod doen.",
+          "translation": "To make an offer."
+        }
+      ],
+      "examples": [
+        "Een aanbod doen."
+      ]
+    }
+  }
+}

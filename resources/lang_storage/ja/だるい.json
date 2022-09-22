@@ -1,0 +1,24 @@
+{
+  "だるい": {
+    "word": "だるい",
+    "partOfSpeech": "Adjective",
+    "language": "Japanese",
+    "definitions": {
+      "definition": "tired; listless; weary",
+      "parsedExamples": [
+        {
+          "translation": "karada ga darui toki wa dō sureba ii",
+          "example": "体(からだ)がだるい時(とき)はどうすればいい"
+        },
+        {
+          "translation": "kyō wa darī na",
+          "example": "今日(きょう)はだりぃな"
+        }
+      ],
+      "examples": [
+        "体(からだ)がだるい時(とき)はどうすればいい",
+        "今日(きょう)はだりぃな"
+      ]
+    }
+  }
+}

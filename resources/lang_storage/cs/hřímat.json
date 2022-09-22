@@ -1,0 +1,19 @@
+{
+  "hřímat": {
+    "word": "hřímat",
+    "partOfSpeech": "Verb",
+    "language": "Czech",
+    "definitions": {
+      "definition": "to thunder",
+      "parsedExamples": [
+        {
+          "example": "Lkal vítr, bouře hřímala.",
+          "translation": "The wind was howling, the storm was thundering."
+        }
+      ],
+      "examples": [
+        "Lkal vítr, bouře hřímala."
+      ]
+    }
+  }
+}

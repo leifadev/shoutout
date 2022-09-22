@@ -1,0 +1,26 @@
+{
+  "laudable": {
+    "word": "laudable",
+    "partOfSpeech": "Adjective",
+    "language": "English",
+    "definitions": {
+      "definition": "Worthy of being lauded; praiseworthy; commendable",
+      "parsedExamples": [
+        {
+          "example": "laudable motives"
+        },
+        {
+          "example": "laudable actions"
+        },
+        {
+          "example": "laudable ambition"
+        }
+      ],
+      "examples": [
+        "laudable motives",
+        "laudable actions",
+        "laudable ambition"
+      ]
+    }
+  }
+}

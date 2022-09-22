@@ -1,0 +1,19 @@
+{
+  "真髄": {
+    "word": "真髄",
+    "partOfSpeech": "Noun",
+    "language": "Japanese",
+    "definitions": {
+      "definition": ": The spirit or soul of something: its essence, its true quality.",
+      "parsedExamples": [
+        {
+          "translation": "bungaku no shinzui",
+          "example": "文学(ぶんがく)の真髄(しんずい)"
+        }
+      ],
+      "examples": [
+        "文学(ぶんがく)の真髄(しんずい)"
+      ]
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "bludný": {
+    "word": "bludný",
+    "partOfSpeech": "Adjective",
+    "language": "Czech",
+    "definitions": {
+      "definition": "erratic, wandering, stray",
+      "parsedExamples": [
+        {
+          "example": "bludný kruh",
+          "translation": "vicious cycle"
+        }
+      ],
+      "examples": [
+        "bludný kruh"
+      ]
+    }
+  }
+}

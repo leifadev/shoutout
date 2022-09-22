@@ -1,0 +1,18 @@
+{
+  "sequester": {
+    "word": "sequester",
+    "partOfSpeech": "Verb",
+    "language": "English",
+    "definitions": {
+      "definition": "To separate from all external influence; to seclude; to withdraw.",
+      "parsedExamples": [
+        {
+          "example": "The jury was sequestered from the press by the judge's order."
+        }
+      ],
+      "examples": [
+        "The jury was sequestered from the press by the judge's order."
+      ]
+    }
+  }
+}

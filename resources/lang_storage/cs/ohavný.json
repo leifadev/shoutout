@@ -1,0 +1,19 @@
+{
+  "ohavný": {
+    "word": "ohavný",
+    "partOfSpeech": "Adjective",
+    "language": "Czech",
+    "definitions": {
+      "definition": "ugly, hideous",
+      "parsedExamples": [
+        {
+          "example": "ohavná tvář",
+          "translation": "ugly face"
+        }
+      ],
+      "examples": [
+        "ohavná tvář"
+      ]
+    }
+  }
+}

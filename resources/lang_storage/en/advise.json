@@ -1,0 +1,22 @@
+{
+  "advise": {
+    "word": "advise",
+    "partOfSpeech": "Verb",
+    "language": "English",
+    "definitions": {
+      "definition": "To give advice to; to offer an opinion to, as worthy or expedient to be followed.",
+      "parsedExamples": [
+        {
+          "example": "The dentist advised me to brush three times a day."
+        },
+        {
+          "example": "The lawyer advised me to drop the case, since there was no chance of winning."
+        }
+      ],
+      "examples": [
+        "The dentist advised me to brush three times a day.",
+        "The lawyer advised me to drop the case, since there was no chance of winning."
+      ]
+    }
+  }
+}

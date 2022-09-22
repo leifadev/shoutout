@@ -1,0 +1,26 @@
+{
+  "неуместный": {
+    "word": "неуместный",
+    "partOfSpeech": "Adjective",
+    "language": "Russian",
+    "definitions": {
+      "definition": "misplaced, inappropriate, out of place, unsuitable, unfitting, irrelevant",
+      "parsedExamples": [
+        {
+          "example": "неуме́стное замеча́ние",
+          "transliteration": "neuméstnoje zamečánije",
+          "translation": "untimely remark"
+        },
+        {
+          "example": "здесь э́то неуме́стно",
+          "transliteration": "zdesʹ éto neuméstno",
+          "translation": "it is out of place here"
+        }
+      ],
+      "examples": [
+        "неуме́стное замеча́ние",
+        "здесь э́то неуме́стно"
+      ]
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "gek": {
+    "word": "gek",
+    "partOfSpeech": "Adjective",
+    "language": "Dutch",
+    "definitions": {
+      "definition": "crazy, mad",
+      "parsedExamples": [
+        {
+          "translation": "You make me crazy.",
+          "example": "Je maakt me gek."
+        }
+      ],
+      "examples": [
+        "Je maakt me gek."
+      ]
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "얻다": {
+    "word": "얻다",
+    "partOfSpeech": "Verb",
+    "language": "Korean",
+    "definitions": {
+      "definition": "to get, to receive, to obtain, to have (an object)",
+      "parsedExamples": [
+        {
+          "example": "그는 런던에 새로 문을 여는 한 회사에서 광고 부문 중역으로서의 일자리를 얻었다.",
+          "transliteration": "Geu-neun reondeon-e saero mun-eul yeoneun han hoesa-eseo gwanggo bumun jung'yeogeuroseo-ui iljari-reul eodeotda.",
+          "translation": "He got a new position as advertising executive for a new firm opening in London."
+        }
+      ],
+      "examples": [
+        "그는 런던에 새로 문을 여는 한 회사에서 광고 부문 중역으로서의 일자리를 얻었다."
+      ]
+    }
+  }
+}

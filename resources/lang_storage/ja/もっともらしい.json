@@ -1,0 +1,19 @@
+{
+  "もっともらしい": {
+    "word": "もっともらしい",
+    "partOfSpeech": "Adjective",
+    "language": "Japanese",
+    "definitions": {
+      "definition": "plausible; believable",
+      "parsedExamples": [
+        {
+          "translation": "mottomorashī kōjitsu o tsukuru",
+          "example": "もっともらしい口実(こうじつ)を作(つく)る"
+        }
+      ],
+      "examples": [
+        "もっともらしい口実(こうじつ)を作(つく)る"
+      ]
+    }
+  }
+}

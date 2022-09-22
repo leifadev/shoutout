@@ -1,0 +1,20 @@
+{
+  "आवारा": {
+    "word": "आवारा",
+    "partOfSpeech": "Adjective",
+    "language": "Hindi",
+    "definitions": {
+      "definition": "wandering, vagrant",
+      "parsedExamples": [
+        {
+          "example": "आवारा कुत्ता",
+          "transliteration": "āvārā kuttā",
+          "translation": "stray dog"
+        }
+      ],
+      "examples": [
+        "आवारा कुत्ता"
+      ]
+    }
+  }
+}

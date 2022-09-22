@@ -1,0 +1,19 @@
+{
+  "přispět": {
+    "word": "přispět",
+    "partOfSpeech": "Verb",
+    "language": "Czech",
+    "definitions": {
+      "definition": "to donate, to contribute (na (to/for) + accusative case)",
+      "parsedExamples": [
+        {
+          "example": "Děkujeme všem, co přispěli na charitu.",
+          "translation": "We thank everyone who donated to charity."
+        }
+      ],
+      "examples": [
+        "Děkujeme všem, co přispěli na charitu."
+      ]
+    }
+  }
+}

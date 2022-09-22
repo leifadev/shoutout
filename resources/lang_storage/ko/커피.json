@@ -1,0 +1,26 @@
+{
+  "커피": {
+    "word": "커피",
+    "partOfSpeech": "Noun",
+    "language": "Korean",
+    "definitions": {
+      "definition": "coffee, especially the beverage",
+      "parsedExamples": [
+        {
+          "example": "커피를 내리다",
+          "transliteration": "keopi-reul naerida",
+          "translation": "to brew coffee"
+        },
+        {
+          "example": "졸리면 커피를 좀 마셔 봐.",
+          "transliteration": "Jolli-myeon keopi-reul jom masyeo bwa.",
+          "translation": "Drink some coffee if you feel sleepy."
+        }
+      ],
+      "examples": [
+        "커피를 내리다",
+        "졸리면 커피를 좀 마셔 봐."
+      ]
+    }
+  }
+}

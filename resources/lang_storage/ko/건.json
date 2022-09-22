@@ -1,0 +1,20 @@
+{
+  "건": {
+    "word": "건",
+    "partOfSpeech": "Verb",
+    "language": "Korean",
+    "definitions": {
+      "definition": "past determinative of 걸다 (geolda, “to speak or suspend”): having been suspended, spoken; of a telephone call, having been made",
+      "parsedExamples": [
+        {
+          "example": "내가 건 전화",
+          "transliteration": "naega geon jeonhwa",
+          "translation": "the call I made"
+        }
+      ],
+      "examples": [
+        "내가 건 전화"
+      ]
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "vergessen": {
+    "word": "vergessen",
+    "partOfSpeech": "Verb",
+    "language": "German",
+    "definitions": {
+      "definition": "to forget (lose remembrance of)",
+      "parsedExamples": [
+        {
+          "example": "Diese ganzen Geschichten hatte ich ja ganz vergessen.",
+          "translation": "I'd completely forgotten all these stories."
+        }
+      ],
+      "examples": [
+        "Diese ganzen Geschichten hatte ich ja ganz vergessen."
+      ]
+    }
+  }
+}

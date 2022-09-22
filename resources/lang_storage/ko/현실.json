@@ -1,0 +1,20 @@
+{
+  "현실": {
+    "word": "현실",
+    "partOfSpeech": "Noun",
+    "language": "Korean",
+    "definitions": {
+      "definition": "reality; the actual case",
+      "parsedExamples": [
+        {
+          "example": "현실에 존재하는 물체.",
+          "transliteration": "Hyeonsire jonjaehaneun mulche.",
+          "translation": "A thing that exists in reality."
+        }
+      ],
+      "examples": [
+        "현실에 존재하는 물체."
+      ]
+    }
+  }
+}

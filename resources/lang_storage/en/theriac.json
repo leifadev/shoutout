@@ -1,0 +1,18 @@
+{
+  "theriac": {
+    "word": "theriac",
+    "partOfSpeech": "Noun",
+    "language": "English",
+    "definitions": {
+      "definition": "A universal antidote against all poisons, particularly medicines considered to derive from a recipe of the Roman physician Andromachus and representing an improvement on mithridate.",
+      "parsedExamples": [
+        {
+          "example": "Theriac was essentially homeopathic in its supposed function, being an improvement on mithridate by virtue of containing more poisons."
+        }
+      ],
+      "examples": [
+        "Theriac was essentially homeopathic in its supposed function, being an improvement on mithridate by virtue of containing more poisons."
+      ]
+    }
+  }
+}

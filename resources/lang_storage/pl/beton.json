@@ -1,0 +1,34 @@
+{
+  "beton": {
+    "word": "beton",
+    "partOfSpeech": "Noun",
+    "language": "Polish",
+    "definitions": {
+      "definition": "concrete (a building material created by mixing cement, water, and aggregate such as gravel and sand)",
+      "parsedExamples": [
+        {
+          "example": "beton komórkowy",
+          "translation": "cellular concrete"
+        },
+        {
+          "example": "warstwa betonu",
+          "translation": "a layer of concrete"
+        },
+        {
+          "example": "wylewać/wylać beton",
+          "translation": "to lay/pour concrete"
+        },
+        {
+          "example": "wylewać/wylać/zalewać/zalać betonem",
+          "translation": "to  pour (something) with concrete"
+        }
+      ],
+      "examples": [
+        "beton komórkowy",
+        "warstwa betonu",
+        "wylewać/wylać beton",
+        "wylewać/wylać/zalewać/zalać betonem"
+      ]
+    }
+  }
+}

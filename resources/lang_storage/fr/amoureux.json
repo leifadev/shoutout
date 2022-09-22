@@ -1,0 +1,19 @@
+{
+  "amoureux": {
+    "word": "amoureux",
+    "partOfSpeech": "Adjective",
+    "language": "French",
+    "definitions": {
+      "definition": "in love",
+      "parsedExamples": [
+        {
+          "example": "Je suis amoureux de toi",
+          "translation": "I'm in love with you"
+        }
+      ],
+      "examples": [
+        "Je suis amoureux de toi"
+      ]
+    }
+  }
+}

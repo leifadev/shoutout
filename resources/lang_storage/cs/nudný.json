@@ -1,0 +1,19 @@
+{
+  "nudný": {
+    "word": "nudný",
+    "partOfSpeech": "Adjective",
+    "language": "Czech",
+    "definitions": {
+      "definition": "boring",
+      "parsedExamples": [
+        {
+          "example": "Film je nudný.",
+          "translation": "The film is boring."
+        }
+      ],
+      "examples": [
+        "Film je nudný."
+      ]
+    }
+  }
+}

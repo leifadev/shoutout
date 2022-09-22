@@ -1,0 +1,19 @@
+{
+  "perífrasis": {
+    "word": "perífrasis",
+    "partOfSpeech": "Noun",
+    "language": "Spanish",
+    "definitions": {
+      "definition": "periphrasis",
+      "parsedExamples": [
+        {
+          "example": "En el español hay unas ciento cuarenta perífrasis.",
+          "translation": "In Spanish there are about 140 periphrases."
+        }
+      ],
+      "examples": [
+        "En el español hay unas ciento cuarenta perífrasis."
+      ]
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "奪う": {
+    "word": "奪う",
+    "partOfSpeech": "Verb",
+    "language": "Japanese",
+    "definitions": {
+      "definition": "to take by force, to rob, to snatch, to pillage",
+      "parsedExamples": [
+        {
+          "translation": "Saifu o ubawareta.",
+          "example": "財布(さいふ)を奪(うば)われた。"
+        }
+      ],
+      "examples": [
+        "財布(さいふ)を奪(うば)われた。"
+      ]
+    }
+  }
+}

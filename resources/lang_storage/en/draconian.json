@@ -1,0 +1,22 @@
+{
+  "draconian": {
+    "word": "draconian",
+    "partOfSpeech": "Adjective",
+    "language": "English",
+    "definitions": {
+      "definition": "Very severe or strict.",
+      "parsedExamples": [
+        {
+          "example": "The Soviet regime was draconian."
+        },
+        {
+          "example": "The mayor announced draconian budget cuts today."
+        }
+      ],
+      "examples": [
+        "The Soviet regime was draconian.",
+        "The mayor announced draconian budget cuts today."
+      ]
+    }
+  }
+}

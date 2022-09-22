@@ -1,0 +1,19 @@
+{
+  "ärgern": {
+    "word": "ärgern",
+    "partOfSpeech": "Verb",
+    "language": "German",
+    "definitions": {
+      "definition": "to annoy, to make angry (+accusative)",
+      "parsedExamples": [
+        {
+          "example": "Die anderen Kinder ärgern ihn immer.",
+          "translation": "The other kids keep annoying him."
+        }
+      ],
+      "examples": [
+        "Die anderen Kinder ärgern ihn immer."
+      ]
+    }
+  }
+}

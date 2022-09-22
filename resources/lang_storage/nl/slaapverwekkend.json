@@ -1,0 +1,19 @@
+{
+  "slaapverwekkend": {
+    "word": "slaapverwekkend",
+    "partOfSpeech": "Adjective",
+    "language": "Dutch",
+    "definitions": {
+      "definition": "soporific, inducing sleep",
+      "parsedExamples": [
+        {
+          "example": "Een aantal stoffen in zijn dieet bleken een slaapverwekkende werking te hebben.",
+          "translation": "A few substances in his diet turned out to have a sleep-inducing effect."
+        }
+      ],
+      "examples": [
+        "Een aantal stoffen in zijn dieet bleken een slaapverwekkende werking te hebben."
+      ]
+    }
+  }
+}

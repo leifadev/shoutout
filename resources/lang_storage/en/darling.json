@@ -1,0 +1,18 @@
+{
+  "darling": {
+    "word": "darling",
+    "partOfSpeech": "Noun",
+    "language": "English",
+    "definitions": {
+      "definition": "A person who is dear to one.",
+      "parsedExamples": [
+        {
+          "example": "Mary, the youngest daughter, was always her mother's darling."
+        }
+      ],
+      "examples": [
+        "Mary, the youngest daughter, was always her mother's darling."
+      ]
+    }
+  }
+}

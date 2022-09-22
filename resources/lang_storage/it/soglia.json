@@ -1,0 +1,19 @@
+{
+  "soglia": {
+    "word": "soglia",
+    "partOfSpeech": "Noun",
+    "language": "Italian",
+    "definitions": {
+      "definition": "threshold",
+      "parsedExamples": [
+        {
+          "example": "soglia di sbarramento",
+          "translation": "election threshold"
+        }
+      ],
+      "examples": [
+        "soglia di sbarramento"
+      ]
+    }
+  }
+}

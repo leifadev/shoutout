@@ -1,0 +1,19 @@
+{
+  "einbrechen": {
+    "word": "einbrechen",
+    "partOfSpeech": "Verb",
+    "language": "German",
+    "definitions": {
+      "definition": "to break in (for example, to steal something)",
+      "parsedExamples": [
+        {
+          "example": "Jemand ist in die Wohnung eingebrochen.",
+          "translation": "Someone broke into the apartment."
+        }
+      ],
+      "examples": [
+        "Jemand ist in die Wohnung eingebrochen."
+      ]
+    }
+  }
+}

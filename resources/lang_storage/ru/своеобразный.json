@@ -1,0 +1,20 @@
+{
+  "своеобразный": {
+    "word": "своеобразный",
+    "partOfSpeech": "Adjective",
+    "language": "Russian",
+    "definitions": {
+      "definition": "original, idiosyncratic, singular, one of a kind (fresh, new, different, creative)",
+      "parsedExamples": [
+        {
+          "example": "своеобра́зное иску́сство",
+          "transliteration": "svojeobráznoje iskússtvo",
+          "translation": "original art"
+        }
+      ],
+      "examples": [
+        "своеобра́зное иску́сство"
+      ]
+    }
+  }
+}

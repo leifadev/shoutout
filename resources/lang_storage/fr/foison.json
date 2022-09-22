@@ -1,0 +1,19 @@
+{
+  "foison": {
+    "word": "foison",
+    "partOfSpeech": "Noun",
+    "language": "French",
+    "definitions": {
+      "definition": "abundance, great deal, load",
+      "parsedExamples": [
+        {
+          "example": "J'ai foison de copines",
+          "translation": "I've got plenty of girlfriends."
+        }
+      ],
+      "examples": [
+        "J'ai foison de copines"
+      ]
+    }
+  }
+}

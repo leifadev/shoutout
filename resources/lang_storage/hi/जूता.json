@@ -1,0 +1,34 @@
+{
+  "जूता": {
+    "word": "जूता",
+    "partOfSpeech": "Noun",
+    "language": "Hindi",
+    "definitions": {
+      "definition": "shoe",
+      "parsedExamples": [
+        {
+          "example": "जूता मारना/उछालना",
+          "transliteration": "jūtā mārnā/uchālnā",
+          "translation": "to beat badly; to insult",
+          "literally": "to hit with a shoe"
+        },
+        {
+          "example": "पापा मुझपे जूता मरेंगे अगर मैं एग्ज़ाम फ़ेल करूँ।",
+          "transliteration": "pāpā mujhpe jūtā mareṅge agar ma͠i egzām fel karū̃.",
+          "translation": "Dad will beat me with a shoe if I fail the exam."
+        },
+        {
+          "example": "जूता खाना",
+          "transliteration": "jūtā khānā",
+          "translation": "to be beaten badly",
+          "literally": "to eat a shoe"
+        }
+      ],
+      "examples": [
+        "जूता मारना/उछालना",
+        "पापा मुझपे जूता मरेंगे अगर मैं एग्ज़ाम फ़ेल करूँ।",
+        "जूता खाना"
+      ]
+    }
+  }
+}

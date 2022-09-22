@@ -1,0 +1,19 @@
+{
+  "fame": {
+    "word": "fame",
+    "partOfSpeech": "Noun",
+    "language": "Italian",
+    "definitions": {
+      "definition": "hunger",
+      "parsedExamples": [
+        {
+          "example": "Ho fame.",
+          "translation": "I'm hungry (literally: I have hunger)."
+        }
+      ],
+      "examples": [
+        "Ho fame."
+      ]
+    }
+  }
+}

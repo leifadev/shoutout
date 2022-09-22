@@ -1,0 +1,22 @@
+{
+  "秘方": {
+    "word": "秘方",
+    "partOfSpeech": "Noun",
+    "language": "Chinese",
+    "definitions": {
+      "definition": "secret recipe; secret formula",
+      "parsedExamples": [
+        {
+          "example": "家傳秘方 / 家传秘方&nbsp; ―&nbsp; jiāchuán mìfāng&nbsp; ―&nbsp; secret recipe of a family"
+        },
+        {
+          "example": "祖傳秘方 / 祖传秘方&nbsp; ―&nbsp; zǔchuán mìfāng&nbsp; ―&nbsp; recipe handed down from one's ancestors"
+        }
+      ],
+      "examples": [
+        "家傳秘方 / 家传秘方&nbsp; ―&nbsp; jiāchuán mìfāng&nbsp; ―&nbsp; secret recipe of a family",
+        "祖傳秘方 / 祖传秘方&nbsp; ―&nbsp; zǔchuán mìfāng&nbsp; ―&nbsp; recipe handed down from one's ancestors"
+      ]
+    }
+  }
+}

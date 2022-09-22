@@ -1,0 +1,20 @@
+{
+  "評判": {
+    "word": "評判",
+    "partOfSpeech": "Noun",
+    "language": "Japanese",
+    "definitions": {
+      "definition": "reputation",
+      "parsedExamples": [
+        {
+          "example": "話題(わだい)にする事(こと)により、 弁護士(べんごし)の評判(ひょうばん)を知(し)ってもらいたかった。",
+          "transliteration": "wadai ni suru koto ni yori, bengoshi no hyōban o shitte morai takatta.",
+          "translation": "I wanted you to know reputation of certain lawyer through bringing up the topic."
+        }
+      ],
+      "examples": [
+        "話題(わだい)にする事(こと)により、 弁護士(べんごし)の評判(ひょうばん)を知(し)ってもらいたかった。"
+      ]
+    }
+  }
+}

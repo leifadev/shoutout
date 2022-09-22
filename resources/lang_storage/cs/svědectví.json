@@ -1,0 +1,24 @@
+{
+  "svědectví": {
+    "word": "svědectví",
+    "partOfSpeech": "Noun",
+    "language": "Czech",
+    "definitions": {
+      "definition": "testimony, witness",
+      "parsedExamples": [
+        {
+          "example": "získat svědectví",
+          "translation": "to gain a testimony; to get testimonials"
+        },
+        {
+          "example": "poskytovat svědectví",
+          "translation": "to give testimony"
+        }
+      ],
+      "examples": [
+        "získat svědectví",
+        "poskytovat svědectví"
+      ]
+    }
+  }
+}

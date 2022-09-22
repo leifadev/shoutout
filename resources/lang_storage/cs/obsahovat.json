@@ -1,0 +1,19 @@
+{
+  "obsahovat": {
+    "word": "obsahovat",
+    "partOfSpeech": "Verb",
+    "language": "Czech",
+    "definitions": {
+      "definition": "to contain, to comprise",
+      "parsedExamples": [
+        {
+          "example": "Ta krabice obsahuje všechny moje věci.",
+          "translation": "This box contains all my belongings."
+        }
+      ],
+      "examples": [
+        "Ta krabice obsahuje všechny moje věci."
+      ]
+    }
+  }
+}

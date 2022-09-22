@@ -1,0 +1,19 @@
+{
+  "manque": {
+    "word": "manque",
+    "partOfSpeech": "Noun",
+    "language": "French",
+    "definitions": {
+      "definition": "lack, absence",
+      "parsedExamples": [
+        {
+          "example": "le manque d'amour maternel",
+          "translation": "the lack of maternal love"
+        }
+      ],
+      "examples": [
+        "le manque d'amour maternel"
+      ]
+    }
+  }
+}

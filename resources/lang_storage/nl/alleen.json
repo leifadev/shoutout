@@ -1,0 +1,24 @@
+{
+  "alleen": {
+    "word": "alleen",
+    "partOfSpeech": "Adjective",
+    "language": "Dutch",
+    "definitions": {
+      "definition": "alone, by oneself",
+      "parsedExamples": [
+        {
+          "example": "Ik was de hele avond alleen.",
+          "translation": "I was alone all evening."
+        },
+        {
+          "example": "Ontmoet ons achter de verlaten fabriek. Kom alleen.",
+          "translation": "Meet us behind the abandoned factory. Come alone."
+        }
+      ],
+      "examples": [
+        "Ik was de hele avond alleen.",
+        "Ontmoet ons achter de verlaten fabriek. Kom alleen."
+      ]
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "insieme": {
+    "word": "insieme",
+    "partOfSpeech": "Adverb",
+    "language": "Italian",
+    "definitions": {
+      "definition": "together",
+      "parsedExamples": [
+        {
+          "example": "Lavoriamo insieme.",
+          "translation": "We work together."
+        }
+      ],
+      "examples": [
+        "Lavoriamo insieme."
+      ]
+    }
+  }
+}

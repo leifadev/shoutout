@@ -1,0 +1,19 @@
+{
+  "bento": {
+    "word": "bento",
+    "partOfSpeech": "Adjective",
+    "language": "Portuguese",
+    "definitions": {
+      "definition": "holy, sacred",
+      "parsedExamples": [
+        {
+          "example": "água benta",
+          "translation": "holy water"
+        }
+      ],
+      "examples": [
+        "água benta"
+      ]
+    }
+  }
+}

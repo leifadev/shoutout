@@ -1,0 +1,10 @@
+{
+  "validate": {
+    "word": "validate",
+    "partOfSpeech": "Verb",
+    "language": "English",
+    "definitions": {
+      "definition": "To render valid."
+    }
+  }
+}

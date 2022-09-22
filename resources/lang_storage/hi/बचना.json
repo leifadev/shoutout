@@ -1,0 +1,20 @@
+{
+  "बचना": {
+    "word": "बचना",
+    "partOfSpeech": "Verb",
+    "language": "Hindi",
+    "definitions": {
+      "definition": "to be saved",
+      "parsedExamples": [
+        {
+          "example": "बालबाल बचा वो।",
+          "transliteration": "bālbāl bacā vo.",
+          "translation": "He was saved by a thin margin."
+        }
+      ],
+      "examples": [
+        "बालबाल बचा वो।"
+      ]
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "考える": {
+    "word": "考える",
+    "partOfSpeech": "Verb",
+    "language": "Japanese",
+    "definitions": {
+      "definition": "think",
+      "parsedExamples": [
+        {
+          "translation": "Kore ni tsuite kangaeru hitsuyō ga aru n da.",
+          "example": "これについて考(かんが)える必(ひつ)要(よう)があるんだ。"
+        }
+      ],
+      "examples": [
+        "これについて考(かんが)える必(ひつ)要(よう)があるんだ。"
+      ]
+    }
+  }
+}

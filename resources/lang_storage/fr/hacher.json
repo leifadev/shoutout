@@ -1,0 +1,24 @@
+{
+  "hacher": {
+    "word": "hacher",
+    "partOfSpeech": "Verb",
+    "language": "French",
+    "definitions": {
+      "definition": "to chop up, mince",
+      "parsedExamples": [
+        {
+          "example": "hacher la viande",
+          "translation": "chop up the meat"
+        },
+        {
+          "example": "bœuf haché",
+          "translation": "minced beef"
+        }
+      ],
+      "examples": [
+        "hacher la viande",
+        "bœuf haché"
+      ]
+    }
+  }
+}

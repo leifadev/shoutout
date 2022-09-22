@@ -1,0 +1,20 @@
+{
+  "указ": {
+    "word": "указ",
+    "partOfSpeech": "Noun",
+    "language": "Russian",
+    "definitions": {
+      "definition": "enactment, ordinance, decree, edict, ukase",
+      "parsedExamples": [
+        {
+          "example": "Ты ему́ не ука́з.",
+          "transliteration": "Ty jemú ne ukáz.",
+          "translation": "You can't lay down the law for him (or you are no authority for him)."
+        }
+      ],
+      "examples": [
+        "Ты ему́ не ука́з."
+      ]
+    }
+  }
+}

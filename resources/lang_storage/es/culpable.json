@@ -1,0 +1,19 @@
+{
+  "culpable": {
+    "word": "culpable",
+    "partOfSpeech": "Adjective",
+    "language": "Spanish",
+    "definitions": {
+      "definition": "guilty, culpable",
+      "parsedExamples": [
+        {
+          "example": "hacerle sentir culpable",
+          "translation": "to guilt trip"
+        }
+      ],
+      "examples": [
+        "hacerle sentir culpable"
+      ]
+    }
+  }
+}

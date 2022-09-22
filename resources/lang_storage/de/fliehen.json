@@ -1,0 +1,19 @@
+{
+  "fliehen": {
+    "word": "fliehen",
+    "partOfSpeech": "Verb",
+    "language": "German",
+    "definitions": {
+      "definition": "to flee; to escape",
+      "parsedExamples": [
+        {
+          "example": "Als die Polizei eintraf, war der Räuber bereits geflohen.",
+          "translation": "When the police arrived, the robber had already fled."
+        }
+      ],
+      "examples": [
+        "Als die Polizei eintraf, war der Räuber bereits geflohen."
+      ]
+    }
+  }
+}

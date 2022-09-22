@@ -1,0 +1,24 @@
+{
+  "betrügen": {
+    "word": "betrügen",
+    "partOfSpeech": "Verb",
+    "language": "German",
+    "definitions": {
+      "definition": "to deceive (usually deliberately)",
+      "parsedExamples": [
+        {
+          "example": "Sie betrügt dich mit ihrer falschen Fürsorge.",
+          "translation": "She deceives you with her disingenuous care for you."
+        },
+        {
+          "example": "Du betrügst dich, wenn du noch auf Besserung hoffst.",
+          "translation": "You deceive yourself if you still hope for improvement."
+        }
+      ],
+      "examples": [
+        "Sie betrügt dich mit ihrer falschen Fürsorge.",
+        "Du betrügst dich, wenn du noch auf Besserung hoffst."
+      ]
+    }
+  }
+}

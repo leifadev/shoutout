@@ -1,0 +1,22 @@
+{
+  "comprise": {
+    "word": "comprise",
+    "partOfSpeech": "Verb",
+    "language": "English",
+    "definitions": {
+      "definition": "To be made up of; to consist of (especially a comprehensive list of parts).",
+      "parsedExamples": [
+        {
+          "example": "The whole comprises the parts."
+        },
+        {
+          "example": "The parts are comprised by the whole."
+        }
+      ],
+      "examples": [
+        "The whole comprises the parts.",
+        "The parts are comprised by the whole."
+      ]
+    }
+  }
+}

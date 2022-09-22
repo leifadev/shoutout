@@ -1,0 +1,19 @@
+{
+  "onherkenbaar": {
+    "word": "onherkenbaar",
+    "partOfSpeech": "Adjective",
+    "language": "Dutch",
+    "definitions": {
+      "definition": "unrecognizable",
+      "parsedExamples": [
+        {
+          "example": "Hij is vrijwel onherkenbaar in deze foto.",
+          "translation": "He is virtually unrecognizable in this photo."
+        }
+      ],
+      "examples": [
+        "Hij is vrijwel onherkenbaar in deze foto."
+      ]
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "embellish": {
+    "word": "embellish",
+    "partOfSpeech": "Verb",
+    "language": "English",
+    "definitions": {
+      "definition": "To make more beautiful and attractive by adding ornamentation; to decorate.",
+      "parsedExamples": [
+        {
+          "example": "The old book cover was embellished with golden letters"
+        }
+      ],
+      "examples": [
+        "The old book cover was embellished with golden letters"
+      ]
+    }
+  }
+}

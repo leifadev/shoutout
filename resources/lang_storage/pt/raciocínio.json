@@ -1,0 +1,19 @@
+{
+  "raciocínio": {
+    "word": "raciocínio",
+    "partOfSpeech": "Noun",
+    "language": "Portuguese",
+    "definitions": {
+      "definition": "reasoning, ratiocination",
+      "parsedExamples": [
+        {
+          "example": "O estudo da Matemática ajuda-te a melhorar o raciocínio.",
+          "translation": "The study of Mathematics helps you improve your reasoning."
+        }
+      ],
+      "examples": [
+        "O estudo da Matemática ajuda-te a melhorar o raciocínio."
+      ]
+    }
+  }
+}

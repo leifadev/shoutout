@@ -1,0 +1,19 @@
+{
+  "süß": {
+    "word": "süß",
+    "partOfSpeech": "Adjective",
+    "language": "German",
+    "definitions": {
+      "definition": "sweet",
+      "parsedExamples": [
+        {
+          "example": "ein süßes Gebäck",
+          "translation": "a sweet pastry"
+        }
+      ],
+      "examples": [
+        "ein süßes Gebäck"
+      ]
+    }
+  }
+}

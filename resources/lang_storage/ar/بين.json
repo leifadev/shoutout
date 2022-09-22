@@ -1,0 +1,20 @@
+{
+  "بين": {
+    "word": "بين",
+    "partOfSpeech": "Preposition",
+    "language": "Arabic",
+    "definitions": {
+      "definition": "between (“in the position or interval that separates two things”)",
+      "parsedExamples": [
+        {
+          "example": "بَيْنِي وَبَيْنَكَ",
+          "transliteration": "baynī wa-bayna-ka",
+          "translation": "between me and you"
+        }
+      ],
+      "examples": [
+        "بَيْنِي وَبَيْنَكَ"
+      ]
+    }
+  }
+}

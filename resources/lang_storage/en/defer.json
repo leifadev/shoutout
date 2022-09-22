@@ -1,0 +1,18 @@
+{
+  "defer": {
+    "word": "defer",
+    "partOfSpeech": "Verb",
+    "language": "English",
+    "definitions": {
+      "definition": "To delay or postpone",
+      "parsedExamples": [
+        {
+          "example": "We're going to defer the decision until we have all the facts."
+        }
+      ],
+      "examples": [
+        "We're going to defer the decision until we have all the facts."
+      ]
+    }
+  }
+}

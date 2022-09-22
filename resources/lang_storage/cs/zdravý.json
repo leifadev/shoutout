@@ -1,0 +1,19 @@
+{
+  "zdravý": {
+    "word": "zdravý",
+    "partOfSpeech": "Adjective",
+    "language": "Czech",
+    "definitions": {
+      "definition": "healthy (enjoying health)",
+      "parsedExamples": [
+        {
+          "example": "V zdravém těle zdravý duch.",
+          "translation": "mens sana in corpore sano"
+        }
+      ],
+      "examples": [
+        "V zdravém těle zdravý duch."
+      ]
+    }
+  }
+}

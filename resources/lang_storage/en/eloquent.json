@@ -1,0 +1,18 @@
+{
+  "eloquent": {
+    "word": "eloquent",
+    "partOfSpeech": "Adjective",
+    "language": "English",
+    "definitions": {
+      "definition": "Fluently persuasive and articulate.",
+      "parsedExamples": [
+        {
+          "example": "an eloquent writer"
+        }
+      ],
+      "examples": [
+        "an eloquent writer"
+      ]
+    }
+  }
+}

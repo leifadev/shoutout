@@ -1,0 +1,19 @@
+{
+  "succomber": {
+    "word": "succomber",
+    "partOfSpeech": "Verb",
+    "language": "French",
+    "definitions": {
+      "definition": "to succumb",
+      "parsedExamples": [
+        {
+          "example": "Il succomba à une surdose.",
+          "translation": "He succumbed to an overdose."
+        }
+      ],
+      "examples": [
+        "Il succomba à une surdose."
+      ]
+    }
+  }
+}

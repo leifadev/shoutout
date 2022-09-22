@@ -1,0 +1,26 @@
+{
+  "пальмовый": {
+    "word": "пальмовый",
+    "partOfSpeech": "Adjective",
+    "language": "Russian",
+    "definitions": {
+      "definition": "palm (tree)",
+      "parsedExamples": [
+        {
+          "example": "па́льмовое де́рево",
+          "transliteration": "pálʹmovoje dérevo",
+          "translation": "palm tree; boxwood "
+        },
+        {
+          "example": "па́льмовое ма́сло",
+          "transliteration": "pálʹmovoje máslo",
+          "translation": "palm oil"
+        }
+      ],
+      "examples": [
+        "па́льмовое де́рево",
+        "па́льмовое ма́сло"
+      ]
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "रहस्य": {
+    "word": "रहस्य",
+    "partOfSpeech": "Noun",
+    "language": "Hindi",
+    "definitions": {
+      "definition": "secret, mystery",
+      "parsedExamples": [
+        {
+          "example": "उसके स्वास्थ्य का रहस्य क्या है?",
+          "transliteration": "uske svāsthya kā rahasy kyā hai?",
+          "translation": "What is the secret to his health?"
+        },
+        {
+          "example": "थानेदार ने रहस्य झट से खोल दिया।",
+          "transliteration": "thānedār ne rahasy jhaṭ se khol diyā.",
+          "translation": "The police inspector quickly solved the mystery."
+        }
+      ],
+      "examples": [
+        "उसके स्वास्थ्य का रहस्य क्या है?",
+        "थानेदार ने रहस्य झट से खोल दिया।"
+      ]
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "exclave": {
+    "word": "exclave",
+    "partOfSpeech": "Noun",
+    "language": "English",
+    "definitions": {
+      "definition": "A portion of a country's territory not connected to the main part",
+      "parsedExamples": [
+        {
+          "example": "Alaska and Kaliningrad are both examples of exclaves."
+        }
+      ],
+      "examples": [
+        "Alaska and Kaliningrad are both examples of exclaves."
+      ]
+    }
+  }
+}

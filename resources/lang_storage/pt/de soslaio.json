@@ -1,0 +1,20 @@
+{
+  "de soslaio": {
+    "word": "de soslaio",
+    "partOfSpeech": "Adverb",
+    "language": "Portuguese",
+    "definitions": {
+      "definition": "askance, sideways, obliquely",
+      "parsedExamples": [
+        {
+          "example": "olhar de soslaio",
+          "translation": "to squint",
+          "literally": "to look sideways"
+        }
+      ],
+      "examples": [
+        "olhar de soslaio"
+      ]
+    }
+  }
+}

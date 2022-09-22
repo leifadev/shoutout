@@ -1,0 +1,20 @@
+{
+  "сетчатый": {
+    "word": "сетчатый",
+    "partOfSpeech": "Adjective",
+    "language": "Russian",
+    "definitions": {
+      "definition": "mesh; reticulate",
+      "parsedExamples": [
+        {
+          "example": "се́тчатый фильтр",
+          "transliteration": "sétčatyj filʹtr",
+          "translation": "mesh filter"
+        }
+      ],
+      "examples": [
+        "се́тчатый фильтр"
+      ]
+    }
+  }
+}

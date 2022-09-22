@@ -1,0 +1,19 @@
+{
+  "隔離する": {
+    "word": "隔離する",
+    "partOfSpeech": "Noun",
+    "language": "Japanese",
+    "definitions": {
+      "definition": "isolation, separation",
+      "parsedExamples": [
+        {
+          "translation": "saikin no kakuri seisaku no sei de hibi ga sugoku tsumaranaku natta",
+          "example": "最近(さいきん)の隔離(かくり)政策(せいさく)の所為(せい)で日々(ひび)がすごくつまらなくなった"
+        }
+      ],
+      "examples": [
+        "最近(さいきん)の隔離(かくり)政策(せいさく)の所為(せい)で日々(ひび)がすごくつまらなくなった"
+      ]
+    }
+  }
+}

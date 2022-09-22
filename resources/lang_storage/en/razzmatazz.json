@@ -1,0 +1,18 @@
+{
+  "razzmatazz": {
+    "word": "razzmatazz",
+    "partOfSpeech": "Noun",
+    "language": "English",
+    "definitions": {
+      "definition": "Ambiguous or meaningless language.",
+      "parsedExamples": [
+        {
+          "example": "He says he's late for the meeting because his daughter had an emergency at school, but I don't buy this razzmatazz."
+        }
+      ],
+      "examples": [
+        "He says he's late for the meeting because his daughter had an emergency at school, but I don't buy this razzmatazz."
+      ]
+    }
+  }
+}

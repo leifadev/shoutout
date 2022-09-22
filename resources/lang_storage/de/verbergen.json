@@ -1,0 +1,19 @@
+{
+  "verbergen": {
+    "word": "verbergen",
+    "partOfSpeech": "Verb",
+    "language": "German",
+    "definitions": {
+      "definition": "to hide, conceal from view, keep secret",
+      "parsedExamples": [
+        {
+          "example": "Was verbirgst du vor mir?",
+          "translation": "What are you hiding from me?"
+        }
+      ],
+      "examples": [
+        "Was verbirgst du vor mir?"
+      ]
+    }
+  }
+}

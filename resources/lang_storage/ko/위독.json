@@ -1,0 +1,20 @@
+{
+  "위독": {
+    "word": "위독",
+    "partOfSpeech": "Noun",
+    "language": "Korean",
+    "definitions": {
+      "definition": "critical illness",
+      "parsedExamples": [
+        {
+          "example": "그 환자는 위독 상태에 있다",
+          "transliteration": "geu hwanja-neun widok sangtae-e itda",
+          "translation": "The patient is in critical condition"
+        }
+      ],
+      "examples": [
+        "그 환자는 위독 상태에 있다"
+      ]
+    }
+  }
+}

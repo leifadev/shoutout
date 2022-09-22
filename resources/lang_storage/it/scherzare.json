@@ -1,0 +1,19 @@
+{
+  "scherzare": {
+    "word": "scherzare",
+    "partOfSpeech": "Verb",
+    "language": "Italian",
+    "definitions": {
+      "definition": "to joke,  kid, jest, frolic, be funny",
+      "parsedExamples": [
+        {
+          "example": "Stai scherzando!",
+          "translation": "You are joking!"
+        }
+      ],
+      "examples": [
+        "Stai scherzando!"
+      ]
+    }
+  }
+}

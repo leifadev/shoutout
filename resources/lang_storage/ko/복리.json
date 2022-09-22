@@ -1,0 +1,20 @@
+{
+  "복리": {
+    "word": "복리",
+    "partOfSpeech": "Noun",
+    "language": "Korean",
+    "definitions": {
+      "definition": "welfare; well-being",
+      "parsedExamples": [
+        {
+          "example": "복리 후생 제도",
+          "transliteration": "bongni husaeng jedo",
+          "translation": "benefits package"
+        }
+      ],
+      "examples": [
+        "복리 후생 제도"
+      ]
+    }
+  }
+}

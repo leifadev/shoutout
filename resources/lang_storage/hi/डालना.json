@@ -1,0 +1,20 @@
+{
+  "डालना": {
+    "word": "डालना",
+    "partOfSpeech": "Verb",
+    "language": "Hindi",
+    "definitions": {
+      "definition": "to put, place",
+      "parsedExamples": [
+        {
+          "example": "समान वहीं कहीं डाल दीजिए।",
+          "transliteration": "samān vahī̃ kahī̃ ḍāl dījie.",
+          "translation": "Put the stuff anywhere over there."
+        }
+      ],
+      "examples": [
+        "समान वहीं कहीं डाल दीजिए।"
+      ]
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "목욕하다": {
+    "word": "목욕하다",
+    "partOfSpeech": "Verb",
+    "language": "Korean",
+    "definitions": {
+      "definition": "to bathe",
+      "parsedExamples": [
+        {
+          "example": "목욕하고 나서 몸의 물기를 닦아요.",
+          "transliteration": "Mogyokhago naseo mom-ui mulgi-reul dakkayo.",
+          "translation": "After taking a bath, we dry our bodies."
+        }
+      ],
+      "examples": [
+        "목욕하고 나서 몸의 물기를 닦아요."
+      ]
+    }
+  }
+}

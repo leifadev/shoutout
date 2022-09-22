@@ -1,0 +1,19 @@
+{
+  "特権": {
+    "word": "特権",
+    "partOfSpeech": "Noun",
+    "language": "Japanese",
+    "definitions": {
+      "definition": "privilege",
+      "parsedExamples": [
+        {
+          "translation": "tokken o ushinau",
+          "example": "特権(とっけん)を失(うしな)う"
+        }
+      ],
+      "examples": [
+        "特権(とっけん)を失(うしな)う"
+      ]
+    }
+  }
+}

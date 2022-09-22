@@ -1,0 +1,19 @@
+{
+  "animado": {
+    "word": "animado",
+    "partOfSpeech": "Adjective",
+    "language": "Spanish",
+    "definitions": {
+      "definition": "inspired",
+      "parsedExamples": [
+        {
+          "example": "Animado por la celebridad, él quería aprender a tocar la guitarra.",
+          "translation": "Inspired by the celebrity, he wanted to learn to play the guitar."
+        }
+      ],
+      "examples": [
+        "Animado por la celebridad, él quería aprender a tocar la guitarra."
+      ]
+    }
+  }
+}

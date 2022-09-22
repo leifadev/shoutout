@@ -1,0 +1,19 @@
+{
+  "špinavý": {
+    "word": "špinavý",
+    "partOfSpeech": "Adjective",
+    "language": "Czech",
+    "definitions": {
+      "definition": "dirty (unclean; covered with or containing unpleasant substances such as dirt or grime)",
+      "parsedExamples": [
+        {
+          "example": "okna jsou hodně špinavá",
+          "translation": "the windows are very dirty"
+        }
+      ],
+      "examples": [
+        "okna jsou hodně špinavá"
+      ]
+    }
+  }
+}

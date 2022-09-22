@@ -1,0 +1,20 @@
+{
+  "सेवानिवृत्त": {
+    "word": "सेवानिवृत्त",
+    "partOfSpeech": "Adjective",
+    "language": "Hindi",
+    "definitions": {
+      "definition": "retired",
+      "parsedExamples": [
+        {
+          "example": "कंपनी को सेवानिवृत्त कर्मचारी से पत्र आया।",
+          "transliteration": "kampnī ko sevānivŕtt karmacārī se patra āyā.",
+          "translation": "The company got a letter from a retired employee."
+        }
+      ],
+      "examples": [
+        "कंपनी को सेवानिवृत्त कर्मचारी से पत्र आया।"
+      ]
+    }
+  }
+}

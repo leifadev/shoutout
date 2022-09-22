@@ -1,0 +1,20 @@
+{
+  "सूखना": {
+    "word": "सूखना",
+    "partOfSpeech": "Verb",
+    "language": "Hindi",
+    "definitions": {
+      "definition": "to become dry",
+      "parsedExamples": [
+        {
+          "example": "कपड़े बाहर धूप में सूख रहे हैं।",
+          "transliteration": "kapṛe bāhar dhūp mẽ sūkh rahe ha͠i.",
+          "translation": "The clothes are drying outside in the sun."
+        }
+      ],
+      "examples": [
+        "कपड़े बाहर धूप में सूख रहे हैं।"
+      ]
+    }
+  }
+}

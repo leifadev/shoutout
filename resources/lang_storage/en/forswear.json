@@ -1,0 +1,18 @@
+{
+  "forswear": {
+    "word": "forswear",
+    "partOfSpeech": "Verb",
+    "language": "English",
+    "definitions": {
+      "definition": "To renounce or deny something, especially under oath.",
+      "parsedExamples": [
+        {
+          "example": "We forswear allegiance and support for the Economic Freedom Fighters."
+        }
+      ],
+      "examples": [
+        "We forswear allegiance and support for the Economic Freedom Fighters."
+      ]
+    }
+  }
+}

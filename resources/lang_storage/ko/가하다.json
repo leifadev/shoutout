@@ -1,0 +1,26 @@
+{
+  "가하다": {
+    "word": "가하다",
+    "partOfSpeech": "Verb",
+    "language": "Korean",
+    "definitions": {
+      "definition": "to add; to increase",
+      "parsedExamples": [
+        {
+          "example": "속도를 가하다",
+          "transliteration": "sokdo-reul ga-hada",
+          "translation": "to gather speed"
+        },
+        {
+          "example": "열을 가하다",
+          "transliteration": "yeor-eul ga-hada",
+          "translation": "to add heat"
+        }
+      ],
+      "examples": [
+        "속도를 가하다",
+        "열을 가하다"
+      ]
+    }
+  }
+}

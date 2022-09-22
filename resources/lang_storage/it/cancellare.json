@@ -1,0 +1,19 @@
+{
+  "cancellare": {
+    "word": "cancellare",
+    "partOfSpeech": "Verb",
+    "language": "Italian",
+    "definitions": {
+      "definition": "to delete, to rub out",
+      "parsedExamples": [
+        {
+          "example": "cancellare un file",
+          "translation": "to delete a file"
+        }
+      ],
+      "examples": [
+        "cancellare un file"
+      ]
+    }
+  }
+}

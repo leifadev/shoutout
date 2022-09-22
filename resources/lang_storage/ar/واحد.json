@@ -1,0 +1,20 @@
+{
+  "واحد": {
+    "word": "واحد",
+    "partOfSpeech": "Numeral",
+    "language": "Arabic",
+    "definitions": {
+      "definition": "one",
+      "parsedExamples": [
+        {
+          "example": "رَأَيْتُ رَجُلًا وَاحِدًا وَٱمْرَأَةً وَاحِدَةً",
+          "transliteration": "raʾaytu rajulan wāḥidan wamraʾatan wāḥidatan",
+          "translation": "I saw [only] one man and one woman."
+        }
+      ],
+      "examples": [
+        "رَأَيْتُ رَجُلًا وَاحِدًا وَٱمْرَأَةً وَاحِدَةً"
+      ]
+    }
+  }
+}

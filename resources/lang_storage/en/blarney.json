@@ -1,0 +1,18 @@
+{
+  "blarney": {
+    "word": "blarney",
+    "partOfSpeech": "Noun",
+    "language": "English",
+    "definitions": {
+      "definition": "Mindless chatter.",
+      "parsedExamples": [
+        {
+          "example": "He is full of blarney."
+        }
+      ],
+      "examples": [
+        "He is full of blarney."
+      ]
+    }
+  }
+}

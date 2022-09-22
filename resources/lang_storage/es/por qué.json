@@ -1,0 +1,19 @@
+{
+  "por qué": {
+    "word": "por qué",
+    "partOfSpeech": "Adverb",
+    "language": "Spanish",
+    "definitions": {
+      "definition": "why, for what reason",
+      "parsedExamples": [
+        {
+          "example": "¿Por qué no viniste ayer a la fiesta? // No comprendo por qué te pones así.",
+          "translation": "Why didn't you come to the party yesterday? // I don't understand why you're angry like that."
+        }
+      ],
+      "examples": [
+        "¿Por qué no viniste ayer a la fiesta? // No comprendo por qué te pones así."
+      ]
+    }
+  }
+}

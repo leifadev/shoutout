@@ -1,0 +1,20 @@
+{
+  "منيع": {
+    "word": "منيع",
+    "partOfSpeech": "Adjective",
+    "language": "Arabic",
+    "definitions": {
+      "definition": "strong, fortified, impregnable, invincible, impenetrable, indomitable",
+      "parsedExamples": [
+        {
+          "example": "حِصْن مَنِيع",
+          "transliteration": "ḥiṣn manīʿ",
+          "translation": "impregnable fort"
+        }
+      ],
+      "examples": [
+        "حِصْن مَنِيع"
+      ]
+    }
+  }
+}

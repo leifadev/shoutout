@@ -1,0 +1,18 @@
+{
+  "permutation": {
+    "word": "permutation",
+    "partOfSpeech": "Noun",
+    "language": "English",
+    "definitions": {
+      "definition": "One of the ways something exists, or the ways a set of objects can be ordered.",
+      "parsedExamples": [
+        {
+          "example": "Which permutation for completing our agenda items makes the most sense?"
+        }
+      ],
+      "examples": [
+        "Which permutation for completing our agenda items makes the most sense?"
+      ]
+    }
+  }
+}

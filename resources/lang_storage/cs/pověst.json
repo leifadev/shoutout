@@ -1,0 +1,24 @@
+{
+  "pověst": {
+    "word": "pověst",
+    "partOfSpeech": "Noun",
+    "language": "Czech",
+    "definitions": {
+      "definition": "legend (story)",
+      "parsedExamples": [
+        {
+          "example": "Podle pověsti",
+          "translation": "According to the legend."
+        },
+        {
+          "example": "Podle pověsti je posvátné pohřebiště přímo pod stromem.",
+          "translation": "According to the legend, the sacred burial ground is just below the tree."
+        }
+      ],
+      "examples": [
+        "Podle pověsti",
+        "Podle pověsti je posvátné pohřebiště přímo pod stromem."
+      ]
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "verontschuldigen": {
+    "word": "verontschuldigen",
+    "partOfSpeech": "Verb",
+    "language": "Dutch",
+    "definitions": {
+      "definition": "to excuse, to forgive",
+      "parsedExamples": [
+        {
+          "translation": "Would you excuse me?",
+          "example": "Wilt u mij verontschuldigen?"
+        }
+      ],
+      "examples": [
+        "Wilt u mij verontschuldigen?"
+      ]
+    }
+  }
+}

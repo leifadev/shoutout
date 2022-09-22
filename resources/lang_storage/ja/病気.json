@@ -1,0 +1,19 @@
+{
+  "病気": {
+    "word": "病気",
+    "partOfSpeech": "Noun",
+    "language": "Japanese",
+    "definitions": {
+      "definition": "sickness",
+      "parsedExamples": [
+        {
+          "translation": "byōki ni kakaru",
+          "example": "病(びょう)気(き)に罹(かか)る"
+        }
+      ],
+      "examples": [
+        "病(びょう)気(き)に罹(かか)る"
+      ]
+    }
+  }
+}

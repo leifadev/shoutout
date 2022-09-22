@@ -1,0 +1,22 @@
+{
+  "placid": {
+    "word": "placid",
+    "partOfSpeech": "Adjective",
+    "language": "English",
+    "definitions": {
+      "definition": "calm and quiet; peaceful; tranquil",
+      "parsedExamples": [
+        {
+          "example": "a placid disposition"
+        },
+        {
+          "example": "a placid lake"
+        }
+      ],
+      "examples": [
+        "a placid disposition",
+        "a placid lake"
+      ]
+    }
+  }
+}

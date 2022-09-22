@@ -1,0 +1,22 @@
+{
+  "omstreden": {
+    "word": "omstreden",
+    "partOfSpeech": "Adjective",
+    "language": "Dutch",
+    "definitions": {
+      "definition": "controversial, contentious",
+      "parsedExamples": [
+        {
+          "example": "Het weigeren van het bekrachtigen van de abortuswetgeving door Boudewijn in 1990 was een omstreden affaire."
+        },
+        {
+          "example": "King Baudouin's refusal in 1990 to sign the abortus law was a contentious issue."
+        }
+      ],
+      "examples": [
+        "Het weigeren van het bekrachtigen van de abortuswetgeving door Boudewijn in 1990 was een omstreden affaire.",
+        "King Baudouin's refusal in 1990 to sign the abortus law was a contentious issue."
+      ]
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "à peine": {
+    "word": "à peine",
+    "partOfSpeech": "Adverb",
+    "language": "French",
+    "definitions": {
+      "definition": "barely, scarcely, hardly",
+      "parsedExamples": [
+        {
+          "example": "Il y a à peine trente personnes au concert ce soir.",
+          "translation": "There are barely thirty people at this evening’s concert."
+        },
+        {
+          "example": "À peine avait-il achevé ces paroles qu'une voiture s'arrêta devant la porte.",
+          "translation": "Scarcely had he finished his words, when a car pulled up at the door."
+        },
+        {
+          "example": "Nous avons à peine fait connaissance.",
+          "translation": "We've only just met."
+        }
+      ],
+      "examples": [
+        "Il y a à peine trente personnes au concert ce soir.",
+        "À peine avait-il achevé ces paroles qu'une voiture s'arrêta devant la porte.",
+        "Nous avons à peine fait connaissance."
+      ]
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "pobre": {
+    "word": "pobre",
+    "partOfSpeech": "Adjective",
+    "language": "Spanish",
+    "definitions": {
+      "definition": "poor (pitiable, pitiful)",
+      "parsedExamples": [
+        {
+          "example": "Mi pobre vecino siempre está llorando.",
+          "translation": "My poor neighbor is always crying."
+        }
+      ],
+      "examples": [
+        "Mi pobre vecino siempre está llorando."
+      ]
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "útil": {
+    "word": "útil",
+    "partOfSpeech": "Adjective",
+    "language": "Portuguese",
+    "definitions": {
+      "definition": "helpful",
+      "parsedExamples": [
+        {
+          "example": "Em que lhe posso ser útil?",
+          "translation": "How can I help you?",
+          "literally": "How can I be helpful to you?"
+        }
+      ],
+      "examples": [
+        "Em que lhe posso ser útil?"
+      ]
+    }
+  }
+}

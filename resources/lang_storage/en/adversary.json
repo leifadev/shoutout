@@ -1,0 +1,18 @@
+{
+  "adversary": {
+    "word": "adversary",
+    "partOfSpeech": "Noun",
+    "language": "English",
+    "definitions": {
+      "definition": "An opponent or rival.",
+      "parsedExamples": [
+        {
+          "example": "He prepared to fight his adversary."
+        }
+      ],
+      "examples": [
+        "He prepared to fight his adversary."
+      ]
+    }
+  }
+}

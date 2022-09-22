@@ -1,0 +1,18 @@
+{
+  "paradise": {
+    "word": "paradise",
+    "partOfSpeech": "Noun",
+    "language": "English",
+    "definitions": {
+      "definition": "The place where sanctified souls are believed to live after death.",
+      "parsedExamples": [
+        {
+          "example": "Living in paradise comes with a price."
+        }
+      ],
+      "examples": [
+        "Living in paradise comes with a price."
+      ]
+    }
+  }
+}

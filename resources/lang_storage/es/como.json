@@ -1,0 +1,19 @@
+{
+  "como": {
+    "word": "como",
+    "partOfSpeech": "Adverb",
+    "language": "Spanish",
+    "definitions": {
+      "definition": "as (to such an extent or degree)",
+      "parsedExamples": [
+        {
+          "example": "No es tan alta como nosotras.",
+          "translation": "She's not as tall as us."
+        }
+      ],
+      "examples": [
+        "No es tan alta como nosotras."
+      ]
+    }
+  }
+}

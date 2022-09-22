@@ -1,0 +1,19 @@
+{
+  "opinar": {
+    "word": "opinar",
+    "partOfSpeech": "Verb",
+    "language": "Spanish",
+    "definitions": {
+      "definition": "to think; to be of the opinion",
+      "parsedExamples": [
+        {
+          "example": "Creo que eso sería mejor, ¿y tú qué opinas?",
+          "translation": "I think that would be better; what do you think?"
+        }
+      ],
+      "examples": [
+        "Creo que eso sería mejor, ¿y tú qué opinas?"
+      ]
+    }
+  }
+}

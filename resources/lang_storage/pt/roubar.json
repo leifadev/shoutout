@@ -1,0 +1,19 @@
+{
+  "roubar": {
+    "word": "roubar",
+    "partOfSpeech": "Verb",
+    "language": "Portuguese",
+    "definitions": {
+      "definition": "to steal (to take illegally or without permission)",
+      "parsedExamples": [
+        {
+          "example": "Ele roubou uma carteira do bolso de um pedestre.",
+          "translation": "He stole a wallet from the pocket of a pedestrian."
+        }
+      ],
+      "examples": [
+        "Ele roubou uma carteira do bolso de um pedestre."
+      ]
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "भोला": {
+    "word": "भोला",
+    "partOfSpeech": "Adjective",
+    "language": "Hindi",
+    "definitions": {
+      "definition": "innocent, simple",
+      "parsedExamples": [
+        {
+          "example": "भोला-भाला",
+          "transliteration": "bholā-bhālā",
+          "translation": "simple and innocent"
+        }
+      ],
+      "examples": [
+        "भोला-भाला"
+      ]
+    }
+  }
+}

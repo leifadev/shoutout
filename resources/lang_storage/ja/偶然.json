@@ -1,0 +1,22 @@
+{
+  "偶然": {
+    "word": "偶然",
+    "partOfSpeech": "Adjective",
+    "language": "Japanese",
+    "definitions": {
+      "definition": "contingent, casual, accidental, incidental",
+      "parsedExamples": [
+        {
+          "example": "(inevitable)"
+        },
+        {
+          "example": "(impossible)"
+        }
+      ],
+      "examples": [
+        "(inevitable)",
+        "(impossible)"
+      ]
+    }
+  }
+}

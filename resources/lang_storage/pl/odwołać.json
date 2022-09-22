@@ -1,0 +1,19 @@
+{
+  "odwołać": {
+    "word": "odwołać",
+    "partOfSpeech": "Verb",
+    "language": "Polish",
+    "definitions": {
+      "definition": "to cancel, to call off",
+      "parsedExamples": [
+        {
+          "example": "Mój pociąg został odwołany z powodu mgły.",
+          "translation": "My train got cancelled because of fog."
+        }
+      ],
+      "examples": [
+        "Mój pociąg został odwołany z powodu mgły."
+      ]
+    }
+  }
+}

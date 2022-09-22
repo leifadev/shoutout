@@ -1,0 +1,10 @@
+{
+  "食物": {
+    "word": "食物",
+    "partOfSpeech": "Noun",
+    "language": "Chinese",
+    "definitions": {
+      "definition": "food"
+    }
+  }
+}

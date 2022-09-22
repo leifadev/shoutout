@@ -1,0 +1,20 @@
+{
+  "취하다": {
+    "word": "취하다",
+    "partOfSpeech": "Verb",
+    "language": "Korean",
+    "definitions": {
+      "definition": "to get drunk, to become intoxicated",
+      "parsedExamples": [
+        {
+          "example": "오늘 밤은 술에 취하지 말거라.",
+          "transliteration": "Oneul bam-eun sur-e chwihaji malgeora.",
+          "translation": "[You] better not get drunk tonight."
+        }
+      ],
+      "examples": [
+        "오늘 밤은 술에 취하지 말거라."
+      ]
+    }
+  }
+}

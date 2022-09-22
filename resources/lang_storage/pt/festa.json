@@ -1,0 +1,24 @@
+{
+  "festa": {
+    "word": "festa",
+    "partOfSpeech": "Noun",
+    "language": "Portuguese",
+    "definitions": {
+      "definition": "party",
+      "parsedExamples": [
+        {
+          "example": "Vamos começar a festa.",
+          "translation": "Let's get the party started."
+        },
+        {
+          "example": "A festa acabou.",
+          "translation": "The party's over."
+        }
+      ],
+      "examples": [
+        "Vamos começar a festa.",
+        "A festa acabou."
+      ]
+    }
+  }
+}

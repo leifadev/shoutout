@@ -1,0 +1,18 @@
+{
+  "stanch": {
+    "word": "stanch",
+    "partOfSpeech": "Verb",
+    "language": "English",
+    "definitions": {
+      "definition": "To stop the flow of (something).",
+      "parsedExamples": [
+        {
+          "example": "A small amount of cotton can be stuffed into the nose to stanch the flow of blood if necessary."
+        }
+      ],
+      "examples": [
+        "A small amount of cotton can be stuffed into the nose to stanch the flow of blood if necessary."
+      ]
+    }
+  }
+}

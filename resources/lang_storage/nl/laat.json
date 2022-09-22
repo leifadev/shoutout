@@ -1,0 +1,24 @@
+{
+  "laat": {
+    "word": "laat",
+    "partOfSpeech": "Adjective",
+    "language": "Dutch",
+    "definitions": {
+      "definition": "late (not early)",
+      "parsedExamples": [
+        {
+          "example": "Het is toch te laat.",
+          "translation": "It's too late."
+        },
+        {
+          "example": "'t Is al laat geworden.",
+          "translation": "It's gotten late already."
+        }
+      ],
+      "examples": [
+        "Het is toch te laat.",
+        "'t Is al laat geworden."
+      ]
+    }
+  }
+}

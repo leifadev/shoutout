@@ -1,0 +1,39 @@
+{
+  "bijatyka": {
+    "word": "bijatyka",
+    "partOfSpeech": "Noun",
+    "language": "Polish",
+    "definitions": {
+      "definition": "brawl, melee (fight involving many people)",
+      "parsedExamples": [
+        {
+          "example": "ogólna bijatyka",
+          "translation": "mass/free-for-all brawl"
+        },
+        {
+          "example": "uliczna bijatyka",
+          "translation": "street brawl"
+        },
+        {
+          "example": "bijatyki kibiców",
+          "translation": "a brawl between sport fans"
+        },
+        {
+          "example": "uczestnik bijatyki",
+          "translation": "brawler"
+        },
+        {
+          "example": "odgłosy bijatyki",
+          "translation": "the dim of a brawl"
+        }
+      ],
+      "examples": [
+        "ogólna bijatyka",
+        "uliczna bijatyka",
+        "bijatyki kibiców",
+        "uczestnik bijatyki",
+        "odgłosy bijatyki"
+      ]
+    }
+  }
+}

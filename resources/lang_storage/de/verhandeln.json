@@ -1,0 +1,19 @@
+{
+  "verhandeln": {
+    "word": "verhandeln",
+    "partOfSpeech": "Verb",
+    "language": "German",
+    "definitions": {
+      "definition": "to negotiate, to debate",
+      "parsedExamples": [
+        {
+          "example": "Die Führer verhandelten einen Plan für ein Ende der Gewalt.",
+          "translation": "The leaders negotiated a plan to end the violence."
+        }
+      ],
+      "examples": [
+        "Die Führer verhandelten einen Plan für ein Ende der Gewalt."
+      ]
+    }
+  }
+}

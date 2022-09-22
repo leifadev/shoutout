@@ -1,0 +1,20 @@
+{
+  "пурпурный": {
+    "word": "пурпурный",
+    "partOfSpeech": "Adjective",
+    "language": "Russian",
+    "definitions": {
+      "definition": "Tyrian purple",
+      "parsedExamples": [
+        {
+          "example": "пу́рпурная мастерска́я",
+          "transliteration": "púrpurnaja masterskája",
+          "translation": "Tyrian purple dyer's workshop"
+        }
+      ],
+      "examples": [
+        "пу́рпурная мастерска́я"
+      ]
+    }
+  }
+}

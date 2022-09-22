@@ -1,0 +1,24 @@
+{
+  "węchowy": {
+    "word": "węchowy",
+    "partOfSpeech": "Adjective",
+    "language": "Polish",
+    "definitions": {
+      "definition": "olfactory",
+      "parsedExamples": [
+        {
+          "example": "węchowy zespół odnoszący",
+          "translation": "olfactory reference syndrome"
+        },
+        {
+          "example": "pole/okolica węchowa",
+          "translation": "regio olfactoria"
+        }
+      ],
+      "examples": [
+        "węchowy zespół odnoszący",
+        "pole/okolica węchowa"
+      ]
+    }
+  }
+}

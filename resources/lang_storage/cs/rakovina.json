@@ -1,0 +1,24 @@
+{
+  "rakovina": {
+    "word": "rakovina",
+    "partOfSpeech": "Noun",
+    "language": "Czech",
+    "definitions": {
+      "definition": "cancer",
+      "parsedExamples": [
+        {
+          "example": "rakovina plic",
+          "translation": "lung cancer"
+        },
+        {
+          "example": "rakovina jater",
+          "translation": "liver cancer"
+        }
+      ],
+      "examples": [
+        "rakovina plic",
+        "rakovina jater"
+      ]
+    }
+  }
+}

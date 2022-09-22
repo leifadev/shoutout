@@ -1,0 +1,19 @@
+{
+  "czaić się": {
+    "word": "czaić się",
+    "partOfSpeech": "Verb",
+    "language": "Polish",
+    "definitions": {
+      "definition": "to get; to understand",
+      "parsedExamples": [
+        {
+          "example": "Teraz już chyba czaję.",
+          "translation": "Now I think I get it."
+        }
+      ],
+      "examples": [
+        "Teraz już chyba czaję."
+      ]
+    }
+  }
+}

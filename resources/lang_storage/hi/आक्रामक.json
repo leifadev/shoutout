@@ -1,0 +1,20 @@
+{
+  "आक्रामक": {
+    "word": "आक्रामक",
+    "partOfSpeech": "Adjective",
+    "language": "Hindi",
+    "definitions": {
+      "definition": "aggressive, bellicose",
+      "parsedExamples": [
+        {
+          "example": "देश को आक्रामक न होना अच्छा होता है।",
+          "transliteration": "deś ko ākrāmak na honā acchā hotā hai.",
+          "translation": "It is good for a nation to not be aggressive."
+        }
+      ],
+      "examples": [
+        "देश को आक्रामक न होना अच्छा होता है।"
+      ]
+    }
+  }
+}

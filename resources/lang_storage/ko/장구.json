@@ -1,0 +1,21 @@
+{
+  "장구": {
+    "word": "장구",
+    "partOfSpeech": "Noun",
+    "language": "Korean",
+    "definitions": {
+      "definition": "janggu (a double-headed hourglass drum played with two sticks, used in traditional Korean music)",
+      "parsedExamples": [
+        {
+          "example": "장구를 치다",
+          "transliteration": "janggu-reul chida",
+          "translation": "to play the janggu",
+          "literally": "to hit the janggu"
+        }
+      ],
+      "examples": [
+        "장구를 치다"
+      ]
+    }
+  }
+}

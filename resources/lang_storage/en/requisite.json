@@ -1,0 +1,18 @@
+{
+  "requisite": {
+    "word": "requisite",
+    "partOfSpeech": "Adjective",
+    "language": "English",
+    "definitions": {
+      "definition": "Essential, indispensable, required.",
+      "parsedExamples": [
+        {
+          "example": "Please submit the requisite papers before the end of the financial year."
+        }
+      ],
+      "examples": [
+        "Please submit the requisite papers before the end of the financial year."
+      ]
+    }
+  }
+}

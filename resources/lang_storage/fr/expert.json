@@ -1,0 +1,22 @@
+{
+  "expert": {
+    "word": "expert",
+    "partOfSpeech": "Adjective",
+    "language": "French",
+    "definitions": {
+      "definition": "expert",
+      "parsedExamples": [
+        {
+          "example": "Il est expert en matière de finances"
+        },
+        {
+          "example": "Il est expert dans les sciences humaines et sociales."
+        }
+      ],
+      "examples": [
+        "Il est expert en matière de finances",
+        "Il est expert dans les sciences humaines et sociales."
+      ]
+    }
+  }
+}

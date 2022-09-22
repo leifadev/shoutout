@@ -1,0 +1,19 @@
+{
+  "猛烈な": {
+    "word": "猛烈な",
+    "partOfSpeech": "Adjective",
+    "language": "Japanese",
+    "definitions": {
+      "definition": "extreme, strong, driving (rain), blistering (heat or attack), ardent, furious",
+      "parsedExamples": [
+        {
+          "translation": "Tōkai kara nishi no kakuchi o chūshin ni, nijūyokka ni tsuzuite mōretsu na atsusa to narimashita.",
+          "example": "東海(とうかい)から西(にし)の各地(かくち)を中心(ちゅうしん)に、２４日(にじゅうよっか)に続(つづ)いて猛烈(もうれつ)な暑(あつ)さとなりました。"
+        }
+      ],
+      "examples": [
+        "東海(とうかい)から西(にし)の各地(かくち)を中心(ちゅうしん)に、２４日(にじゅうよっか)に続(つづ)いて猛烈(もうれつ)な暑(あつ)さとなりました。"
+      ]
+    }
+  }
+}

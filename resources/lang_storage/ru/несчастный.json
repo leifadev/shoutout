@@ -1,0 +1,20 @@
+{
+  "несчастный": {
+    "word": "несчастный",
+    "partOfSpeech": "Adjective",
+    "language": "Russian",
+    "definitions": {
+      "definition": "unhappy, unlucky",
+      "parsedExamples": [
+        {
+          "example": "несча́стный слу́чай",
+          "transliteration": "nesčástnyj slúčaj",
+          "translation": "accident"
+        }
+      ],
+      "examples": [
+        "несча́стный слу́чай"
+      ]
+    }
+  }
+}

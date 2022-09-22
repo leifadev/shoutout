@@ -1,0 +1,18 @@
+{
+  "版本": {
+    "word": "版本",
+    "partOfSpeech": "Noun",
+    "language": "Chinese",
+    "definitions": {
+      "definition": "version (Classifier: 個／个)\n version (specific form or variation of something)\n version (particular revision of software, firmware, CPU, etc.)",
+      "parsedExamples": [
+        {
+          "example": "商業版本 / 商业版本&nbsp; ―&nbsp; shāngyè bǎnběn&nbsp; ―&nbsp; commercial version"
+        }
+      ],
+      "examples": [
+        "商業版本 / 商业版本&nbsp; ―&nbsp; shāngyè bǎnběn&nbsp; ―&nbsp; commercial version"
+      ]
+    }
+  }
+}

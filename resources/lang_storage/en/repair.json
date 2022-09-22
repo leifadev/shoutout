@@ -1,0 +1,22 @@
+{
+  "repair": {
+    "word": "repair",
+    "partOfSpeech": "Verb",
+    "language": "English",
+    "definitions": {
+      "definition": "To restore to good working order, fix, or improve damaged condition; to mend; to remedy.",
+      "parsedExamples": [
+        {
+          "example": "to repair a house, a road, a shoe, a ship"
+        },
+        {
+          "example": "to repair a shattered fortune"
+        }
+      ],
+      "examples": [
+        "to repair a house, a road, a shoe, a ship",
+        "to repair a shattered fortune"
+      ]
+    }
+  }
+}

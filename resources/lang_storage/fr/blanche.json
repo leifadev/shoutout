@@ -1,0 +1,19 @@
+{
+  "blanche": {
+    "word": "blanche",
+    "partOfSpeech": "Adjective",
+    "language": "French",
+    "definitions": {
+      "definition": "feminine singular of blanc",
+      "parsedExamples": [
+        {
+          "example": "Cette page est blanche.",
+          "translation": "This page is blank/white."
+        }
+      ],
+      "examples": [
+        "Cette page est blanche."
+      ]
+    }
+  }
+}

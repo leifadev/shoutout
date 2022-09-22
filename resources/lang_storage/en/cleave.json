@@ -1,0 +1,18 @@
+{
+  "cleave": {
+    "word": "cleave",
+    "partOfSpeech": "Verb",
+    "language": "English",
+    "definitions": {
+      "definition": "To split or sever something with, or as if with, a sharp instrument.",
+      "parsedExamples": [
+        {
+          "example": "The wings cleaved the foggy air."
+        }
+      ],
+      "examples": [
+        "The wings cleaved the foggy air."
+      ]
+    }
+  }
+}

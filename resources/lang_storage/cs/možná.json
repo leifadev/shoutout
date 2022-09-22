@@ -1,0 +1,24 @@
+{
+  "možná": {
+    "word": "možná",
+    "partOfSpeech": "Adverb",
+    "language": "Czech",
+    "definitions": {
+      "definition": "maybe, perhaps",
+      "parsedExamples": [
+        {
+          "example": "je to možná tím, že...",
+          "translation": "perhaps it's  because..."
+        },
+        {
+          "example": "To doktor řekl mým rodičům, že když jsem poslední, je to možná tím, že ve škole špatně vidím.",
+          "translation": "The doctor told my parents that I was the last (in class) perhaps because I can't see well at school."
+        }
+      ],
+      "examples": [
+        "je to možná tím, že...",
+        "To doktor řekl mým rodičům, že když jsem poslední, je to možná tím, že ve škole špatně vidím."
+      ]
+    }
+  }
+}

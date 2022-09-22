@@ -1,0 +1,20 @@
+{
+  "감소": {
+    "word": "감소",
+    "partOfSpeech": "Noun",
+    "language": "Korean",
+    "definitions": {
+      "definition": "reduction",
+      "parsedExamples": [
+        {
+          "example": "한 조사팀이 바이수에이의 감소가 지난 10년간 연간 약 27미터라고 기록하였다.",
+          "transliteration": "Han josatimi baisueiui gamsoga jinan 10nyeon'gan yeon'gan yak 27miteorago girokhayeotda.",
+          "translation": "One research team has recorded Baishui’s decrease at about 27 meters per year over the last 10 years."
+        }
+      ],
+      "examples": [
+        "한 조사팀이 바이수에이의 감소가 지난 10년간 연간 약 27미터라고 기록하였다."
+      ]
+    }
+  }
+}

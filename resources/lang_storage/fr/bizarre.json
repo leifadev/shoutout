@@ -1,0 +1,24 @@
+{
+  "bizarre": {
+    "word": "bizarre",
+    "partOfSpeech": "Adjective",
+    "language": "French",
+    "definitions": {
+      "definition": "bizarre, odd, strange, funny",
+      "parsedExamples": [
+        {
+          "example": "Je me sens bizarre.",
+          "translation": "I feel strange."
+        },
+        {
+          "example": "J'ai une impression bizarre de te connaître.",
+          "translation": "I have a funny feeling I know you."
+        }
+      ],
+      "examples": [
+        "Je me sens bizarre.",
+        "J'ai une impression bizarre de te connaître."
+      ]
+    }
+  }
+}
