@@ -1,15 +1,30 @@
-# Shoutout!
-An app for the word of the day, but in any language
+# Shoutout: The word of the day, but in any language!
 
-<img src="https://github.com/leifadev/shoutout/blob/main/resources/images/shoutout_logo.png" height="290" width="280"/>
+<img src="https://github.com/leifadev/shoutout/blob/main/resources/images/shoutout_logo.png" height="170" width="170"/>
 
-**You can now put a spin on how you learn a new language!**
+### **Put a spin on how you learn a new language!**
 
-Made with Python using the Apple SDKs Foundation and Cocoa through PyObjC, this dominately macOS supportive app will help you learn knowledge everyday! 
+Made all in Python using the Apple SDK and Frameworks using the PyObjC bridge. This app includes over 22,000 definitions and words with part of speech, examples (english and native ones), and more over 15 languages and growing!
 
-### Features
+---
+
+## Versions
+|         Versions Compatible       |      Status      	|
+|:---------------------------------:|:-----------------:|
+|          Ventera                  |          ➖       | 	
+|          Monterey                 |          ➖       | 	
+|          Big Sur                  | :white_check_mark:| 	
+|          Catalina                 | :white_check_mark:|  	
+|            Mojave                 |         ➖        |  	
+|         High Sierra               |         ➖        | 
+|           Sierra                  |         ➖   	   |  
+|           El Capitan              |         ➖        | 	
+|   10.10 and lower                 |         **?**     |
+
+
+## Features
 - Timezones
-- Multi-language support (12+ Languages)
+- Multi-language support (15+ Languages)
 - Settings
 - Themes
 - Notifications (launchd daemon)
