@@ -9,18 +9,25 @@ Made all in Python using the Apple SDK and Frameworks using the PyObjC bridge. T
 ---
 
 ## Versions
+|           Functionality           |        Key    	|
+|:---------------------------------:|:-----------------:|
+|          Fully Supported          |:white_check_mark:| 	
+|     Partial Functionality         |        🔵       | 	
+|           Not Supported           |        ❌       | 	
+|            Unknown                |       ➖        | 	
+
+
 |         Versions Compatible       |      Status      	|
 |:---------------------------------:|:-----------------:|
 |          Ventera                  |          ➖       | 	
 |          Monterey                 |          ➖       | 	
 |          Big Sur                  | :white_check_mark:| 	
 |          Catalina                 | :white_check_mark:|  	
-|            Mojave                 |         ➖        |  	
-|         High Sierra               |         ➖        | 
-|           Sierra                  |         ➖   	   |  
-|           El Capitan              |         ➖        | 	
-|   10.10 and lower                 |         **?**     |
-
+|            Mojave                 | :white_check_mark:|  	
+|         High Sierra               |         🔵        | 
+|           Sierra                  |         🔵   	   |  
+|           El Capitan              |         🔵        | 	
+|   10.10 and lower                 |         ❌        |
 
 ## Features
 - Timezones
