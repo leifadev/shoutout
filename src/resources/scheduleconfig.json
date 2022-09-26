@@ -15,6 +15,9 @@
     "alert3": null,
     "alert4": null,
     "opt": "opt"
-  }
+  },
 
+  "count": {
+    "count": 3
+  }
 }
