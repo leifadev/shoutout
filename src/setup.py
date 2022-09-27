@@ -42,7 +42,9 @@ OPTIONS = {'iconfile': 'resources/images/shoutout_logo.icns',
                'CFBundleVersion': 'alpha~0.0.1',
                'CFBundleDevelopmentRegion': 'en-US',
                'CFBundleIdentifier': 'com.leifadev.shoutout',
-               'CFBundleSpokenName': 'Shoutout exclamation mark'
+               'CFBundleSpokenName': 'Shoutout exclamation mark',
+               'NSHumanReadableCopyright': 'GNU General Public License v2.0'
+                                           '\nCopyright © 1989, 1991 Free Software Foundation, Inc.'
                 }
            }
 
