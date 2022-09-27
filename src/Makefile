@@ -50,7 +50,6 @@ clean:
 	rm -rf *.build/
 	rm -rf *.dist/
 	rm -rf __pycache__/
-	rm -rf requirements.txt
 	@echo "\nFreezing your project! Updated requirements.txt"
 	@echo "\n--------------------------"
 
