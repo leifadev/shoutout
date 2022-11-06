@@ -9,9 +9,9 @@ import logging
 import Cocoa, objc
 
 # Shoutout modules
-from utils.langutils import Manager as langutils
-from utils.tasks import backendTasks as tasks
-import utils.CGImageUtils as imageutils  # Ronald Roussen Core Graphics Utils
+from sutils import CGImageUtils
+from sutils.langutils import Manager as langutils
+from sutils.tasks import backendTasks as tasks
 
 # Python Modules
 import getpass
@@ -25,17 +25,41 @@ class mainWindow(prefWindow):
     Main Controller for main window, inherits from prefWindow class
 
     """
+    directoryToIndex = objc.ivar()
+    word = objc.IBOutlet()
+    definition = objc.IBOutlet()
 
-    def __init__(self):
-        word = objc.IBOutlet()
-        definition = objc.IBOutlet()
+    print("d")
+    Cocoa.NSButtonCell.initTextCell_(self, "")
 
     @objc.IBAction
     def helplink_(self, sender):
         url = "https://github.com/leifadev/shoutout/wiki"
-        print(f"{url} opened!")
+        NSLog(f"{url} opened!")
         link = Cocoa.NSURL.alloc().initWithString_(url)
         Cocoa.NSWorkspace.alloc().openURL_(link)
+
+
+    @objc.IBAction
+    def chooseFile_(self, sender):
+        # we are setting up an NSOpenPanel to select only a directory and then
+        # we will use that directory to choose where to place our index file and
+        # which files we'll read in to make searchable.
+        op = Cocoa.NSOpenPanel.openPanel()
+        op.setCanChooseDirectories_(True)
+        op.setCanChooseFiles_(False)
+        op.setResolvesAliases_(True)
+        op.setAllowsMultipleSelection_(False)
+        result = op.runModalForDirectory_file_types_(None, None, None)
+        if result == Cocoa.NSOKButton:
+            self.directoryToIndex = op.filename()
+            self.uploadLanguage(self.directoryToIndex)
+            # self.directoryTextField.setStringValue_(self.directoryToIndex)
+
+    # def uploadLanguage(self, path):
+    #     # Custom language db to upload, make folder for it automatically
+    #     # Scan through it's contents and only accept it being all JSON files, otherwse reject
+    #     pass
 
 
 class UIElements:
@@ -51,7 +75,6 @@ class UIElements:
     _preserveAspectRatio = objc.ivar.bool()
 
     openImageIOSupportedTypes = objc.ivar()
-
 
     def __init__(self):
         self.backendDir = f'/Users/{getpass.getuser()}/Library/Application Support/'
@@ -83,7 +106,7 @@ class UIElements:
             current_key -= 1
 
         next_selection = langs[current_key]
-        # print(current_key, next_selection)
+        # NSLog(current_key, next_selection)
 
         tasks.updateConfig('selectedlang', next_selection)
 
@@ -107,9 +130,3 @@ class UIElements:
             self.imageView.setImage_(CGImageUtils.IICreateImage(url))
         else:
             logging.warning("")
-
-
-
-
-ui = UIElements()
-ui.cycle(True)
