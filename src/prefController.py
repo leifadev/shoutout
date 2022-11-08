@@ -6,48 +6,62 @@ import Cocoa, objc
 from AppKit import NSApp
 
 # Shoutout modules
-from utils.tasks import backendTasks as tasks
+from sutils.tasks import backendTasks as tasks
+
 
 class prefWindow(Cocoa.NSWindowController):
     """
     Window controller of preferences window
     (Inherits from NSWindowController)
+
     """
 
-    def __init__(self):
-        self.light_button = objc.IBOutlet()
-        self.dark_button = objc.IBOutlet()
-        self.settingsStepper = objc.IBOutlet()
+    # def __init__(self):
+    #     self.complexitySlider = ""
+    #     self.notificationDate = ""
+    #     self.notificationDay = ""
 
-    # @objc.IBAction
-    # def stepUpNoti(self):
-    #     tasks.updateSchedule()
+    settingsStepper = objc.IBOutlet()
+    light_button = objc.IBOutlet()
+    dark_button = objc.IBOutlet()
+    date1 = objc.IBOutlet()
+    date2 = objc.IBOutlet()
+    value = objc.ivar()
+    complexity_bar = objc.IBOutlet()
+    complexity_slider = objc.IBOutlet()
 
+
+    def windowDidLoad(self):
+        Cocoa.NSWindowController.windowDidLoad(self)
+        self.count = 0
+
+    @objc.IBAction
+    def getSliderTick_(self, sender):
+        print("ddd")
+        x = self.complexity_slider.tickMarkValueAtIndex_(0)
+        print(x)
+        # self.complexity_bar.setEditable_(True)
+        # self.complexity_bar.setDoubleValue_(2)
 
     @objc.IBAction
     def openlink_(self, sender):
-        url = ("https://github.com/leifadev/shoutout/")
+        url = "https://github.com/leifadev/shoutout/wiki"
         print(f"{url} launched")
         x = Cocoa.NSURL.alloc().initWithString_(url)
         Cocoa.NSWorkspace.alloc().openURL_(x)
 
-    # Increment numbers display stuff (from dawes.wordpress.com)
     @objc.IBAction
     def increment_(self, sender):
-        # self.count += 1
-        print("derf")
-        # self.updateDisplay()
+         self.count += 1
+         self.updateDisplay()
 
     @objc.IBAction
     def decrement_(self, sender):
         self.count -= 1
-        print(self.count)
         self.updateDisplay()
 
-    # def switchTheme_(self):
 
     def updateDisplay(self):
-        # DO NSStepper
         self.settingsStepper.setStringValue_(self.count)
 
 
