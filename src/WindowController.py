@@ -26,11 +26,13 @@ class mainWindow(prefWindow):
 
     """
     directoryToIndex = objc.ivar()
-    word = objc.IBOutlet()
-    definition = objc.IBOutlet()
+    definitionField = objc.IBOutlet()
+    definition = """
+    """
 
-    print("d")
-    Cocoa.NSButtonCell.initTextCell_(self, "")
+    def windowDidLoad(self):
+        self.definitionField.setEditable_(False) # Lock definition text field
+
 
     @objc.IBAction
     def helplink_(self, sender):
@@ -38,6 +40,15 @@ class mainWindow(prefWindow):
         NSLog(f"{url} opened!")
         link = Cocoa.NSURL.alloc().initWithString_(url)
         Cocoa.NSWorkspace.alloc().openURL_(link)
+
+    @objc.IBAction
+    def changeDefinition_(self, sender):
+        # current_def = self.definitionField.stringValue()
+        lang = tasks.getYAML()
+        print(lang)
+
+        # self.definitionField.setStringValue_(lang)
+        # print("Set string, and the text field is now locked...")
 
 
     @objc.IBAction
