@@ -14,15 +14,26 @@ VERSION = v1.0
 .PHONY: help upgrade clean build
 
 help:
-	@echo "\n---------------HELP-----------------\n"
-	@echo "make help - display this message"
-	@echo "make upgrade - updates repository modules"
+	@echo "\n-----------HELP!!!! AHHHHH-----------\n"
+	@echo "make help - display HELP AHHHHH WHYYYY I HATE THIS!!!"
+	@echo "make setup - Sets up your project with the essential PyObj-C modules and files"
+	@echo "make upgrade - updates all repository modules"
 	@echo "make run - run the binary in your compiled .app quickly!"
 	@echo "make clean - clean up files"
 	@echo "make build - builds the repo into .app dist"
 	@echo "make all - run all above functions except upgrade"
-	@echo "\n-------------------------------------\n"
-	@echo "Coded by leifadev\nhttps://github.com/leifadev/shoutout\n"
+	@echo "\n-------------------------------------"
+	@echo "	       ${VERSION}  "
+	@echo "PyObj-C Makefile by leifadev\nhttps://github.com/leifadev/shoutout\n"
+	@echo "Your Variables:  ${PYTHON}, ${PIP}  ${PROJECT_MAIN}, ${MAIN_FILENAME}"
+
+
+setup:
+	@echo Setting up your directory with py2app and pyobjc!
+	@${PIP} install py2app pyobjc
+	@echo "Trying to make a setup.py for: PROJECT_MAIN=${PROJECT_MAIN}"
+
+
 
 upgrade:
 	@echo Updating all modules!
@@ -57,11 +68,13 @@ clean:
 build:
 	@echo "Building standalone application with py2app"
 	@echo "Change your PYTHON path in Makefile accordingly if I fail!"
+	@echo "\nBuilding in alias mode! For standalone build remove -A in this Makefile"
 	@${PYTHON} setup.py py2app -A
 	@echo "You did it!"
 
 
 all:
+	@echo Cleaning building, and running your app!
 	@make clean
 	@make build
 	@make run
