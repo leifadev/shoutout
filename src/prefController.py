@@ -34,7 +34,7 @@ class prefWindow(Cocoa.NSWindowController):
 
     @objc.IBAction
     def selectDay_(self, sender):
-        print("DDD")
+        print("PEOWWROOPIRIOP")
         date = self.weekSelectButton.dateValue()
         print(date)
 
