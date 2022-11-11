@@ -1,12 +1,8 @@
 # Main file for Shoutout!
-
-import WindowController
 import AppDelegate
-import notifications
-# import tasks
-# import langutils
-# import daemon
-
+import WindowController
+import prefController
+import sutils.tasks, sutils.langutils, sutils.config
 
 if __name__ == "__main__":
     from PyObjCTools import AppHelper

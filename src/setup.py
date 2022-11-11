@@ -8,27 +8,9 @@ Usage:
 
 from setuptools import setup
 
-langs = [
-    "english",  # English (US)
-    "spanish",  # Spanish
-    "hindi",  # Hindi
-    "german",  # German
-    "french",  # French
-    "japanese",  # Japanese
-    "russian",  # Russian
-    "italian",  # Italian
-    "korean",  # Korean
-    "arabic",  # Arabic
-    "polish",  # Polish
-    "chinese",  # Chinese
-    "dutch",  # Dutch
-    "portuguese",  # Portuguese
-    "czech"  # Czech
-]
-
 APP = ['main.py']
-DATA_FILES = ['shoutout_main.xib', 'AppDelegate.py',
-              'WindowController.py', 'daemon',
+DATA_FILES = ['shoutout_main.xib', 'sutils/config.py', 'AppDelegate.py',
+              'WindowController.py', 'sutils/langutils.py', 'sutils/tasks.py',
               'notifications.py',
               'resources/images/']
 
@@ -57,6 +39,9 @@ if __name__ == "__main__":
     )
 
 """
+
+Compile daemon command: pyins
+
 Version Number Protocol (from Apple Documentation)
 
 The first number represents the most recent major release, max four digits.

@@ -10,9 +10,8 @@ Tasks:
 """
 
 # Python modules
-import lockfile, ntplib, wget
+import lockfile, wget
 import logging, os, sys, time, getpass, json
-
 
 class Daemon:
     logging.info("Starting up daemon class...")
@@ -65,7 +64,7 @@ class Daemon:
         """
         import datetime
 
-        try:
+        # try:
             # ntpdata = ntplib.NTPClient()
             # from datetime import datetime
             # # Requesting online time pool, apples servers
@@ -75,14 +74,14 @@ class Daemon:
 
             # Don't use NTP server for now because it doesn't
             # support different time-zones
-            self.time = datetime.datetime.today()
-            return self.time
-
-        except ntplib.NTPException as e:
+        #     self.time = datetime.datetime.today()
+        #     return self.time
+        #
+        # except ntplib.NTPException as e:
             # logging.error(f"There was an exception with the NTP Server connection!\n{e}")
             # logging.warning("Internet connection lost? Don't worry, using your local machine time!")
-            self.time = datetime.datetime.today()
-            return self.time
+        self.time = datetime.datetime.today()
+        return self.time
 
     def clock(self):
         """
@@ -100,7 +99,7 @@ class Daemon:
             try:
                 data = json.loads(config.read())
             except json.decoder.JSONDecodeError as e:
-                from utils.tasks import backendTasks
+                from src import backendTasks
                 task = backendTasks()
                 task.otherConfigFiles()
                 logging.warning(f"Schedule config file is probably corrupted... "
@@ -132,7 +131,7 @@ class Daemon:
             system_hour = datetime.datetime.now().hour
 
             # Print month-day, weekday, and hour integer
-            print(month_day, utc_weekday, system_hour)
+            NSLog(month_day, utc_weekday, system_hour)
 
             # Loop for checking for all day values in config
             for key, value in days_active.items():
@@ -141,14 +140,14 @@ class Daemon:
                 if key == weekday and value:  # If config day (key) is what the day is today,
                     # check if it's true (if needs notification)
                     logging.info(f"Today is {weekday}, checking for hours!")
-                    print("Day is active!")
+                    NSLog("Day is active!")
 
                     if self.hourly:
                         # Loop for hours
                         for alert, hour in alert_dates.items():
                             if hour == system_hour:
                                 logging.info(f"Hour: {hour} is the hour to notify!")
-                                print(f"Hour: {hour} is the hour to notify!")
+                                NSLog(f"Hour: {hour} is the hour to notify!")
                                 return True
                     else:
                         return True
@@ -174,14 +173,11 @@ class Daemon:
         :return:
         """
         # Sleep daemon, (print statement for pure sys.stdout)
-        print(f"Message to sleep: {msg}")
+        NSLog(f"Message to sleep: {msg}")
         time.sleep(duration)
 
 logging.basicConfig()
 logging.getLogger().setLevel(logging.DEBUG)
-# requests_log = logging.getLogger("requests.packages.urllib3")
-# requests_log.setLevel(logging.DEBUG)
-# requests_log.propagate = False
 
 if __name__ == "__main__":
     # Set umask for UNIX perms

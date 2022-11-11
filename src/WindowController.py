@@ -5,16 +5,17 @@ Window Controller for the main window, holds code relevant to it's functioning f
 
 # Objective-C
 import logging
+import os
 
-import Cocoa, objc
+import Cocoa, objc, Foundation
 
 # Shoutout modules
-from sutils import CGImageUtils
 from sutils.langutils import Manager as langutils
 from sutils.tasks import backendTasks as tasks
 
+from sutils.config import configDir
+
 # Python Modules
-import getpass
 
 # Inherit from preferences subclass of NSWindowController
 from prefController import prefWindow
@@ -27,27 +28,110 @@ class mainWindow(prefWindow):
     """
     directoryToIndex = objc.ivar()
     definitionField = objc.IBOutlet()
-    definition = """
-    """
+    flagImage = objc.IBOutlet()
+
 
     def windowDidLoad(self):
+        # Create language database if not made
+        if os.path.isdir(configDir + "lang_storage/"):
+            print("oooo")
+        #     tasks.downloadLangDb()
+        # tasks.handleConfig()
         self.definitionField.setEditable_(False) # Lock definition text field
+        # self.getCurrentDefinition()
 
+
+    def getCurrentDefinition(self):
+        """
+        Gets the current definition from the config.yml
+
+        :return: A tuple with the current word and the current language in config
+        """
+        lang = tasks.getYAML()[0]['Main']
+        from sutils.config import language_codes
+        current_word, current_language = lang['selectedword'], language_codes[lang['selectedlang']]
+        payload = langutils.read(configDir + f"lang_storage/{current_language}/{current_word}.json")
+
+        return payload
+
+
+    def loadDefinition(self, word=None, language=None):
+        """
+        Indexes word database and loads word into the UI
+
+        :param word: Word
+        :param language:
+        :return:
+        """
+        from src.sutils.config import language_codes
+        import random
+        lang = language_codes[language]
+        path = configDir + f"lang_storage/"
+
+        # Get random index of a word from the languages database
+        index = random.randrange(1, len(os.listdir(path + lang)))
+        file = os.listdir(path + lang)[index]
+        word = os.path.splitext(file)[0]
+
+        payload = langutils.read(configDir + f"lang_storage/{lang}/{file}.json")
+        content = payload[word]
+
+        html = f"""<p><b>{word}</b> - {language}</p>
+        <p><i>Phonetics</i> - {content['partOfSpeech']}</p>
+        <p><i>{content['parsedExamples']['example']}</i></p>
+        <p>Definition - {content['definitions']['definition']}</p>
+        """
+
+        # Make an NSData object with the html string in it
+        html = Foundation.NSData.dataWithBytes_length_(html, len(html))
+        # Make an instance of an Attributed String
+        attrString = Foundation.NSAttributedString.alloc().init()
+        # Instantiate attributed string with the NSData html string
+        definition = attrString.initWithHTML_documentAttributes_(html, {})
+        print(definition)
+
+        return definition
 
     @objc.IBAction
     def helplink_(self, sender):
+        print('KDKD')
         url = "https://github.com/leifadev/shoutout/wiki"
         NSLog(f"{url} opened!")
         link = Cocoa.NSURL.alloc().initWithString_(url)
         Cocoa.NSWorkspace.alloc().openURL_(link)
 
     @objc.IBAction
+    def test_(self, sender):
+        print("DD")
+        html = """<p><b>Word</b> - English</p>
+        <p><i>Phonetics</i> - Noun</p>
+        <p><i>A love this word!</i></p>
+        <p>Definition - An abstraction</p>
+        """
+        new_html = str.encode(html) # Turn html into byte code for NSData
+
+        # Make an NSData object with the html string in it
+        # p = Foundation.NSData.dataWithBytes_length_(html, 162)
+        html = Cocoa.NSData.alloc().initWithBytes_length_(new_html, len(new_html))
+
+        # Make an instance of an Attributed String
+        attrString = Foundation.NSAttributedString.alloc().init()
+
+        # Instantiate attributed string with the NSData html string
+        definition = attrString.initWithHTML_documentAttributes_(html, None)
+        self.scaleYView.setAttributedStringValue_(definition)
+
+    @objc.IBAction
     def changeDefinition_(self, sender):
         # current_def = self.definitionField.stringValue()
         lang = tasks.getYAML()
-        print(lang)
+        for image in os.listdir("resources/images"):
+            if lang['selectedlang'] in image:
+                print(image)
+                self.flagImage.setImage_(image)
 
-        # self.definitionField.setStringValue_(lang)
+        definition = self.loadDefinition(language=lang['selectedlang'])
+        self.definitionField.setAttributedStringValue_(definition)
         # print("Set string, and the text field is now locked...")
 
 
@@ -72,9 +156,6 @@ class mainWindow(prefWindow):
     #     # Scan through it's contents and only accept it being all JSON files, otherwse reject
     #     pass
 
-
-class UIElements:
-    imageView = objc.IBOutlet()
     scaleYView = objc.IBOutlet()
     textScaleYView = objc.IBOutlet()
 
@@ -87,13 +168,7 @@ class UIElements:
 
     openImageIOSupportedTypes = objc.ivar()
 
-    def __init__(self):
-        self.backendDir = f'/Users/{getpass.getuser()}/Library/Application Support/'
-        self.configDir = f'/Users/{getpass.getuser()}/Library/Application Support/shoutout/'
-        self.resourcesURL = \
-            "https://raw.githubusercontent.com/leifadev/shoutout/main/resources/"  # Link to current config
-
-    def cycleLanguage(self, forward: bool, force_lang=""):
+    def cycleLanguage(self):#, forward: bool, force_lang=""):
         """
         Cycle a language forwards or backwards, forward is false then it goes back a
         language (to the left instead of right)
@@ -117,20 +192,24 @@ class UIElements:
             current_key -= 1
 
         next_selection = langs[current_key]
-        # NSLog(current_key, next_selection)
 
         tasks.updateConfig('selectedlang', next_selection)
 
-    def cycleUI(self, language):
+    def cycleUI(self):
         """
         Works with cycle() and rotates the selected languages, but does the UI animation
         part for the flags
 
         :return:
         """
-        from utils import CGImageUtils
-        import time # Delay animation
+        from sutils import CGImageUtils
         self.openImageIOSupportedTypes = None
+
+        lang = tasks.getYAML()
+        for image in os.listdir("resources/images"):
+            if lang['selectedlang'] in image:
+                print(image)
+                self.flagImage.setImage_(image)
 
         # Ask CFBundle for the location of our demo image
         url = Cocoa.CFBundleCopyResourceURL(
@@ -138,6 +217,12 @@ class UIElements:
         )
         if url is not None:
             # And if available, load it
-            self.imageView.setImage_(CGImageUtils.IICreateImage(url))
+            self.flagImage.setImage_(CGImageUtils.IICreateImage(url))
         else:
             logging.warning("")
+
+    @objc.IBAction
+    def testMoveImage_(self, sender):
+        image = NSImage.imageNamed_("resources/images/english_us-flag.png")
+        # self.flagImage.setImage_(image)
+        print(image)

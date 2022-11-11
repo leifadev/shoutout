@@ -1,12 +1,10 @@
 # Main Modules
-import os
 
 # Objective-C
 import Cocoa, objc
 from AppKit import NSApp
 
 # Shoutout modules
-from sutils.tasks import backendTasks as tasks
 
 
 class prefWindow(Cocoa.NSWindowController):
@@ -16,20 +14,11 @@ class prefWindow(Cocoa.NSWindowController):
 
     """
 
-    # def __init__(self):
-    #     self.complexitySlider = ""
-    #     self.notificationDate = ""
-    #     self.notificationDay = ""
-
-    settingsStepper = objc.IBOutlet()
-    light_button = objc.IBOutlet()
-    dark_button = objc.IBOutlet()
-    date1 = objc.IBOutlet()
-    date2 = objc.IBOutlet()
-    value = objc.ivar()
+    languageComboBox = objc.IBOutlet()
+    weekSelectButton = objc.IBOutlet()
+    datePicker = objc.IBOutlet()
     complexity_bar = objc.IBOutlet()
     complexity_slider = objc.IBOutlet()
-
 
     def windowDidLoad(self):
         Cocoa.NSWindowController.windowDidLoad(self)
@@ -42,6 +31,12 @@ class prefWindow(Cocoa.NSWindowController):
         print(x)
         # self.complexity_bar.setEditable_(True)
         # self.complexity_bar.setDoubleValue_(2)
+
+    @objc.IBAction
+    def selectDay_(self, sender):
+        print("DDD")
+        date = self.weekSelectButton.dateValue()
+        print(date)
 
     @objc.IBAction
     def openlink_(self, sender):

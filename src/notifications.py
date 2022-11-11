@@ -7,9 +7,22 @@ and includes all features available from attachments to options etc.
 
 from uuid import uuid4
 import UserNotifications as UN
+import Foundation, Cocoa
+import logging
+from Cocoa import NSLog
+
+# Fetch version of MacOS
+MacOSVersion = Foundation.NSProcessInfo.alloc().init().operatingSystemVersionString()
+MacOSVersion = int(MacOSVersion[11:13]) # Get the only the series version number of MacOS
+old_notifications = bool
+
+if MacOSVersion < 14:
+    old_notifications = True
+else:
+    old_notifications = False
+
 
 DEFAULT_AUTH_OPTIIONS = UN.UNAuthorizationOptions(UN.UNAuthorizationOptionBadge and UN.UNAuthorizationOptionSound)
-
 
 class NotificationScheduler:
     center = UN.UNUserNotificationCenter.currentNotificationCenter()
@@ -35,22 +48,22 @@ class NotificationScheduler:
         # if settings.authorizationStatus() == UN.UNAuthorizationStatusDenied:
         self.center.requestAuthorizationWithOptions_completionHandler_(DEFAULT_AUTH_OPTIIONS,
                                                                        self._authorizationRequestHandler)
-        print("Requested Auth!")
+        NSLog("Requested Auth!")
 
     def _authorizationRequestHandler(self, granted, error):
         self.granted = granted
-        print(f"Completion handler granted: {granted}")
+        NSLog(f"Completion handler granted: {granted}")
         if error:
-            print(error)
+            NSLog(error)
 
     def _notificationRequestHandler(self, error):
-        # print("_notificationRequestHandler")
+        # NSLog("_notificationRequestHandler")
         if error:
-            print(error)
+            NSLog(error)
 
     def sendNotificationRequest(self, title, subtitle, body):
         """
-        Sends a user notification
+        Sends a user notification with User Notifications Framework
 
         Send me a notiii!
 
@@ -60,11 +73,11 @@ class NotificationScheduler:
         :return:
         """
         if not self._haveAuthorization(block=True):
-            print("Error: Missing authorization to add notification request.")
+            NSLog("Error: Missing authorization to add notification request.")
             return None
 
         # Trigger repeats every minute (may not be using this though)
-        trigger = UN.UNTimeIntervalNotificationTrigger.triggerWithTimeInterval_repeats_(60, False)
+        # trigger = UN.UNTimeIntervalNotificationTrigger.triggerWithTimeInterval_repeats_(60, False)
 
         # Making notification content with instance of UNMutableNotificationContent class
         content = UN.UNMutableNotificationContent.alloc().init()
@@ -102,11 +115,26 @@ class NotificationScheduler:
         request = UN.UNNotificationRequest.requestWithIdentifier_content_trigger_(identifier, content, None)
         self.center.addNotificationRequest_withCompletionHandler_(request, self._notificationRequestHandler)
 
+    # def sendNotificationRequestOld(self, title, subtitle, body):
+    #     noti = Cocoa.NSUserNotification.alloc().init()
+    #     noti.setTitle_(title)
+    #     noti.setSubtitle_(subtitle)
+    #     noti.setInformativeText_(body)
+    #
+    #     # Cocoa.NSUserNotificationCenter.defaultUserNotificationCenter().setDelegate_()
+    #
+    #     nc = Cocoa.NSUserNotificationCenter.defaultUserNotificationCenter()
+    #     nc.deliverNotification_(noti)
+    #
+    #     logging.info("Notification method has been called!")
+
+logging.basicConfig()
+logging.getLogger().setLevel(logging.INFO)
 
 if __name__ == "__main__":
     notificationScheduler = NotificationScheduler()
-    notificationScheduler.sendNotificationRequest("Shoutout!", f"Subtitle",
-                                                  "You have a word of the day to check!")
+    notificationScheduler.sendNotificationRequest("Shoutout!", f"Subtitle", "You have a word of the day to check!")
+
     import Cocoa
     # Runs an event loop to keep the interpreter running to give Cocoa time to make a second thread for
     # the completion handler to run, thus so Python doesn't crash with an error. (zsh: illegal hardware instruction)
@@ -114,4 +142,4 @@ if __name__ == "__main__":
     # https://github.com/ronaldoussoren/pyobjc/issues/482
 
 # Time Interval Class
-# https://developer.apple.com/documentation/usernotifications/untimeintervalnotificationtrigger?language=objc
+# https://developer.apple.com/documentation/usernotifications/untimeintervalnotificationtrigger

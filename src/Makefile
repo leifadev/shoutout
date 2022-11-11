@@ -11,7 +11,7 @@ VERSION = v1.0
 # made by leifadev on github
 
 .DEFAULT_GOAL = help
-.PHONY: help upgrade clean build
+.PHONY: help setup upgrade clean build
 
 help:
 	@echo "\n-----------HELP!!!! AHHHHH-----------\n"
@@ -23,7 +23,7 @@ help:
 	@echo "make build - builds the repo into .app dist"
 	@echo "make all - run all above functions except upgrade"
 	@echo "\n-------------------------------------"
-	@echo "	       ${VERSION}  "
+	@echo "	          ${VERSION}  "
 	@echo "PyObj-C Makefile by leifadev\nhttps://github.com/leifadev/shoutout\n"
 	@echo "Your Variables:  ${PYTHON}, ${PIP}  ${PROJECT_MAIN}, ${MAIN_FILENAME}"
 
@@ -32,7 +32,6 @@ setup:
 	@echo Setting up your directory with py2app and pyobjc!
 	@${PIP} install py2app pyobjc
 	@echo "Trying to make a setup.py for: PROJECT_MAIN=${PROJECT_MAIN}"
-
 
 
 upgrade:

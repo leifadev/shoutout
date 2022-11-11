@@ -4,9 +4,8 @@ App Delegate, manages events about the app and the window controllers and so on.
 """
 
 # Objective-C
-import Cocoa, objc
+import Cocoa
 from AppKit import *
-from Cocoa import NSLog
 
 # Shoutout modules
 from WindowController import mainWindow
@@ -50,7 +49,7 @@ class AppDelegate(Cocoa.NSObject):
 
 
 
-
-# Set this class as the delegate class!
-delegate = AppDelegate.alloc().init().retain()
-NSApplication.sharedApplication().setDelegate_(delegate)
+if __name__ == "__main__":
+    # Set this class as the delegate class!
+    delegate = AppDelegate.alloc().init().retain()
+    NSApplication.sharedApplication().setDelegate_(delegate)

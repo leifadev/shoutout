@@ -7,7 +7,7 @@ from pprint import pprint
 
 import requests
 
-from utils.langutils import Manager
+from src import Manager
 
 manager = Manager()
 
@@ -248,7 +248,6 @@ from bs4 import BeautifulSoup
 class htmlx:
     """
     Fetch and handle HTML data for word of the day websites (currently merriam-webster.com)
-
     """
 
     import datetime
