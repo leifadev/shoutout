@@ -4,7 +4,7 @@
     darkMode: true
     selectedlang: "english" # current language selected
     selectedword: "Shoutout" # current word selected
-    complexity: "wildcard" # simple, basic, complex, wildcard
+    complexity: "easy" # easy, normal, hard, wildcard
     apionline: false # option for turning on full API access, not using language caches
     configversion: "1-beta" # Simple increment of 1, 2, 3, if in beta use "beta-" before
 - UI:
