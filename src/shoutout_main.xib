@@ -12,7 +12,14 @@
                 <outlet property="datePicker" destination="BKu-w3-1ny" id="SM0-tC-gHf"/>
                 <outlet property="definitionField" destination="vjp-2M-1lE" id="zFz-zJ-n3X"/>
                 <outlet property="flagImage" destination="ofG-19-0LI" id="zjH-d0-xrJ"/>
+                <outlet property="friday" destination="2hB-ZK-q2l" id="COp-fr-a3i"/>
                 <outlet property="languageComboBox" destination="fHh-XK-5SR" id="IBt-Ay-jSc"/>
+                <outlet property="monday" destination="RWS-GO-em7" id="ehX-WK-Vhk"/>
+                <outlet property="saturday" destination="M12-9l-30x" id="TTG-S5-Hqr"/>
+                <outlet property="sunday" destination="ddR-bZ-tUp" id="Ef2-sl-JC8"/>
+                <outlet property="thursday" destination="ZSn-Fu-Zhr" id="8LK-tx-FRt"/>
+                <outlet property="tuesday" destination="jFR-S7-vBT" id="RGT-02-6JX"/>
+                <outlet property="wednesday" destination="SO9-wr-v0F" id="OQu-Gg-VUi"/>
                 <outlet property="weekSelectButton" destination="wko-uB-mYX" id="KPb-hL-lWO"/>
             </connections>
         </customObject>
@@ -258,7 +265,7 @@
                     </menu>
                 </menuItem>
             </items>
-            <point key="canvasLocation" x="83" y="-93"/>
+            <point key="canvasLocation" x="83" y="-92"/>
         </menu>
         <window title="Shoutout!" allowsToolTipsWhenApplicationIsInactive="NO" autorecalculatesKeyViewLoop="NO" releasedWhenClosed="NO" animationBehavior="default" tabbingMode="disallowed" id="F0z-JX-Cv5" customClass="mainWindow">
             <windowStyleMask key="styleMask" titled="YES" closable="YES" miniaturizable="YES"/>
@@ -342,7 +349,7 @@
                     <levelIndicator verticalHuggingPriority="750" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="mOQ-ao-VQZ">
                         <rect key="frame" x="188" y="332" width="80" height="18"/>
                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
-                        <levelIndicatorCell key="cell" controlSize="mini" alignment="left" maxValue="3" warningValue="2" criticalValue="3" id="0bT-q8-CaQ"/>
+                        <levelIndicatorCell key="cell" controlSize="mini" alignment="left" doubleValue="1" maxValue="3" warningValue="2" criticalValue="3" id="0bT-q8-CaQ"/>
                         <accessibility identifier="complexity.bar"/>
                     </levelIndicator>
                     <textField toolTip="Change the complexity of your suggested words" horizontalHuggingPriority="251" verticalHuggingPriority="750" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="1aF-p1-ojt">
@@ -399,57 +406,36 @@
                     <popUpButton verticalHuggingPriority="750" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="wko-uB-mYX">
                         <rect key="frame" x="183" y="162" width="88" height="25"/>
                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
-                        <popUpButtonCell key="cell" type="push" title="Sunday" bezelStyle="rounded" alignment="center" lineBreakMode="truncatingTail" state="on" borderStyle="border" inset="2" pullsDown="YES" preferredEdge="maxX" altersStateOfSelectedItem="NO" selectedItem="ddR-bZ-tUp" id="4nz-RR-NFJ">
-                            <behavior key="behavior" pushIn="YES" lightByBackground="YES" lightByGray="YES"/>
+                        <popUpButtonCell key="cell" type="push" title="Sunday" bezelStyle="rounded" alignment="center" lineBreakMode="truncatingTail" borderStyle="border" inset="2" pullsDown="YES" preferredEdge="maxX" autoenablesItems="NO" altersStateOfSelectedItem="NO" selectedItem="ddR-bZ-tUp" id="4nz-RR-NFJ">
+                            <behavior key="behavior" changeContents="YES" doesNotDimImage="YES" lightByContents="YES"/>
                             <font key="font" metaFont="menu"/>
-                            <menu key="menu" id="cN7-e4-X2e">
+                            <menu key="menu" autoenablesItems="NO" id="cN7-e4-X2e">
                                 <items>
-                                    <menuItem title="Sunday" state="on" hidden="YES" id="ddR-bZ-tUp">
-                                        <connections>
-                                            <action selector="selectDay:" target="-2" id="Dwn-0l-Oaq"/>
-                                        </connections>
-                                    </menuItem>
+                                    <menuItem title="Sunday" id="ddR-bZ-tUp"/>
                                     <menuItem title="Monday" id="RWS-GO-em7">
                                         <connections>
-                                            <action selector="selectDay:" target="-2" id="FZn-c7-uJy"/>
+                                            <binding destination="AgV-fP-DiI" name="value" keyPath="values" id="8U6-a3-6YB"/>
                                         </connections>
                                     </menuItem>
-                                    <menuItem title="Tuesday" id="jFR-S7-vBT">
-                                        <connections>
-                                            <action selector="selectDay:" target="-2" id="aJS-OM-FZb"/>
-                                        </connections>
-                                    </menuItem>
-                                    <menuItem title="Wednesday" id="SO9-wr-v0F">
-                                        <connections>
-                                            <action selector="selectDay:" target="-2" id="lwg-Xw-85t"/>
-                                        </connections>
-                                    </menuItem>
-                                    <menuItem title="Thursday" id="ZSn-Fu-Zhr">
-                                        <connections>
-                                            <action selector="selectDay:" target="-2" id="pAJ-2A-t1A"/>
-                                        </connections>
-                                    </menuItem>
-                                    <menuItem title="Friday" id="2hB-ZK-q2l">
-                                        <connections>
-                                            <action selector="selectDay:" target="-2" id="cBL-i8-4ru"/>
-                                        </connections>
-                                    </menuItem>
-                                    <menuItem title="Saturday" id="M12-9l-30x">
-                                        <connections>
-                                            <action selector="selectDay:" target="-2" id="x1D-dl-mO9"/>
-                                        </connections>
-                                    </menuItem>
+                                    <menuItem title="Tuesday" state="on" id="jFR-S7-vBT"/>
+                                    <menuItem title="Wednesday" id="SO9-wr-v0F"/>
+                                    <menuItem title="Thursday" id="ZSn-Fu-Zhr"/>
+                                    <menuItem title="Friday" id="2hB-ZK-q2l"/>
+                                    <menuItem title="Saturday" id="M12-9l-30x"/>
                                 </items>
                             </menu>
                         </popUpButtonCell>
+                        <connections>
+                            <action selector="selectDay:" target="-2" id="L8a-Ps-SX3"/>
+                        </connections>
                     </popUpButton>
                     <datePicker toolTip="Time of the day you want your reminder notification  to be sent" verticalHuggingPriority="750" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="BKu-w3-1ny">
                         <rect key="frame" x="100" y="165" width="69" height="21"/>
                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
                         <datePickerCell key="cell" truncatesLastVisibleLine="YES" borderStyle="bezel" baseWritingDirection="rightToLeft" alignment="left" datePickerStyle="textField" useCurrentDate="YES" id="tpS-vE-VYU">
                             <font key="font" metaFont="system"/>
-                            <date key="date" timeIntervalSinceReferenceDate="689828746.97046196">
-                                <!--2022-11-11 03:05:46 +0000-->
+                            <date key="date" timeIntervalSinceReferenceDate="690053037.77662301">
+                                <!--2022-11-13 17:23:57 +0000-->
                             </date>
                             <color key="backgroundColor" name="controlBackgroundColor" catalog="System" colorSpace="catalog"/>
                             <color key="textColor" name="controlTextColor" catalog="System" colorSpace="catalog"/>
@@ -459,7 +445,10 @@
                     <slider verticalHuggingPriority="750" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="Abp-0X-pIO">
                         <rect key="frame" x="186" y="308" width="84" height="19"/>
                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
-                        <sliderCell key="cell" state="on" alignment="left" maxValue="100" doubleValue="33" tickMarkPosition="above" sliderType="linear" id="VHQ-y9-qKQ"/>
+                        <sliderCell key="cell" state="on" alignment="left" maxValue="100" doubleValue="10" tickMarkPosition="above" sliderType="linear" id="VHQ-y9-qKQ"/>
+                        <connections>
+                            <action selector="complexitySlider:" target="-2" id="guY-YB-rcL"/>
+                        </connections>
                     </slider>
                     <textField horizontalHuggingPriority="251" verticalHuggingPriority="750" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="hIo-Fr-85u">
                         <rect key="frame" x="138" y="194" width="85" height="16"/>
@@ -479,9 +468,6 @@
                             <font key="font" metaFont="system"/>
                         </buttonCell>
                         <accessibility identifier="github.preferences"/>
-                        <connections>
-                            <action selector="selectDay:" target="-2" id="WbY-RN-FO4"/>
-                        </connections>
                     </button>
                 </subviews>
             </view>
@@ -491,6 +477,7 @@
             <size key="minSize" width="160" height="160"/>
             <size key="maxSize" width="160" height="160"/>
         </toolbarItem>
+        <userDefaultsController representsSharedInstance="YES" id="AgV-fP-DiI"/>
     </objects>
     <resources>
         <image name="NSGoForwardTemplate" width="9" height="12"/>

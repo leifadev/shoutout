@@ -33,8 +33,7 @@ class mainWindow(prefWindow):
 
     def windowDidLoad(self):
         # Create language database if not made
-        if os.path.isdir(configDir + "lang_storage/"):
-            print("oooo")
+        # if os.path.isdir(configDir + "lang_storage/"):
         #     tasks.downloadLangDb()
         # tasks.handleConfig()
         self.definitionField.setEditable_(False) # Lock definition text field
@@ -102,8 +101,7 @@ class mainWindow(prefWindow):
 
     @objc.IBAction
     def test_(self, sender):
-        print("DD")
-        html = """<p><b>Word</b> - English</p>
+        html = u"""<p><b>Word</b> - English</p>
         <p><i>Phonetics</i> - Noun</p>
         <p><i>A love this word!</i></p>
         <p>Definition - An abstraction</p>
@@ -111,15 +109,15 @@ class mainWindow(prefWindow):
         new_html = str.encode(html) # Turn html into byte code for NSData
 
         # Make an NSData object with the html string in it
-        # p = Foundation.NSData.dataWithBytes_length_(html, 162)
         html = Cocoa.NSData.alloc().initWithBytes_length_(new_html, len(new_html))
-
+        # print(html)
         # Make an instance of an Attributed String
-        attrString = Foundation.NSAttributedString.alloc().init()
+        attrString = Foundation.NSAttributedString.alloc()
 
         # Instantiate attributed string with the NSData html string
         definition = attrString.initWithHTML_documentAttributes_(html, None)
-        self.scaleYView.setAttributedStringValue_(definition)
+
+        self.definitionField.setAttributedStringValue_(definition)
 
     @objc.IBAction
     def changeDefinition_(self, sender):

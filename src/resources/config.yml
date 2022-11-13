@@ -12,3 +12,6 @@
     lastTime: ""
     lastComplexity: 3
 
+- Other:
+    custom_languages:
+        - "Example"
