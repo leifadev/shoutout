@@ -23,7 +23,11 @@
     "alert3": null,
     "alert4": null
   },
+
   "count": {
-    "count": 3
+    "alert1": 1,
+    "alert2": 1,
+    "alert3": 1,
+    "alert4": 1
   }
 }
