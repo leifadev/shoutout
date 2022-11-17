@@ -1,4 +1,4 @@
-# Shoutout: The word of the day, but in any language!
+# Shoutout! The word of the day, but in any language!
 
 <img src="https://github.com/leifadev/shoutout/blob/main/src/resources/images/shoutout_logo.png" height="170" width="170"/>
 
@@ -29,7 +29,6 @@ Made all in Python using the Apple SDK and Frameworks using the PyObjC bridge. T
 |   10.10 and lower                 |         ❌        |
 
 ## Features
-- Timezones
 - Multi-language support (15+ Languages)
 - Settings
 - Themes
