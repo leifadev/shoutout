@@ -40,10 +40,33 @@ Made all in Python using the Apple SDK and Frameworks using the PyObjC bridge. T
 - Simple UI
 - Landing page website (carrd.co)
 
+## Supported Languages
+### Want your own language? Make an issue or go to [Users-guide](https://github.com/leifadev/shoutout/wiki/Users)
+```py
+language_codes = {
+    "english": "en",  # English (US)
+    "spanish": "es",  # Spanish
+    "hindi": 'hi',  # Hindi
+    "german": 'de',  # German
+    "french": 'fr',  # French
+    "japanese": 'jp',  # Japanese
+    "russian": 'ru',  # Russian
+    "italian": 'it',  # Italian
+    "korean": 'ko',  # Korean
+    "arabic": 'ar',  # Arabic
+    "polish": 'pl',  # Polish
+    "chinese": 'zh',  # Chinese
+    "dutch": 'nl',  # Dutch
+    "portuguese": 'pt',  # Portuguese
+    "czech": 'cz'  # Czech
+}
+```
+
 
 ### Portfolio
 See all my sources for my app I used to make it and learn to make it!
 
+https://github.com/leifadev/shoutout/wiki/Resources
 
 ## Version naming
 > The build version number should be a string comprised of three non-negative, period-separated integers with the first integer being greater than zero—for example, 3.1.2. The string should only contain numeric (0-9) and period (.) characters. Leading zeros are truncated from each integer and will be ignored (that is, 1.02.3 is equivalent to 1.2.3). The meaning of each element is as follows:
