@@ -3,6 +3,8 @@
     "monday": null,
     "tuesday": null,
     "wednesday": null,
+    "thursday": null,
+    "friday": null,
     "saturday": true,
     "sunday": null
   },
