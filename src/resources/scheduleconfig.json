@@ -4,7 +4,24 @@
     "tuesday": null,
     "wednesday": null,
     "thursday": null,
+    "friday": null,
+    "saturday": true,
     "sunday": null
+  },
+
+  "hours": {
+    "alert1": null,
+    "alert2": null,
+    "alert3": null,
+    "alert4": null,
+    "opt": "opt"
+  },
+
+  "minutes": {
+    "alert1": null,
+    "alert2": null,
+    "alert3": null,
+    "alert4": null
   },
 
   "count": {
