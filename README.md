@@ -10,35 +10,33 @@ Made all in Python using the Apple SDK and Frameworks using the PyObjC bridge. T
 ## Versions Compatible
 |           Functionality           |        Key    	|
 |:---------------------------------:|:-----------------:|
-|          Fully Supported          |:white_check_mark:| 	
+|        Fully Supported            |:white_check_mark: | 	
 |     Partial Functionality         |         🔵        | 	
 |           Not Supported           |         ❌        | 	
-|            Unknown                |         ➖       | 	
+|            Unknown                |         ➖        | 	
 
 
 |         Versions Compatible       |      Status      	|
 |:---------------------------------:|:-----------------:|
-|          Ventera                  |          ➖       | 	
-|          Monterey                 |          ➖       | 	
+|          Ventera                  |         ➖        | 	
+|          Monterey                 |         ➖        | 	
 |          Big Sur                  | :white_check_mark:| 	
 |          Catalina                 | :white_check_mark:|  	
 |            Mojave                 | :white_check_mark:|  	
 |         High Sierra               |         🔵        | 
-|           Sierra                  |         🔵   	   |  
+|           Sierra                  |         🔵   	    |  
 |           El Capitan              |         🔵        | 	
-|   10.10 and lower                 |         ❌        |
+|         10.10 and lower           |         ❌        |
 
 ## Features
 - Multi-language support (15+ Languages)
-- Settings
-- Themes
-- Notifications (launchd daemon)
-- Customizable intervals
-    - Change words per day
-    - Change notification delay
-    - Change complexity
-- Simple UI
-- Landing page website (carrd.co)
+- Customizable Settings!
+    - Word Complexity
+    - Managing Custom Languages
+    - Manage Notifications
+- Dark Mode Supported
+- Reminder Notifications (automatic)
+- Sleek and Stylish User Interface!
 
 ## Supported Languages
 ### Want your own language? Make an issue or go to [Users-guide](https://github.com/leifadev/shoutout/wiki/Users)
