@@ -20,7 +20,7 @@ var/
 wheels/
 pip-wheel-metadata/
 share/python-wheels/
-.eggs/
+eggs/
 
 .installed.cfg
 MANIFEST
