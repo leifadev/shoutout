@@ -1,17 +1,18 @@
 # Config file for shoutout app, Learn a new language everyday!
 
-- Main:
+Main:
     darkMode: true
     selectedlang: "english" # current language selected
     selectedword: "Shoutout" # current word selected
     complexity: "easy" # easy, normal, hard, wildcard
     apionline: false # option for turning on full API access, not using language caches
     configversion: "1-beta" # Simple increment of 1, 2, 3, if in beta use "beta-" before
-- UI:
+
+UI:
     lastDay: ""
     lastTime: ""
     lastComplexity: 3
 
-- Other:
+Other:
     custom_languages:
         - "Example"
