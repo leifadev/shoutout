@@ -1,11 +1,14 @@
 """
-Window Controller for the main window, holds code relevant to it's functioning features
+Window Controller for the main window
 
 """
 
 # Objective-C
+import copy
+import itertools
 import logging
 import os
+import shutil
 
 import Cocoa, objc, Foundation
 
@@ -35,7 +38,8 @@ class mainWindow(prefWindow):
         # Create language database if not made
         # if os.path.isdir(configDir + "lang_storage/"):
         #     tasks.downloadLangDb()
-        # tasks.handleConfig()
+        tasks.handleConfig()
+        # tasks.handleScheduleConfig()
         self.definitionField.setEditable_(False) # Lock definition text field
         # self.getCurrentDefinition()
 
@@ -62,7 +66,7 @@ class mainWindow(prefWindow):
         :param language:
         :return:
         """
-        from src.sutils.config import language_codes
+        from sutils.config import language_codes
         import random
         lang = language_codes[language]
         path = configDir + f"lang_storage/"
@@ -93,7 +97,6 @@ class mainWindow(prefWindow):
 
     @objc.IBAction
     def helplink_(self, sender):
-        print('KDKD')
         url = "https://github.com/leifadev/shoutout/wiki"
         NSLog(f"{url} opened!")
         link = Cocoa.NSURL.alloc().initWithString_(url)
@@ -135,7 +138,7 @@ class mainWindow(prefWindow):
 
     @objc.IBAction
     def chooseFile_(self, sender):
-        # we are setting up an NSOpenPanel to select only a directory and then
+        # We are setting up an NSOpenPanel to select only a directory and then
         # we will use that directory to choose where to place our index file and
         # which files we'll read in to make searchable.
         op = Cocoa.NSOpenPanel.openPanel()
@@ -147,15 +150,33 @@ class mainWindow(prefWindow):
         if result == Cocoa.NSOKButton:
             self.directoryToIndex = op.filename()
             self.uploadLanguage(self.directoryToIndex)
-            # self.directoryTextField.setStringValue_(self.directoryToIndex)
 
-    # def uploadLanguage(self, path):
-    #     # Custom language db to upload, make folder for it automatically
-    #     # Scan through it's contents and only accept it being all JSON files, otherwse reject
-    #     pass
+    @staticmethod
+    def uploadLanguage(path: str):
+        # Custom language db to upload, make folder for it automatically
+        # Scan through it's contents and only accept it being all JSON files, otherwise reject
 
-    scaleYView = objc.IBOutlet()
-    textScaleYView = objc.IBOutlet()
+        # Get directory
+        filename = path.split("/")[::-1]
+        for i in filename:
+            if i != "":
+                filename = i
+                break
+
+        yml = tasks.getYAML()
+        current_customs = yml['Other']['custom_languages']
+
+        if current_customs is None:
+            x = [filename]
+            tasks.generateExampleLang()
+        else:
+            x = current_customs
+
+        tasks.updateConfig(category='Other', option='custom_languages', value=x)
+        if logging.getLogger().level <= 10:
+            os.system(f"cp -va '{path}' '{configDir + filename}'")
+        elif logging.getLogger().level > 10:
+            os.system(f"cp -a '{path}' '{configDir + filename}'")
 
     _rotation = objc.ivar.float()
     _scaleX = objc.ivar.float()
@@ -191,7 +212,7 @@ class mainWindow(prefWindow):
 
         next_selection = langs[current_key]
 
-        tasks.updateConfig('selectedlang', next_selection)
+        tasks.updateConfig('Main', 'selectedlang', next_selection)
 
     def cycleUI(self):
         """
@@ -224,3 +245,7 @@ class mainWindow(prefWindow):
         image = NSImage.imageNamed_("resources/images/english_us-flag.png")
         # self.flagImage.setImage_(image)
         print(image)
+
+logging.basicConfig()
+logging.getLogger().setLevel(logging.INFO)
+print(logging.getLogger().level)

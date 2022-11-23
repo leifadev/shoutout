@@ -1,4 +1,7 @@
-# Daemon for shoutout
+"""
+Shoutout!s daemon, primarily for it's notifications
+
+"""
 
 """
 Tasks:

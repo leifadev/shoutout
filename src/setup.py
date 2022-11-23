@@ -40,7 +40,7 @@ if __name__ == "__main__":
 
 """
 
-Compile daemon command: pyins
+Compile the daemon binary with setup_daemon.py
 
 Version Number Protocol (from Apple Documentation)
 

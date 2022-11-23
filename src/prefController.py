@@ -1,4 +1,7 @@
-# Main Modules
+"""
+Window controller for preferences pane
+
+"""
 
 # Objective-C
 import logging
@@ -41,45 +44,49 @@ class prefWindow(Cocoa.NSWindowController):
         slider_value = self.complexity_slider.doubleValue()
         if slider_value < 27:
             self.complexity_bar.setDoubleValue_(1)
-            tasks.updateConfig("complexity", "easy")
+            tasks.updateConfig('Main', "complexity", "easy")
             logging.debug(f"Value at: {slider_value}, low end")
+
         elif slider_value < 68:
-            tasks.updateConfig("complexity", "normal")
+            tasks.updateConfig('Main', "complexity", "normal")
             self.complexity_bar.setDoubleValue_(2)
             logging.debug(f"Value at: {slider_value}, mid")
+
         elif slider_value > 72:
-            tasks.updateConfig("complexity", "hard")
+            tasks.updateConfig('Main', "complexity", "hard")
             self.complexity_bar.setDoubleValue_(3)
             logging.debug(f"Value at: {slider_value}, high end")
 
     @objc.IBAction
     def selectDay_(self, sender):
-        # date_value = self.datePicker.dateValue()
-        # # Example return value for dateValue -> 2022-11-13 00:17:04 +0000
-        # date_value = date_value.split(" ")[1].split(':')[1:3] # Get hour and minute in a list with each other
-        # date = {
-        #     'hour': date_value[0],
-        #     'minute': date_value[1]
-        # }
-        # selected_item = self.weekSelectButton.selectedItem()
-        # print(selected_item.state())
-        # if selected_item.state() == 1:
-        #     selected_item.setState_(0)
-        #     print(f"changed state to: 0")
-        # elif selected_item.state() == 0:
-        #     selected_item.setState_(1)
-        #     print(f"changing state to: 1")
-        if self.aState is False:
-            self.aState = True
-        else:
-            self.aState = False
+        date_value = self.datePicker.dateValue()
+        selected_item = self.weekSelectButton.selectedItem()
 
-        print(self.aState)
+        # Example return value for dateValue -> 2022-11-13 00:17:04 +0000
+        date_value = str(date_value).split(" ")[1].split(':')[1:3] # Get hour then the minute
+                                                                   # in a list with each other
+        day = str(selected_item.title()).lower()
+        date = {
+            'hour': date_value[0],
+            'minute': date_value[1]
+        }
+        if selected_item.state() == 1:
+            selected_item.setState_(0)
+            tasks.updateSchedule('days', day, False)
+            logging.debug(f"Changing the day, {day}, to be False, {selected_item.state()}")
 
+            # Grab the date selected
+            tasks.updateSchedule('hours', 'alert1', None)
+            tasks.updateSchedule('minutes', 'alert1', None)
 
-        print(selected_item)
-        selected_item.setState_(1)
-        # self.weekSelectButton.selectItem_(selected_item)
+        elif selected_item.state() == 0:
+            selected_item.setState_(1)
+            tasks.updateSchedule('days', day, True)
+
+            # Grab the date selected
+            tasks.updateSchedule('hours', 'alert1', date['hour'])
+            tasks.updateSchedule('minutes', 'alert1', date['minute'])
+            logging.debug(f"Changing the day, {day}, to be True, {selected_item.state()}")
 
     @objc.IBAction
     def openlink_(self, sender):

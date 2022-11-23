@@ -133,9 +133,8 @@ logging.getLogger().setLevel(logging.INFO)
 
 if __name__ == "__main__":
     notificationScheduler = NotificationScheduler()
-    notificationScheduler.sendNotificationRequest("Shoutout!", f"Subtitle", "You have a word of the day to check!")
+    notificationScheduler.sendNotificationRequest("Shoutout!", f"Reminder", "You have a word of the day to check!")
 
-    import Cocoa
     # Runs an event loop to keep the interpreter running to give Cocoa time to make a second thread for
     # the completion handler to run, thus so Python doesn't crash with an error. (zsh: illegal hardware instruction)
     Cocoa.NSRunLoop.currentRunLoop()  # Returns the run loop for the current thread (once?)

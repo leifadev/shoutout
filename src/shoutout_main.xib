@@ -1,26 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<document type="com.apple.InterfaceBuilder3.Cocoa.XIB" version="3.0" toolsVersion="17701" targetRuntime="MacOSX.Cocoa" propertyAccessControl="none" useAutolayout="YES" customObjectInstantitationMethod="direct">
+<document type="com.apple.InterfaceBuilder3.Cocoa.XIB" version="3.0" toolsVersion="21507" targetRuntime="MacOSX.Cocoa" propertyAccessControl="none" useAutolayout="YES" customObjectInstantitationMethod="direct">
     <dependencies>
-        <plugIn identifier="com.apple.InterfaceBuilder.CocoaPlugin" version="17701"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.CocoaPlugin" version="21507"/>
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
     <objects>
         <customObject id="-2" userLabel="File's Owner" customClass="mainWindow">
             <connections>
-                <outlet property="complexity_bar" destination="mOQ-ao-VQZ" id="D0V-Wo-IbA"/>
-                <outlet property="complexity_slider" destination="Abp-0X-pIO" id="rnl-E5-8Zd"/>
-                <outlet property="datePicker" destination="BKu-w3-1ny" id="SM0-tC-gHf"/>
                 <outlet property="definitionField" destination="vjp-2M-1lE" id="zFz-zJ-n3X"/>
                 <outlet property="flagImage" destination="ofG-19-0LI" id="zjH-d0-xrJ"/>
-                <outlet property="friday" destination="2hB-ZK-q2l" id="COp-fr-a3i"/>
-                <outlet property="languageComboBox" destination="fHh-XK-5SR" id="IBt-Ay-jSc"/>
-                <outlet property="monday" destination="RWS-GO-em7" id="ehX-WK-Vhk"/>
-                <outlet property="saturday" destination="M12-9l-30x" id="TTG-S5-Hqr"/>
-                <outlet property="sunday" destination="ddR-bZ-tUp" id="Ef2-sl-JC8"/>
-                <outlet property="thursday" destination="ZSn-Fu-Zhr" id="8LK-tx-FRt"/>
-                <outlet property="tuesday" destination="jFR-S7-vBT" id="RGT-02-6JX"/>
-                <outlet property="wednesday" destination="SO9-wr-v0F" id="OQu-Gg-VUi"/>
-                <outlet property="weekSelectButton" destination="wko-uB-mYX" id="KPb-hL-lWO"/>
             </connections>
         </customObject>
         <customObject id="-1" userLabel="First Responder" customClass="FirstResponder"/>
@@ -42,7 +30,7 @@
                             <menuItem title="Preferences…" keyEquivalent="," allowsKeyEquivalentWhenHidden="YES" id="BOF-NM-1cW">
                                 <attributedString key="attributedTitle"/>
                                 <connections>
-                                    <action selector="makeKeyAndOrderFront:" target="ZgR-Wf-ZpR" id="qLv-Gt-bf8"/>
+                                    <action selector="makeKeyAndOrderFront:" target="TRP-Bx-mMV" id="HaA-Ye-5xV"/>
                                 </connections>
                             </menuItem>
                             <menuItem isSeparatorItem="YES" id="wFC-TO-SCJ"/>
@@ -81,11 +69,7 @@
                     <modifierMask key="keyEquivalentModifierMask"/>
                     <menu key="submenu" title="File" id="bib-Uj-vzu">
                         <items>
-                            <menuItem title="Upload Language" keyEquivalent="u" id="5v3-YG-nly">
-                                <connections>
-                                    <action selector="chooseFile:" target="-2" id="QIe-Gl-PfU"/>
-                                </connections>
-                            </menuItem>
+                            <menuItem title="Upload Language" keyEquivalent="u" id="5v3-YG-nly"/>
                             <menuItem isSeparatorItem="YES" id="m54-Is-iLE"/>
                             <menuItem title="Close" keyEquivalent="w" id="DVo-aG-piG">
                                 <connections>
@@ -265,13 +249,13 @@
                     </menu>
                 </menuItem>
             </items>
-            <point key="canvasLocation" x="83" y="-92"/>
+            <point key="canvasLocation" x="76" y="-93"/>
         </menu>
         <window title="Shoutout!" allowsToolTipsWhenApplicationIsInactive="NO" autorecalculatesKeyViewLoop="NO" releasedWhenClosed="NO" animationBehavior="default" tabbingMode="disallowed" id="F0z-JX-Cv5" customClass="mainWindow">
             <windowStyleMask key="styleMask" titled="YES" closable="YES" miniaturizable="YES"/>
             <windowPositionMask key="initialPositionMask" leftStrut="YES" rightStrut="YES" topStrut="YES" bottomStrut="YES"/>
             <rect key="contentRect" x="196" y="240" width="474" height="444"/>
-            <rect key="screenRect" x="0.0" y="0.0" width="1440" height="877"/>
+            <rect key="screenRect" x="0.0" y="0.0" width="1440" height="875"/>
             <view key="contentView" wantsLayer="YES" id="se5-gp-TjO">
                 <rect key="frame" x="0.0" y="0.0" width="474" height="444"/>
                 <autoresizingMask key="autoresizingMask"/>
@@ -330,140 +314,136 @@
                         </buttonCell>
                         <accessibility identifier="github.preferences"/>
                         <connections>
-                            <action selector="test:" target="-2" id="WqS-JM-N5x"/>
+                            <action selector="testMoveImage:" target="-2" id="2cf-Vb-b6K"/>
                         </connections>
                     </button>
                 </subviews>
             </view>
             <point key="canvasLocation" x="133" y="203"/>
         </window>
-        <window title="Preferences" allowsToolTipsWhenApplicationIsInactive="NO" autorecalculatesKeyViewLoop="NO" hidesOnDeactivate="YES" releasedWhenClosed="NO" visibleAtLaunch="NO" animationBehavior="default" titleVisibility="hidden" id="ZgR-Wf-ZpR">
-            <windowStyleMask key="styleMask" titled="YES" closable="YES" miniaturizable="YES" utility="YES"/>
+        <window title="Preferences" allowsToolTipsWhenApplicationIsInactive="NO" autorecalculatesKeyViewLoop="NO" hidesOnDeactivate="YES" releasedWhenClosed="NO" visibleAtLaunch="NO" frameAutosaveName="" animationBehavior="default" id="TRP-Bx-mMV" customClass="NSPanel">
+            <windowStyleMask key="styleMask" titled="YES" closable="YES" miniaturizable="YES" resizable="YES" utility="YES"/>
             <windowPositionMask key="initialPositionMask" leftStrut="YES" rightStrut="YES" topStrut="YES" bottomStrut="YES"/>
-            <rect key="contentRect" x="196" y="240" width="361" height="376"/>
-            <rect key="screenRect" x="0.0" y="0.0" width="1440" height="877"/>
-            <view key="contentView" wantsLayer="YES" id="tBJ-Kv-E8l">
-                <rect key="frame" x="0.0" y="0.0" width="361" height="376"/>
+            <rect key="contentRect" x="139" y="81" width="347" height="376"/>
+            <rect key="screenRect" x="0.0" y="0.0" width="1440" height="875"/>
+            <view key="contentView" id="QgN-L2-XIK">
+                <rect key="frame" x="0.0" y="0.0" width="347" height="376"/>
                 <autoresizingMask key="autoresizingMask"/>
                 <subviews>
-                    <levelIndicator verticalHuggingPriority="750" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="mOQ-ao-VQZ">
-                        <rect key="frame" x="188" y="332" width="80" height="18"/>
+                    <levelIndicator verticalHuggingPriority="750" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="kJ0-c4-uct">
+                        <rect key="frame" x="180" y="325" width="80" height="18"/>
                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
-                        <levelIndicatorCell key="cell" controlSize="mini" alignment="left" doubleValue="1" maxValue="3" warningValue="2" criticalValue="3" id="0bT-q8-CaQ"/>
+                        <levelIndicatorCell key="cell" controlSize="mini" alignment="left" doubleValue="1" maxValue="3" warningValue="2" criticalValue="3" id="hdn-we-NJy"/>
                         <accessibility identifier="complexity.bar"/>
                     </levelIndicator>
-                    <textField toolTip="Change the complexity of your suggested words" horizontalHuggingPriority="251" verticalHuggingPriority="750" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="1aF-p1-ojt">
-                        <rect key="frame" x="92" y="334" width="76" height="16"/>
+                    <textField toolTip="Change the complexity of your suggested words" horizontalHuggingPriority="251" verticalHuggingPriority="750" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="Zxl-Pg-pVb">
+                        <rect key="frame" x="84" y="327" width="76" height="16"/>
                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
-                        <textFieldCell key="cell" lineBreakMode="clipping" alignment="center" title="Complexity" id="T6q-Zb-DXf">
+                        <textFieldCell key="cell" lineBreakMode="clipping" alignment="center" title="Complexity" id="82g-tZ-eE4">
                             <font key="font" metaFont="system"/>
                             <color key="textColor" name="labelColor" catalog="System" colorSpace="catalog"/>
                             <color key="backgroundColor" name="textBackgroundColor" catalog="System" colorSpace="catalog"/>
                         </textFieldCell>
                         <accessibility identifier="preflabel.complexity"/>
                     </textField>
-                    <button verticalHuggingPriority="750" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="HG5-vd-lB4">
-                        <rect key="frame" x="8" y="2" width="81" height="32"/>
+                    <button verticalHuggingPriority="750" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="NyB-YO-PcW">
+                        <rect key="frame" x="7" y="2" width="81" height="32"/>
                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
-                        <buttonCell key="cell" type="push" title="Github" bezelStyle="rounded" alignment="center" borderStyle="border" imageScaling="proportionallyDown" inset="2" id="YQo-dJ-fo2">
+                        <buttonCell key="cell" type="push" title="Github" bezelStyle="rounded" alignment="center" borderStyle="border" imageScaling="proportionallyDown" inset="2" id="CS8-Wl-NQG">
                             <behavior key="behavior" pushIn="YES" lightByBackground="YES" lightByGray="YES"/>
                             <font key="font" metaFont="system"/>
                         </buttonCell>
                         <accessibility identifier="github.preferences"/>
                         <connections>
-                            <action selector="openlink:" target="-2" id="aBD-Av-7zq"/>
+                            <action selector="openlink:" target="-2" id="IbU-Rl-5Ot"/>
                         </connections>
                     </button>
-                    <textField horizontalHuggingPriority="251" verticalHuggingPriority="750" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="foT-kp-ed3">
-                        <rect key="frame" x="94" y="273" width="177" height="16"/>
+                    <textField horizontalHuggingPriority="251" verticalHuggingPriority="750" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="mGW-GL-xAg">
+                        <rect key="frame" x="86" y="266" width="177" height="16"/>
                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
-                        <textFieldCell key="cell" lineBreakMode="clipping" alignment="center" title="Manage Custom Languages" id="Ym4-Xf-q16">
+                        <textFieldCell key="cell" lineBreakMode="clipping" alignment="center" title="Manage Custom Languages" id="HSN-Mf-oYH">
                             <font key="font" metaFont="system"/>
                             <color key="textColor" name="labelColor" catalog="System" colorSpace="catalog"/>
                             <color key="backgroundColor" name="textBackgroundColor" catalog="System" colorSpace="catalog"/>
                         </textFieldCell>
                         <accessibility identifier="preflabel.otherlanguages"/>
                     </textField>
-                    <button verticalHuggingPriority="750" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="cHh-Vt-1ow">
-                        <rect key="frame" x="197" y="234" width="74" height="32"/>
+                    <button verticalHuggingPriority="750" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="kyy-vB-RD7">
+                        <rect key="frame" x="189" y="227" width="74" height="32"/>
                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
-                        <buttonCell key="cell" type="push" title="Erase" bezelStyle="rounded" alignment="center" borderStyle="border" imageScaling="proportionallyDown" inset="2" id="mnz-Ka-pqd">
+                        <buttonCell key="cell" type="push" title="Erase" bezelStyle="rounded" alignment="center" borderStyle="border" imageScaling="proportionallyDown" inset="2" id="d3B-Qy-i0f">
                             <behavior key="behavior" pushIn="YES" lightByBackground="YES" lightByGray="YES"/>
                             <font key="font" metaFont="system"/>
                         </buttonCell>
                         <accessibility identifier="github.preferences"/>
                     </button>
-                    <comboBox verticalHuggingPriority="750" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="fHh-XK-5SR">
-                        <rect key="frame" x="100" y="238" width="99" height="25"/>
+                    <comboBox verticalHuggingPriority="750" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="tv0-94-LOX">
+                        <rect key="frame" x="92" y="231" width="99" height="25"/>
                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
-                        <comboBoxCell key="cell" scrollable="YES" lineBreakMode="clipping" selectable="YES" editable="YES" sendsActionOnEndEditing="YES" borderStyle="bezel" placeholderString="Languages" drawsBackground="YES" usesDataSource="YES" numberOfVisibleItems="3" id="wH4-kv-6rN">
+                        <comboBoxCell key="cell" scrollable="YES" lineBreakMode="clipping" selectable="YES" editable="YES" sendsActionOnEndEditing="YES" borderStyle="bezel" placeholderString="Languages" drawsBackground="YES" usesDataSource="YES" numberOfVisibleItems="3" id="sDB-9G-tKC">
                             <font key="font" metaFont="system"/>
                             <color key="textColor" name="controlTextColor" catalog="System" colorSpace="catalog"/>
                             <color key="backgroundColor" name="textBackgroundColor" catalog="System" colorSpace="catalog"/>
                         </comboBoxCell>
                         <accessibility identifier="langselect.menu"/>
                     </comboBox>
-                    <popUpButton verticalHuggingPriority="750" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="wko-uB-mYX">
-                        <rect key="frame" x="183" y="162" width="88" height="25"/>
+                    <popUpButton verticalHuggingPriority="750" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="Sfk-L0-Hs3">
+                        <rect key="frame" x="175" y="155" width="88" height="25"/>
                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
-                        <popUpButtonCell key="cell" type="push" title="Sunday" bezelStyle="rounded" alignment="center" lineBreakMode="truncatingTail" borderStyle="border" inset="2" pullsDown="YES" preferredEdge="maxX" autoenablesItems="NO" altersStateOfSelectedItem="NO" selectedItem="ddR-bZ-tUp" id="4nz-RR-NFJ">
+                        <popUpButtonCell key="cell" type="push" title="Sunday" bezelStyle="rounded" alignment="center" lineBreakMode="truncatingTail" borderStyle="border" inset="2" pullsDown="YES" preferredEdge="maxX" autoenablesItems="NO" altersStateOfSelectedItem="NO" selectedItem="CH2-yY-RhY" id="qtU-Oj-3WC">
                             <behavior key="behavior" changeContents="YES" doesNotDimImage="YES" lightByContents="YES"/>
                             <font key="font" metaFont="menu"/>
-                            <menu key="menu" autoenablesItems="NO" id="cN7-e4-X2e">
+                            <menu key="menu" autoenablesItems="NO" id="VCV-Ae-lYH">
                                 <items>
-                                    <menuItem title="Sunday" id="ddR-bZ-tUp"/>
-                                    <menuItem title="Monday" id="RWS-GO-em7">
-                                        <connections>
-                                            <binding destination="AgV-fP-DiI" name="value" keyPath="values" id="8U6-a3-6YB"/>
-                                        </connections>
-                                    </menuItem>
-                                    <menuItem title="Tuesday" state="on" id="jFR-S7-vBT"/>
-                                    <menuItem title="Wednesday" id="SO9-wr-v0F"/>
-                                    <menuItem title="Thursday" id="ZSn-Fu-Zhr"/>
-                                    <menuItem title="Friday" id="2hB-ZK-q2l"/>
-                                    <menuItem title="Saturday" id="M12-9l-30x"/>
+                                    <menuItem title="Sunday" hidden="YES" id="CH2-yY-RhY"/>
+                                    <menuItem title="Monday" id="vmj-ke-8rb"/>
+                                    <menuItem title="Tuesday" id="xgb-e4-Hcd"/>
+                                    <menuItem title="Wednesday" id="Tvc-tl-esG"/>
+                                    <menuItem title="Thursday" id="oIY-ux-dCL"/>
+                                    <menuItem title="Friday" id="mhc-nu-arR"/>
+                                    <menuItem title="Saturday" id="7Yw-da-jOV"/>
                                 </items>
                             </menu>
                         </popUpButtonCell>
                         <connections>
-                            <action selector="selectDay:" target="-2" id="L8a-Ps-SX3"/>
+                            <action selector="selectDay:" target="-2" id="UQe-D8-jsC"/>
                         </connections>
                     </popUpButton>
-                    <datePicker toolTip="Time of the day you want your reminder notification  to be sent" verticalHuggingPriority="750" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="BKu-w3-1ny">
-                        <rect key="frame" x="100" y="165" width="69" height="21"/>
+                    <datePicker toolTip="Time of the day you want your reminder notification  to be sent" verticalHuggingPriority="750" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="Y6A-tS-WWF">
+                        <rect key="frame" x="92" y="158" width="69" height="21"/>
                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
-                        <datePickerCell key="cell" truncatesLastVisibleLine="YES" borderStyle="bezel" baseWritingDirection="rightToLeft" alignment="left" datePickerStyle="textField" useCurrentDate="YES" id="tpS-vE-VYU">
+                        <datePickerCell key="cell" truncatesLastVisibleLine="YES" borderStyle="bezel" baseWritingDirection="rightToLeft" alignment="left" datePickerStyle="textField" id="yDZ-tp-F4I">
                             <font key="font" metaFont="system"/>
-                            <date key="date" timeIntervalSinceReferenceDate="690053037.77662301">
-                                <!--2022-11-13 17:23:57 +0000-->
+                            <date key="date" timeIntervalSinceReferenceDate="690177004.94018304">
+                                <!--2022-11-15 03:50:04 +0000-->
                             </date>
                             <color key="backgroundColor" name="controlBackgroundColor" catalog="System" colorSpace="catalog"/>
                             <color key="textColor" name="controlTextColor" catalog="System" colorSpace="catalog"/>
                             <datePickerElements key="datePickerElements" hour="YES" minute="YES"/>
                         </datePickerCell>
                     </datePicker>
-                    <slider verticalHuggingPriority="750" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="Abp-0X-pIO">
-                        <rect key="frame" x="186" y="308" width="84" height="19"/>
+                    <slider verticalHuggingPriority="750" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="SL7-f5-8I6">
+                        <rect key="frame" x="178" y="301" width="84" height="19"/>
                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
-                        <sliderCell key="cell" state="on" alignment="left" maxValue="100" doubleValue="10" tickMarkPosition="above" sliderType="linear" id="VHQ-y9-qKQ"/>
+                        <sliderCell key="cell" state="on" alignment="left" maxValue="100" doubleValue="10" tickMarkPosition="above" sliderType="linear" id="mbD-1E-cXK"/>
                         <connections>
-                            <action selector="complexitySlider:" target="-2" id="guY-YB-rcL"/>
+                            <action selector="complexitySlider:" target="-2" id="hoO-Wk-SU6"/>
                         </connections>
                     </slider>
-                    <textField horizontalHuggingPriority="251" verticalHuggingPriority="750" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="hIo-Fr-85u">
-                        <rect key="frame" x="138" y="194" width="85" height="16"/>
+                    <textField horizontalHuggingPriority="251" verticalHuggingPriority="750" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="ZKs-Bh-iug">
+                        <rect key="frame" x="130" y="187" width="85" height="16"/>
                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
-                        <textFieldCell key="cell" lineBreakMode="clipping" alignment="center" title="Notifications" id="jWi-ft-0pg">
+                        <textFieldCell key="cell" lineBreakMode="clipping" alignment="center" title="Notifications" id="ZSf-IV-mkn">
                             <font key="font" metaFont="system"/>
                             <color key="textColor" name="labelColor" catalog="System" colorSpace="catalog"/>
                             <color key="backgroundColor" name="textBackgroundColor" catalog="System" colorSpace="catalog"/>
                         </textFieldCell>
                         <accessibility identifier="preflabel.otherlanguages"/>
                     </textField>
-                    <button verticalHuggingPriority="750" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="wJb-tv-tFA">
-                        <rect key="frame" x="262" y="2" width="92" height="32"/>
+                    <button verticalHuggingPriority="750" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="l0f-PJ-Wg4">
+                        <rect key="frame" x="251" y="2" width="92" height="32"/>
                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
-                        <buttonCell key="cell" type="push" title="get level" bezelStyle="rounded" alignment="center" borderStyle="border" imageScaling="proportionallyDown" inset="2" id="DRX-JG-lrd">
+                        <buttonCell key="cell" type="push" title="get level" bezelStyle="rounded" alignment="center" borderStyle="border" imageScaling="proportionallyDown" inset="2" id="7SD-gJ-yY0">
                             <behavior key="behavior" pushIn="YES" lightByBackground="YES" lightByGray="YES"/>
                             <font key="font" metaFont="system"/>
                         </buttonCell>
@@ -471,17 +451,11 @@
                     </button>
                 </subviews>
             </view>
-            <point key="canvasLocation" x="616.5" y="169"/>
+            <point key="canvasLocation" x="592" y="169"/>
         </window>
-        <toolbarItem implicitItemIdentifier="97090EAA-0A04-42C8-A0EF-26D0A5600BE8" label="Toolbar Item" paletteLabel="Toolbar Item" tag="-1" image="chinese_china-flag" id="cNv-C7-Ggy">
-            <size key="minSize" width="160" height="160"/>
-            <size key="maxSize" width="160" height="160"/>
-        </toolbarItem>
-        <userDefaultsController representsSharedInstance="YES" id="AgV-fP-DiI"/>
     </objects>
     <resources>
-        <image name="NSGoForwardTemplate" width="9" height="12"/>
-        <image name="NSGoLeftTemplate" width="9" height="12"/>
-        <image name="chinese_china-flag" width="160" height="160"/>
+        <image name="NSGoForwardTemplate" width="12" height="17"/>
+        <image name="NSGoLeftTemplate" width="12" height="17"/>
     </resources>
 </document>
