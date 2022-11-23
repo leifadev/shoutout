@@ -19,3 +19,5 @@ Other:
     custom_languages:
         - "Example"
         - "Shoutout"
+Test:
+    lol: 1234
