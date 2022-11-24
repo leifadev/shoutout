@@ -261,6 +261,7 @@ class backendTasks:
         """
         # Check if config file is present or is very low size
         new_data = {} # Dictionary for all added changed data
+        workaround = {}
         if not os.path.isfile(ymlDir) or os.path.getsize(ymlDir) <= 20:
             logging.info("Creating the settings.yml")
 
@@ -300,6 +301,7 @@ class backendTasks:
             for category in config:
                 print(category)
                 new_data.update({category: {}})
+                print(config[category].keys())
                 # Find the keys from the old and new config that are still in both there
                 preserve_keys = config[category].keys() & newestConfig[category].keys()  # & symbol only keeps matching keys
                 # Find the keys that have gone away or are being added to the new config from old one
@@ -315,18 +317,20 @@ class backendTasks:
                 for x, y in newestConfig[category].items():
                     if x in added_keys:
                         # print(x, category)
-                        new_data.update({category: {x: y}})
-                        print(f"Adding: {category}: {x}: {y}")
+                        new_data[category].update({x: y}.fromkeys())
+                        # print(f"Adding: {category}: {x}: {y}")
 
                 for i, e in config[category].items():
                     if i in preserve_keys:
+                        new_data[category].update({i: e})
+
                         # print(i, category)
-                        new_data.update({category: {i: e}})
-                        print(f"Preserving: {category}: {i}: {e}")
+
+                        # print(f"Preserving: {category}: {i}: {e}")
 
                 # print(f'P: {preserve_keys}', f'C: {changing_keys}', f'R: {removed_keys}', f'A: {added_keys}')
 
-                print(new_data)
+            pprint(new_data)
 
             old_langs = config['Other']['custom_languages']
             new_langs = newestConfig['Other']['custom_languages']
@@ -346,7 +350,7 @@ class backendTasks:
 
             combined_langs = list(preserved_langs.union(changing_langs))
 
-            # new_data['Other']['custom_languages'] = combined_langs # Assign new updated languages
+            new_data['Other']['custom_languages'] = combined_langs # Assign new updated languages
 
 
             # # Dump new updated data/dictionaries to yml
