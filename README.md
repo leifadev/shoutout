@@ -61,7 +61,7 @@ language_codes = {
 ```
 
 
-### Portfolio
+### My resources I've Used
 See all my sources for my app I used to make it and learn to make it!
 
 https://github.com/leifadev/shoutout/wiki/Resources
