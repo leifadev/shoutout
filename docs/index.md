@@ -1,4 +1,3 @@
-# Main
 
 ## Shoutout!: The word of the day, but in any language!
 
