@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-First of all, thank you for taking your time to issue, and therefore participating into a tremendous growth and stability of Scout! Take your time and be detailed as possible, good luck!
+First of all, thank you for taking your time to issue, and therefore participating into a tremendous growth and stability of Shoutout! Take your time and be detailed as possible, good luck!
 
 ### **Describe the bug**
 What is the bug or malfunction that you are experiencing?

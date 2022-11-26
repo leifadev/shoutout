@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-First of all, thank you for choosing and taking your time to fill out a feature request and I will take action to once I see it! Thanks and I will reply to your suggestion to make Scout better.
+First of all, thank you for choosing and taking your time to fill out a feature request and I will take action to once I see it! Thanks and I will reply to your suggestion to make Shoutout! better.
 
 **Is your feature request related to a problem? Please describe.**
 A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]

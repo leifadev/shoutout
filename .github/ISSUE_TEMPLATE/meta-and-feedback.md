@@ -11,7 +11,7 @@ assignees: ''
 
 **Please put anything below for an outlet to for your concerns, discussion for Scout as a project, or feedback in any shape or form.**
 
-*e.g. Can I say that the scout logo is very outdated for certain OS's and maybe you should...*
+*e.g. Can I say that the shoutout logo is very outdated for certain OS's and maybe you should...*
 
 ### Conclusion
 
