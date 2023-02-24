@@ -33,16 +33,14 @@ class mainWindow(prefWindow):
     definitionField = objc.IBOutlet()
     flagImage = objc.IBOutlet()
 
-
     def windowDidLoad(self):
         # Create language database if not made
         # if os.path.isdir(configDir + "lang_storage/"):
         #     tasks.downloadLangDb()
         tasks.handleConfig()
         # tasks.handleScheduleConfig()
-        self.definitionField.setEditable_(False) # Lock definition text field
+        self.definitionField.setEditable_(False)  # Lock definition text field
         # self.getCurrentDefinition()
-
 
     def getCurrentDefinition(self):
         """
@@ -56,7 +54,6 @@ class mainWindow(prefWindow):
         payload = langutils.read(configDir + f"lang_storage/{current_language}/{current_word}.json")
 
         return payload
-
 
     def loadDefinition(self, word=None, language=None):
         """
@@ -79,21 +76,15 @@ class mainWindow(prefWindow):
         payload = langutils.read(configDir + f"lang_storage/{lang}/{file}.json")
         content = payload[word]
 
-        html = f"""<p><b>{word}</b> - {language}</p>
+        html = rf"""<p><b>{word}</b> - {language}</p>
         <p><i>Phonetics</i> - {content['partOfSpeech']}</p>
         <p><i>{content['parsedExamples']['example']}</i></p>
         <p>Definition - {content['definitions']['definition']}</p>
         """
+        html = bytes(html)
 
-        # Make an NSData object with the html string in it
-        html = Foundation.NSData.dataWithBytes_length_(html, len(html))
-        # Make an instance of an Attributed String
-        attrString = Foundation.NSAttributedString.alloc().init()
-        # Instantiate attributed string with the NSData html string
-        definition = attrString.initWithHTML_documentAttributes_(html, {})
-        print(definition)
-
-        return definition
+        definition, _ = Foundation.NSAttributedString.alloc().initWithHTML_documentAttributes_(html, objc.NULL)
+        self.definitionField.setAttributedStringValue_(definition)
 
     @objc.IBAction
     def helplink_(self, sender):
@@ -104,27 +95,74 @@ class mainWindow(prefWindow):
 
     @objc.IBAction
     def test_(self, sender):
-        html = u"""<p><b>Word</b> - English</p>
-        <p><i>Phonetics</i> - Noun</p>
-        <p><i>A love this word!</i></p>
-        <p>Definition - An abstraction</p>
+        html = b"""
+            <body>
+            <p align="center"><b>Word</b> - English</p>
+            <p align="center"><i>Phonetics</i> - Noun</p>
+            <p align="center"><i>A love this word!</i></p>
+            <p align="center">Definition - An abstraction</p>
+            </body>
         """
-        new_html = str.encode(html) # Turn html into byte code for NSData
 
-        # Make an NSData object with the html string in it
-        html = Cocoa.NSData.alloc().initWithBytes_length_(new_html, len(new_html))
-        # print(html)
-        # Make an instance of an Attributed String
-        attrString = Foundation.NSAttributedString.alloc()
-
-        # Instantiate attributed string with the NSData html string
-        definition = attrString.initWithHTML_documentAttributes_(html, None)
-
-        self.definitionField.setAttributedStringValue_(definition)
+        # word = "definition"
+        # phonetic = "/défInizion/"
+        # definition = "A word that describes another word and yeah basically for that yeah yeah yeah"
+        # partofspeech = "noun"
+        # from Foundation import NSMakeRange, NSMutableParagraphStyle, NSMutableAttributedString
+        # from AppKit import NSFont, NSColor
+        #
+        # # Create an attributed string with some custom attributes
+        # attributedWord = NSMutableAttributedString.alloc().initWithString_(
+        #     f"{word}\n")
+        # attributedPhonetics = NSMutableAttributedString.alloc().initWithString_(
+        #     f"{phonetic}\n")
+        # attributedDefinition = NSMutableAttributedString.alloc().initWithString_(
+        #     f"{definition}\n")
+        # attributedPartOfSpeech = NSMutableAttributedString.alloc().initWithString_(
+        #     f"{partofspeech}")
+        #
+        # # Enumeration cases for the bold or italic font masks
+        # # Appkit > NSFontManager
+        # NSBoldFontMask = 0x00000002
+        # NSItalicFontMask = 0x00000001
+        #
+        # paragraphStyle0 = NSMutableParagraphStyle.alloc().init()
+        # paragraphStyle0.setAlignment_(2)  # 2 is center
+        #
+        # # NSDictionary of attributes that centers text it's applied too (that's all this is important for now)
+        # attributesUniversal = {
+        #     "NSParagraphStyle": paragraphStyle0,  # Change text alignment
+        #     "NSFont": NSFont.systemFontOfSize_(12)  # Change the font if ya want :D
+        # }
+        # attributesBigFont = { # Big font
+        #     "NSParagraphStyle": paragraphStyle0,
+        #     "NSFont": NSFont.systemFontOfSize_(16)
+        # }
+        #
+        # # Bold and size the first line of text (The word)
+        # attributedWord.applyFontTraits_range_(NSBoldFontMask, NSMakeRange(0, len(word)))
+        #
+        # # Italicize the next line (phonetics)
+        # attributedPhonetics.applyFontTraits_range_(NSItalicFontMask, NSMakeRange(0, len(phonetic)))
+        #
+        # # Add all lines together
+        # attributedWord.appendAttributedString_(attributedPhonetics)
+        # attributedWord.appendAttributedString_(attributedDefinition)
+        # attributedWord.appendAttributedString_(attributedPartOfSpeech)
+        #
+        # # Apply universal attributes like centering and font choice
+        # attributedWord.setAttributes_range_(attributesUniversal, NSMakeRange(0, len(attributedWord)))
+        # # Make word font bigger to 16
+        # # NOTE: The addAttribute:value:range: method would not work to separately change the word
+        # # to size 16 up above
+        # attributedWord.setAttributes_range_(attributesBigFont, NSMakeRange(0, len(word)))
+        #
+        # # Set attributed string to the text field in main app window for definition
+        # self.definitionField.setAttributedStringValue_(attributedWord)
 
     @objc.IBAction
     def changeDefinition_(self, sender):
-        # current_def = self.definitionField.stringValue()
+        # current_def = self.definitionField.stringValue()m
         lang = tasks.getYAML()
         for image in os.listdir("resources/images"):
             if lang['selectedlang'] in image:
@@ -134,7 +172,6 @@ class mainWindow(prefWindow):
         definition = self.loadDefinition(language=lang['selectedlang'])
         self.definitionField.setAttributedStringValue_(definition)
         # print("Set string, and the text field is now locked...")
-
 
     @objc.IBAction
     def chooseFile_(self, sender):
@@ -187,7 +224,7 @@ class mainWindow(prefWindow):
 
     openImageIOSupportedTypes = objc.ivar()
 
-    def cycleLanguage(self):#, forward: bool, force_lang=""):
+    def cycleLanguage(self):  # , forward: bool, force_lang=""):
         """
         Cycle a language forwards or backwards, forward is false then it goes back a
         language (to the left instead of right)
@@ -242,9 +279,20 @@ class mainWindow(prefWindow):
 
     @objc.IBAction
     def testMoveImage_(self, sender):
-        image = NSImage.imageNamed_("resources/images/english_us-flag.png")
-        # self.flagImage.setImage_(image)
-        print(image)
+        print("SSS")
+        image = Cocoa.NSImage.imageNamed_("english_us-flag.png")
+        self.flagImage.setImage_(image)
+
+    @classmethod
+    def updateDisplay(cls):
+        config = backendTasks.getYAML()
+        # Images
+        image = Cocoa.NSImage.imageNamed_(f"{config['Main']['selected_lang']}-flag.png")
+        self.flagImage.setImage_(image)
+
+        # Text Boxes
+        # WindowController.mainWindow.flagImage.set()
+
 
 logging.basicConfig()
 logging.getLogger().setLevel(logging.INFO)
