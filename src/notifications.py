@@ -11,18 +11,25 @@ import Foundation, Cocoa
 import logging
 from Cocoa import NSLog
 
-# Fetch version of MacOS
-MacOSVersion = Foundation.NSProcessInfo.alloc().init().operatingSystemVersionString()
-MacOSVersion = int(MacOSVersion[11:13]) # Get the only the series version number of MacOS
-old_notifications = bool
+def checkOldNotifications():
+    # Fetch version of MacOS
+    MacOSVersion = str(Foundation.NSProcessInfo.alloc().init().operatingSystemVersionString())
+    # MacOSVersion = 'Version 10.15.2 (Build 22A400)' # Testing string
+    # Separate version number from string, concatenate into list of all the 3 numbers
+    MacOSVersion = MacOSVersion.split(" ")[1].split(".")
+    # Add major and minor number (move decimal to left twice) together
+    MacOSVersion = int(MacOSVersion[0]) + int(MacOSVersion[1]) / 100
+    print(MacOSVersion)
 
-if MacOSVersion < 14:
-    old_notifications = True
-else:
-    old_notifications = False
+    if MacOSVersion < 10.14: # Detect if the version number is higher than 10.14 (Mojave)
+        old_notifications = True
+    else:
+        old_notifications = False
+    return old_notifications
 
 
 DEFAULT_AUTH_OPTIIONS = UN.UNAuthorizationOptions(UN.UNAuthorizationOptionBadge and UN.UNAuthorizationOptionSound)
+
 
 class NotificationScheduler:
     center = UN.UNUserNotificationCenter.currentNotificationCenter()
@@ -63,13 +70,15 @@ class NotificationScheduler:
 
     def sendNotificationRequest(self, title, subtitle, body):
         """
-        Sends a user notification with User Notifications Framework
+        Sends a user notification with the User Notifications framework
 
-        Send me a notiii!
+        “Send me a notiii!”
 
-        :param title: Title of notification
-        :param subtitle: Subtitle of notification
-        :param body: Body text of the notification
+        \- leifadev
+
+        :param title: title of notification
+        :param subtitle: subtitle of notification
+        :param body: body text of the notification
         :return:
         """
         if not self._haveAuthorization(block=True):
@@ -115,25 +124,38 @@ class NotificationScheduler:
         request = UN.UNNotificationRequest.requestWithIdentifier_content_trigger_(identifier, content, None)
         self.center.addNotificationRequest_withCompletionHandler_(request, self._notificationRequestHandler)
 
-    # def sendNotificationRequestOld(self, title, subtitle, body):
-    #     noti = Cocoa.NSUserNotification.alloc().init()
-    #     noti.setTitle_(title)
-    #     noti.setSubtitle_(subtitle)
-    #     noti.setInformativeText_(body)
-    #
-    #     # Cocoa.NSUserNotificationCenter.defaultUserNotificationCenter().setDelegate_()
-    #
-    #     nc = Cocoa.NSUserNotificationCenter.defaultUserNotificationCenter()
-    #     nc.deliverNotification_(noti)
-    #
-    #     logging.info("Notification method has been called!")
+    def sendNotificationRequestOld(self, title, subtitle, body):
+        """
+        Sends a notfication with the NSUserNotifications framework for support for
+        older versions. 10.14 (Mojave) and under.
+
+        :param title: title of notification
+        :param subtitle: subtitle of notification
+        :param body: body text of the notification
+        :return:
+        """
+        noti = Cocoa.NSUserNotification.alloc().init()
+        noti.setTitle_(title)
+        noti.setSubtitle_(subtitle)
+        noti.setInformativeText_(body)
+
+        # Cocoa.NSUserNotificationCenter.defaultUserNotificationCenter().setDelegate_()
+
+        nc = Cocoa.NSUserNotificationCenter.defaultUserNotificationCenter()
+        nc.deliverNotification_(noti)
+
+        logging.info("Notification method has been called!")
+
 
 logging.basicConfig()
 logging.getLogger().setLevel(logging.INFO)
 
 if __name__ == "__main__":
     notificationScheduler = NotificationScheduler()
-    notificationScheduler.sendNotificationRequest("Shoutout!", f"Reminder", "You have a word of the day to check!")
+    if checkOldNotifications():
+        notificationScheduler.sendNotificationRequest("Shoutout!", f"Reminder", "You have a word of the day to check!")
+    else:
+        notificationScheduler.sendNotificationRequestOld("Shoutout!", f"Reminder", "You have a word of the day to check!")
 
     # Runs an event loop to keep the interpreter running to give Cocoa time to make a second thread for
     # the completion handler to run, thus so Python doesn't crash with an error. (zsh: illegal hardware instruction)
