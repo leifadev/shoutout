@@ -2,7 +2,12 @@
 import AppDelegate
 import WindowController
 import prefController
-import sutils.tasks, sutils.langutils, sutils.config
+from sutils import (
+    tasks,
+    langutils,
+    config,
+    sfiles
+    )
 
 if __name__ == "__main__":
     from PyObjCTools import AppHelper
