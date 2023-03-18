@@ -21,9 +21,20 @@ import ruamel, json
 import os, sys
 from typing import Union, Optional
 
-class shoutoutDocument(NSDocument):
 
-    # Is really a class method but I don't want self or cls cause it's objc
+class shoutoutdocument(NSDocument):
+    """
+    Shoutout!'s subclass of NSDocument that supports macOS system file
+    operations with its python code
+
+    Uses NSFileCoordinator methods an overrides NSDocument methods to
+    properly function and cooperate smoothly with macOS.
+
+    """
+
+    def __init__(self):
+        self.data = None
+
     @staticmethod
     def createPathPercentEscapes(string: str, isdirectory=False):
         """
@@ -36,21 +47,48 @@ class shoutoutDocument(NSDocument):
         Uses stringByAddingPercentEscapesUsingEncoding: type method
 
         :param string: A string of a path with or without spaces
-        :param isdirectory: True or False is your path a directory?
+        :param isdirectory: True or False is your path a directory, does it end with a /?
         :return: Returns NSURL path
         """
         from Foundation import NSUTF8StringEncoding
         from Cocoa import NSString
         path_string = NSString.stringWithString_(string)
-        url = NSURL.URLWithString_(
-            path_string.stringByAddingPercentEscapesUsingEncoding_(
-                NSUTF8StringEncoding))
-        return url
 
-    def data(self, data):
-        return data
+        # Use fileURLWithPath: if the given path is a directory
+        if isdirectory:
+            # Check if path is a valid directory path
+            if str(path_string).endswith("/"):
+                url_path = NSURL.fileURLWithPath_(
+                    path_string.stringByAddingPercentEscapesUsingEncoding_(
+                        NSUTF8StringEncoding)
+                )
+            else:
+                raise Exception("For a directory supply a string that ends with a forward slash"
+                                " for a correct parse") from shoutoutdocument
+        else:
+            url_path = NSURL.URLWithString_(
+                path_string.stringByAddingPercentEscapesUsingEncoding_(
+                    NSUTF8StringEncoding)
+            )
+        return url_path
+
+    def setData(self, data):
+        """
+        Sets the data class attribute for specified data
+
+        Set this to whatever class type you want, this
+        will be used by other functions
+
+        """
+        self.data = data
 
     def readFromData_ofType_error_(self, data, typeName: str, outError):
+        """
+        Overridden Apple NSDocument method in sutils/sfiles.py
+
+        Sets the contents of this document by reading from data of a specified type.
+
+        """
         readSuccess = False
         if not data and outError:
             # Throw NSFileReadUnknownError if nothing in data parameter (NSData)
@@ -59,52 +97,6 @@ class shoutoutDocument(NSDocument):
         if data:
             readSuccess = True
         return readSuccess
-
-    def readFromURL_ofType_error_(self, absoluteURL, typeName: str, outError):
-        """
-        Overridden Apple NSDocument method in sutils/sfiles.py
-
-        Reads the contents of the document to a file or file package located by a
-        URL.
-
-        Supports python module and parsing for file types JSON and YML.
-
-        :param absoluteURL: The location to which the document contents are written.
-        :param typeName: The string that identifies the document type.
-        :param outError: On return, if the document contents could not be written, a pointer
-        to an error object that encapsulates the reason they could not be written.
-        :return: Returns data read from file URL
-        """
-        absoluteURL = str(absoluteURL)
-
-        coordinator = NSFileCoordinator.alloc().initWithFilePresenter_(None)
-
-        # Python JSON library
-        if typeName == 'json':
-            NSLog(f"Type is of json, returning a python json object")
-            with open(absoluteURL, "r") as f:
-                data = json.load(f)
-                return data
-
-        # Using ruamel.yaml library here, could possibly use PyYAML but ruamel is better...
-        elif typeName == 'yml':
-            NSLog(f"Type is of yml, returning a ruamel yaml object")
-            with open(absoluteURL, "r+") as yml:
-                data = ruamel.yaml.load(yml, Loader=ruamel.yaml.SafeLoader, preserve_quotes=True)
-                return data
-        else:
-            # If the file type is anything else just read the data with
-            # no extra modules for certain file types.
-            NSLog(f"Type is not of json or yml, returning raw text type")
-            with open(absoluteURL, "r") as f:
-                data = f.read()
-                return data
-
-        # Note that the outError parameter is passed as a reference to an NSError object
-        # rather than as a raw NSError object. In PyObjC, NSError objects are passed as arrays,
-        # so you should access the object using the syntax outError[0].
-        # if outError:
-        #     outError, _ = NSError.errorWithDomain_code_userInfo_("NSCocoaErrorDomain", 4, None)
 
     def writeToURL_ofType_error_(self, absoluteURL, typeName: str, outError):
         """
@@ -123,20 +115,34 @@ class shoutoutDocument(NSDocument):
         """
         from Foundation import NSFileCoordinatorWritingForReplacing
 
-        global success
+        # Set success variable to true by default unless changed to false if error happens
         success = True
-        data = self.data()
 
+        # Get data specified by the data class attribute
+        # Warn if no data has been set
+        data = self.data
+        if not self.data:
+            NSLog("No has been data set! Please use shoutoutdocument.setData method to set the content to write.")
+
+        # Introduce and use NSFileCoordinator
         coordinator = NSFileCoordinator.alloc().initWithFilePresenter_(None)
 
         # Block that writes the data to the file
         def _writeAccessor(newURL):
+            # I'm so cool cus im using nonlocal lmao this is such an obscure statement
+            # that like not everyone knows about really at first, so they like have to
+            # google it, and then they know so yeah that's why it cool lol basically it makes
+            # the variable here accessible out of the scope of this function, so then I can reference
+            # its default value which is True so then later I can set it to false if there's
+            # an error so yeah lol in your face l0s3r
+            nonlocal success
             NSLog(f'Write accessor is running...')
 
             # Have a python string class version of NSURL objc object for open()
             pythonStringOfNSURL = str(newURL.path())
 
             try:
+                # Write the data using python open() builtin or yaml and json modules
                 with open(pythonStringOfNSURL, 'w+') as file:
                     if typeName == "json":
                         json.dump(data, file)
@@ -152,21 +158,77 @@ class shoutoutDocument(NSDocument):
 
             except Exception as writeError:
                 success = False
-                print(writeError)
+                NSLog(writeError)
 
-        # We finally write to the file with NSFileCoordinator simultaneously providing
-        # us with special aid and protection from other apps interfering and so on...
+        # Write data to the file using the block (accessor) above
         coordinator.coordinateWritingItemAtURL_options_error_byAccessor_(
             absoluteURL, NSFileCoordinatorWritingForReplacing, outError, _writeAccessor
         )
 
         return success
 
+    def readFromURL_ofType_error_(self, absoluteURL, typeName: str, outError):
+        """
+        Overridden Apple NSDocument method in sutils/sfiles.py
+
+        Reads the contents of the document to a file or file package located by a
+        URL.
+
+        Supports python module and parsing for file types JSON and YML.
+
+        :param absoluteURL: The location to which the document contents are written.
+        :param typeName: The string that identifies the document type.
+        :param outError: On return, if the document contents could not be written, a pointer
+        to an error object that encapsulates the reason they could not be written.
+        :return: Returns tuple with success boolean and the data read
+        """
+
+        # Set success variable to true by default unless changed to false if error happens
+        success = True
+        data = None
+
+        # Introduce and use NSFileCoordinator
+        coordinator = NSFileCoordinator.alloc().initWithFilePresenter_(None)
+
+        # Block that writes the data to the file
+        def _readerAccessor(newURL):
+            nonlocal success
+            nonlocal data
+            NSLog(f'Read accessor is running...')
+
+            # Have a python string class version of NSURL objc object for open()
+            pythonStringOfNSURL = str(newURL.path())
+
+            try:
+                # Write the data using python open() builtin or yaml and json modules
+                with open(pythonStringOfNSURL, 'r') as file:
+                    if typeName == "json":
+                        data = json.load(file)
+                        NSLog(f"Wrote to a JSON file with type 'json' specified")
+
+                    elif typeName == "yml":
+                        data = ruamel.yaml.load(yml, Loader=ruamel.yaml.SafeLoader, preserve_quotes=True)
+                        NSLog(f"Wrote to a YML file with type 'yml' specified")
+                    else:
+                        # Includes of course txt files
+                        data = file.read()
+                        NSLog(f"Wrote to a file raw as plain text no parser or module support")
+
+            except Exception as writeError:
+                success = False
+                NSLog(writeError)
+
+        # Write data to the file using the block (accessor) above
+        coordinator.coordinateReadingItemAtURL_options_error_byAccessor_(
+            absoluteURL, NSFileCoordinatorWritingForReplacing, outError, _readerAccessor
+        )
+
+        return success, data
+
+
 url = NSURL.fileURLWithPath_("/Users/leif/Desktop/lol.txt")
 l = sFiles.alloc().init()
 l.writeToURL_ofType_error_(url, "txt", None)
-
-
 
 """
 How to subclass NSDocument as a whole:
