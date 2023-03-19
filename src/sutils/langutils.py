@@ -20,7 +20,7 @@ class Manager:
     def request(self, lang: str, word: str, source: str, multiple=False, format: Optional[str] = ...):
         """
         Queries for provided word to Free Dictionary API to
-        fetch it's contents (definition, example, etc.).
+        fetch its contents (definition, example, etc.).
 
         :param lang: type of language, set as global locale codes such as en, ru, pl, jp, etc.
             :type lang: str
@@ -62,9 +62,10 @@ class Manager:
                 data = raw_data[lang][0]  # Possibly make this be random?
                 pprint(data)
             except KeyError:
-                return logging.warning(f"Could not find the definition for the word: '{word}' in the selected language!)"
-                                       '\n'
-                                       f"You may have spelled it wrong, or we could not find a definition for it!")
+                return logging.warning(
+                    f"Could not find the definition for the word: '{word}' in the selected language!)"
+                    '\n'
+                    f"You may have spelled it wrong, or we could not find a definition for it!")
 
             # Reformat the payload from source into shoutout's own format #
 
@@ -112,8 +113,8 @@ class Manager:
 
             return self.defStruct
 
-
-        else:  # Is sourcing from Free Dictionary API
+        else:
+            # Is sourcing from Free Dictionary API
             try:
                 self.output = {}
 
@@ -151,78 +152,10 @@ class Manager:
                     f"There was a error with finding objects! An API object wasn\'t available, error key: {l}")
 
     @classmethod
-    def write(cls, file, mode, your_data: json or dict, overwrite: bool):
+    def fetch(cls, lang, word,
+              directory=f'/Users/{getpass.getuser()}/Library/Application Support/shoutout/lang_storage'):
         """
-        Writes inputted data to any file. Please use 'json' or 'raw' for write modes.
-        Choose json for any dictionaries or possibly arrays.
-
-        :param file: Specify file to write too!
-        :param mode: Choose using the JSON module
-        :param your_data: "json" or "raw":
-        Raw mode means you write any type of data possible,
-            json means you are using json to dump a json object or python dict type
-
-        :param overwrite: Clear file before you write data
-        :return:
-        """
-        print("Use this functions file argument with a file extension!")
-        if overwrite:
-            f = open(file, "w+")
-            f.truncate(0)
-            f.close()
-        else:
-            pass
-
-        try:
-            with open(file, 'w+') as cacheFile:
-                if mode == "json":
-                    json.dump(cacheFile, your_data, ensure_ascii=False, indent=2)
-                elif mode == "raw":
-                    cacheFile.write(your_data)
-                else:
-                    logging.error("Supply the 'json' or 'raw' argument to the mode "
-                                  "parameter in the function: write, you just called")
-            logging.info("INFO: Written in the file successfully! :D")
-        except PermissionError as x:
-            logging.error(f"No permission to write file!\nError: {x}")
-
-    @classmethod
-    def read(cls, file):
-        """
-        Reads a files data, special formatting modules applied, just python.
-
-        :param directory: directory to read the file from
-        :param file: file selected to read
-        :return: returns read data
-        """
-        print("This function is top read files, use it correctly!")
-        try:
-            if file.endswith(".json"):
-                with open(file, "r") as f:
-                    data = json.load(f)
-                    logging.info("INFO: Read json file data successfully! To see its output below "
-                                 "for debugging, please enable debug mode in logging.")
-                    logging.debug(f"Read the file data below:\n{data}")
-                    return data
-            elif file.endswith(".yml"):
-                from tasks import backendTasks as tasks
-                tasks.getYAML(file=file)
-            else:
-                with open(file, 'r') as f:
-                    data = f.read()
-                    logging.info("INFO: Read file data successfully! To see its output below "
-                                 "for debugging, please enable debug mode in logging.")
-                    logging.debug(f"Read the file data below:\n{data}")
-                    return data
-        except PermissionError as e:
-            logging.error(f"Permission error! Error:\n{e}")
-        except FileNotFoundError as e:
-            logging.error(f"File not found error! Error:\n{e}")
-
-    @classmethod
-    def fetch(cls, lang, word, directory=f'/Users/{getpass.getuser()}/Library/Application Support/shoutout/lang_storage'):
-        """
-        Meant to automatically fetch data of a the json word file in
+        Meant to automatically fetch data of a json word file in
         from the project directory, or specify a custom path to one.
 
         :param lang: language file selected
@@ -351,7 +284,6 @@ class Manager:
         else:
             logging.error("Called collect function with invalid action argument!")
             return
-
 
 
 logging.basicConfig()
