@@ -83,7 +83,7 @@ class shoutoutdocument(NSDocument):
 
         """
         self.data = data
-        NSLog(f'Setting your data {type(data)} ')
+        NSLog(f'Setting your data {type(data)} in the class to be used')
 
     def readFromData_ofType_error_(self, data, typeName: str, outError):
         """
