@@ -1,0 +1,20 @@
+{
+  "беспокойный": {
+    "word": "беспокойный",
+    "partOfSpeech": "Adjective",
+    "language": "Russian",
+    "definitions": {
+      "definition": "uneasy, restive, anxious",
+      "parsedExamples": [
+        {
+          "example": "беспоко́йный взгляд",
+          "transliteration": "bespokójnyj vzgljad",
+          "translation": "troubled look, anxious look"
+        }
+      ],
+      "examples": [
+        "беспоко́йный взгляд"
+      ]
+    }
+  }
+}

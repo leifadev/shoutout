@@ -1,0 +1,44 @@
+{
+  "гнусный": {
+    "word": "гнусный",
+    "partOfSpeech": "Adjective",
+    "language": "Russian",
+    "definitions": {
+      "definition": "abominable, hideous, detestable, odious, vile",
+      "parsedExamples": [
+        {
+          "example": "гну́сная клевета́",
+          "transliteration": "gnúsnaja klevetá",
+          "translation": "abominable slander"
+        },
+        {
+          "example": "гну́сная ложь",
+          "transliteration": "gnúsnaja ložʹ",
+          "translation": "vicious/filthy/rotten lie"
+        },
+        {
+          "example": "гну́сная пого́да",
+          "transliteration": "gnúsnaja pogóda",
+          "translation": "foul/rotten weather"
+        },
+        {
+          "example": "гну́сная рабо́та",
+          "transliteration": "gnúsnaja rabóta",
+          "translation": "hateful job"
+        },
+        {
+          "example": "гну́сные шу́тки",
+          "transliteration": "gnúsnyje šútki",
+          "translation": "filthy jokes"
+        }
+      ],
+      "examples": [
+        "гну́сная клевета́",
+        "гну́сная ложь",
+        "гну́сная пого́да",
+        "гну́сная рабо́та",
+        "гну́сные шу́тки"
+      ]
+    }
+  }
+}

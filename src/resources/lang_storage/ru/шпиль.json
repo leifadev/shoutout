@@ -1,0 +1,20 @@
+{
+  "шпиль": {
+    "word": "шпиль",
+    "partOfSpeech": "Noun",
+    "language": "Russian",
+    "definitions": {
+      "definition": "spire, steeple, spike",
+      "parsedExamples": [
+        {
+          "example": "Мо́лния уда́рила в шпиль, располо́женный на кры́ше гла́вного ко́рпуса.",
+          "transliteration": "Mólnija udárila v špilʹ, raspolóžennyj na krýše glávnovo kórpusa.",
+          "translation": "Lightning hit the spire on top of the main building."
+        }
+      ],
+      "examples": [
+        "Мо́лния уда́рила в шпиль, располо́женный на кры́ше гла́вного ко́рпуса."
+      ]
+    }
+  }
+}

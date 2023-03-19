@@ -1,0 +1,26 @@
+{
+  "моргать": {
+    "word": "моргать",
+    "partOfSpeech": "Verb",
+    "language": "Russian",
+    "definitions": {
+      "definition": "to blink",
+      "parsedExamples": [
+        {
+          "example": "гла́зом не моргну́в",
+          "transliteration": "glázom ne morgnúv",
+          "translation": "without batting an eyelid; at a moment's notice"
+        },
+        {
+          "example": "не успе́л кто́-либо и гла́зом моргну́ть",
+          "transliteration": "ne uspél któ-libo i glázom morgnútʹ",
+          "translation": "before one could bat an eye/eyelid; before one knew it"
+        }
+      ],
+      "examples": [
+        "гла́зом не моргну́в",
+        "не успе́л кто́-либо и гла́зом моргну́ть"
+      ]
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "оправдательный": {
+    "word": "оправдательный",
+    "partOfSpeech": "Adjective",
+    "language": "Russian",
+    "definitions": {
+      "definition": "exculpatory, exonerative",
+      "parsedExamples": [
+        {
+          "example": "оправда́тельный пригово́р",
+          "transliteration": "opravdátelʹnyj prigovór",
+          "translation": "verdict of not guilty"
+        }
+      ],
+      "examples": [
+        "оправда́тельный пригово́р"
+      ]
+    }
+  }
+}

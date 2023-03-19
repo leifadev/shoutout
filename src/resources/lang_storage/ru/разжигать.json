@@ -1,0 +1,20 @@
+{
+  "разжигать": {
+    "word": "разжигать",
+    "partOfSpeech": "Verb",
+    "language": "Russian",
+    "definitions": {
+      "definition": "to light, to kindle",
+      "parsedExamples": [
+        {
+          "example": "разжига́ть дрова́ ого́нь",
+          "transliteration": "razžigátʹ drová ogónʹ",
+          "translation": "to kindle the firewood [fire]"
+        }
+      ],
+      "examples": [
+        "разжига́ть дрова́ ого́нь"
+      ]
+    }
+  }
+}

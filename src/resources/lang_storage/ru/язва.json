@@ -1,0 +1,38 @@
+{
+  "язва": {
+    "word": "язва",
+    "partOfSpeech": "Noun",
+    "language": "Russian",
+    "definitions": {
+      "definition": "ulcer, sore",
+      "parsedExamples": [
+        {
+          "example": "я́зва желу́дка",
+          "transliteration": "jázva želúdka",
+          "translation": "stomach/gastric ulcer"
+        },
+        {
+          "example": "я́зва двенадцатиперстной кишки́",
+          "transliteration": "jázva dvenadcatiperstnoj kiškí",
+          "translation": "duodenal ulcer"
+        },
+        {
+          "example": "моровая я́зва",
+          "transliteration": "morovaja jázva",
+          "translation": "plague"
+        },
+        {
+          "example": "сиби́рская я́зва",
+          "transliteration": "sibírskaja jázva",
+          "translation": "anthrax"
+        }
+      ],
+      "examples": [
+        "я́зва желу́дка",
+        "я́зва двенадцатиперстной кишки́",
+        "моровая я́зва",
+        "сиби́рская я́зва"
+      ]
+    }
+  }
+}

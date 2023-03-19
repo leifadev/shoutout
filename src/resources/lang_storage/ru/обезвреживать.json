@@ -1,0 +1,20 @@
+{
+  "обезвреживать": {
+    "word": "обезвреживать",
+    "partOfSpeech": "Verb",
+    "language": "Russian",
+    "definitions": {
+      "definition": "to render harmless",
+      "parsedExamples": [
+        {
+          "example": "обезвре́живать взрывно́е устро́йство",
+          "transliteration": "obezvréživatʹ vzryvnóje ustrójstvo",
+          "translation": "to defuse"
+        }
+      ],
+      "examples": [
+        "обезвре́живать взрывно́е устро́йство"
+      ]
+    }
+  }
+}

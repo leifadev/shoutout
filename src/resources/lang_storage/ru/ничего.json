@@ -1,0 +1,26 @@
+{
+  "ничего": {
+    "word": "ничего",
+    "partOfSpeech": "Pronoun",
+    "language": "Russian",
+    "definitions": {
+      "definition": "nothing (genitive of the indefinite pronoun ничто́ (ništó)...the nominative is rarely used, and the genitive is preferred).",
+      "parsedExamples": [
+        {
+          "example": "Что с ним? — Ничего́.",
+          "transliteration": "Što s nim? — Ničevó.",
+          "translation": "What’s the matter with him? — Nothing."
+        },
+        {
+          "example": "Ничего́ нет.",
+          "transliteration": "Ničevó net.",
+          "translation": "There is nothing."
+        }
+      ],
+      "examples": [
+        "Что с ним? — Ничего́.",
+        "Ничего́ нет."
+      ]
+    }
+  }
+}

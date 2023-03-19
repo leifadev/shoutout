@@ -1,0 +1,32 @@
+{
+  "словоблудие": {
+    "word": "словоблудие",
+    "partOfSpeech": "Noun",
+    "language": "Russian",
+    "definitions": {
+      "definition": "rambling, yammering, verbiage, verbal gymnastics; empty, vapid talk, idle chatter",
+      "parsedExamples": [
+        {
+          "example": "Прекрати́те ва́ше словоблу́дие.",
+          "transliteration": "Prekratíte váše slovoblúdije.",
+          "translation": "Cease your yammering."
+        },
+        {
+          "example": "По своему́ содержа́нию э́то письмо́ как таково́е представля́ет собо́й не что ино́е, как очередно́е словоблу́дие.",
+          "transliteration": "Po svojemú soderžániju éto pisʹmó kak takovóje predstavljájet sobój ne što inóje, kak očerednóje slovoblúdije.",
+          "translation": "The content of the letter as such represents none other than yet more mere verbiage."
+        },
+        {
+          "example": "Э́то звучи́т как эти́ческое словоблу́дие.",
+          "transliteration": "Éto zvučít kak etíčeskoje slovoblúdije.",
+          "translation": "That sounds like a lot of ethical gymnastics."
+        }
+      ],
+      "examples": [
+        "Прекрати́те ва́ше словоблу́дие.",
+        "По своему́ содержа́нию э́то письмо́ как таково́е представля́ет собо́й не что ино́е, как очередно́е словоблу́дие.",
+        "Э́то звучи́т как эти́ческое словоблу́дие."
+      ]
+    }
+  }
+}

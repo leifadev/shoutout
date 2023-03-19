@@ -1,0 +1,10 @@
+{
+  "привет": {
+    "word": "привет",
+    "partOfSpeech": "Interjection",
+    "language": "Russian",
+    "definitions": {
+      "definition": "hello"
+    }
+  }
+}

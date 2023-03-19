@@ -1,0 +1,20 @@
+{
+  "искусственный": {
+    "word": "искусственный",
+    "partOfSpeech": "Adjective",
+    "language": "Russian",
+    "definitions": {
+      "definition": "artificial, man-made",
+      "parsedExamples": [
+        {
+          "example": "Све́чи - иску́сственные исто́чники све́та.",
+          "transliteration": "Svéči - iskússtvennyje istóčniki svéta.",
+          "translation": "Candles are artificial light sources."
+        }
+      ],
+      "examples": [
+        "Све́чи - иску́сственные исто́чники све́та."
+      ]
+    }
+  }
+}

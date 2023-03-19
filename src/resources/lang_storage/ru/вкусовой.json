@@ -1,0 +1,20 @@
+{
+  "вкусовой": {
+    "word": "вкусовой",
+    "partOfSpeech": "Adjective",
+    "language": "Russian",
+    "definitions": {
+      "definition": "taste; gustatory",
+      "parsedExamples": [
+        {
+          "example": "вкусово́е ощуще́ние",
+          "transliteration": "vkusovóje oščuščénije",
+          "translation": "gustatory sense"
+        }
+      ],
+      "examples": [
+        "вкусово́е ощуще́ние"
+      ]
+    }
+  }
+}

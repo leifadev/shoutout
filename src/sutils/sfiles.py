@@ -33,6 +33,8 @@ class shoutoutdocument(NSDocument):
     """
 
     def __init__(self):
+        # Class attribute where data is stored (in memory)
+        # to be used in other methods to write with etc.
         self.data = None
 
     @staticmethod
@@ -81,6 +83,7 @@ class shoutoutdocument(NSDocument):
 
         """
         self.data = data
+        NSLog(f'Setting your data {type(data)} ')
 
     def readFromData_ofType_error_(self, data, typeName: str, outError):
         """

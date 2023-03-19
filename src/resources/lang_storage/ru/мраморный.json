@@ -1,0 +1,20 @@
+{
+  "мраморный": {
+    "word": "мраморный",
+    "partOfSpeech": "Adjective",
+    "language": "Russian",
+    "definitions": {
+      "definition": "marble (crystalline limestone)",
+      "parsedExamples": [
+        {
+          "example": "мра́морная ста́туя",
+          "transliteration": "mrámornaja státuja",
+          "translation": "marble statue"
+        }
+      ],
+      "examples": [
+        "мра́морная ста́туя"
+      ]
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "хуйня": {
+    "word": "хуйня",
+    "partOfSpeech": "Noun",
+    "language": "Russian",
+    "definitions": {
+      "definition": "shit, crap (A problem or difficult situation)",
+      "parsedExamples": [
+        {
+          "example": "вот ведь хуйня́",
+          "transliteration": "vot vedʹ xujnjá",
+          "translation": "that is bullshit"
+        },
+        {
+          "example": "таку́ю хуйню́ он не допу́стит",
+          "transliteration": "takúju xujnjú on ne dopústit",
+          "translation": "he will not allow such crap"
+        }
+      ],
+      "examples": [
+        "вот ведь хуйня́",
+        "таку́ю хуйню́ он не допу́стит"
+      ]
+    }
+  }
+}

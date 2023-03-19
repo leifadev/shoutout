@@ -1,0 +1,26 @@
+{
+  "Сбой": {
+    "word": "сбой",
+    "partOfSpeech": "Noun",
+    "language": "Russian",
+    "definitions": {
+      "definition": "failure, fault, error",
+      "parsedExamples": [
+        {
+          "example": "дава́ть сбой",
+          "transliteration": "davátʹ sboj",
+          "translation": "malfunction"
+        },
+        {
+          "example": "сбой систе́мы",
+          "transliteration": "sboj sistémy",
+          "translation": "system failure"
+        }
+      ],
+      "examples": [
+        "дава́ть сбой",
+        "сбой систе́мы"
+      ]
+    }
+  }
+}

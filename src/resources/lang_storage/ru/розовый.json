@@ -1,0 +1,18 @@
+{
+  "розовый": {
+    "word": "розовый",
+    "partOfSpeech": "Adjective",
+    "language": "Russian",
+    "definitions": {
+      "definition": "pink",
+      "parsedExamples": [
+        {
+          "example": "pink color:&nbsp;&nbsp;"
+        }
+      ],
+      "examples": [
+        "pink color:&nbsp;&nbsp;"
+      ]
+    }
+  }
+}

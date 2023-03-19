@@ -1,0 +1,26 @@
+{
+  "банановый": {
+    "word": "банановый",
+    "partOfSpeech": "Adjective",
+    "language": "Russian",
+    "definitions": {
+      "definition": "banana",
+      "parsedExamples": [
+        {
+          "example": "бана́новый хлеб",
+          "transliteration": "banánovyj xleb",
+          "translation": "banana bread"
+        },
+        {
+          "example": "В бана́ново-лимо́нном Сингапу́ре, в бу́ре",
+          "transliteration": "V banánovo-limónnom Singapúre, v búre",
+          "translation": "In Singapore, rich in bananas and lemons, in the storm (from Магнолия by Alexander Vertinsky)"
+        }
+      ],
+      "examples": [
+        "бана́новый хлеб",
+        "В бана́ново-лимо́нном Сингапу́ре, в бу́ре"
+      ]
+    }
+  }
+}

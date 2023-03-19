@@ -1,0 +1,20 @@
+{
+  "мнение": {
+    "word": "мнение",
+    "partOfSpeech": "Noun",
+    "language": "Russian",
+    "definitions": {
+      "definition": "opinion (person's)",
+      "parsedExamples": [
+        {
+          "example": "по моему́ мне́нию",
+          "transliteration": "po mojemú mnéniju",
+          "translation": "in my opinion"
+        }
+      ],
+      "examples": [
+        "по моему́ мне́нию"
+      ]
+    }
+  }
+}

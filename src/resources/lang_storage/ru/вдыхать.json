@@ -1,0 +1,20 @@
+{
+  "вдыхать": {
+    "word": "вдыхать",
+    "partOfSpeech": "Verb",
+    "language": "Russian",
+    "definitions": {
+      "definition": "to inhale, to breathe in",
+      "parsedExamples": [
+        {
+          "example": "вдыха́ть све́жий во́здух",
+          "transliteration": "vdyxátʹ svéžij vózdux",
+          "translation": "to inhale (breathe in) fresh air"
+        }
+      ],
+      "examples": [
+        "вдыха́ть све́жий во́здух"
+      ]
+    }
+  }
+}

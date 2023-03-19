@@ -1,0 +1,20 @@
+{
+  "точный": {
+    "word": "точный",
+    "partOfSpeech": "Adjective",
+    "language": "Russian",
+    "definitions": {
+      "definition": "exact, precise, accurate",
+      "parsedExamples": [
+        {
+          "example": "Э́то то́чный перево́д.",
+          "transliteration": "Éto tóčnyj perevód.",
+          "translation": "This is an exact translation."
+        }
+      ],
+      "examples": [
+        "Э́то то́чный перево́д."
+      ]
+    }
+  }
+}

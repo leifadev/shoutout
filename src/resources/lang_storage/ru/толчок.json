@@ -1,0 +1,20 @@
+{
+  "толчок": {
+    "word": "толчок",
+    "partOfSpeech": "Noun",
+    "language": "Russian",
+    "definitions": {
+      "definition": "push, impulse",
+      "parsedExamples": [
+        {
+          "example": "дава́ть/дать толчо́к чему́-либо",
+          "transliteration": "davátʹ/datʹ tolčók čemú-libo",
+          "translation": "to stimulate something off / to give impetus to something"
+        }
+      ],
+      "examples": [
+        "дава́ть/дать толчо́к чему́-либо"
+      ]
+    }
+  }
+}

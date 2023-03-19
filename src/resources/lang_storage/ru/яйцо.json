@@ -1,0 +1,20 @@
+{
+  "яйцо": {
+    "word": "яйцо",
+    "partOfSpeech": "Noun",
+    "language": "Russian",
+    "definitions": {
+      "definition": "egg",
+      "parsedExamples": [
+        {
+          "example": "я́йца ку́рицу не у́чат",
+          "transliteration": "jájca kúricu ne účat",
+          "translation": "don't teach your grandmother to suck eggs"
+        }
+      ],
+      "examples": [
+        "я́йца ку́рицу не у́чат"
+      ]
+    }
+  }
+}

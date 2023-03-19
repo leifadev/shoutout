@@ -1,0 +1,20 @@
+{
+  "кукушка": {
+    "word": "кукушка",
+    "partOfSpeech": "Noun",
+    "language": "Russian",
+    "definitions": {
+      "definition": "cuckoo",
+      "parsedExamples": [
+        {
+          "example": "куку́шка куку́ет: ку-ку́, ку-ку́!",
+          "transliteration": "kukúška kukújet: ku-kú, ku-kú!",
+          "translation": "A cuckoo cuckoos!"
+        }
+      ],
+      "examples": [
+        "куку́шка куку́ет: ку-ку́, ку-ку́!"
+      ]
+    }
+  }
+}

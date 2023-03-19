@@ -1,0 +1,20 @@
+{
+  "игра": {
+    "word": "игра",
+    "partOfSpeech": "Noun",
+    "language": "Russian",
+    "definitions": {
+      "definition": "game",
+      "parsedExamples": [
+        {
+          "example": "игра́ в мяч",
+          "transliteration": "igrá v mjač",
+          "translation": "ball game"
+        }
+      ],
+      "examples": [
+        "игра́ в мяч"
+      ]
+    }
+  }
+}

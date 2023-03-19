@@ -1,0 +1,20 @@
+{
+  "поздравлять": {
+    "word": "поздравлять",
+    "partOfSpeech": "Verb",
+    "language": "Russian",
+    "definitions": {
+      "definition": "to congratulate, to felicitate",
+      "parsedExamples": [
+        {
+          "example": "поздравля́ю с днём рожде́ния",
+          "transliteration": "pozdravljáju s dnjóm roždénija",
+          "translation": "happy birthday!"
+        }
+      ],
+      "examples": [
+        "поздравля́ю с днём рожде́ния"
+      ]
+    }
+  }
+}

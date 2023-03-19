@@ -1,0 +1,20 @@
+{
+  "штрудель": {
+    "word": "штрудель",
+    "partOfSpeech": "Noun",
+    "language": "Russian",
+    "definitions": {
+      "definition": "strudel",
+      "parsedExamples": [
+        {
+          "example": "Бар оте́ля - ую́тное ме́сто, где прия́тно почита́ть, попро́бовать ве́нский я́блочный штру́дель, и́ли типи́чный послеобе́денный ко́фе Kaisermelange, и́ли бока́л австри́йского вина ве́чером.",
+          "transliteration": "Bar otɛ́lja - ujútnoje mésto, gde prijátno počitátʹ, popróbovatʹ vénskij jábločnyj štrúdɛlʹ, íli tipíčnyj posleobédennyj kófe Kaisermelange, íli bokál avstríjskovo vina véčerom.",
+          "translation": "The hotel bar is a cosy spot for reading a book or enjoying a Viennese apple strudel, a typical afternoon Kaisermelange or a glass of Austrian wine in the evening."
+        }
+      ],
+      "examples": [
+        "Бар оте́ля - ую́тное ме́сто, где прия́тно почита́ть, попро́бовать ве́нский я́блочный штру́дель, и́ли типи́чный послеобе́денный ко́фе Kaisermelange, и́ли бока́л австри́йского вина ве́чером."
+      ]
+    }
+  }
+}

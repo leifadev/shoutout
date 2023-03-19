@@ -1,0 +1,20 @@
+{
+  "живой": {
+    "word": "живой",
+    "partOfSpeech": "Adjective",
+    "language": "Russian",
+    "definitions": {
+      "definition": "living, live, alive",
+      "parsedExamples": [
+        {
+          "example": "живо́й звук",
+          "transliteration": "živój zvuk",
+          "translation": "live sound (for television programs)"
+        }
+      ],
+      "examples": [
+        "живо́й звук"
+      ]
+    }
+  }
+}

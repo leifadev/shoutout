@@ -1,0 +1,20 @@
+{
+  "сыпь": {
+    "word": "сыпь",
+    "partOfSpeech": "Noun",
+    "language": "Russian",
+    "definitions": {
+      "definition": "rash, eruption",
+      "parsedExamples": [
+        {
+          "example": "он сего́дня покры́лся сы́пью",
+          "transliteration": "on sevódnja pokrýlsja sýpʹju",
+          "translation": "he came out in a rash today"
+        }
+      ],
+      "examples": [
+        "он сего́дня покры́лся сы́пью"
+      ]
+    }
+  }
+}

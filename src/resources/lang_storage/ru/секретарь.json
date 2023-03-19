@@ -1,0 +1,19 @@
+{
+  "секретарь": {
+    "word": "секретарь",
+    "partOfSpeech": "Noun",
+    "language": "Russian",
+    "definitions": {
+      "definition": "secretary",
+      "parsedExamples": [
+        {
+          "translation": "Ввиду́ невыполне́ния ва́ми настоя́тельного моего́ тре́бования указа́ть мне основа́ния для повыше́ния мне жа́лования с 1 ма́рта 1918 го́да с 500 до 800 рубле́й в ме́сяц и ввиду́ я́вной незако́нности э́того повыше́ния, произведённого ва́ми самочи́нно по соглаше́нию с секретарём Сове́та Н. П. Горбуно́вым в прямо́е наруше́ние декре́та Сове́та Наро́дных Комисса́ров от 23 ноября́ 1917 го́да, объявля́ю вам стро́гий вы́говор.Vvidú nevypolnénija vámi nastojátelʹnovo mojevó trébovanija ukazátʹ mne osnovánija dlja povyšénija mne žálovanija s 1 márta 1918 góda s 500 do 800 rubléj v mésjac i vvidú jávnoj nezakónnosti étovo povyšénija, proizvedjónnovo vámi samočínno po soglašéniju s sekretarjóm Sovéta N. P. Gorbunóvym v prjamóje narušénije dekréta Sovéta Naródnyx Komissárov ot 23 nojabrjá 1917 góda, obʺjavljáju vam strógij výgovor.In view of your failure to comply with my urgent demand to indicate to me the grounds for raising my salary from 500 to 800 rubles a month from March 1, 1918, and in view of the obvious illegality of this increase, made by you spontaneously by agreement with the secretary of the Council Nikolai Gorbunov in direct violation of the decree of the Council of People's Commissars of November 23, 1917, I declare you a strict reprimand.",
+          "example": "1918,  Vladimir Ulyanov-Lenin,  To the manager of affairs of the Council of People's Commissars Vladimir Bonch-Bruevich:"
+        }
+      ],
+      "examples": [
+        "1918,  Vladimir Ulyanov-Lenin,  To the manager of affairs of the Council of People's Commissars Vladimir Bonch-Bruevich:"
+      ]
+    }
+  }
+}

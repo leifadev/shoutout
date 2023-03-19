@@ -1,0 +1,32 @@
+{
+  "проявлять": {
+    "word": "проявлять",
+    "partOfSpeech": "Verb",
+    "language": "Russian",
+    "definitions": {
+      "definition": "to show, to display, to evince, to manifest, to reveal",
+      "parsedExamples": [
+        {
+          "example": "проявля́ть забо́ту",
+          "transliteration": "projavljátʹ zabótu",
+          "translation": "to show concern, to take trouble"
+        },
+        {
+          "example": "проявля́ть интере́с",
+          "transliteration": "projavljátʹ interés",
+          "translation": "to show interest"
+        },
+        {
+          "example": "проявля́ть себя́",
+          "transliteration": "projavljátʹ sebjá",
+          "translation": "to show one's worth, to prove"
+        }
+      ],
+      "examples": [
+        "проявля́ть забо́ту",
+        "проявля́ть интере́с",
+        "проявля́ть себя́"
+      ]
+    }
+  }
+}

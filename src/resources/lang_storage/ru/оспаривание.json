@@ -1,0 +1,26 @@
+{
+  "оспаривание": {
+    "word": "оспаривание",
+    "partOfSpeech": "Noun",
+    "language": "Russian",
+    "definitions": {
+      "definition": "attack, challenge, contestation, impugnment, appeal (against), litigation",
+      "parsedExamples": [
+        {
+          "example": "отка́з от оспа́ривания",
+          "transliteration": "otkáz ot ospárivanija",
+          "translation": "abandonment of contest"
+        },
+        {
+          "example": "оспа́ривание страхово́й сто́имости иму́щества",
+          "transliteration": "ospárivanije straxovój stóimosti imúščestva",
+          "translation": "contestation of the insured value of property"
+        }
+      ],
+      "examples": [
+        "отка́з от оспа́ривания",
+        "оспа́ривание страхово́й сто́имости иму́щества"
+      ]
+    }
+  }
+}

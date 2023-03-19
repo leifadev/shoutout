@@ -1,0 +1,26 @@
+{
+  "сыновний": {
+    "word": "сыновний",
+    "partOfSpeech": "Adjective",
+    "language": "Russian",
+    "definitions": {
+      "definition": "son; filial, son's",
+      "parsedExamples": [
+        {
+          "example": "сыно́внее благоче́стие",
+          "transliteration": "synóvneje blagočéstije",
+          "translation": "filial piety"
+        },
+        {
+          "example": "сыно́вний долг",
+          "transliteration": "synóvnij dolg",
+          "translation": "filial duty"
+        }
+      ],
+      "examples": [
+        "сыно́внее благоче́стие",
+        "сыно́вний долг"
+      ]
+    }
+  }
+}

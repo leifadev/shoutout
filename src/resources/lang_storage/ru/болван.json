@@ -1,0 +1,20 @@
+{
+  "болван": {
+    "word": "болван",
+    "partOfSpeech": "Noun",
+    "language": "Russian",
+    "definitions": {
+      "definition": "blockhead, dimwit (stupid person)",
+      "parsedExamples": [
+        {
+          "example": "Э́тот болва́н так и не по́нял что́ от него́ тре́бовалось.",
+          "transliteration": "Étot bolván tak i ne pónjal štó ot nevó trébovalosʹ.",
+          "translation": "This idiot couldn't understand what was required from him."
+        }
+      ],
+      "examples": [
+        "Э́тот болва́н так и не по́нял что́ от него́ тре́бовалось."
+      ]
+    }
+  }
+}

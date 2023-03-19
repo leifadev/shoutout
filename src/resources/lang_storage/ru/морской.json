@@ -1,0 +1,20 @@
+{
+  "морской": {
+    "word": "морской",
+    "partOfSpeech": "Adjective",
+    "language": "Russian",
+    "definitions": {
+      "definition": "sea",
+      "parsedExamples": [
+        {
+          "example": "морско́й волк",
+          "transliteration": "morskój volk",
+          "translation": "sea dog, old salt"
+        }
+      ],
+      "examples": [
+        "морско́й волк"
+      ]
+    }
+  }
+}

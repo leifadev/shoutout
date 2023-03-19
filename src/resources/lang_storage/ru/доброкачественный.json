@@ -1,0 +1,20 @@
+{
+  "доброкачественный": {
+    "word": "доброкачественный",
+    "partOfSpeech": "Adjective",
+    "language": "Russian",
+    "definitions": {
+      "definition": "benign",
+      "parsedExamples": [
+        {
+          "example": "доброка́чественная о́пухоль",
+          "transliteration": "dobrokáčestvennaja ópuxolʹ",
+          "translation": "benign tumor"
+        }
+      ],
+      "examples": [
+        "доброка́чественная о́пухоль"
+      ]
+    }
+  }
+}

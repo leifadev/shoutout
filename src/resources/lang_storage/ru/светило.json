@@ -1,0 +1,26 @@
+{
+  "светило": {
+    "word": "светило",
+    "partOfSpeech": "Noun",
+    "language": "Russian",
+    "definitions": {
+      "definition": "heavenly body, celestial body, lamp",
+      "parsedExamples": [
+        {
+          "example": "дневно́е свети́ло",
+          "transliteration": "dnevnóje svetílo",
+          "translation": "the star of day"
+        },
+        {
+          "example": "ночны́е свети́ла",
+          "transliteration": "nočnýje svetíla",
+          "translation": "the moon and the stars; the lamps of night"
+        }
+      ],
+      "examples": [
+        "дневно́е свети́ло",
+        "ночны́е свети́ла"
+      ]
+    }
+  }
+}

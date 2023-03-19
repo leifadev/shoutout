@@ -1,0 +1,20 @@
+{
+  "осаждать": {
+    "word": "осаждать",
+    "partOfSpeech": "Verb",
+    "language": "Russian",
+    "definitions": {
+      "definition": "to lay siege (to), to besiege, to beset, to beleaguer",
+      "parsedExamples": [
+        {
+          "example": "осажда́ть кре́пость",
+          "transliteration": "osaždátʹ krépostʹ",
+          "translation": "to lay siege to a fortress; besiege a fortress"
+        }
+      ],
+      "examples": [
+        "осажда́ть кре́пость"
+      ]
+    }
+  }
+}

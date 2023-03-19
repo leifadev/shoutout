@@ -1,0 +1,20 @@
+{
+  "голосистый": {
+    "word": "голосистый",
+    "partOfSpeech": "Adjective",
+    "language": "Russian",
+    "definitions": {
+      "definition": "loud-voiced, vociferous",
+      "parsedExamples": [
+        {
+          "example": "голоси́стый солове́й",
+          "transliteration": "golosístyj solovéj",
+          "translation": "full-throated/rich-voiced nightingale"
+        }
+      ],
+      "examples": [
+        "голоси́стый солове́й"
+      ]
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "любовный": {
+    "word": "любовный",
+    "partOfSpeech": "Adjective",
+    "language": "Russian",
+    "definitions": {
+      "definition": "love",
+      "parsedExamples": [
+        {
+          "example": "любо́вная исто́рия",
+          "transliteration": "ljubóvnaja istórija",
+          "translation": "love story"
+        },
+        {
+          "example": "любо́вное письмо́",
+          "transliteration": "ljubóvnoje pisʹmó",
+          "translation": "love letter"
+        }
+      ],
+      "examples": [
+        "любо́вная исто́рия",
+        "любо́вное письмо́"
+      ]
+    }
+  }
+}
