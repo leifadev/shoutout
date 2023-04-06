@@ -134,6 +134,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# My own
 images/.DS_Store
 .DS_Store
 /project_resources/wordlist_data
+/src/thanks.md

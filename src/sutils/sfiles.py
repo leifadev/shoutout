@@ -5,7 +5,7 @@ Why do we need this?
 Take advantage of Apple's NSFileCoordinator class which takes care of protecting files, aliases, and
 cross-program interference for us!
 """
-
+import objc
 # Objective-C
 from Cocoa import NSURL, NSLog
 from AppKit import (
@@ -15,6 +15,7 @@ from AppKit import (
     NSFileCoordinator,
 )
 from Foundation import NSError
+from objc import python_method, super
 
 # Python
 import ruamel, json
@@ -32,10 +33,13 @@ class shoutoutdocument(NSDocument):
 
     """
 
-    def __init__(self):
-        # Class attribute where data is stored (in memory)
-        # to be used in other methods to write with etc.
+    def init(self):
+        self = super().init()
+        if self is None:
+            return None
         self.data = None
+
+        return self
 
     @staticmethod
     def createPathPercentEscapes(string: str, isdirectory=False):
@@ -74,6 +78,7 @@ class shoutoutdocument(NSDocument):
             )
         return url_path
 
+    @python_method
     def setData(self, data):
         """
         Sets the data class attribute for specified data
@@ -161,7 +166,7 @@ class shoutoutdocument(NSDocument):
 
             except Exception as writeError:
                 success = False
-                NSLog(writeError)
+                NSLog(str(writeError))
 
         # Write data to the file using the block (accessor) above
         coordinator.coordinateWritingItemAtURL_options_error_byAccessor_(
@@ -230,7 +235,7 @@ class shoutoutdocument(NSDocument):
 
 
 url = NSURL.fileURLWithPath_("/Users/leif/Desktop/lol.txt")
-l = sFiles.alloc().init()
+l = shoutoutdocument.alloc().init()
 l.writeToURL_ofType_error_(url, "txt", None)
 
 """

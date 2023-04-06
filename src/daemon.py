@@ -16,6 +16,7 @@ Tasks:
 import lockfile, wget
 import logging, os, sys, time, getpass, json
 
+
 class Daemon:
     logging.info("Starting up daemon class...")
 

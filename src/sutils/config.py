@@ -36,4 +36,4 @@ language_codes = {
 }
 
 # Reverses dictionary language_codes keys and values
-codes_of_languages = dict([(value, key) for key, value in language_codes.items()])
+codes_to_languages = dict([(value, key) for key, value in language_codes.items()])

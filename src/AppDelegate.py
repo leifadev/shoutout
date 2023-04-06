@@ -9,7 +9,9 @@ from AppKit import *
 
 # Shoutout modules
 from WindowController import mainWindow
-from sutils.tasks import backendTasks as tasks
+# from sutils.tasks import backendTasks as tasks
+
+
 # from utils.langutils import Manager as langutils
 
 # Python modules
@@ -37,6 +39,7 @@ class AppDelegate(Cocoa.NSObject):
 
     def applicationDidFinishLaunching_(self, aNotification):
         self.loadUIElements()
+        print("Finishing launching!")
 
     def loadUIElements(self):
         """
@@ -44,12 +47,10 @@ class AppDelegate(Cocoa.NSObject):
 
         :return:
         """
-        yml_contents = tasks.getYAML()
-
-
+        # yml_contents = tasks.getYAML()
 
 
 if __name__ == "__main__":
     # Set this class as the delegate class!
-    delegate = AppDelegate.alloc().init().retain()
+    delegate = AppDelegate.alloc().init()
     NSApplication.sharedApplication().setDelegate_(delegate)
