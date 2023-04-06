@@ -15,7 +15,7 @@ DATA_FILES = ['shoutout_main.xib', 'sutils/config.py', 'AppDelegate.py',
               'resources/images/']
 
 OPTIONS = {'iconfile': 'resources/images/shoutout_logo.icns',
-           # 'arch': "arm64",
+           'arch': "arm64",
            'plist': {
                'PyRuntimeLocations': [
                    '/Library/Frameworks/Python.framework/Versions/3.9/bin/python3',
@@ -41,6 +41,11 @@ if __name__ == "__main__":
         options={'py2app': OPTIONS},
         setup_requires=['py2app']
     )
+
+"""
+Common or important plist keys to use
+https://py2app.readthedocs.io/_/downloads/en/stable/pdf/#section.1.7
+"""
 
 """
 
