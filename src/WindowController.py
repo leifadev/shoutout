@@ -4,21 +4,23 @@ Window Controller for the main window
 """
 
 # Objective-C
-import copy
-import itertools
-import logging
-import os
-import shutil
-
-import Cocoa, objc, Foundation
+import Cocoa
+import objc
+import Foundation
 
 # Shoutout modules
 from sutils.langutils import Manager as langutils
+from sutils.sfiles import shoutoutdocument
 from sutils.tasks import backendTasks as tasks
 
 from sutils.config import configDir
 
 # Python Modules
+import copy
+import itertools
+import logging
+import os
+import shutil
 
 # Inherit from preferences subclass of NSWindowController
 from prefController import prefWindow
@@ -55,41 +57,43 @@ class mainWindow(prefWindow):
 
         return payload
 
-    def loadDefinition(self, word=None, language=None):
+    @objc.python_method
+    def loadDefinitionUI(self, word: str, phonetic: str, definition: str, partOfSpeech: str):
         """
-        Indexes word database and loads word into the UI
+        Loads the definition of the provided word and allows
+        custom indexing of all the payloads other keys such as
+        phonetic or part of speech
 
-        :param word: Word
-        :param language:
+        :param word: definition word
+        :param phonetic: phonetics of the word
+        :param definition: the definition of the word
+        :param partOfSpeech: the words part of speech
         :return:
         """
-        from sutils.config import language_codes
-        import random
-        lang = language_codes[language]
-        path = configDir + f"lang_storage/"
 
-        # Get random index of a word from the languages database
-        index = random.randrange(1, len(os.listdir(path + lang)))
-        file = os.listdir(path + lang)[index]
-        word = os.path.splitext(file)[0]
+        # Fetch the image flag of selected language
+        lang = tasks.getYAML()
+        for image in os.listdir("resources/images"):
+            if lang['selectedlang'] in image:
+                print(image)
+                self.flagImage.setImage_(image)
 
-        payload = langutils.read(configDir + f"lang_storage/{lang}/{file}.json")
-
+        # Import attributed text class methods, along with NSFont and NSColor of course
         from Foundation import NSMakeRange, NSMutableParagraphStyle, NSMutableAttributedString
         from AppKit import NSFont, NSColor
 
         # Create an attributed string with some custom attributes
         attributedWord = NSMutableAttributedString.alloc().initWithString_(
-            f"{payload['word']}\n")
+            f"{word}\n")
         attributedPhonetics = NSMutableAttributedString.alloc().initWithString_(
-            f"{payload['phonetic']}\n")
+            f"{phonetic}\n")
         attributedDefinition = NSMutableAttributedString.alloc().initWithString_(
-            f"{payload['definitions']['definition']}\n")
+            f"{definition}\n")
         attributedPartOfSpeech = NSMutableAttributedString.alloc().initWithString_(
-            f"{payload['partOfSpeech']}")
+            f"{partOfSpeech}")
 
         # Enumeration cases for the bold or italic font masks
-        # Appkit > NSFontManager
+        # AppKit > NSFontManager
         NSBoldFontMask = 0x00000002
         NSItalicFontMask = 0x00000001
 
@@ -101,7 +105,7 @@ class mainWindow(prefWindow):
             "NSParagraphStyle": paragraphStyle0,  # Change text alignment
             "NSFont": NSFont.systemFontOfSize_(12)  # Change the font if ya want :D
         }
-        attributesBigFont = { # Big font
+        attributesBigFont = {  # Big font
             "NSParagraphStyle": paragraphStyle0,
             "NSFont": NSFont.systemFontOfSize_(16)
         }
@@ -134,89 +138,46 @@ class mainWindow(prefWindow):
         link = Cocoa.NSURL.alloc().initWithString_(url)
         Cocoa.NSWorkspace.alloc().openURL_(link)
 
-    @objc.IBAction
-    def test_(self, sender):
-        html = b"""
-            <body>
-            <p align="center"><b>Word</b> - English</p>
-            <p align="center"><i>Phonetics</i> - Noun</p>
-            <p align="center"><i>A love this word!</i></p>
-            <p align="center">Definition - An abstraction</p>
-            </body>
+    @objc.python_method
+    def getDefinitionData(self, language: str, word: str):
         """
+        Fetches the definition data of a given word and its source langauge
 
-        # word = "definition"
-        # phonetic = "/défInizion/"
-        # definition = "A word that describes another word and yeah basically for that yeah yeah yeah"
-        # partofspeech = "noun"
-        # from Foundation import NSMakeRange, NSMutableParagraphStyle, NSMutableAttributedString
-        # from AppKit import NSFont, NSColor
-        #
-        # # Create an attributed string with some custom attributes
-        # attributedWord = NSMutableAttributedString.alloc().initWithString_(
-        #     f"{word}\n")
-        # attributedPhonetics = NSMutableAttributedString.alloc().initWithString_(
-        #     f"{phonetic}\n")
-        # attributedDefinition = NSMutableAttributedString.alloc().initWithString_(
-        #     f"{definition}\n")
-        # attributedPartOfSpeech = NSMutableAttributedString.alloc().initWithString_(
-        #     f"{partofspeech}")
-        #
-        # # Enumeration cases for the bold or italic font masks
-        # # Appkit > NSFontManager
-        # NSBoldFontMask = 0x00000002
-        # NSItalicFontMask = 0x00000001
-        #
-        # paragraphStyle0 = NSMutableParagraphStyle.alloc().init()
-        # paragraphStyle0.setAlignment_(2)  # 2 is center
-        #
-        # # NSDictionary of attributes that centers text it's applied too (that's all this is important for now)
-        # attributesUniversal = {
-        #     "NSParagraphStyle": paragraphStyle0,  # Change text alignment
-        #     "NSFont": NSFont.systemFontOfSize_(12)  # Change the font if ya want :D
-        # }
-        # attributesBigFont = { # Big font
-        #     "NSParagraphStyle": paragraphStyle0,
-        #     "NSFont": NSFont.systemFontOfSize_(16)
-        # }
-        #
-        # # Bold and size the first line of text (The word)
-        # attributedWord.applyFontTraits_range_(NSBoldFontMask, NSMakeRange(0, len(word)))
-        #
-        # # Italicize the next line (phonetics)
-        # attributedPhonetics.applyFontTraits_range_(NSItalicFontMask, NSMakeRange(0, len(phonetic)))
-        #
-        # # Add all lines together
-        # attributedWord.appendAttributedString_(attributedPhonetics)
-        # attributedWord.appendAttributedString_(attributedDefinition)
-        # attributedWord.appendAttributedString_(attributedPartOfSpeech)
-        #
-        # # Apply universal attributes like centering and font choice
-        # attributedWord.setAttributes_range_(attributesUniversal, NSMakeRange(0, len(attributedWord)))
-        # # Make word font bigger to 16
-        # # NOTE: The addAttribute:value:range: method would not work to separately change the word
-        # # to size 16 up above
-        # attributedWord.setAttributes_range_(attributesBigFont, NSMakeRange(0, len(word)))
-        #
-        # # Set attributed string to the text field in main app window for definition
-        # self.definitionField.setAttributedStringValue_(attributedWord)
+        For the language parameter you can supply either the alpha-2 country code
+        or the full name of the langauge (e.g. "chinese", "zh")
 
-    @objc.IBAction
-    def changeDefinition_(self, sender):
-        # current_def = self.definitionField.stringValue()m
-        lang = tasks.getYAML()
-        for image in os.listdir("resources/images"):
-            if lang['selectedlang'] in image:
-                print(image)
-                self.flagImage.setImage_(image)
+        :param language: code of source langauge of the given word
+        :param word: word you want definition data from
+        """
+        from sutils.config import codes_to_languages, language_codes
+        import random
+        path = configDir + f"lang_storage/"
 
-        definition = self.loadDefinition(language=lang['selectedlang'])
-        self.definitionField.setAttributedStringValue_(definition)
-        # print("Set string, and the text field is now locked...")
+        # Isn't country code? Convert it if so
+        if not len(language) == 2:
+            logging.info("Your langauge you specified is a country code not a name, converting it!")
+            lang = language_codes[language]
+            path = configDir + f"lang_storage/"
+        else:
+            lang = language
+
+        # Get a random (index of a) word from the selected languages database
+        index = random.randrange(1, len(os.listdir(path + lang)))
+        file = os.listdir(path + lang)[index]
+        # file_name_word = os.path.splitext(file)[0] # Gets word of name by the file name not JSON payload
+
+        payload = langutils.read(configDir + f"lang_storage/{lang}/{word}.json")
+
+        # Load NSAttributedText definition with given language
+        self.loadDefinitionUI(word=payload['word'],
+                              phonetic=payload['phonetic'],
+                              definition=payload['definition'],
+                              partOfSpeech=payload['partOfSpeech']
+                              )
 
     @objc.IBAction
     def chooseFile_(self, sender):
-        # We are setting up an NSOpenPanel to select only a directory and then
+        # We are setting up an NSOpenPanel to select only a directory, and then
         # we will use that directory to choose where to place our index file and
         # which files we'll read in to make searchable.
         op = Cocoa.NSOpenPanel.openPanel()
@@ -232,7 +193,7 @@ class mainWindow(prefWindow):
     @staticmethod
     def uploadLanguage(path: str):
         # Custom language db to upload, make folder for it automatically
-        # Scan through it's contents and only accept it being all JSON files, otherwise reject
+        # Scan through its contents and only accept it being all JSON files, otherwise reject
 
         # Get directory
         filename = path.split("/")[::-1]
