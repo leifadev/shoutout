@@ -1,5 +1,5 @@
 """
-Setup.py is the file that is ran to build the app and that holds
+Setup.py is the file that is run to build the app and that holds
 the universal variables for the whole project as well
 
 Usage:
@@ -15,10 +15,14 @@ DATA_FILES = ['shoutout_main.xib', 'sutils/config.py', 'AppDelegate.py',
               'resources/images/']
 
 OPTIONS = {'iconfile': 'resources/images/shoutout_logo.icns',
+           'arch': "arm64",
            'plist': {
                'PyRuntimeLocations': [
-                   '/Library/Frameworks/Python.framework/Versions/3.9/bin/python3'
+                   '/Library/Frameworks/Python.framework/Versions/3.9/bin/python3',
+                   '/Library/Frameworks/Python.framework/Versions/3.8/bin/python3',
                ],
+               'NSRequiresAquaSystemAppearance': False,
+               # 'LSPrefersPPC': True,  # Force application to run translated with Rosseta by default
                'CBBundleDisplayName': 'Shoutout!',
                'CFBundleName': 'Shoutout!',
                'CFBundleVersion': 'alpha~0.0.1',
@@ -27,7 +31,7 @@ OPTIONS = {'iconfile': 'resources/images/shoutout_logo.icns',
                'CFBundleSpokenName': 'Shoutout exclamation mark',
                'NSHumanReadableCopyright': 'GNU General Public License v2.0'
                                            '\nCopyright © 1989, 1991 Free Software Foundation, Inc.'
-                }
+           }
            }
 
 if __name__ == "__main__":
@@ -37,6 +41,11 @@ if __name__ == "__main__":
         options={'py2app': OPTIONS},
         setup_requires=['py2app']
     )
+
+"""
+Common or important plist keys to use
+https://py2app.readthedocs.io/_/downloads/en/stable/pdf/#section.1.7
+"""
 
 """
 

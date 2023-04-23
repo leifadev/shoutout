@@ -254,7 +254,7 @@ class htmlx:
 
     def fetchWord(self, date: datetime):
         """
-        Fetch word of the day on merriam webster dictionary website's word of the day
+        Fetch word of the day on Merriam-Webster dictionary website's word of the day
 
         :param date: Date of word of the day to fetch, accepts datetime.date.today object
         :return: Word of the day for specified day on merriam-webster dictionary website
@@ -297,7 +297,7 @@ class htmlx:
         """
         Translate a word (or phrase) into another language!
 
-        Uses google translate API services B)
+        Uses Google Translate API services B)
 
         :param word_input: Word to be translated
         :param source_lang: Language translating from
@@ -425,7 +425,7 @@ class htmlx:
 
     def filterWords(self, wordlist: str, mode: str):
         """
-        Filters certain word files to be remove etc. in a generated word list from
+        Filters certain word files to be removed etc. in a generated word list from
         translateGenerator or other functions in db_maker.py
 
         Some translated words (usually from the english.txt wordlist)
@@ -474,7 +474,7 @@ if __name__ == "__main__":
     rad = dbFunctions()
 
     # Running fetchWord fetches a list of words from merriam-websters word-of-the-day page
-    # Then runs dateGenerator to loop through all days of the specified ranges of calender dates with fetchWord
+    # Then runs dateGenerator to loop through all days of the specified ranges of calendar dates with fetchWord
     # for i in cool.dateGenerate((2007, 9, 1), (2022, 8, 17), "en"):
     #     cool.fetchWord(i)
 
@@ -482,9 +482,9 @@ if __name__ == "__main__":
     # cool.writeFile("hindi.txt", "hi")
 
     # Download the definitions of words from a list of them (works in any language of course)
-    # lang = "hi"  # Variable to use in the function for brevity
-    # with open(f'/Users/leif/PycharmProjects/shoutout/project_resources/wordlist_data/hindi.txt', 'r') as file:
-    #     rad.downloader(lang, file, overwrite=False)
+    lang = "es"  # Variable to use in the function for brevity
+    with open(f'/Users/leif/PycharmProjects/shoutout/project_resources/wordlist_data/hindi.txt', 'r') as file:
+        rad.downloader(lang, file, overwrite=False)
 
     # See statistics of your database
     rad.databaseStats("/Users/leif/Library/Application Support/shoutout/" + 'lang_storage/')

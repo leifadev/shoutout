@@ -14,7 +14,6 @@ import subprocess
 import tarfile
 
 import multidict
-import proto.message
 import ruamel.yaml
 from pprint import pprint
 
@@ -81,10 +80,24 @@ class backendTasks:
     @classmethod
     def handleConfigFolder(cls):
         """
-        Create the config folder and it's sub folders, update any new or deleted files
+        Create the config folder, and it's sub folders, update any new or deleted files
         """
-        if not os.path.isfile(configDir):
-            subprocess.run("")
+        logging.info("Handling repairing or restoring a new configuration folder in Application Support/shoutout")
+        if not os.path.exists(configDir):
+            os.mkdir(configDir)
+
+        global count
+        url = "https://api.github.com/repos/leifadev/shoutout/contents/src/resources/"
+        database_contents = requests.get(url, headers={"Content-Type": "application/vnd.github+json"})
+        os.chdir(configDir)
+
+        # Download all the available items in the lang_storage folder
+        database_contents = json.loads(database_contents.text)
+        for i in database_contents:
+            if i['name'].endswith('.tar.gz'):
+                download.download(
+                    f"https://raw.githubusercontent.com/leifadev/shoutout/main/src/resources/{i['name']}",
+                    configDir + "lang_storage/" + i['name'], replace=True)
 
     @classmethod
     def getYAML(cls, file=ymlDir):
@@ -125,7 +138,7 @@ class backendTasks:
     @classmethod
     def handleDaemonConfig(cls):
         """
-        Downloads and and updates the launch agent plist for Shoutout
+        Downloads and updates the launch agent plist for Shoutout
 
         :return:
         """
@@ -141,7 +154,8 @@ class backendTasks:
     @classmethod
     def handleScheduleConfig(cls, directory=configDir):
         """
-        Downloads and updates the notification schedule config json file for Shoutout
+        Downloads or updates the notification schedule config json file for Shoutout
+        to its newest version
 
         :param directory: Specify a custom directory for a Shoutout! scheduleconfig.json other than
         it's default one to the Shoutout config folder
@@ -260,31 +274,33 @@ class backendTasks:
 
         """
         # Check if config file is present or is very low size
-        new_data = {} # Dictionary for all added changed data
-        workaround = {}
+        new_data = {}  # Dictionary for all added changed data
+
         if not os.path.isfile(ymlDir) or os.path.getsize(ymlDir) <= 20:
             logging.info("Creating the settings.yml")
 
             # Go to config folder
-            os.chdir(configDir)
+            try:
+                os.chdir(configDir)
+            except FileNotFoundError as e:
+                # Regenerate folder if it's gone
+                cls.handleConfigFolder()
             cls.regenConfig("config")
 
         else:  # If config is present check if is outdated/broken
-
-
             logging.info("Opening current config.YML")
             config = cls.getYAML()
 
             # Change to config directory
             os.chdir(configDir)
 
-            # Fetch new config form github servers (newest resources/config.yml commit)
+            # Fetch new config form GitHub servers (the newest resources/config.yml commit)
             logging.debug("Requesting online copy of config.yml from github repo")
             newestConfig = requests.get(resourcesURL + "config.yml").text
             # print(newestConfig)
 
-            # Convert get request to yaml via safe-load
-            logging.debug("Converting github text payload to yaml dict (safeload)...")
+            # Convert the new config into a yaml object that's safe-loaded to work with
+            logging.debug("Converting github text payload to yaml dict (safe load)...")
             newestConfig = ruamel.yaml.safe_load(newestConfig)
 
             # Add any entirely new categories that aren't present
@@ -299,25 +315,28 @@ class backendTasks:
 
             # Loop through the new config options, if key already from it
             for category in config:
-                print(category)
+                # print(category)
                 new_data.update({category: {}})
-                print(config[category].keys())
+                # print(config[category].keys())
+
                 # Find the keys from the old and new config that are still in both there
-                preserve_keys = config[category].keys() & newestConfig[category].keys()  # & symbol only keeps matching keys
+                preserve_keys = config[category].keys() & newestConfig[category].keys()  # & symbol only keeps
+                # matching keys
                 # Find the keys that have gone away or are being added to the new config from old one
                 changing_keys = config[category].keys() ^ newestConfig[category].keys()
-                # Within the keys that are new or going away, find the ones that apart of the old config,
+
+                # Within the keys that are new or going away, find the ones that apart from the old config,
                 # that is, the ones that are going away...
                 removed_keys = dict.fromkeys(changing_keys, 0).keys() & dict.fromkeys(config[category].keys(),
                                                                                       0).keys()
                 # Find the changing ones that are being added...
                 added_keys = dict.fromkeys(changing_keys, 0).keys() & dict.fromkeys(newestConfig[category].keys(),
                                                                                     0).keys()
-                # Get values for preserved keys and new keys from github request config
+                # Get values for preserved keys and new keys from GitHub request config
                 for x, y in newestConfig[category].items():
                     if x in added_keys:
                         # print(x, category)
-                        new_data[category].update({x: y}.fromkeys())
+                        new_data[category].update({x: y})
                         # print(f"Adding: {category}: {x}: {y}")
 
                 for i, e in config[category].items():
@@ -329,8 +348,6 @@ class backendTasks:
                         # print(f"Preserving: {category}: {i}: {e}")
 
                 # print(f'P: {preserve_keys}', f'C: {changing_keys}', f'R: {removed_keys}', f'A: {added_keys}')
-
-            pprint(new_data)
 
             old_langs = config['Other']['custom_languages']
             new_langs = newestConfig['Other']['custom_languages']
@@ -427,16 +444,16 @@ class backendTasks:
 
     @classmethod
     def downloadLangDb(cls):
-        # Get all language folders/zips available in github repository database
-        # database_contents = subprocess.call(
-        #     'curl -H "Accept: application/vnd.github+json" https://api.github.com/repos/leifadev/shoutout/contents/src/resources/lang_storage', shell=True
-        # )
+        # Get all language folders/zips available in GitHub repository database database_contents = subprocess.call(
+        # 'curl -H "Accept: application/vnd.github+json"
+        # https://api.github.com/repos/leifadev/shoutout/contents/src/resources/lang_storage', shell=True )
 
         global count
         url = "https://api.github.com/repos/leifadev/shoutout/contents/src/resources/lang_storage"
         database_contents = requests.get(url, headers={"Content-Type": "application/vnd.github+json"})
         os.chdir(configDir)
 
+        # Download all the available items in the lang_storage folder
         database_contents = json.loads(database_contents.text)
         for i in database_contents:
             if i['name'].endswith('.tar.gz'):
@@ -445,6 +462,7 @@ class backendTasks:
                     configDir + "lang_storage/" + i['name'], replace=True)
 
         for file in os.listdir(configDir + 'lang_storage/'):
+
             if file.endswith("tar.gz") or file.endswith('.tar') or file.endswith('.gz') or file.endswith('.zip'):
                 count = 0
                 count += 1
@@ -463,7 +481,8 @@ class backendTasks:
         if not os.path.isdir(folder):
             import download
             download.download(
-                "https://download-directory.github.io/?url=https://github.com/leifadev/shoutout/tree/main/src/resources/lang_storage/custom_languages/Example",
+                "https://download-directory.github.io/?url=https://github.com/leifadev/shoutout/tree/main/src"
+                "/resources/lang_storage/custom_languages/Example",
                 configDir + "lang_storage/" + "Example/")
             logging.debug("Making custom_languages folder")
         elif current_customs is None:

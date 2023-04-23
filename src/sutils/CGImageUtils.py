@@ -1,4 +1,6 @@
-# Credit to Ronald Oussoren, creator of PyObj-C, for these image utilities!
+"""
+Credit to Ronald Oussoren, creator of PyObj-C, for these image utilities!
+"""
 
 import math
 
@@ -8,8 +10,8 @@ import LaunchServices
 import objc
 import Quartz
 
-
 class ImageInfo:
+
     __slots__ = (
         "fRotation",
         "fScaleX",
@@ -21,17 +23,17 @@ class ImageInfo:
         "fOrientation",
     )
 
-    def __init__(self):
-        self.fRotation = 0.0  # The rotation about the center of the image (degrees)
-        self.fScaleX = 0.0  # The scaling of the image along it's X-axis
-        self.fScaleY = 0.0  # The scaling of the image along it's Y-axis
-        self.fTranslateX = 0.0  # Move the image along the X-axis
-        self.fTranslateY = 0.0  # Move the image along the Y-axis
-        self.fImageRef = None  # The image itself
-        self.fProperties = None  # Image properties
-        self.fOrientation = (
-            None  # Affine transform that ensures the image displays correctly
-        )
+    # def __init__(self):
+    #     self.fRotation = 0.0  # The rotation about the center of the image (degrees)
+    #     self.fScaleX = 0.0  # The scaling of the image along it's X-axis
+    #     self.fScaleY = 0.0  # The scaling of the image along it's Y-axis
+    #     self.fTranslateX = 0.0  # Move the image along the X-axis
+    #     self.fTranslateY = 0.0  # Move the image along the Y-axis
+    #     self.fImageRef = None  # The image itself
+    #     self.fProperties = None  # Image properties
+    #     self.fOrientation = (
+    #         None  # Affine transform that ensures the image displays correctly
+    #     )
 
 
 # Create a new image from a file at the given url
@@ -160,7 +162,8 @@ def IISaveImage(image, url, width, height):
         # We begin by creating a CGBitmapContext to host our destination image.
 
         # Allocate enough space to hold our pixels
-        imageData = objc.allocateBuffer(int(4 * width * height))
+        imageData = bytearray(int(4 * width * height))
+        # imageData = objc.allocateBuffer(int(4 * width * height))
 
         # Create the bitmap context
         bitmapContext = Quartz.CGBitmapContextCreate(
@@ -233,7 +236,7 @@ def IISaveImage(image, url, width, height):
 def IIApplyTransformation(image, context, bounds):
     if image is not None:
         # Whenever you do multiple CTM changes, you have to be very careful with
-        # order.  Changing the order of your CTM changes changes the outcome of
+        # order.  Changing the order of your CTM changes the outcome of
         # the drawing operation. For example, if you scale a context by 2.0 along
         # the x-axis, and then translate the context by 10.0 along the x-axis,
         # then you will see your drawing will be in a different position than if
